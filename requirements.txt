@@ -7,6 +7,7 @@ certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.1.0
+click==7.1.2
 colorlover==0.3.0
 cryptography==2.9.2
 cufflinks==0.17.3
@@ -15,6 +16,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
+Flask==1.1.2
 gunicorn==20.0.4
 idna==2.9
 importlib-metadata
@@ -23,6 +25,7 @@ ipykernel==5.3.0
 ipython
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
+itsdangerous==1.1.0
 jedi
 Jinja2==2.11.2
 joblib==0.16.0
@@ -89,5 +92,6 @@ traitlets==4.3.3
 urllib3==1.25.8
 wcwidth
 webencodings==0.5.1
+Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 zipp==3.1.0
