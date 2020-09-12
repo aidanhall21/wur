@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% block title %}WorldUltimateRatings.com | Contact{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="shadow p-3 my-5 bg-white rounded">
+        <div class="row m-3">
+            <div class="col"><h2>How can I contact you?</h2></div>
+            <div class="w-100"></div>
+            <div class="col"><p>If you have questions or comments about anything on this site I would absolutely love hearing from you. 
+                You can email me at <a href="mailto:aidan@worldultimateratings.com" class="text-decoration-none">aidan@worldultimateratings.com</a> or DM me on <a href='https://twitter.com/ultimateratings' class="text-decoration-none">Twitter</a>.</p></div>
+        </div>
+    
+        <div class="row m-3">
+            <div class="col"><h2>I found an error in your data.</h2></div>
+            <div class="w-100"></div>
+            <div class="col"><p>Great! While I take immense care to make sure all the data used on this site is robust and accurate, I can't always guarantee it. 
+                If you notice an error, please contact me at one of the links above.</p></div> 
+        </div>
+    
+        <div class="row m-3">
+            <div class="col"><h2>Who are you?</h2></div>
+            <div class="w-100"></div>
+            <div class="col"><p>My name is Aidan, and I'm around 25 years old depending on when you read this.
+                I was introduced to 'frisbee' at Middleton High School in Middleton, Wisconsin.
+                I played college ultimate for the Black Tide at UC Santa Barbara, 
+                and since then I've enjoyed a few years of club competition in Southern California with the Sundowners and Condors as well as with the San Diego Growlers of the AUDL (ratings coming soon!).
+                Please do not hold any of this against me.</p></div> 
+        </div>
+    
+        <div class="row m-3">
+            <div class="col"><h2>What are these ratings?</h2></div>
+            <div class="w-100"></div>
+            <div class="col"><p>You can check out an explanation <a href="{{ url_for('blog') }}">here</a>.</p></div>
+        </div>
+    
+        <div class="row m-3">
+            <div class="col"><h3>Hey, I think this site is really cool, you've added value to my life and I'd like to return some of that value back to you.</h3></div>
+            <div class="w-100"></div>
+            <div class="col"><p>I'd be delighted if you were willing and able to donate to keep this site up and running. Just visit this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UQKWY4DB6HCYQ&item_name=WorldUltimateRatings.com&currency_code=USD&source=url">link</a>.</p></div>   
+        </div>
+        <div class="row m-3">
+            <div class="col"><h2>Do you hate my team?</h2></div>
+            <div class="w-100"></div>
+            <div class="col"><p>Yes, I probably do (you can hold that against me), but thankfully the ratings have no feelings at all and are thus impartial.</p></div> 
+        </div>
+    </div>
+</div>
+{% endblock %}

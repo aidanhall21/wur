@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+{% block title %}WorldUltimateRatings.com | {{ info[0].team }} Team Page{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="row justify-content-sm-center mt-4 mx-2">
+        <h1><small class="text-muted">{{ team_rating[0].rank }}</small> {{ info[0].team }} <small class="text-muted">{{ team_rating[0].wins }}-{{ team_rating[0].losses }}</small></h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2">
+        {% if info[0].city and info[0].state %}
+            <h5>{{ info[0].city }}, {{ info[0].state }}</h5> 
+        {% endif %}
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2">
+        {% if info[0].section and info[0].region %}
+            <div>
+                <h6><a href="{{ url_for('sectionStandings', section=info[0].section, division=division, gend=info[0].gender, year=year) }}">{{ info[0].section }} Section</a> - <a href="{{ url_for('regionStandings', region=info[0].region, division=division, gend=info[0].gender, year=year) }}">{{ info[0].region }} Region</a></h5>
+            </div>
+        {% endif %}
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2 mb-4">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                {% for season in seasons %}
+                    {% if season == year %}
+                        <li class="breadcrumb-item" aria-current="page">
+                            {{ year }}
+                        </li>
+                    {% else %}
+                        <li class="breadcrumb-item">
+                            <a href="{{ url_for('teamPagePriorSeasons', division=division, team=info[0].team, year=season) }}" class="text-decoration-none">{{ season }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="container-fluid table-responsive">
+    <div class="row justify-content-center mb-4">
+        {% for event in events %}
+            <div class="col-auto overflow-auto m-2">
+                <table class="table table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col" class="text-center" colspan="3"><a href="{{ url_for('eventPage', event=event, year=year, gend=info[0].gender) }}" class="text-light text-decoration-none">{{ event }}</a></th>
+                        </tr>
+                        <tr>
+                            <th scope="col" class="text-center">Date</th>
+                            <th scope="col" class="text-center">Opponent</th>
+                            <th scope="col" class="text-center">Score</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for game in games %}
+                            {% if game.event == event %}
+                                <tr class="{{ 'table-success' if game.winner == info[0].team else 'table-danger' }}">
+                                    <td class="text-center">{{ game.game_date.strftime('%a %b %d') }}</td>
+                                    {% if game.team_1 != info[0].team %}
+                                        <td class="text-center"><small class="text-muted">{{ ratings_dict[game.team_1] }}</small> <a href="{{ url_for('teamPagePriorSeasons', division=division, team=game.team_1, year=year) }}" class="text-decoration-none">{{ game.team_1 }}</a></td>
+                                    {% else %}
+                                        <td class="text-center"><small class="text-muted">{{ ratings_dict[game.team_2] }}</small> <a href="{{ url_for('teamPagePriorSeasons', division=division, team=game.team_2, year=year) }}" class="text-decoration-none">{{ game.team_2 }}</a></td>
+                                    {% endif %}
+                                    {% if game.team_1_score > game.team_2_score %}
+                                        <td class="font-weight-bold text-center">{{ game.team_1_score }}-{{ game.team_2_score }}</td>
+                                    {% else %}
+                                        <td class="font-weight-bold text-center">{{ game.team_2_score }}-{{ game.team_1_score }}</td>
+                                    {% endif %}
+                                </tr>
+                            {% endif %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

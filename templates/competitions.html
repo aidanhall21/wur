@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% block title %}WorldUltimateRatings.com | {{ competition }} {{ gend }} {{ year }} Results{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="row justify-content-sm-center mt-4 mx-2">
+        <h1>{{ competition }}</h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2">
+        {% if gend == 'Men' %}
+            <h6>{{ gend }} | <a href="{{ url_for('competitionStandings', competition=competition, gend='Women', year=year) }}">Women</a></h6>
+        {% else %}
+            <h6><a href="{{ url_for('competitionStandings', competition=competition, gend='Men', year=year) }}">Men</a> | {{ gend }}</h6>
+        {% endif %}
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2 mb-4">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                {% for seas in seasons %}
+                    {% if seas == year %}
+                        <li class="breadcrumb-item" aria-current="page">
+                            {{ seas }}
+                        </li>
+                    {% else %}
+                        <li class="breadcrumb-item">
+                            <a href="{{ url_for('competitionStandings', competition=competition, gend=gend, year=seas) }}">{{ seas }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+        </nav>
+    </div>
+</div>
+<div class="container table-responsive">
+    <div class="row justify-content-center mb-4">
+        <div class="col-auto overflow-auto">
+            <table class="table table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" class="text-center">Rank</th>
+                        <th scope="col" class="text-center">Rating</th>
+                        <th scope="col" class="text-center">Team</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for key, value in dict.items() %}
+                        <tr>
+                            <td class="text-center">{{ value['rank'] }}</td>
+                            <td class="text-center">{{ value['rating'] }}</td>
+                            <td class="text-center"><a href="{{ url_for('collegeTeamPagePriorSeasons', division=division, team=key, year=year, gend=gend) }}" class="text-decoration-none">{{ key }}</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

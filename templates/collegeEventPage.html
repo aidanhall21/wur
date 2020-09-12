@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+{% block title %}WorldUltimateRatings.com | {{ event }} Results{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="row justify-content-sm-center mt-4 mx-2">
+        <h1>{{ event }}</h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row justify-content-sm-center mx-2">
+        <h4>{{ year }}</h4>
+    </div>
+</div>  
+<div class="container">
+    <div class="row justify-content-sm-center mx-2 mb-4">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                {% for gender in genders %}
+                    {% if gender == gend %}
+                        <li class="breadcrumb-item" aria-current="page">
+                            {{ gender }}
+                        </li>
+                    {% else %}
+                        <li class="breadcrumb-item">
+                            <a href="{{ url_for('collegeEventPage', event=event, gend=gender, year=year) }}" class="text-decoration-none">{{ gender }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+        </nav>
+    </div>
+</div>
+<div class="container table-responsive">
+    <div class="row justify-content-center mb-4">
+        <div class="col-auto overflow-auto">
+            <table class="table table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" class="text-center">Date</th>
+                        <th scope="col" class="text-center">Winner</th>
+                        <th scope="col" class="text-center">Score</th>
+                        <th scope="col" class="text-center">Loser</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for game in games %}
+                        <tr>
+                            <td class="text-center">{{ game.game_date.strftime('%a %b %d') }}</td>
+                            <td class="text-center"><small class="text-muted">{{ ratings_dict[game.winner] }}</small> <a href="{{ url_for('collegeTeamPagePriorSeasons', division=division, team=game.winner, gend=gend, year=year) }}" class="text-decoration-none">{{ game.winner }}</a></td>
+                            <td class="text-center">{{ game.win_score }}-{{ game.lose_score }}</td>
+                            <td class="text-center"><small class="text-muted">{{ ratings_dict[game.loser] }}</small> <a href="{{ url_for('collegeTeamPagePriorSeasons', division=division, team=game.loser, year=year, gend=gend) }}" class="text-decoration-none">{{ game.loser }}</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

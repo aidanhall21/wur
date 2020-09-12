@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block title %}The Ultimate Ratings Blog{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="shadow-sm p-3 my-5 bg-white rounded">
+        <h1>A Long Time Coming</h1>
+        <br>
+        <p>Hello there! I'm humbled to have you not only visiting this site, but taking the time to read this post. This project has been brewing in the back of my mind
+            for a while, and since I've been at home with little else to do I figured it was the perfect time to bring it to life. I plan on writing in this space every now and then, 
+            highlighting anything intriguing that happens during the ultimate season or any interesting trends I come across while maintaining the ratings on this site.
+            For now though, I just want this post to serve as a quick site intro and an outline of my motivations in creating it.
+            First off, before I forget, this site owes it existence to the incalculably valuable work of Ken Pomeroy. Many of the features on this site
+            were directly inspired by his college basketball analytics site <a href="https://www.kenpom.com">kenpom.com</a> and the algorithm I'm using to rank teams was inspired
+            by his international curling rankings over at <a href="https://doubletakeout.com/">doubletakeout.com</a>. I've read most of what Pomeroy has written on basketball and I can only hope to have
+            a fraction of his influence on the sports analytics community one day.</p>
+        <br>
+        <p>Now that that's out of the way, there are two main reasons why I wanted to create what would eventually become WorldUltimateRatings.com. First, I've always been mildly obsessed with ranking methods and algorithms, especially when applied 
+            to sports. Most sports aren't hurting for rating systems, a Google search for "College Football Ratings" will turn up hundreds of results. Just pick the one that has your team ranked the highest.
+            In a sport like Ultimate, though, at least in the United States, there's really only one system that I'm aware of which is the current <a href="https://play.usaultimate.org/teams/events/rankings/">USAUltimate ratings algorithm</a>. 
+            It works pretty well for its prescribed purpose: Allocating bids to the National Championship tournament among it's "Conferences" or Regions. It's not very useful though if, say, I wanted to know who' likely to win a random college tournament 
+            in February, or how surprising Mischief's appearance in last year's Club Mixed National Championship final was. In a follow up post I'll detail how this site's rating system works, it's predictive prowess, and why it's necessary.</p>
+        <br>
+        <p>The second reason this site exists is my frustration in navigating through the comically bad UI for the currnt <a href="https://www.usaultimate.org/">USAUltimate website</a>, which feels like it was designed by a blind Manatee pre Y2K.
+            If I wanted to find a score or a bracket from a tournament I played in in 2015, I would have to navigate through a multiple tab, dozen click house of horrors. That's just for recent history though, they don't even maintain individual game records prior to 2014.
+            As far as I know the USAU website is the only curator of past game results, which is a shame. If you played in a USAU sanctioned event prior to 2014 it's likely lost to history, unless there's a dusty filing cabinet in some intern's basement somewhere.
+            I won't even get into the data entry inconsistencies that litter their pages.
+        </p>
+        <br>
+        <p>Anyway, I hope you enjoy whatever time you spend on this site and find it a valuable resource. You can browse ratings for any team that played in a USAU Sanctioned event in the College or Club divisions since 2014.
+            You'll also be able to explore team history pages and tournament summaries. If you have any questions or find any errors in the data, please don't hesitate to contact me!
+        </p>
+        <br>
+        <p>-- ABH</p>
+    </div>
+</div>
+{% endblock %}
