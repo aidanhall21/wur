@@ -1,6 +1,5 @@
 from os import environ
 from flask import Flask, render_template, request
-from flask_wtf import FlaskForm
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import desc, or_, and_
 from datetime import datetime
