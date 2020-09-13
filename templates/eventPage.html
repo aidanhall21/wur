@@ -45,7 +45,7 @@
                 <tbody>
                     {% for game in games %}
                         <tr>
-                            <td class="text-center">{{ game.game_date.strftime('%a %b %d') }}</td>
+                            <td class="text-center">{{ datetime.strptime(game.game_date, '%Y-%m-%d').strftime('%b %d') }}</td>
                             <td class="text-center"><small class="text-muted">{{ ratings_dict[game.winner] }}</small> <a href="{{ url_for('teamPagePriorSeasons', division=division, team=game.winner, year=year) }}" class="text-decoration-none">{{ game.winner }}</a></td>
                             <td class="text-center">{{ game.win_score }}-{{ game.lose_score }}</td>
                             <td class="text-center"><small class="text-muted">{{ ratings_dict[game.loser] }}</small> <a href="{{ url_for('teamPagePriorSeasons', division=division, team=game.loser, year=year) }}" class="text-decoration-none">{{ game.loser }}</a></td>
