@@ -62,7 +62,7 @@
                         {% for game in games %}
                             {% if game.event == event %}
                                 <tr class="{{ 'table-success' if game.winner == info[0].team else 'table-danger' }}">
-                                    <td class="text-center">{{ datetime.strptime(game.game_date, '%Y-%m-%d').strftime('%b %d') }}</td>
+                                    <td class="text-center">{{ game.game_date | formatdatetime }}</td>
                                     {% if game.team_1 != info[0].team %}
                                         <td class="text-center"><small class="text-muted">{{ ratings_dict[game.team_1] }}</small> <a href="{{ url_for('collegeTeamPagePriorSeasons', division=division, team=game.team_1, year=year, gend=gend) }}" class="text-decoration-none">{{ game.team_1 }}</a></td>
                                     {% else %}

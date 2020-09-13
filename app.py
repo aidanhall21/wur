@@ -94,6 +94,13 @@ class Blogs(db.Model):
     def __repr__(self):
         return 'Blog post {}'.format(self.id)
 
+@app.template_filter('formatdatetime')
+def format_datetime(value, format="%b %d"):
+    #datetime.strptime(value, '%Y-%m-%d').strftime(format)
+    if value is None:
+        return ""
+    return datetime.strptime(value, '%Y-%m-%d').strftime(format)
+
 @app.route('/')
 def index():
     return render_template('index.html')
