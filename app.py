@@ -99,7 +99,7 @@ def format_datetime(value, format="%b %d"):
     #datetime.strptime(value, '%Y-%m-%d').strftime(format)
     if value is None:
         return ""
-    return datetime.strptime(value, '%Y-%m-%d').strftime(format)
+    return value.strftime(format)
 
 @app.route('/')
 def index():
@@ -412,7 +412,7 @@ def sectionStandings(section, division, gend, year):
     else:
         teams = []
     team_list = [t.team for t in teams]
-    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year Ratings.division==division.title()) for t in team_list]
+    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year, Ratings.division==division.title()) for t in team_list]
     team_ranks_list = []
     team_ratings_list = []
     teams_to_remove = []
