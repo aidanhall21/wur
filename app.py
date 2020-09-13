@@ -99,7 +99,7 @@ def format_datetime(value, format="%b %d"):
     #datetime.strptime(value, '%Y-%m-%d').strftime(format)
     if value is None:
         return ""
-    return value.strftime(format)
+    return datetime.strptime(value, '%Y-%m-%d').strftime(format)
 
 @app.route('/')
 def index():
