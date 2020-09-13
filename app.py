@@ -115,7 +115,7 @@ def contact():
 
 @app.route('/club-men')
 def clubMen():
-    ratings = Ratings.query.filter_by(division='Club', gender='Men', season=2019)
+    ratings = Ratings.query.filter_by(division='Club', gender='Men', season=2019).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -123,7 +123,7 @@ def clubMen():
 
 @app.route('/club-men/<int:year>')
 def clubMenRatings(year):
-    ratings = Ratings.query.filter_by(division='Club', gender='Men', season=year)
+    ratings = Ratings.query.filter_by(division='Club', gender='Men', season=year).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -143,7 +143,7 @@ def clubMenRatingsSorted(year, category):
 
 @app.route('/club-mixed')
 def clubMixed():
-    ratings = Ratings.query.filter_by(division='Club', gender='Mixed', season=2019)
+    ratings = Ratings.query.filter_by(division='Club', gender='Mixed', season=2019).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -151,7 +151,7 @@ def clubMixed():
 
 @app.route('/club-mixed/<int:year>')
 def clubMixedRatings(year):
-    ratings = Ratings.query.filter_by(division='Club', gender='Mixed', season=year)
+    ratings = Ratings.query.filter_by(division='Club', gender='Mixed', season=year).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -171,7 +171,7 @@ def clubMixedRatingsSorted(year, category):
 
 @app.route('/club-women')
 def clubWomen():
-    ratings = Ratings.query.filter_by(division='Club', gender='Women', season=2019)
+    ratings = Ratings.query.filter_by(division='Club', gender='Women', season=2019).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -179,7 +179,7 @@ def clubWomen():
 
 @app.route('/club-women/<int:year>')
 def clubWomenRatings(year):
-    ratings = Ratings.query.filter_by(division='Club', gender='Women', season=year)
+    ratings = Ratings.query.filter_by(division='Club', gender='Women', season=year).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='Club').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -199,7 +199,7 @@ def clubWomenRatingsSorted(year, category):
 
 @app.route('/college-men')
 def collegeMen():
-    ratings = Ratings.query.filter_by(division='College', gender='Men', season=2020)
+    ratings = Ratings.query.filter_by(division='College', gender='Men', season=2020).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='College').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -207,7 +207,7 @@ def collegeMen():
 
 @app.route('/college-men/<int:year>')
 def collegeMenRatings(year):
-    ratings = Ratings.query.filter_by(division='College', gender='Men', season=year)
+    ratings = Ratings.query.filter_by(division='College', gender='Men', season=year).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='College').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -227,7 +227,7 @@ def collegeMenRatingsSorted(year, category):
 
 @app.route('/college-women')
 def collegeWomen():
-    ratings = Ratings.query.filter_by(division='College', gender='Women', season=2020)
+    ratings = Ratings.query.filter_by(division='College', gender='Women', season=2020).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='College').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -235,7 +235,7 @@ def collegeWomen():
 
 @app.route('/college-women/<int:year>')
 def collegeWomenRatings(year):
-    ratings = Ratings.query.filter_by(division='College', gender='Women', season=year)
+    ratings = Ratings.query.filter_by(division='College', gender='Women', season=year).order_by('rank')
     seasons = [r.season for r in Ratings.query.filter_by(division='College').values(Ratings.season)]
     seasons = list(set(seasons))
     seasons = sorted(seasons)
@@ -380,7 +380,7 @@ def regionStandings(region, division, gend, year):
     else:
         teams = []
     team_list = [t.team for t in teams]
-    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year) for t in team_list]
+    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year, Ratings.division==division.title()) for t in team_list]
     team_ranks_list = []
     team_ratings_list = []
     teams_to_remove = []
@@ -412,7 +412,7 @@ def sectionStandings(section, division, gend, year):
     else:
         teams = []
     team_list = [t.team for t in teams]
-    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year) for t in team_list]
+    team_ranks = [Ratings.query.filter(Ratings.gender==gend, Ratings.team==t, Ratings.season==year Ratings.division==division.title()) for t in team_list]
     team_ranks_list = []
     team_ratings_list = []
     teams_to_remove = []
