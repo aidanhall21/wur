@@ -4,28 +4,28 @@
 <div class="jumbotron">
     <h1 class="display-4">Welcome!</h1>
     <p class="lead">New here? Have a look at the site intro. Otherwise, check out some of the features linked below and feel free to explore!</p>
-    <a class="btn btn-primary btn-lg" href="/blog" role="button">Site Intro</a>
+    <a class="btn btn-primary btn-lg" href="{{ url_for('introBlog') }}" role="button">Site Intro</a>
 </div>
 <div class="card-deck mx-2">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Season Performance At A Glance</h5>
         <p class="card-text">What did the road to the Championship look like for Seattle Sockeye?</p>
-        <a href="/club/Sockeye/2019" class="card-link">Let's Find Out!</a>
+        <a href="/club/Sockeye/2019" class="card-link text-decoration-none">Let's Find Out!</a>
       </div>
     </div>
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Strength of Schedule Rankings</h5>
         <p class="card-text">Who grinded their way through the toughest opponents in the Club Mixed division last year?</p>
-        <a href="/club-mixed/2019/sos_rank" class="card-link">Show Me!</a>
+        <a href="/club-mixed/2019/sos_rank" class="card-link text-decoration-none">Show Me!</a>
       </div>
     </div>
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Section, Region, and Competition Level Standings</h5>
         <p class="card-text">Which college has the best B team?</p>
-        <a href="/competition/Developmental/Women/2020" class="card-link">Take Me There!</a>
+        <a href="/competition/Developmental/Women/2020" class="card-link text-decoration-none">Take Me There!</a>
       </div>
     </div>
 </div>

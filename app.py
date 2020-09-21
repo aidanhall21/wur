@@ -107,7 +107,15 @@ def index():
 
 @app.route('/blog')
 def blog():
-    return render_template('blog.html')
+    return render_template('ratingsBlog.html')
+
+@app.route('/blog/1')
+def introBlog():
+    return render_template('introBlog.html')
+
+@app.route('/blog/2')
+def ratingsBlog():
+    return render_template('ratingsBlog.html')
 
 @app.route('/contact')
 def contact():

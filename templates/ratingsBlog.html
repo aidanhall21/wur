@@ -1,0 +1,215 @@
+{% extends 'base.html' %}
+{% block title %}The Ultimate Ratings Blog{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="p-3 my-5 bg-white rounded col-sm-10">
+            <h1>The Ratings</h1>
+            <br>
+            <p>If you've had a look around this site you probably came across something that caused you to double take. I'd certainly understand any initial skepticism, but this post should satisfactorily explain to you why
+                <a class="text-decoration-none" href="{{ url_for('collegeTeamPagePriorSeasons', division='college', team='Utah State', gend='Men', year=2020) }}">Utah State</a> is ranked as the 6th best College Mens team and <a class="text-decoration-none" href="{{ url_for('collegeTeamPagePriorSeasons', division='college', team='Mount Holyoke', gend='Women', year=2020) }}">Mount Holyoke</a> comes in at number 2(!) in the Women's rankings.</p>
+            <br>
+
+            <p>As mentioned in the <a class="text-decoration-none" href="{{ url_for('introBlog') }}">site intro</a> the only (as far as I'm aware) algortihmic rating system being applied to Ultimate teams in North America is the current rankings overseen by <a class="text-decoration-none" href="https://play.usaultimate.org/teams/events/rankings/">USA Ultimate</a>, 
+                the governing body of amateur competitive Ultimate Frisbee in North America. There have certainly been other sites dedicated to frisbee rankings, but those have mostly focused on recreating the USAU algorithm. The purpose of the USAU ratings is, according to them, "...to help determine strength wildcard bid allocation throughout the series." 
+                In other words, to determine the 16 or 20 <strong>most deserving</strong> teams who then receive a "bid" to the 
+                National Championship tournament for their region, sort of like at-large bids for conferences to the NCAA Tournament, except the number of at-large bids are determined before the Conference Championship tournaments.</p>
+            <br>
+            <p>The USAU system generally does
+                a very good job of this, although not completely without controversy, there are certainly ways to "game the system". From this explanation we know the ratings are designed to be descriptive, to rank teams based on how successful their season has been to a point in time, rather than predictive, 
+                ranking teams based on true ability and probability of success in future events. USAU doesn't publish ratings after the regular season for this reason, because their purpose has already been served. This is a problem because I generally like to know who should be favored, and by how much, in any particular game or event, and who was the best team over the course of the entire season.
+                The ratings I introduce on this site are designed for that exact purpose. Enter, the <a class="text-decoration-none" href="https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model">Bradley-Terry model</a>.</p>
+            <br>
+            <p>I would be remiss if I didn't mention the insspiration for uing the Bradley-Terry model came from the unapproachable Ken Pomeroy and his application of the Bradley-Terry model to <a class="text-decoration-none" href="https://doubletakeout.com/">international curling</a>. His reasons for using the model and the challenges of rating curling teams 
+                map pretty well to the Ultimate world. The Bradley-Terry model:
+                <ul>
+                    <li>Assumes that the current rating is best estimate of team strength. The value of a win against a team early in the season not expected to be good is elevated if that team then eventually breaks out later in the year.</li>
+                    <li>Doesn't reward a team for simply playing games. A team with the same win pct against the same quality opponents will have the same rating. The Ultimate season, especially at the college level, has wildly unbalanced schedules, with some teams playing as many as 25 more games than others.
+                        One of the flaws of the USAU system is that the number of games you play has a big impact on your eventual rating independent of any other factors.</li>
+                    <li>Gives us an easy way to find the probability that team A beats team B</li>
+                    <li>Can easily compare the magnitude of differences between teams. For example, the difference between (2019 #1 rated) Sockeye (rating of 3.61) and (2) PoNY (2.94) is the same as the difference between PoNY and (6) Chicago Machine (2.29).</li>
+                </ul>
+            </p>
+            <p>The ratings on this site only take into account:
+                <ol>
+                    <li>Who you played</li>
+                    <li>When you played them</li>
+                    <li>Did you win?</li>
+                </ol>
+                The notable omission from the above list is scoring margin. While the USAU rankings do an elegant job taking into account margin of victory, I haven't determined the best way to factor that into my ratings. A complicating factor is that in Ultimate games can end
+                either when they hit a scoring threshold or a time limit, although both are inconsistently applied across games. I'm sure factoring in scoring margin in some way could increase the predictive accuracy
+                of the ratings. A 9-7 time capped win should probably be counted differently from a 15-13 win against the same opponent, but more reasearch will have to be done. I also have a sneaking suspicion that location has an impact on game results as well. Teams that play tournaments in their hometown seem to outperform their rating, but again, more research will have to be done.
+            </p>
+            <br>
+            <p>My ratings look at all sanctioned games played between teams in the Club and College competitions. USAU will throw out some games from consideration in their ratings if they pass a certain scoring margin threshold, paring down an already small sample size of games for certain teams. 
+                To determine Club ratings before the season starts, a team's rating from the prior season is dicounted slightly towards the average rating of all teams since exceptionally good or bad teams from the last season normally don't quite reach those same levels of greatness or ineptitude.
+                Club ratings tend to stablize quickly as well. The best teams from the prior season are usually going to be the best teams in the current season, and one tournament weekend's worth of results is usually enough to determine a team's true strength, so pre-season ratings have no influence beyond those first 6 or 7 games. 
+                College ratings, on the other hand, take much longer to stabilize. The are more teams, and thus less connectivity between teams. There's a lot more variance in a teams true talent between seasons since roster turnover is much higher than in Club competition. This means predicting early season tournaments can be tricky, but in backtesting I found that discounting final ratings from the prior season
+                as much as 40% towards the average does the best to maximize predictive value. This pre-season rating then maintains at least some influence on a team's in-season rating throughout the regular season and first round of postseason tournaments.</p>
+            <br>
+            <p>This brings me, finally, to the curious case of Mount Holyoke and Utah State. I do not believe Mount Holyoke was the second best College Women's team last year. Even the best Division III teams don't finish much higher than 20th in the final ratings. They did go 11-0, however, and 11-0 is impressive no matter who you play
+                (and they didn't play a bunch of scrubs either, cruising through the 55th toughest schedule of anyone, on par with BYU and UC Davis). Mount Holyoke, though, barely cracked the top 50 in the USAU ratings, which punished them for that schedule, seeing a team that did well against lower level opponents, but aren't as deserving of an at-large bid as teams with less pristine win-loss records who played more challenging opponents.
+                My system, however, sees a team that's clearly been in a league of it's own among it's New England rivals and would fit right in among the top tier of Division I. If the 2020 season had not been cancelled though, their 2019 rating would have still had a big influence on their 2020 rating and they likely would not have been #2, even though Mount Holyoke has been a consistent top 60 Women's team over the years. I made the decision to take out the influence of a team's 2019 performance and show ratings for 2020 based only on results from 2020.
+                The same story applies to Utah State. A team that finished #121 overall in 2019 ends 2020 at #7 on the back of their 14-0 record despite playing half their games against teams rated 179 or worse. My ratings see a team that could have made the bracket at top tier Men's tournaments. Again, though, their 2019 rating would have dragged them down had the season not been cancelled.
+            </p>
+            <p>I've talked a lot about using my ratings for predictions, but it doesn't seem like there'll be any Ultimate competitions to predict any time soon. So, in the interest of providing an example, below are the probabilities my system would have given to each team of making a given round in the <a class="text-decoration-none" href="https://play.usaultimate.org/events/USA-Ultimate-National-Championships-2019/schedule/mixed/Club-Mixed/">2019 Mixed Club National Championship</a>.
+            </p>
+            <div class="table-responsive">
+                <table class="table table-borderless table-sm col-6">
+                    <thead>
+                    <tr>
+                        <th scope="col" class="col-1"></th>
+                        <th scope="col" class="col-1">bracket</th>
+                        <th scope="col" class="col-1">quarters</th>
+                        <th scope="col" class="col-1">semis</th>
+                        <th scope="col" class="col-1">finals</th>
+                        <th scope="col" class="col-1">champion</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th scope="row">Drag'n Thrust</th>
+                        <td>99.1</td>
+                        <td>94.9</td>
+                        <td>76.0</td>
+                        <td>55.4</td>
+                        <td>37.5</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Seattle Mixtape</th>
+                        <td>98.3</td>
+                        <td>93.6</td>
+                        <td>62.3</td>
+                        <td>38.6</td>
+                        <td>20.4</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">AMP</th>
+                        <td>97.4</td>
+                        <td>92.0</td>
+                        <td>60.3</td>
+                        <td>33.9</td>
+                        <td>17.5</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Wild Card</th>
+                        <td>90.5</td>
+                        <td>79.6</td>
+                        <td>50.9</td>
+                        <td>24.7</td>
+                        <td>11.4</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Slow White</th>
+                        <td>87.3</td>
+                        <td>72.2</td>
+                        <td>42.0</td>
+                        <td>18.3</td>
+                        <td>7.2</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">BFG</th>
+                        <td>84.0</td>
+                        <td>42.4</td>
+                        <td>16.9</td>
+                        <td>5.8</td>
+                        <td>1.3</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">shame.</th>
+                        <td>65.9</td>
+                        <td>42.0</td>
+                        <td>16.9</td>
+                        <td>4.8</td>
+                        <td>1.0</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Mischief</th>
+                        <td>76.3</td>
+                        <td>48.5</td>
+                        <td>14.3</td>
+                        <td>4.0</td>
+                        <td>1.0</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Toro</th>
+                        <td>79.8</td>
+                        <td>44.7</td>
+                        <td>12.6</td>
+                        <td>3.7</td>
+                        <td>0.7</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Superlame</th>
+                        <td>56.3</td>
+                        <td>32.4</td>
+                        <td>11.4</td>
+                        <td>3.1</td>
+                        <td>0.6</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Snake Country</th>
+                        <td>72.9</td>
+                        <td>43.9</td>
+                        <td>11.9</td>
+                        <td>2.7</td>
+                        <td>0.5</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Columbus Cocktails</th>
+                        <td>68.7</td>
+                        <td>24.3</td>
+                        <td>7.2</td>
+                        <td>1.6</td>
+                        <td>0.2</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Polar Bears</th>
+                        <td>57.1</td>
+                        <td>22.7</td>
+                        <td>4.3</td>
+                        <td>0.9</td>
+                        <td>0.2</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Space Heater</th>
+                        <td>64.8</td>
+                        <td>28.5</td>
+                        <td>6.0</td>
+                        <td>1.4</td>
+                        <td>0.2</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">MOONDOG</th>
+                        <td>53.5</td>
+                        <td>26.1</td>
+                        <td>5.0</td>
+                        <td>0.9</td>
+                        <td>0.1</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Public Enemy</th>
+                        <td>48.2</td>
+                        <td>12.2</td>
+                        <td>2.3</td>
+                        <td>0.4</td>
+                        <td>0.02</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p>Mischief was a bit of a cinderalla, making the finals after my ratings gave them only a 4% chance of doing so. Wild Card also failed to make the bracket, even though they came in with the fourth highest odds to win the whole thing. If you have any questions on anything, please don't hesitate to <a href="/contact">contact me</a>.</p>
+        </div>
+        <div class="shadow-sm p-3 my-5 bg-white rounded col-sm-2">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link active text-decoration-none" href="{{ url_for('introBlog') }}">1. A Long Time Coming</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active text-decoration-none" href="{{ url_for('ratingsBlog') }}">2. The Ratings</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
