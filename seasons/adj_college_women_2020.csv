@@ -1,0 +1,1347 @@
+﻿event,division,game_id,team_1,team_1_score,team_2,team_2_score,game_date,gender,postseason,season,winner,loser,win_score,lose_score
+Winta Binta Vinta Fest 2020,College,243464,Virginia,13,Liberty,1,1/1/20,Women,0,2020,Virginia,Liberty,13,1
+Winta Binta Vinta Fest 2020,College,243465,William & Mary,12,West Virginia,2,1/1/20,Women,0,2020,William & Mary,West Virginia,12,2
+Winta Binta Vinta Fest 2020,College,243466,Virginia,11,West Virginia,3,1/1/20,Women,0,2020,Virginia,West Virginia,11,3
+Winta Binta Vinta Fest 2020,College,243467,William & Mary,12,Liberty,7,1/1/20,Women,0,2020,William & Mary,Liberty,12,7
+Winta Binta Vinta Fest 2020,College,243468,Virginia,11,William & Mary,4,1/1/20,Women,0,2020,Virginia,William & Mary,11,4
+Winta Binta Vinta Fest 2020,College,243469,Liberty,11,West Virginia,6,1/1/20,Women,0,2020,Liberty,West Virginia,11,6
+Winta Binta Vinta Fest 2020,College,243470,James Madison,13,Virginia Commonwealth,4,1/1/20,Women,0,2020,James Madison,Virginia Commonwealth,13,4
+Winta Binta Vinta Fest 2020,College,243471,Georgetown,13,Virginia B,1,1/1/20,Women,0,2020,Georgetown,Virginia B,13,1
+Winta Binta Vinta Fest 2020,College,243472,James Madison,13,Virginia B,0,1/1/20,Women,0,2020,James Madison,Virginia B,13,0
+Winta Binta Vinta Fest 2020,College,243473,Georgetown,13,Virginia Commonwealth,5,1/1/20,Women,0,2020,Georgetown,Virginia Commonwealth,13,5
+Winta Binta Vinta Fest 2020,College,243474,James Madison,11,Georgetown,7,1/1/20,Women,0,2020,James Madison,Georgetown,11,7
+Winta Binta Vinta Fest 2020,College,243475,Virginia Commonwealth,8,Virginia B,2,1/1/20,Women,0,2020,Virginia Commonwealth,Virginia B,8,2
+Winta Binta Vinta Fest 2020,College,243476,Virginia,15,Virginia B,1,1/1/20,Women,0,2020,Virginia,Virginia B,15,1
+Winta Binta Vinta Fest 2020,College,243477,Georgetown,6,Liberty,10,1/1/20,Women,0,2020,Liberty,Georgetown,10,6
+Winta Binta Vinta Fest 2020,College,243478,James Madison,15,West Virginia,1,1/1/20,Women,0,2020,James Madison,West Virginia,15,1
+Winta Binta Vinta Fest 2020,College,243479,William & Mary,15,Virginia Commonwealth,0,1/1/20,Women,0,2020,William & Mary,Virginia Commonwealth,15,0
+Winta Binta Vinta Fest 2020,College,243480,Virginia,14,Liberty,2,1/1/20,Women,0,2020,Virginia,Liberty,14,2
+Winta Binta Vinta Fest 2020,College,243481,James Madison,10,William & Mary,9,1/1/20,Women,0,2020,James Madison,William & Mary,10,9
+Winta Binta Vinta Fest 2020,College,243482,Virginia,13,James Madison,4,1/1/20,Women,0,2020,Virginia,James Madison,13,4
+Winta Binta Vinta Fest 2020,College,243483,Liberty,7,William & Mary,9,1/1/20,Women,0,2020,William & Mary,Liberty,9,7
+Winta Binta Vinta Fest 2020,College,243484,Virginia B,0,Georgetown,15,1/1/20,Women,0,2020,Georgetown,Virginia B,15,0
+Winta Binta Vinta Fest 2020,College,243485,West Virginia,9,Virginia Commonwealth,10,1/1/20,Women,0,2020,Virginia Commonwealth,West Virginia,10,9
+Winta Binta Vinta Fest 2020,College,243486,Georgetown,12,Virginia Commonwealth,2,1/1/20,Women,0,2020,Georgetown,Virginia Commonwealth,12,2
+Winta Binta Vinta Fest 2020,College,243487,Virginia B,2,West Virginia,10,1/1/20,Women,0,2020,West Virginia,Virginia B,10,2
+Florida Winter Classic 2020,College,243581,Dartmouth,10,Florida State,8,1/1/20,Women,0,2020,Dartmouth,Florida State,10,8
+Florida Winter Classic 2020,College,243582,Georgia,13,South Florida,4,1/1/20,Women,0,2020,Georgia,South Florida,13,4
+Florida Winter Classic 2020,College,243583,Dartmouth,9,South Florida,5,1/1/20,Women,0,2020,Dartmouth,South Florida,9,5
+Florida Winter Classic 2020,College,243584,Georgia,10,Florida State,9,1/1/20,Women,0,2020,Georgia,Florida State,10,9
+Florida Winter Classic 2020,College,243585,Dartmouth,9,Georgia,4,1/1/20,Women,0,2020,Dartmouth,Georgia,9,4
+Florida Winter Classic 2020,College,243586,Florida State,8,South Florida,4,1/1/20,Women,0,2020,Florida State,South Florida,8,4
+Florida Winter Classic 2020,College,243587,Ohio State,10,North Carolina-Wilmington,7,1/1/20,Women,0,2020,Ohio State,North Carolina-Wilmington,10,7
+Florida Winter Classic 2020,College,243588,Florida,13,North Georgia,3,1/1/20,Women,0,2020,Florida,North Georgia,13,3
+Florida Winter Classic 2020,College,243589,Ohio State,11,North Georgia,3,1/1/20,Women,0,2020,Ohio State,North Georgia,11,3
+Florida Winter Classic 2020,College,243590,Florida,12,North Carolina-Wilmington,4,1/1/20,Women,0,2020,Florida,North Carolina-Wilmington,12,4
+Florida Winter Classic 2020,College,243591,Ohio State,10,Florida,7,1/1/20,Women,0,2020,Ohio State,Florida,10,7
+Florida Winter Classic 2020,College,243592,North Carolina-Wilmington,5,North Georgia,11,1/1/20,Women,0,2020,North Georgia,North Carolina-Wilmington,11,5
+Florida Winter Classic 2020,College,243593,Florida B,11,Miami,3,1/1/20,Women,0,2020,Florida B,Miami,11,3
+Florida Winter Classic 2020,College,243594,FSU B,8,Ave Maria,6,1/1/20,Women,0,2020,FSU B,Ave Maria,8,6
+Florida Winter Classic 2020,College,243595,Florida B,11,Ave Maria,2,1/1/20,Women,0,2020,Florida B,Ave Maria,11,2
+Florida Winter Classic 2020,College,243596,FSU B,4,Miami,6,1/1/20,Women,0,2020,Miami,FSU B,6,4
+Florida Winter Classic 2020,College,243597,Florida B,11,FSU B,2,1/1/20,Women,0,2020,Florida B,FSU B,11,2
+Florida Winter Classic 2020,College,243598,Miami,3,Ave Maria,10,1/1/20,Women,0,2020,Ave Maria,Miami,10,3
+Florida Winter Classic 2020,College,243599,Dartmouth,11,Florida,10,1/1/20,Women,0,2020,Dartmouth,Florida,11,10
+Florida Winter Classic 2020,College,243600,Georgia,7,Ohio State,11,1/1/20,Women,0,2020,Ohio State,Georgia,11,7
+Florida Winter Classic 2020,College,243601,Florida State,11,North Carolina-Wilmington,3,1/1/20,Women,0,2020,Florida State,North Carolina-Wilmington,11,3
+Florida Winter Classic 2020,College,243602,South Florida,6,North Georgia,4,1/1/20,Women,0,2020,South Florida,North Georgia,6,4
+Florida Winter Classic 2020,College,243603,North Carolina-Wilmington,15,Miami,2,1/1/20,Women,0,2020,North Carolina-Wilmington,Miami,15,2
+Florida Winter Classic 2020,College,243604,North Georgia,15,Florida B,4,1/1/20,Women,0,2020,North Georgia,Florida B,15,4
+Florida Winter Classic 2020,College,243605,Dartmouth,13,North Carolina-Wilmington,6,1/1/20,Women,0,2020,Dartmouth,North Carolina-Wilmington,13,6
+Florida Winter Classic 2020,College,243606,South Florida,7,Georgia,15,1/1/20,Women,0,2020,Georgia,South Florida,15,7
+Florida Winter Classic 2020,College,243607,Florida,15,Florida State,8,1/1/20,Women,0,2020,Florida,Florida State,15,8
+Florida Winter Classic 2020,College,243608,North Georgia,1,Ohio State,15,1/1/20,Women,0,2020,Ohio State,North Georgia,15,1
+Florida Winter Classic 2020,College,243609,Dartmouth,13,Georgia,10,1/1/20,Women,0,2020,Dartmouth,Georgia,13,10
+Florida Winter Classic 2020,College,243610,Florida,3,Ohio State,15,1/1/20,Women,0,2020,Ohio State,Florida,15,3
+Florida Winter Classic 2020,College,243611,Dartmouth,8,Ohio State,9,1/1/20,Women,0,2020,Ohio State,Dartmouth,9,8
+Florida Winter Classic 2020,College,243612,Georgia,7,Florida,11,1/1/20,Women,0,2020,Florida,Georgia,11,7
+Florida Winter Classic 2020,College,243613,North Carolina-Wilmington,10,South Florida,11,1/1/20,Women,0,2020,South Florida,North Carolina-Wilmington,11,10
+Florida Winter Classic 2020,College,243614,Florida State,15,North Georgia,1,1/1/20,Women,0,2020,Florida State,North Georgia,15,1
+Florida Winter Classic 2020,College,243615,South Florida,5,Florida State,15,1/1/20,Women,0,2020,Florida State,South Florida,15,5
+Florida Winter Classic 2020,College,243616,North Carolina-Wilmington,14,North Georgia,6,1/1/20,Women,0,2020,North Carolina-Wilmington,North Georgia,14,6
+Florida Winter Classic 2020,College,243617,Miami,6,FSU B,8,1/1/20,Women,0,2020,FSU B,Miami,8,6
+Florida Winter Classic 2020,College,243619,FSU B,2,Florida B,14,1/1/20,Women,0,2020,Florida B,FSU B,14,2
+Santa Barbara Invite 2020,College,243690,California-San Diego,13,California,7,1/1/20,Women,0,2020,California-San Diego,California,13,7
+Santa Barbara Invite 2020,College,243691,Washington,13,Victoria,5,1/1/20,Women,0,2020,Washington,Victoria,13,5
+Santa Barbara Invite 2020,College,243692,California-San Diego,13,Victoria,2,1/1/20,Women,0,2020,California-San Diego,Victoria,13,2
+Santa Barbara Invite 2020,College,243693,Washington,12,California,10,1/1/20,Women,0,2020,Washington,California,12,10
+Santa Barbara Invite 2020,College,243694,California-San Diego,13,Washington,8,1/1/20,Women,0,2020,California-San Diego,Washington,13,8
+Santa Barbara Invite 2020,College,243695,California,11,Victoria,10,1/1/20,Women,0,2020,California,Victoria,11,10
+Santa Barbara Invite 2020,College,243702,Wisconsin,13,Utah,8,1/1/20,Women,0,2020,Wisconsin,Utah,13,8
+Santa Barbara Invite 2020,College,243703,Cal Poly-SLO,6,California-Davis,13,1/1/20,Women,0,2020,California-Davis,Cal Poly-SLO,13,6
+Santa Barbara Invite 2020,College,243704,Wisconsin,10,California-Davis,11,1/1/20,Women,0,2020,California-Davis,Wisconsin,11,10
+Santa Barbara Invite 2020,College,243705,Cal Poly-SLO,12,Utah,13,1/1/20,Women,0,2020,Utah,Cal Poly-SLO,13,12
+Santa Barbara Invite 2020,College,243706,Wisconsin,13,Cal Poly-SLO,7,1/1/20,Women,0,2020,Wisconsin,Cal Poly-SLO,13,7
+Santa Barbara Invite 2020,College,243707,Utah,9,California-Davis,7,1/1/20,Women,0,2020,Utah,California-Davis,9,7
+Santa Barbara Invite 2020,College,243708,Northeastern,12,Stanford,11,1/1/20,Women,0,2020,Northeastern,Stanford,12,11
+Santa Barbara Invite 2020,College,243709,UCLA,13,Stanford,11,1/1/20,Women,0,2020,UCLA,Stanford,13,11
+Santa Barbara Invite 2020,College,243710,Stanford,10,Washington University,6,1/1/20,Women,0,2020,Stanford,Washington University,10,6
+Santa Barbara Invite 2020,College,243711,UCLA,13,Washington University,3,1/1/20,Women,0,2020,UCLA,Washington University,13,3
+Santa Barbara Invite 2020,College,243712,Northeastern,13,Washington University,2,1/1/20,Women,0,2020,Northeastern,Washington University,13,2
+Santa Barbara Invite 2020,College,243713,Northeastern,13,UCLA,8,1/1/20,Women,0,2020,Northeastern,UCLA,13,8
+Santa Barbara Invite 2020,College,243714,Northwestern,13,California-Davis,8,1/1/20,Women,0,2020,Northwestern,California-Davis,13,8
+Santa Barbara Invite 2020,College,243716,California,6,UCLA,13,1/1/20,Women,0,2020,UCLA,California,13,6
+Santa Barbara Invite 2020,College,243718,California-San Diego,13,Northwestern,6,1/1/20,Women,0,2020,California-San Diego,Northwestern,13,6
+Santa Barbara Invite 2020,College,243719,Northeastern,7,Vermont,12,1/1/20,Women,0,2020,Vermont,Northeastern,12,7
+Santa Barbara Invite 2020,College,243720,Wisconsin,11,UCLA,13,1/1/20,Women,0,2020,UCLA,Wisconsin,13,11
+Santa Barbara Invite 2020,College,243721,California-Santa Barbara,13,Washington,11,1/1/20,Women,0,2020,California-Santa Barbara,Washington,13,11
+Santa Barbara Invite 2020,College,243722,California-San Diego,12,Vermont,3,1/1/20,Women,0,2020,California-San Diego,Vermont,12,3
+Santa Barbara Invite 2020,College,243723,UCLA,11,California-Santa Barbara,9,1/1/20,Women,0,2020,UCLA,California-Santa Barbara,11,9
+Santa Barbara Invite 2020,College,243724,California-San Diego,12,UCLA,10,1/1/20,Women,0,2020,California-San Diego,UCLA,12,10
+Santa Barbara Invite 2020,College,243725,Vermont,12,California-Santa Barbara,6,1/1/20,Women,0,2020,Vermont,California-Santa Barbara,12,6
+Santa Barbara Invite 2020,College,243726,Northwestern,8,Northeastern,13,1/1/20,Women,0,2020,Northeastern,Northwestern,13,8
+Santa Barbara Invite 2020,College,243727,Wisconsin,9,Washington,13,1/1/20,Women,0,2020,Washington,Wisconsin,13,9
+Santa Barbara Invite 2020,College,243728,Northeastern,12,Washington,13,1/1/20,Women,0,2020,Washington,Northeastern,13,12
+Santa Barbara Invite 2020,College,243729,Northwestern,6,Wisconsin,11,1/1/20,Women,0,2020,Wisconsin,Northwestern,11,6
+Santa Barbara Invite 2020,College,243730,California-Davis,11,California,7,1/1/20,Women,0,2020,California-Davis,California,11,7
+Santa Barbara Invite 2020,College,243731,Utah,10,Stanford,11,1/1/20,Women,0,2020,Stanford,Utah,11,10
+Santa Barbara Invite 2020,College,243732,California-Davis,7,Stanford,8,1/1/20,Women,0,2020,Stanford,California-Davis,8,7
+Santa Barbara Invite 2020,College,243733,Utah,7,California,12,1/1/20,Women,0,2020,California,Utah,12,7
+Clutch Classic 2020,College,244124,Georgia Tech,13,Tulane,1,1/1/20,Women,0,2020,Georgia Tech,Tulane,13,1
+Clutch Classic 2020,College,244125,Georgia College,2,George Washington,13,1/1/20,Women,0,2020,George Washington,Georgia College,13,2
+Clutch Classic 2020,College,244126,Georgia Tech,13,George Washington,5,1/1/20,Women,0,2020,Georgia Tech,George Washington,13,5
+Clutch Classic 2020,College,244127,Georgia College,1,Tulane,12,1/1/20,Women,0,2020,Tulane,Georgia College,12,1
+Clutch Classic 2020,College,244128,Georgia Tech,13,Georgia College,1,1/1/20,Women,0,2020,Georgia Tech,Georgia College,13,1
+Clutch Classic 2020,College,244129,Tulane,4,George Washington,11,1/1/20,Women,0,2020,George Washington,Tulane,11,4
+Clutch Classic 2020,College,244130,Alabama,8,Georgia State,5,1/1/20,Women,0,2020,Alabama,Georgia State,8,5
+Clutch Classic 2020,College,244131,Central Florida,10,Belmont,2,1/1/20,Women,0,2020,Central Florida,Belmont,10,2
+Clutch Classic 2020,College,244132,Alabama,13,Belmont,2,1/1/20,Women,0,2020,Alabama,Belmont,13,2
+Clutch Classic 2020,College,244133,Central Florida,4,Georgia State,2,1/1/20,Women,0,2020,Central Florida,Georgia State,4,2
+Clutch Classic 2020,College,244134,Alabama,7,Central Florida,6,1/1/20,Women,0,2020,Alabama,Central Florida,7,6
+Clutch Classic 2020,College,244135,Georgia State,7,Belmont,4,1/1/20,Women,0,2020,Georgia State,Belmont,7,4
+Clutch Classic 2020,College,244136,Kennesaw State,6,Mississippi State,2,1/1/20,Women,0,2020,Kennesaw State,Mississippi State,6,2
+Clutch Classic 2020,College,244137,Emory,12,Georgia Southern,1,1/1/20,Women,0,2020,Emory,Georgia Southern,12,1
+Clutch Classic 2020,College,244138,Kennesaw State,11,Georgia Southern,4,1/1/20,Women,0,2020,Kennesaw State,Georgia Southern,11,4
+Clutch Classic 2020,College,244139,Emory,11,Mississippi State,4,1/1/20,Women,0,2020,Emory,Mississippi State,11,4
+Clutch Classic 2020,College,244140,Kennesaw State,9,Emory,4,1/1/20,Women,0,2020,Kennesaw State,Emory,9,4
+Clutch Classic 2020,College,244141,Mississippi State,13,Georgia Southern,2,1/1/20,Women,0,2020,Mississippi State,Georgia Southern,13,2
+Clutch Classic 2020,College,244142,Clemson,13,Tennessee,2,1/1/20,Women,0,2020,Clemson,Tennessee,13,2
+Clutch Classic 2020,College,244143,Auburn,13,Emory B,0,1/1/20,Women,0,2020,Auburn,Emory B,13,0
+Clutch Classic 2020,College,244144,Clemson,13,Emory B,1,1/1/20,Women,0,2020,Clemson,Emory B,13,1
+Clutch Classic 2020,College,244145,Auburn,7,Tennessee,6,1/1/20,Women,0,2020,Auburn,Tennessee,7,6
+Clutch Classic 2020,College,244146,Clemson,6,Auburn,7,1/1/20,Women,0,2020,Auburn,Clemson,7,6
+Clutch Classic 2020,College,244147,Tennessee,13,Emory B,0,1/1/20,Women,0,2020,Tennessee,Emory B,13,0
+Clutch Classic 2020,College,244150,Clemson,8,Georgia State,4,1/1/20,Women,0,2020,Clemson,Georgia State,8,4
+Clutch Classic 2020,College,244151,Emory,9,Tulane,3,1/1/20,Women,0,2020,Emory,Tulane,9,3
+Clutch Classic 2020,College,244152,Central Florida,13,Tennessee,3,1/1/20,Women,0,2020,Central Florida,Tennessee,13,3
+Clutch Classic 2020,College,244153,George Washington,13,Mississippi State,2,1/1/20,Women,0,2020,George Washington,Mississippi State,13,2
+Clutch Classic 2020,College,244154,Georgia Tech,10,Central Florida,5,1/1/20,Women,0,2020,Georgia Tech,Central Florida,10,5
+Clutch Classic 2020,College,244155,Auburn,3,Emory,7,1/1/20,Women,0,2020,Emory,Auburn,7,3
+Clutch Classic 2020,College,244156,Kennesaw State,5,George Washington,4,1/1/20,Women,0,2020,Kennesaw State,George Washington,5,4
+Clutch Classic 2020,College,244157,Alabama,11,Clemson,6,1/1/20,Women,0,2020,Alabama,Clemson,11,6
+Clutch Classic 2020,College,244158,Emory,3,Georgia Tech,10,1/1/20,Women,0,2020,Georgia Tech,Emory,10,3
+Clutch Classic 2020,College,244159,Kennesaw State,4,Alabama,8,1/1/20,Women,0,2020,Alabama,Kennesaw State,8,4
+Clutch Classic 2020,College,244160,Georgia Tech,11,Alabama,1,1/1/20,Women,0,2020,Georgia Tech,Alabama,11,1
+Clutch Classic 2020,College,244161,Central Florida,5,George Washington,3,1/1/20,Women,0,2020,Central Florida,George Washington,5,3
+Clutch Classic 2020,College,244162,Auburn,5,Clemson,7,1/1/20,Women,0,2020,Clemson,Auburn,7,5
+Clutch Classic 2020,College,244163,Central Florida,4,Kennesaw State,6,1/1/20,Women,0,2020,Kennesaw State,Central Florida,6,4
+Clutch Classic 2020,College,244164,Clemson,9,Emory,4,1/1/20,Women,0,2020,Clemson,Emory,9,4
+Clutch Classic 2020,College,244165,Kennesaw State,7,Clemson,6,1/1/20,Women,0,2020,Kennesaw State,Clemson,7,6
+Clutch Classic 2020,College,244166,George Washington,9,Auburn,3,1/1/20,Women,0,2020,George Washington,Auburn,9,3
+Clutch Classic 2020,College,244167,Central Florida,3,Emory,4,1/1/20,Women,0,2020,Emory,Central Florida,4,3
+Clutch Classic 2020,College,244168,Georgia State,5,Georgia College,7,1/1/20,Women,0,2020,Georgia College,Georgia State,7,5
+Clutch Classic 2020,College,244169,Belmont,2,Mississippi State,8,1/1/20,Women,0,2020,Mississippi State,Belmont,8,2
+Clutch Classic 2020,College,244170,Tennessee,11,Georgia Southern,6,1/1/20,Women,0,2020,Tennessee,Georgia Southern,11,6
+Clutch Classic 2020,College,244171,Emory B,0,Tulane,11,1/1/20,Women,0,2020,Tulane,Emory B,11,0
+Clutch Classic 2020,College,244172,Georgia College,5,Mississippi State,9,1/1/20,Women,0,2020,Mississippi State,Georgia College,9,5
+Clutch Classic 2020,College,244173,Tennessee,8,Tulane,6,1/1/20,Women,0,2020,Tennessee,Tulane,8,6
+Clutch Classic 2020,College,244174,Mississippi State,7,Tennessee,8,1/1/20,Women,0,2020,Tennessee,Mississippi State,8,7
+Clutch Classic 2020,College,244175,Georgia College,5,Tulane,6,1/1/20,Women,0,2020,Tulane,Georgia College,6,5
+Clutch Classic 2020,College,244176,Georgia State,6,Belmont,0,1/1/20,Women,0,2020,Georgia State,Belmont,6,0
+Clutch Classic 2020,College,244177,Georgia Southern,9,Emory B,3,1/1/20,Women,0,2020,Georgia Southern,Emory B,9,3
+Clutch Classic 2020,College,244178,Georgia State,9,Georgia Southern,2,1/1/20,Women,0,2020,Georgia State,Georgia Southern,9,2
+Santa Barbara Invite 2020,College,244204,California-Santa Barbara,13,California-Santa Cruz,8,1/1/20,Women,0,2020,California-Santa Barbara,California-Santa Cruz,13,8
+Santa Barbara Invite 2020,College,244205,Brigham Young,7,Northwestern,13,1/1/20,Women,0,2020,Northwestern,Brigham Young,13,7
+Santa Barbara Invite 2020,College,244206,California-Santa Barbara,13,Brigham Young,7,1/1/20,Women,0,2020,California-Santa Barbara,Brigham Young,13,7
+Santa Barbara Invite 2020,College,244207,Vermont,11,Northwestern,4,1/1/20,Women,0,2020,Vermont,Northwestern,11,4
+Santa Barbara Invite 2020,College,244208,Northwestern,13,California-Santa Cruz,7,1/1/20,Women,0,2020,Northwestern,California-Santa Cruz,13,7
+Santa Barbara Invite 2020,College,244209,Vermont,12,Brigham Young,5,1/1/20,Women,0,2020,Vermont,Brigham Young,12,5
+Santa Barbara Invite 2020,College,244210,California-Santa Barbara,11,Northwestern,7,1/1/20,Women,0,2020,California-Santa Barbara,Northwestern,11,7
+Santa Barbara Invite 2020,College,244211,Vermont,9,California-Santa Cruz,8,1/1/20,Women,0,2020,Vermont,California-Santa Cruz,9,8
+Santa Barbara Invite 2020,College,244212,California-Santa Barbara,13,Vermont,8,1/1/20,Women,0,2020,California-Santa Barbara,Vermont,13,8
+Santa Barbara Invite 2020,College,244213,Brigham Young,11,California-Santa Cruz,10,1/1/20,Women,0,2020,Brigham Young,California-Santa Cruz,11,10
+Santa Barbara Invite 2020,College,244214,Washington,13,Stanford,9,1/1/20,Women,0,2020,Washington,Stanford,13,9
+New Year Fest 2020,College,244215,Arizona State,7,New Mexico,12,1/1/20,Women,0,2020,New Mexico,Arizona State,12,7
+New Year Fest 2020,College,244216,San Diego State University,13,Arizona B,0,1/1/20,Women,0,2020,San Diego State University,Arizona B,13,0
+New Year Fest 2020,College,244217,Northern Arizona,12,Arizona,6,1/1/20,Women,0,2020,Northern Arizona,Arizona,12,6
+New Year Fest 2020,College,244218,San Diego State University,12,Arizona,2,1/1/20,Women,0,2020,San Diego State University,Arizona,12,2
+New Year Fest 2020,College,244219,Denver,4,New Mexico,12,1/1/20,Women,0,2020,New Mexico,Denver,12,4
+New Year Fest 2020,College,244220,Northern Arizona,13,Arizona B,1,1/1/20,Women,0,2020,Northern Arizona,Arizona B,13,1
+New Year Fest 2020,College,244221,San Diego State University,6,Denver,7,1/1/20,Women,0,2020,Denver,San Diego State University,7,6
+New Year Fest 2020,College,244222,Arizona State,13,Arizona B,0,1/1/20,Women,0,2020,Arizona State,Arizona B,13,0
+New Year Fest 2020,College,244223,Northern Arizona,6,New Mexico,11,1/1/20,Women,0,2020,New Mexico,Northern Arizona,11,6
+New Year Fest 2020,College,244224,San Diego State University,8,Arizona State,7,1/1/20,Women,0,2020,San Diego State University,Arizona State,8,7
+New Year Fest 2020,College,244225,Arizona,6,New Mexico,13,1/1/20,Women,0,2020,New Mexico,Arizona,13,6
+New Year Fest 2020,College,244226,Denver,13,Arizona B,0,1/1/20,Women,0,2020,Denver,Arizona B,13,0
+New Year Fest 2020,College,244227,Denver,10,Northern Arizona,5,1/1/20,Women,0,2020,Denver,Northern Arizona,10,5
+New Year Fest 2020,College,244228,Arizona,5,Arizona State,9,1/1/20,Women,0,2020,Arizona State,Arizona,9,5
+New Year Fest 2020,College,244229,New Mexico,13,Arizona B,0,1/1/20,Women,0,2020,New Mexico,Arizona B,13,0
+New Year Fest 2020,College,244230,San Diego State University,11,Northern Arizona,4,1/1/20,Women,0,2020,San Diego State University,Northern Arizona,11,4
+New Year Fest 2020,College,244231,Denver,9,Arizona State,7,1/1/20,Women,0,2020,Denver,Arizona State,9,7
+New Year Fest 2020,College,244232,Arizona,11,Arizona B,2,1/1/20,Women,0,2020,Arizona,Arizona B,11,2
+New Year Fest 2020,College,244233,San Diego State University,5,New Mexico,9,1/1/20,Women,0,2020,New Mexico,San Diego State University,9,5
+New Year Fest 2020,College,244234,Denver,10,Arizona,4,1/1/20,Women,0,2020,Denver,Arizona,10,4
+New Year Fest 2020,College,244235,Northern Arizona,5,Arizona State,7,1/1/20,Women,0,2020,Arizona State,Northern Arizona,7,5
+New Year Fest 2020,College,244236,New Mexico,10,Denver,5,1/1/20,Women,0,2020,New Mexico,Denver,10,5
+Santa Barbara Invite 2020,College,244352,Victoria,11,Cal Poly-SLO,12,1/1/20,Women,0,2020,Cal Poly-SLO,Victoria,12,11
+Santa Barbara Invite 2020,College,244353,Washington University,8,California-Santa Cruz,9,1/1/20,Women,0,2020,California-Santa Cruz,Washington University,9,8
+Santa Barbara Invite 2020,College,244354,Cal Poly-SLO,10,California-Santa Cruz,5,1/1/20,Women,0,2020,Cal Poly-SLO,California-Santa Cruz,10,5
+Santa Barbara Invite 2020,College,244355,Victoria,9,Washington University,10,1/1/20,Women,0,2020,Washington University,Victoria,10,9
+Santa Barbara Invite 2020,College,244394,Cal Poly-SLO,6,Brigham Young,9,1/1/20,Women,0,2020,Brigham Young,Cal Poly-SLO,9,6
+Santa Barbara Invite 2020,College,244619,Vermont,13,Utah,4,1/1/20,Women,0,2020,Vermont,Utah,13,4
+Presidents‚Äô Day Qualifier (Women),College,244732,California-Davis B,5,California B,8,2/1/20,Women,0,2020,California B,California-Davis B,8,5
+Presidents‚Äô Day Qualifier (Women),College,244733,Arizona State,8,Occidental,10,2/1/20,Women,0,2020,Occidental,Arizona State,10,8
+Presidents‚Äô Day Qualifier (Women),College,244734,Cal State-Long Beach,7,Occidental,8,2/1/20,Women,0,2020,Occidental,Cal State-Long Beach,8,7
+Presidents‚Äô Day Qualifier (Women),College,244735,Arizona State,13,California-Davis B,2,2/1/20,Women,0,2020,Arizona State,California-Davis B,13,2
+Presidents‚Äô Day Qualifier (Women),College,244736,Occidental,11,California-Davis B,1,2/1/20,Women,0,2020,Occidental,California-Davis B,11,1
+Presidents‚Äô Day Qualifier (Women),College,244737,Cal State-Long Beach,9,California B,7,2/1/20,Women,0,2020,Cal State-Long Beach,California B,9,7
+Presidents‚Äô Day Qualifier (Women),College,244738,Cal State-Long Beach,10,California-Davis B,4,2/1/20,Women,0,2020,Cal State-Long Beach,California-Davis B,10,4
+Presidents‚Äô Day Qualifier (Women),College,244739,Arizona State,9,California B,2,2/1/20,Women,0,2020,Arizona State,California B,9,2
+Presidents‚Äô Day Qualifier (Women),College,244740,Cal State-Long Beach,9,Arizona State,5,2/1/20,Women,0,2020,Cal State-Long Beach,Arizona State,9,5
+Presidents‚Äô Day Qualifier (Women),College,244741,Occidental,12,California B,6,2/1/20,Women,0,2020,Occidental,California B,12,6
+Presidents‚Äô Day Qualifier (Women),College,244767,Occidental,8,UCLA B,9,2/2/20,Women,0,2020,UCLA B,Occidental,9,8
+Presidents‚Äô Day Qualifier (Women),College,244769,California-San Diego B,10,Arizona State,3,2/2/20,Women,0,2020,California-San Diego B,Arizona State,10,3
+Presidents‚Äô Day Qualifier (Women),College,244916,Southern California,9,UCLA B,7,2/1/20,Women,0,2020,Southern California,UCLA B,9,7
+Presidents‚Äô Day Qualifier (Women),College,244917,Arizona,5,California-Irvine,8,2/1/20,Women,0,2020,California-Irvine,Arizona,8,5
+Presidents‚Äô Day Qualifier (Women),College,244918,Southern California,13,California-Irvine,2,2/1/20,Women,0,2020,Southern California,California-Irvine,13,2
+Presidents‚Äô Day Qualifier (Women),College,244919,Arizona,4,UCLA B,7,2/1/20,Women,0,2020,UCLA B,Arizona,7,4
+Presidents‚Äô Day Qualifier (Women),College,244920,Southern California,11,Arizona,5,2/1/20,Women,0,2020,Southern California,Arizona,11,5
+Presidents‚Äô Day Qualifier (Women),College,244921,UCLA B,10,California-Irvine,5,2/1/20,Women,0,2020,UCLA B,California-Irvine,10,5
+Presidents‚Äô Day Qualifier (Women),College,244922,Chico State,8,California-San Diego B,7,2/1/20,Women,0,2020,Chico State,California-San Diego B,8,7
+Presidents‚Äô Day Qualifier (Women),College,244923,California-Santa Cruz,12,Colorado B,4,2/1/20,Women,0,2020,California-Santa Cruz,Colorado B,12,4
+Presidents‚Äô Day Qualifier (Women),College,244924,Chico State,9,Colorado B,5,2/1/20,Women,0,2020,Chico State,Colorado B,9,5
+Presidents‚Äô Day Qualifier (Women),College,244925,California-Santa Cruz,10,California-San Diego B,4,2/1/20,Women,0,2020,California-Santa Cruz,California-San Diego B,10,4
+Presidents‚Äô Day Qualifier (Women),College,244926,Chico State,6,California-Santa Cruz,10,2/1/20,Women,0,2020,California-Santa Cruz,Chico State,10,6
+Presidents‚Äô Day Qualifier (Women),College,244927,California-San Diego B,7,Colorado B,6,2/1/20,Women,0,2020,California-San Diego B,Colorado B,7,6
+Castle Classic 2020,College,245124,North Carolina-Asheville,6,Wake Forest,9,2/2/20,Women,0,2020,Wake Forest,North Carolina-Asheville,9,6
+Castle Classic 2020,College,245125,Miami,7,Wake Forest,10,2/2/20,Women,0,2020,Wake Forest,Miami,10,7
+Castle Classic 2020,College,245126,Miami,6,North Carolina-Asheville,9,2/2/20,Women,0,2020,North Carolina-Asheville,Miami,9,6
+Presidents‚Äô Day Qualifier (Women),College,245242,California-Irvine,3,California-San Diego B,10,2/1/20,Women,0,2020,California-San Diego B,California-Irvine,10,3
+Presidents‚Äô Day Qualifier (Women),College,245243,Arizona,8,Colorado B,7,2/1/20,Women,0,2020,Arizona,Colorado B,8,7
+Mardi Gras XXXIII,College,245377,Central Florida,12,Florida B,4,1/1/20,Women,0,2020,Central Florida,Florida B,12,4
+Mardi Gras XXXIII,College,245378,LSU,5,Indiana,9,1/1/20,Women,0,2020,Indiana,LSU,9,5
+Mardi Gras XXXIII,College,245379,Central Florida,7,LSU,3,1/1/20,Women,0,2020,Central Florida,LSU,7,3
+Mardi Gras XXXIII,College,245380,Texas State,12,Indiana,3,1/1/20,Women,0,2020,Texas State,Indiana,12,3
+Mardi Gras XXXIII,College,245381,Indiana,9,Florida B,7,1/1/20,Women,0,2020,Indiana,Florida B,9,7
+Mardi Gras XXXIII,College,245382,Texas State,9,LSU,6,1/1/20,Women,0,2020,Texas State,LSU,9,6
+Mardi Gras XXXIII,College,245383,Central Florida,8,Indiana,9,1/1/20,Women,0,2020,Indiana,Central Florida,9,8
+Mardi Gras XXXIII,College,245384,Texas State,12,Florida B,4,1/1/20,Women,0,2020,Texas State,Florida B,12,4
+Mardi Gras XXXIII,College,245385,Central Florida,8,Texas State,6,1/1/20,Women,0,2020,Central Florida,Texas State,8,6
+Mardi Gras XXXIII,College,245386,LSU,7,Florida B,8,1/1/20,Women,0,2020,Florida B,LSU,8,7
+Mardi Gras XXXIII,College,245387,St Benedict,13,North Texas,6,1/1/20,Women,0,2020,St Benedict,North Texas,13,6
+Mardi Gras XXXIII,College,245388,Mississippi State,11,Tennessee-Chattanooga,4,1/1/20,Women,0,2020,Mississippi State,Tennessee-Chattanooga,11,4
+Mardi Gras XXXIII,College,245389,St Benedict,4,Mississippi State,13,1/1/20,Women,0,2020,Mississippi State,St Benedict,13,4
+Mardi Gras XXXIII,College,245390,Alabama,13,Tennessee-Chattanooga,0,1/1/20,Women,0,2020,Alabama,Tennessee-Chattanooga,13,0
+Mardi Gras XXXIII,College,245391,Tennessee-Chattanooga,10,North Texas,6,1/1/20,Women,0,2020,Tennessee-Chattanooga,North Texas,10,6
+Mardi Gras XXXIII,College,245392,Alabama,12,Mississippi State,4,1/1/20,Women,0,2020,Alabama,Mississippi State,12,4
+Mardi Gras XXXIII,College,245393,St Benedict,11,Tennessee-Chattanooga,9,1/1/20,Women,0,2020,St Benedict,Tennessee-Chattanooga,11,9
+Mardi Gras XXXIII,College,245394,Alabama,13,North Texas,2,1/1/20,Women,0,2020,Alabama,North Texas,13,2
+Mardi Gras XXXIII,College,245395,St Benedict,3,Alabama,13,1/1/20,Women,0,2020,Alabama,St Benedict,13,3
+Mardi Gras XXXIII,College,245396,Mississippi State,12,North Texas,1,1/1/20,Women,0,2020,Mississippi State,North Texas,12,1
+Mardi Gras XXXIII,College,245397,Mississippi State,8,Indiana,7,3/1/20,Women,0,2020,Mississippi State,Indiana,8,7
+Mardi Gras XXXIII,College,245398,Central Florida,13,St Benedict,4,3/1/20,Women,0,2020,Central Florida,St Benedict,13,4
+Mardi Gras XXXIII,College,245399,Texas State,11,Mississippi State,3,3/1/20,Women,0,2020,Texas State,Mississippi State,11,3
+Mardi Gras XXXIII,College,245400,Central Florida,1,Alabama,8,3/1/20,Women,0,2020,Alabama,Central Florida,8,1
+Mardi Gras XXXIII,College,245401,Texas State,9,Alabama,8,3/1/20,Women,0,2020,Texas State,Alabama,9,8
+Mardi Gras XXXIII,College,245402,Mississippi State,9,Central Florida,4,3/1/20,Women,0,2020,Mississippi State,Central Florida,9,4
+Mardi Gras XXXIII,College,245403,Indiana,13,St Benedict,6,3/1/20,Women,0,2020,Indiana,St Benedict,13,6
+Mardi Gras XXXIII,College,245405,Tennessee-Chattanooga,5,LSU,10,3/1/20,Women,0,2020,LSU,Tennessee-Chattanooga,10,5
+Mardi Gras XXXIII,College,245406,Florida B,6,LSU,7,3/1/20,Women,0,2020,LSU,Florida B,7,6
+Commonwealth Cup 2020 Weekend 1,College,245408,Maryland,6,Ohio,13,1/1/20,Women,0,2020,Ohio,Maryland,13,6
+Commonwealth Cup 2020 Weekend 1,College,245409,James Madison,12,Ohio,8,1/1/20,Women,0,2020,James Madison,Ohio,12,8
+Commonwealth Cup 2020 Weekend 1,College,245410,James Madison,13,Maryland,2,1/1/20,Women,0,2020,James Madison,Maryland,13,2
+Commonwealth Cup 2020 Weekend 1,College,245411,Georgetown,5,Boston University,12,1/1/20,Women,0,2020,Boston University,Georgetown,12,5
+Commonwealth Cup 2020 Weekend 1,College,245412,Case Western Reserve,9,Boston University,10,1/1/20,Women,0,2020,Boston University,Case Western Reserve,10,9
+Commonwealth Cup 2020 Weekend 1,College,245413,Case Western Reserve,13,Georgetown,7,1/1/20,Women,0,2020,Case Western Reserve,Georgetown,13,7
+Commonwealth Cup 2020 Weekend 1,College,245414,Liberty,9,Temple,10,1/1/20,Women,0,2020,Temple,Liberty,10,9
+Commonwealth Cup 2020 Weekend 1,College,245415,Mary Washington,12,Michigan B,1,1/1/20,Women,0,2020,Mary Washington,Michigan B,12,1
+Commonwealth Cup 2020 Weekend 1,College,245416,Liberty,13,Michigan B,1,1/1/20,Women,0,2020,Liberty,Michigan B,13,1
+Commonwealth Cup 2020 Weekend 1,College,245417,Mary Washington,8,Temple,7,1/1/20,Women,0,2020,Mary Washington,Temple,8,7
+Commonwealth Cup 2020 Weekend 1,College,245418,Liberty,10,Mary Washington,3,1/1/20,Women,0,2020,Liberty,Mary Washington,10,3
+Commonwealth Cup 2020 Weekend 1,College,245419,Temple,10,Michigan B,2,1/1/20,Women,0,2020,Temple,Michigan B,10,2
+Commonwealth Cup 2020 Weekend 1,College,245420,Boston College,13,North Carolina B,2,1/1/20,Women,0,2020,Boston College,North Carolina B,13,2
+Commonwealth Cup 2020 Weekend 1,College,245421,Virginia Tech,13,Franciscan,4,1/1/20,Women,0,2020,Virginia Tech,Franciscan,13,4
+Commonwealth Cup 2020 Weekend 1,College,245422,Boston College,13,Franciscan,3,1/1/20,Women,0,2020,Boston College,Franciscan,13,3
+Commonwealth Cup 2020 Weekend 1,College,245423,Virginia Tech,13,North Carolina B,1,1/1/20,Women,0,2020,Virginia Tech,North Carolina B,13,1
+Commonwealth Cup 2020 Weekend 1,College,245424,Boston College,6,Virginia Tech,9,1/1/20,Women,0,2020,Virginia Tech,Boston College,9,6
+Commonwealth Cup 2020 Weekend 1,College,245425,North Carolina B,12,Franciscan,6,1/1/20,Women,0,2020,North Carolina B,Franciscan,12,6
+Commonwealth Cup 2020 Weekend 1,College,245426,Swarthmore,11,George Mason,8,1/1/20,Women,0,2020,Swarthmore,George Mason,11,8
+Commonwealth Cup 2020 Weekend 1,College,245427,Pittsburgh B,12,Virginia B,2,1/1/20,Women,0,2020,Pittsburgh B,Virginia B,12,2
+Commonwealth Cup 2020 Weekend 1,College,245428,Swarthmore,11,Virginia B,8,1/1/20,Women,0,2020,Swarthmore,Virginia B,11,8
+Commonwealth Cup 2020 Weekend 1,College,245429,Pittsburgh B,7,George Mason,10,1/1/20,Women,0,2020,George Mason,Pittsburgh B,10,7
+Commonwealth Cup 2020 Weekend 1,College,245430,Swarthmore,9,Pittsburgh B,8,1/1/20,Women,0,2020,Swarthmore,Pittsburgh B,9,8
+Commonwealth Cup 2020 Weekend 1,College,245431,George Mason,13,Virginia B,5,1/1/20,Women,0,2020,George Mason,Virginia B,13,5
+Commonwealth Cup 2020 Weekend 1,College,245432,Catholic,11,Wake Forest,5,1/1/20,Women,0,2020,Catholic,Wake Forest,11,5
+Commonwealth Cup 2020 Weekend 1,College,245433,Connecticut,13,Ohio State B,1,1/1/20,Women,0,2020,Connecticut,Ohio State B,13,1
+Commonwealth Cup 2020 Weekend 1,College,245434,Catholic,12,Ohio State B,4,1/1/20,Women,0,2020,Catholic,Ohio State B,12,4
+Commonwealth Cup 2020 Weekend 1,College,245435,Connecticut,13,Wake Forest,4,1/1/20,Women,0,2020,Connecticut,Wake Forest,13,4
+Commonwealth Cup 2020 Weekend 1,College,245436,Catholic,2,Connecticut,13,1/1/20,Women,0,2020,Connecticut,Catholic,13,2
+Commonwealth Cup 2020 Weekend 1,College,245437,Wake Forest,13,Ohio State B,2,1/1/20,Women,0,2020,Wake Forest,Ohio State B,13,2
+Commonwealth Cup 2020 Weekend 1,College,245462,James Madison,9,Boston University,10,1/1/20,Women,0,2020,Boston University,James Madison,10,9
+Commonwealth Cup 2020 Weekend 1,College,245463,Case Western Reserve,7,Ohio,13,1/1/20,Women,0,2020,Ohio,Case Western Reserve,13,7
+Commonwealth Cup 2020 Weekend 1,College,245464,Maryland,8,Georgetown,10,1/1/20,Women,0,2020,Georgetown,Maryland,10,8
+Commonwealth Cup 2020 Weekend 1,College,245465,Virginia Tech,13,Swarthmore,7,1/1/20,Women,0,2020,Virginia Tech,Swarthmore,13,7
+Commonwealth Cup 2020 Weekend 1,College,245466,Maryland,4,Temple,11,1/1/20,Women,0,2020,Temple,Maryland,11,4
+Commonwealth Cup 2020 Weekend 1,College,245467,Liberty,8,Connecticut,6,1/1/20,Women,0,2020,Liberty,Connecticut,8,6
+Commonwealth Cup 2020 Weekend 1,College,245468,Georgetown,5,Boston College,9,1/1/20,Women,0,2020,Boston College,Georgetown,9,5
+Commonwealth Cup 2020 Weekend 1,College,245469,James Madison,10,Virginia Tech,9,1/1/20,Women,0,2020,James Madison,Virginia Tech,10,9
+Commonwealth Cup 2020 Weekend 1,College,245470,Case Western Reserve,11,Temple,6,1/1/20,Women,0,2020,Case Western Reserve,Temple,11,6
+Commonwealth Cup 2020 Weekend 1,College,245471,Boston University,9,Liberty,10,1/1/20,Women,0,2020,Liberty,Boston University,10,9
+Commonwealth Cup 2020 Weekend 1,College,245472,Ohio,13,Boston College,3,1/1/20,Women,0,2020,Ohio,Boston College,13,3
+Commonwealth Cup 2020 Weekend 1,College,245473,James Madison,10,Case Western Reserve,11,1/1/20,Women,0,2020,Case Western Reserve,James Madison,11,10
+Commonwealth Cup 2020 Weekend 1,College,245474,Liberty,2,Ohio,12,1/1/20,Women,0,2020,Ohio,Liberty,12,2
+Commonwealth Cup 2020 Weekend 1,College,245475,Case Western Reserve,7,Ohio,9,1/1/20,Women,0,2020,Ohio,Case Western Reserve,9,7
+Commonwealth Cup 2020 Weekend 1,College,245476,James Madison,13,Liberty,5,1/1/20,Women,0,2020,James Madison,Liberty,13,5
+Commonwealth Cup 2020 Weekend 1,College,245477,Virginia Tech,7,Temple,9,1/1/20,Women,0,2020,Temple,Virginia Tech,9,7
+Commonwealth Cup 2020 Weekend 1,College,245478,Boston University,11,Boston College,7,1/1/20,Women,0,2020,Boston University,Boston College,11,7
+Commonwealth Cup 2020 Weekend 1,College,245479,Temple,7,Boston University,9,1/1/20,Women,0,2020,Boston University,Temple,9,7
+Commonwealth Cup 2020 Weekend 1,College,245480,Virginia Tech,9,Boston College,8,1/1/20,Women,0,2020,Virginia Tech,Boston College,9,8
+Presidents‚Äô Day Qualifier (Women),College,245615,Occidental,8,California-San Diego B,7,2/2/20,Women,0,2020,Occidental,California-San Diego B,8,7
+Presidents‚Äô Day Qualifier (Women),College,245616,Chico State,9,UCLA B,7,2/2/20,Women,0,2020,Chico State,UCLA B,9,7
+Presidents‚Äô Day Qualifier (Women),College,245617,Cal State-Long Beach,10,California-Santa Cruz,9,2/2/20,Women,0,2020,Cal State-Long Beach,California-Santa Cruz,10,9
+Presidents‚Äô Day Qualifier (Women),College,245618,Southern California,9,Arizona State,2,2/2/20,Women,0,2020,Southern California,Arizona State,9,2
+Presidents‚Äô Day Qualifier (Women),College,245619,Occidental,8,Chico State,10,2/2/20,Women,0,2020,Chico State,Occidental,10,8
+Presidents‚Äô Day Qualifier (Women),College,245620,Cal State-Long Beach,5,Southern California,9,2/2/20,Women,0,2020,Southern California,Cal State-Long Beach,9,5
+Presidents‚Äô Day Qualifier (Women),College,245621,Chico State,8,Southern California,11,2/2/20,Women,0,2020,Southern California,Chico State,11,8
+Presidents‚Äô Day Qualifier (Women),College,245622,California-San Diego B,4,California-Santa Cruz,8,2/2/20,Women,0,2020,California-Santa Cruz,California-San Diego B,8,4
+Presidents‚Äô Day Qualifier (Women),College,245623,UCLA B,10,Arizona State,5,2/2/20,Women,0,2020,UCLA B,Arizona State,10,5
+Presidents‚Äô Day Qualifier (Women),College,245624,California-Santa Cruz,11,Occidental,9,2/2/20,Women,0,2020,California-Santa Cruz,Occidental,11,9
+Presidents‚Äô Day Qualifier (Women),College,245625,UCLA B,3,Cal State-Long Beach,9,2/2/20,Women,0,2020,Cal State-Long Beach,UCLA B,9,3
+Presidents‚Äô Day Qualifier (Women),College,245626,Colorado B,10,California-Davis B,4,2/2/20,Women,0,2020,Colorado B,California-Davis B,10,4
+Presidents‚Äô Day Qualifier (Women),College,245627,California B,5,California-Irvine,12,2/2/20,Women,0,2020,California-Irvine,California B,12,5
+Presidents‚Äô Day Qualifier (Women),College,245628,Colorado B,8,California-Irvine,4,2/2/20,Women,0,2020,Colorado B,California-Irvine,8,4
+Presidents‚Äô Day Qualifier (Women),College,245629,Arizona,8,California-Davis B,3,2/2/20,Women,0,2020,Arizona,California-Davis B,8,3
+Presidents‚Äô Day Qualifier (Women),College,245630,California-Davis B,4,California-Irvine,6,2/2/20,Women,0,2020,California-Irvine,California-Davis B,6,4
+Presidents‚Äô Day Qualifier (Women),College,245631,Arizona,7,California B,8,2/2/20,Women,0,2020,California B,Arizona,8,7
+Presidents‚Äô Day Qualifier (Women),College,245632,Colorado B,8,California B,5,2/2/20,Women,0,2020,Colorado B,California B,8,5
+TowsonTown Throwdown 2020,College,245670,American,15,Christopher Newport,5,2/8/20,Women,0,2020,American,Christopher Newport,15,5
+TowsonTown Throwdown 2020,College,245671,Towson,15,George Mason,6,2/9/20,Women,0,2020,Towson,George Mason,15,6
+TowsonTown Throwdown 2020,College,245672,Maryland-Baltimore County,15,Towson B,1,2/8/20,Women,0,2020,Maryland-Baltimore County,Towson B,15,1
+TowsonTown Throwdown 2020,College,245673,American B,0,George Washington B,13,2/9/20,Women,0,2020,George Washington B,American B,13,0
+TowsonTown Throwdown 2020,College,245674,American,8,Towson B,0,2/9/20,Women,0,2020,American,Towson B,8,0
+TowsonTown Throwdown 2020,College,245675,Towson,13,George Washington B,4,2/9/20,Women,0,2020,Towson,George Washington B,13,4
+TowsonTown Throwdown 2020,College,245676,Richmond,10,American B,0,2/8/20,Women,0,2020,Richmond,American B,10,0
+TowsonTown Throwdown 2020,College,245677,George Mason,10,Maryland-Baltimore County,4,2/9/20,Women,0,2020,George Mason,Maryland-Baltimore County,10,4
+TowsonTown Throwdown 2020,College,245678,Richmond,15,Towson B,1,2/9/20,Women,0,2020,Richmond,Towson B,15,1
+TowsonTown Throwdown 2020,College,245679,Christopher Newport,10,American B,1,2/9/20,Women,0,2020,Christopher Newport,American B,10,1
+TowsonTown Throwdown 2020,College,245680,American,10,George Mason,9,2/8/20,Women,0,2020,American,George Mason,10,9
+TowsonTown Throwdown 2020,College,245681,Towson,8,Richmond,9,2/8/20,Women,0,2020,Richmond,Towson,9,8
+TowsonTown Throwdown 2020,College,245682,Christopher Newport,9,Towson B,2,2/8/20,Women,0,2020,Christopher Newport,Towson B,9,2
+TowsonTown Throwdown 2020,College,245683,American,13,George Washington B,4,2/8/20,Women,0,2020,American,George Washington B,13,4
+TowsonTown Throwdown 2020,College,245684,Towson,15,American B,0,2/8/20,Women,0,2020,Towson,American B,15,0
+TowsonTown Throwdown 2020,College,245685,Richmond,13,Maryland-Baltimore County,5,2/8/20,Women,0,2020,Richmond,Maryland-Baltimore County,13,5
+TowsonTown Throwdown 2020,College,245686,George Mason,14,Christopher Newport,1,2/8/20,Women,0,2020,George Mason,Christopher Newport,14,1
+TowsonTown Throwdown 2020,College,245687,American,7,Richmond,9,2/9/20,Women,0,2020,Richmond,American,9,7
+TowsonTown Throwdown 2020,College,245688,George Mason,15,Towson B,0,2/9/20,Women,0,2020,George Mason,Towson B,15,0
+TowsonTown Throwdown 2020,College,245689,Christopher Newport,4,George Washington B,12,2/8/20,Women,0,2020,George Washington B,Christopher Newport,12,4
+TowsonTown Throwdown 2020,College,245690,Maryland-Baltimore County,10,American B,0,2/8/20,Women,0,2020,Maryland-Baltimore County,American B,10,0
+TowsonTown Throwdown 2020,College,245691,Towson,14,Maryland-Baltimore County,10,2/8/20,Women,0,2020,Towson,Maryland-Baltimore County,14,10
+TowsonTown Throwdown 2020,College,245692,George Washington B,13,Towson B,0,2/8/20,Women,0,2020,George Washington B,Towson B,13,0
+TowsonTown Throwdown 2020,College,245693,American,5,Towson,10,2/8/20,Women,0,2020,Towson,American,10,5
+TowsonTown Throwdown 2020,College,245694,George Mason,11,George Washington B,3,2/8/20,Women,0,2020,George Mason,George Washington B,11,3
+TowsonTown Throwdown 2020,College,245695,American,13,Maryland-Baltimore County,2,2/9/20,Women,0,2020,American,Maryland-Baltimore County,13,2
+TowsonTown Throwdown 2020,College,245696,Towson,13,Christopher Newport,4,2/9/20,Women,0,2020,Towson,Christopher Newport,13,4
+TowsonTown Throwdown 2020,College,245697,Richmond,9,George Mason,10,2/8/20,Women,0,2020,George Mason,Richmond,10,9
+TowsonTown Throwdown 2020,College,245698,American B,3,Towson B,2,2/8/20,Women,0,2020,American B,Towson B,3,2
+TowsonTown Throwdown 2020,College,245699,Towson,8,Towson B,1,2/9/20,Women,0,2020,Towson,Towson B,8,1
+TowsonTown Throwdown 2020,College,245700,Richmond,12,George Washington B,5,2/9/20,Women,0,2020,Richmond,George Washington B,12,5
+TowsonTown Throwdown 2020,College,245701,Christopher Newport,6,Maryland-Baltimore County,11,2/9/20,Women,0,2020,Maryland-Baltimore County,Christopher Newport,11,6
+Bring The Huckus 10 2020,College,245784,West Chester,11,Skidmore,6,1/1/20,Women,0,2020,West Chester,Skidmore,11,6
+Bring The Huckus 10 2020,College,245785,SUNY-Geneseo,6,Haverford/Bryn Mawr,5,1/1/20,Women,0,2020,SUNY-Geneseo,Haverford/Bryn Mawr,6,5
+Bring The Huckus 10 2020,College,245786,West Chester,9,Haverford/Bryn Mawr,7,1/1/20,Women,0,2020,West Chester,Haverford/Bryn Mawr,9,7
+Bring The Huckus 10 2020,College,245787,SUNY-Geneseo,2,Skidmore,9,1/1/20,Women,0,2020,Skidmore,SUNY-Geneseo,9,2
+Bring The Huckus 10 2020,College,245788,West Chester,7,SUNY-Geneseo,5,1/1/20,Women,0,2020,West Chester,SUNY-Geneseo,7,5
+Bring The Huckus 10 2020,College,245789,Skidmore,9,Haverford/Bryn Mawr,5,1/1/20,Women,0,2020,Skidmore,Haverford/Bryn Mawr,9,5
+Bring The Huckus 10 2020,College,245790,Wesleyan,9,Amherst College,1,1/1/20,Women,0,2020,Wesleyan,Amherst College,9,1
+Bring The Huckus 10 2020,College,245791,Swarthmore,11,SUNY-Albany,3,1/1/20,Women,0,2020,Swarthmore,SUNY-Albany,11,3
+Bring The Huckus 10 2020,College,245792,Wesleyan,8,SUNY-Albany,2,1/1/20,Women,0,2020,Wesleyan,SUNY-Albany,8,2
+Bring The Huckus 10 2020,College,245793,Swarthmore,7,Amherst College,5,1/1/20,Women,0,2020,Swarthmore,Amherst College,7,5
+Bring The Huckus 10 2020,College,245794,Wesleyan,9,Swarthmore,7,1/1/20,Women,0,2020,Wesleyan,Swarthmore,9,7
+Bring The Huckus 10 2020,College,245795,Amherst College,8,SUNY-Albany,4,1/1/20,Women,0,2020,Amherst College,SUNY-Albany,8,4
+Bring The Huckus 10 2020,College,245796,NYU,13,Muhlenberg,1,1/1/20,Women,0,2020,NYU,Muhlenberg,13,1
+Bring The Huckus 10 2020,College,245797,Ithaca,9,Haverford/Bryn Mawr B,2,1/1/20,Women,0,2020,Ithaca,Haverford/Bryn Mawr B,9,2
+Bring The Huckus 10 2020,College,245798,NYU,13,Haverford/Bryn Mawr B,1,1/1/20,Women,0,2020,NYU,Haverford/Bryn Mawr B,13,1
+Bring The Huckus 10 2020,College,245799,Ithaca,8,Muhlenberg,3,1/1/20,Women,0,2020,Ithaca,Muhlenberg,8,3
+Bring The Huckus 10 2020,College,245800,NYU,9,Ithaca,3,1/1/20,Women,0,2020,NYU,Ithaca,9,3
+Bring The Huckus 10 2020,College,245801,Muhlenberg,6,Haverford/Bryn Mawr B,4,1/1/20,Women,0,2020,Muhlenberg,Haverford/Bryn Mawr B,6,4
+Bring The Huckus 10 2020,College,245802,Northeastern B,8,Shippensburg,5,1/1/20,Women,0,2020,Northeastern B,Shippensburg,8,5
+Bring The Huckus 10 2020,College,245803,SUNY Cortland,4,Temple B,2,1/1/20,Women,0,2020,SUNY Cortland,Temple B,4,2
+Bring The Huckus 10 2020,College,245804,Northeastern B,7,Temple B,2,1/1/20,Women,0,2020,Northeastern B,Temple B,7,2
+Bring The Huckus 10 2020,College,245805,SUNY Cortland,3,Shippensburg,6,1/1/20,Women,0,2020,Shippensburg,SUNY Cortland,6,3
+Bring The Huckus 10 2020,College,245806,Northeastern B,8,SUNY Cortland,3,1/1/20,Women,0,2020,Northeastern B,SUNY Cortland,8,3
+Bring The Huckus 10 2020,College,245807,Shippensburg,6,Temple B,4,1/1/20,Women,0,2020,Shippensburg,Temple B,6,4
+Bring The Huckus 10 2020,College,245871,Northeastern B,8,Shippensburg,2,1/1/20,Women,0,2020,Northeastern B,Shippensburg,8,2
+Bring The Huckus 10 2020,College,245875,Northeastern B,2,West Chester,9,1/1/20,Women,0,2020,West Chester,Northeastern B,9,2
+Bring The Huckus 10 2020,College,245876,SUNY-Geneseo,7,Swarthmore,9,1/1/20,Women,0,2020,Swarthmore,SUNY-Geneseo,9,7
+Bring The Huckus 10 2020,College,245878,Wesleyan,7,Haverford/Bryn Mawr,9,1/1/20,Women,0,2020,Haverford/Bryn Mawr,Wesleyan,9,7
+Bring The Huckus 10 2020,College,245879,West Chester,8,Swarthmore,5,1/1/20,Women,0,2020,West Chester,Swarthmore,8,5
+Bring The Huckus 10 2020,College,245880,Skidmore,11,Haverford/Bryn Mawr,7,1/1/20,Women,0,2020,Skidmore,Haverford/Bryn Mawr,11,7
+Bring The Huckus 10 2020,College,245881,West Chester,9,Skidmore,10,1/1/20,Women,0,2020,Skidmore,West Chester,10,9
+Bring The Huckus 10 2020,College,245888,Shippensburg,6,SUNY-Albany,9,1/1/20,Women,0,2020,SUNY-Albany,Shippensburg,9,6
+Bring The Huckus 10 2020,College,245889,Ithaca,7,Amherst College,15,1/1/20,Women,0,2020,Amherst College,Ithaca,15,7
+Bring The Huckus 10 2020,College,245890,SUNY-Albany,7,Amherst College,10,1/1/20,Women,0,2020,Amherst College,SUNY-Albany,10,7
+Bring The Huckus 10 2020,College,245891,Northeastern B,4,Wesleyan,8,1/1/20,Women,0,2020,Wesleyan,Northeastern B,8,4
+Bring The Huckus 10 2020,College,245892,Northeastern B,1,SUNY-Geneseo,13,1/1/20,Women,0,2020,SUNY-Geneseo,Northeastern B,13,1
+Bring The Huckus 10 2020,College,245893,NYU,8,Wesleyan,6,1/1/20,Women,0,2020,NYU,Wesleyan,8,6
+Bring The Huckus 10 2020,College,245894,SUNY-Geneseo,6,NYU,8,1/1/20,Women,0,2020,NYU,SUNY-Geneseo,8,6
+Bring The Huckus 10 2020,College,245895,Swarthmore,3,Haverford/Bryn Mawr,10,1/1/20,Women,0,2020,Haverford/Bryn Mawr,Swarthmore,10,3
+Bring The Huckus 10 2020,College,245896,Haverford/Bryn Mawr,11,NYU,5,1/1/20,Women,0,2020,Haverford/Bryn Mawr,NYU,11,5
+Bring The Huckus 10 2020,College,245897,SUNY-Albany,4,Northeastern B,7,1/1/20,Women,0,2020,Northeastern B,SUNY-Albany,7,4
+Bring The Huckus 10 2020,College,245900,Temple B,6,Haverford/Bryn Mawr B,7,1/1/20,Women,0,2020,Haverford/Bryn Mawr B,Temple B,7,6
+Bring The Huckus 10 2020,College,245902,Haverford/Bryn Mawr B,1,SUNY Cortland,8,1/1/20,Women,0,2020,SUNY Cortland,Haverford/Bryn Mawr B,8,1
+Bring The Huckus 10 2020,College,245904,Muhlenberg,2,Temple B,3,1/1/20,Women,0,2020,Temple B,Muhlenberg,3,2
+Bring The Huckus 10 2020,College,245905,SUNY Cortland,3,Haverford/Bryn Mawr B,0,1/1/20,Women,0,2020,SUNY Cortland,Haverford/Bryn Mawr B,3,0
+Bring The Huckus 10 2020,College,245907,SUNY-Geneseo,13,SUNY-Albany,2,1/1/20,Women,0,2020,SUNY-Geneseo,SUNY-Albany,13,2
+Bring The Huckus 10 2020,College,245909,SUNY-Geneseo,9,Ithaca,3,1/1/20,Women,0,2020,SUNY-Geneseo,Ithaca,9,3
+Bring The Huckus 10 2020,College,245910,Amherst College,11,Shippensburg,5,1/1/20,Women,0,2020,Amherst College,Shippensburg,11,5
+Queen City Tune Up 2020 (Women),College,245938,Carleton College,13,Pennsylvania,2,2/8/20,Women,0,2020,Carleton College,Pennsylvania,13,2
+Queen City Tune Up 2020 (Women),College,245939,Michigan,8,North Carolina-Wilmington,7,2/8/20,Women,0,2020,Michigan,North Carolina-Wilmington,8,7
+Queen City Tune Up 2020 (Women),College,245940,Carleton College,13,Michigan,3,2/8/20,Women,0,2020,Carleton College,Michigan,13,3
+Queen City Tune Up 2020 (Women),College,245941,Virginia,12,North Carolina-Wilmington,4,2/8/20,Women,0,2020,Virginia,North Carolina-Wilmington,12,4
+Queen City Tune Up 2020 (Women),College,245942,North Carolina-Wilmington,6,Pennsylvania,8,2/8/20,Women,0,2020,Pennsylvania,North Carolina-Wilmington,8,6
+Queen City Tune Up 2020 (Women),College,245943,Virginia,9,Michigan,8,2/8/20,Women,0,2020,Virginia,Michigan,9,8
+Queen City Tune Up 2020 (Women),College,245944,Carleton College,13,North Carolina-Wilmington,0,2/8/20,Women,0,2020,Carleton College,North Carolina-Wilmington,13,0
+Queen City Tune Up 2020 (Women),College,245945,Virginia,10,Pennsylvania,7,2/8/20,Women,0,2020,Virginia,Pennsylvania,10,7
+Queen City Tune Up 2020 (Women),College,245946,Carleton College,13,Virginia,6,2/8/20,Women,0,2020,Carleton College,Virginia,13,6
+Queen City Tune Up 2020 (Women),College,245947,Michigan,12,Pennsylvania,5,2/8/20,Women,0,2020,Michigan,Pennsylvania,12,5
+Queen City Tune Up 2020 (Women),College,245948,North Carolina,8,William & Mary,5,2/8/20,Women,0,2020,North Carolina,William & Mary,8,5
+Queen City Tune Up 2020 (Women),College,245949,Appalachian State,4,Georgia Tech,13,2/8/20,Women,0,2020,Georgia Tech,Appalachian State,13,4
+Queen City Tune Up 2020 (Women),College,245950,North Carolina,13,Appalachian State,3,2/8/20,Women,0,2020,North Carolina,Appalachian State,13,3
+Queen City Tune Up 2020 (Women),College,245951,Pittsburgh,5,Georgia Tech,9,2/8/20,Women,0,2020,Georgia Tech,Pittsburgh,9,5
+Queen City Tune Up 2020 (Women),College,245952,Georgia Tech,10,William & Mary,5,2/8/20,Women,0,2020,Georgia Tech,William & Mary,10,5
+Queen City Tune Up 2020 (Women),College,245953,Pittsburgh,13,Appalachian State,3,2/8/20,Women,0,2020,Pittsburgh,Appalachian State,13,3
+Queen City Tune Up 2020 (Women),College,245954,North Carolina,13,Georgia Tech,3,2/8/20,Women,0,2020,North Carolina,Georgia Tech,13,3
+Queen City Tune Up 2020 (Women),College,245955,Pittsburgh,11,William & Mary,3,2/8/20,Women,0,2020,Pittsburgh,William & Mary,11,3
+Queen City Tune Up 2020 (Women),College,245956,North Carolina,11,Pittsburgh,5,2/8/20,Women,0,2020,North Carolina,Pittsburgh,11,5
+Queen City Tune Up 2020 (Women),College,245957,Appalachian State,6,William & Mary,12,2/8/20,Women,0,2020,William & Mary,Appalachian State,12,6
+Queen City Tune Up 2020 (Women),College,245958,Ohio State,8,Vanderbilt,6,2/8/20,Women,0,2020,Ohio State,Vanderbilt,8,6
+Queen City Tune Up 2020 (Women),College,245959,North Carolina State,12,Penn State,6,2/8/20,Women,0,2020,North Carolina State,Penn State,12,6
+Queen City Tune Up 2020 (Women),College,245960,Ohio State,11,North Carolina State,7,2/8/20,Women,0,2020,Ohio State,North Carolina State,11,7
+Queen City Tune Up 2020 (Women),College,245961,South Carolina,10,Penn State,4,2/8/20,Women,0,2020,South Carolina,Penn State,10,4
+Queen City Tune Up 2020 (Women),College,245962,Penn State,5,Vanderbilt,8,2/8/20,Women,0,2020,Vanderbilt,Penn State,8,5
+Queen City Tune Up 2020 (Women),College,245963,South Carolina,8,North Carolina State,2,2/8/20,Women,0,2020,South Carolina,North Carolina State,8,2
+Queen City Tune Up 2020 (Women),College,245964,Ohio State,11,Penn State,7,2/8/20,Women,0,2020,Ohio State,Penn State,11,7
+Queen City Tune Up 2020 (Women),College,245965,South Carolina,9,Vanderbilt,4,2/8/20,Women,0,2020,South Carolina,Vanderbilt,9,4
+Queen City Tune Up 2020 (Women),College,245966,Ohio State,11,South Carolina,4,2/8/20,Women,0,2020,Ohio State,South Carolina,11,4
+Queen City Tune Up 2020 (Women),College,245967,North Carolina State,7,Vanderbilt,6,2/8/20,Women,0,2020,North Carolina State,Vanderbilt,7,6
+Queen City Tune Up 2020 (Women),College,245968,Georgia,11,Clemson,4,2/8/20,Women,0,2020,Georgia,Clemson,11,4
+Queen City Tune Up 2020 (Women),College,245969,Tufts,11,Notre Dame,3,2/8/20,Women,0,2020,Tufts,Notre Dame,11,3
+Queen City Tune Up 2020 (Women),College,245970,Duke,7,Brigham Young,11,2/8/20,Women,0,2020,Brigham Young,Duke,11,7
+Queen City Tune Up 2020 (Women),College,245971,Georgia,8,Tufts,9,2/8/20,Women,0,2020,Tufts,Georgia,9,8
+Queen City Tune Up 2020 (Women),College,245972,Clemson,3,Duke,10,2/8/20,Women,0,2020,Duke,Clemson,10,3
+Queen City Tune Up 2020 (Women),College,245973,Notre Dame,6,Brigham Young,7,2/8/20,Women,0,2020,Brigham Young,Notre Dame,7,6
+Queen City Tune Up 2020 (Women),College,245974,Georgia,8,Duke,9,2/8/20,Women,0,2020,Duke,Georgia,9,8
+Queen City Tune Up 2020 (Women),College,245975,Tufts,11,Brigham Young,6,2/8/20,Women,0,2020,Tufts,Brigham Young,11,6
+Queen City Tune Up 2020 (Women),College,245978,Tufts,11,Clemson,1,2/8/20,Women,0,2020,Tufts,Clemson,11,1
+Queen City Tune Up 2020 (Women),College,245979,Duke,8,Notre Dame,5,2/8/20,Women,0,2020,Duke,Notre Dame,8,5
+Queen City Tune Up 2020 (Women),College,245980,Georgia,8,Notre Dame,5,2/8/20,Women,0,2020,Georgia,Notre Dame,8,5
+Queen City Tune Up 2020 (Women),College,245982,Clemson,4,Brigham Young,11,2/8/20,Women,0,2020,Brigham Young,Clemson,11,4
+Queen City Tune Up 2020 (Women),College,245987,Carleton College,11,Tufts,10,2/9/20,Women,0,2020,Carleton College,Tufts,11,10
+Queen City Tune Up 2020 (Women),College,245988,Ohio State,9,North Carolina,13,2/9/20,Women,0,2020,North Carolina,Ohio State,13,9
+Queen City Tune Up 2020 (Women),College,245989,Carleton College,12,North Carolina,9,2/9/20,Women,0,2020,Carleton College,North Carolina,12,9
+Queen City Tune Up 2020 (Women),College,245994,South Carolina,7,Georgia Tech,9,2/9/20,Women,0,2020,Georgia Tech,South Carolina,9,7
+Queen City Tune Up 2020 (Women),College,245995,Virginia,10,Duke,8,2/9/20,Women,0,2020,Virginia,Duke,10,8
+Queen City Tune Up 2020 (Women),College,246020,Michigan,7,Georgia,8,2/9/20,Women,0,2020,Georgia,Michigan,8,7
+Queen City Tune Up 2020 (Women),College,246021,North Carolina State,4,Pittsburgh,10,2/9/20,Women,0,2020,Pittsburgh,North Carolina State,10,4
+Queen City Tune Up 2020 (Women),College,246024,Vanderbilt,7,William & Mary,8,2/9/20,Women,0,2020,William & Mary,Vanderbilt,8,7
+Queen City Tune Up 2020 (Women),College,246025,Notre Dame,6,Pennsylvania,11,2/9/20,Women,0,2020,Pennsylvania,Notre Dame,11,6
+Queen City Tune Up 2020 (Women),College,246028,North Carolina-Wilmington,13,Clemson,2,2/9/20,Women,0,2020,North Carolina-Wilmington,Clemson,13,2
+Queen City Tune Up 2020 (Women),College,246029,Appalachian State,6,Penn State,8,2/9/20,Women,0,2020,Penn State,Appalachian State,8,6
+Stanford Open 2020,College,246121,Carleton College,13,Sonoma State,2,2/8/20,Women,0,2020,Carleton College,Sonoma State,13,2
+Stanford Open 2020,College,246123,Pacific Lutheran,10,Sonoma State,3,2/8/20,Women,0,2020,Pacific Lutheran,Sonoma State,10,3
+Stanford Open 2020,College,246124,Sonoma State,4,UCLA B,10,2/8/20,Women,0,2020,UCLA B,Sonoma State,10,4
+Stanford Open 2020,College,246125,Pacific Lutheran,2,Carleton College,13,2/8/20,Women,0,2020,Carleton College,Pacific Lutheran,13,2
+Stanford Open 2020,College,246127,Pacific Lutheran,11,UCLA B,6,2/8/20,Women,0,2020,Pacific Lutheran,UCLA B,11,6
+Stanford Open 2020,College,246129,Carleton College,8,UCLA B,5,2/8/20,Women,0,2020,Carleton College,UCLA B,8,5
+Stanford Open 2020,College,246130,California-Davis,13,Cal Poly SLO B,0,2/8/20,Women,0,2020,California-Davis,Cal Poly SLO B,13,0
+Stanford Open 2020,College,246133,Puget Sound,13,Claremont,2,2/8/20,Women,0,2020,Puget Sound,Claremont,13,2
+Stanford Open 2020,College,246134,Claremont,8,Cal Poly SLO B,7,2/8/20,Women,0,2020,Claremont,Cal Poly SLO B,8,7
+Stanford Open 2020,College,246136,California-Davis,13,Claremont,1,2/8/20,Women,0,2020,California-Davis,Claremont,13,1
+Stanford Open 2020,College,246137,Puget Sound,8,Cal Poly SLO B,4,2/8/20,Women,0,2020,Puget Sound,Cal Poly SLO B,8,4
+Stanford Open 2020,College,246138,California-Davis,9,Puget Sound,6,2/8/20,Women,0,2020,California-Davis,Puget Sound,9,6
+Stanford Open 2020,College,246140,Portland,13,Stanford B,0,2/8/20,Women,0,2020,Portland,Stanford B,13,0
+Stanford Open 2020,College,246141,Santa Clara,13,Air Force,4,2/8/20,Women,0,2020,Santa Clara,Air Force,13,4
+Stanford Open 2020,College,246142,Portland,13,Santa Clara,6,2/8/20,Women,0,2020,Portland,Santa Clara,13,6
+Stanford Open 2020,College,246143,Chico State,11,Air Force,4,2/8/20,Women,0,2020,Chico State,Air Force,11,4
+Stanford Open 2020,College,246144,Air Force,4,Stanford B,7,2/8/20,Women,0,2020,Stanford B,Air Force,7,4
+Stanford Open 2020,College,246145,Chico State,10,Santa Clara,7,2/8/20,Women,0,2020,Chico State,Santa Clara,10,7
+Stanford Open 2020,College,246146,Portland,13,Air Force,3,2/8/20,Women,0,2020,Portland,Air Force,13,3
+Stanford Open 2020,College,246147,Chico State,7,Stanford B,8,2/8/20,Women,0,2020,Stanford B,Chico State,8,7
+Stanford Open 2020,College,246148,Portland,10,Chico State,6,2/8/20,Women,0,2020,Portland,Chico State,10,6
+Stanford Open 2020,College,246149,Santa Clara,12,Stanford B,2,2/8/20,Women,0,2020,Santa Clara,Stanford B,12,2
+Stanford Open 2020,College,246151,Lewis & Clark,6,Humboldt State,9,2/8/20,Women,0,2020,Humboldt State,Lewis & Clark,9,6
+Stanford Open 2020,College,246152,California-Santa Cruz,13,Lewis & Clark,6,2/8/20,Women,0,2020,California-Santa Cruz,Lewis & Clark,13,6
+Stanford Open 2020,College,246153,San Diego State University,13,Humboldt State,1,2/8/20,Women,0,2020,San Diego State University,Humboldt State,13,1
+Stanford Open 2020,College,246155,San Diego State University,13,Lewis & Clark,0,2/8/20,Women,0,2020,San Diego State University,Lewis & Clark,13,0
+Stanford Open 2020,College,246156,California-Santa Cruz,13,Humboldt State,1,2/8/20,Women,0,2020,California-Santa Cruz,Humboldt State,13,1
+Stanford Open 2020,College,246158,California-Santa Cruz,13,San Diego State University,4,2/8/20,Women,0,2020,California-Santa Cruz,San Diego State University,13,4
+Commonwealth Cup 2020 Weekend 1,College,246196,Catholic,3,Temple,13,1/1/20,Women,0,2020,Temple,Catholic,13,3
+Commonwealth Cup 2020 Weekend 1,College,246197,George Mason,5,Boston College,12,1/1/20,Women,0,2020,Boston College,George Mason,12,5
+Commonwealth Cup 2020 Weekend 1,College,246199,Catholic,10,George Mason,6,1/1/20,Women,0,2020,Catholic,George Mason,10,6
+Commonwealth Cup 2020 Weekend 1,College,246200,Catholic,8,Swarthmore,9,1/1/20,Women,0,2020,Swarthmore,Catholic,9,8
+Commonwealth Cup 2020 Weekend 1,College,246201,George Mason,11,Maryland,12,1/1/20,Women,0,2020,Maryland,George Mason,12,11
+Commonwealth Cup 2020 Weekend 1,College,246202,Connecticut,10,Georgetown,9,1/1/20,Women,0,2020,Connecticut,Georgetown,10,9
+Commonwealth Cup 2020 Weekend 1,College,246203,Swarthmore,13,Connecticut,10,1/1/20,Women,0,2020,Swarthmore,Connecticut,13,10
+Commonwealth Cup 2020 Weekend 1,College,246204,Maryland,7,Georgetown,9,1/1/20,Women,0,2020,Georgetown,Maryland,9,7
+Commonwealth Cup 2020 Weekend 1,College,246205,Mary Washington,7,Pittsburgh B,8,1/1/20,Women,0,2020,Pittsburgh B,Mary Washington,8,7
+Commonwealth Cup 2020 Weekend 1,College,246206,North Carolina B,6,Wake Forest,9,1/1/20,Women,0,2020,Wake Forest,North Carolina B,9,6
+Commonwealth Cup 2020 Weekend 1,College,246207,Mary Washington,10,Wake Forest,8,1/1/20,Women,0,2020,Mary Washington,Wake Forest,10,8
+Commonwealth Cup 2020 Weekend 1,College,246208,North Carolina B,1,Pittsburgh B,13,1/1/20,Women,0,2020,Pittsburgh B,North Carolina B,13,1
+Commonwealth Cup 2020 Weekend 1,College,246209,Mary Washington,13,North Carolina B,0,1/1/20,Women,0,2020,Mary Washington,North Carolina B,13,0
+Commonwealth Cup 2020 Weekend 1,College,246210,Pittsburgh B,7,Wake Forest,11,1/1/20,Women,0,2020,Wake Forest,Pittsburgh B,11,7
+Commonwealth Cup 2020 Weekend 1,College,246211,Ohio State B,6,Franciscan,11,1/1/20,Women,0,2020,Franciscan,Ohio State B,11,6
+Commonwealth Cup 2020 Weekend 1,College,246212,Ohio State B,6,Michigan B,12,1/1/20,Women,0,2020,Michigan B,Ohio State B,12,6
+Commonwealth Cup 2020 Weekend 1,College,246213,Virginia B,9,Franciscan,7,1/1/20,Women,0,2020,Virginia B,Franciscan,9,7
+Commonwealth Cup 2020 Weekend 1,College,246214,Ohio State B,4,Virginia B,12,1/1/20,Women,0,2020,Virginia B,Ohio State B,12,4
+Commonwealth Cup 2020 Weekend 1,College,246216,Virginia B,8,Michigan B,9,1/1/20,Women,0,2020,Michigan B,Virginia B,9,8
+Stanford Open 2020,College,246230,California-Santa Cruz,7,Santa Clara,5,2/9/20,Women,0,2020,California-Santa Cruz,Santa Clara,7,5
+Stanford Open 2020,College,246231,Portland,7,San Diego State University,6,2/9/20,Women,0,2020,Portland,San Diego State University,7,6
+Stanford Open 2020,College,246232,Carleton College,4,California-Davis,5,2/9/20,Women,0,2020,California-Davis,Carleton College,5,4
+Stanford Open 2020,College,246234,Portland,3,California-Davis,8,2/9/20,Women,0,2020,California-Davis,Portland,8,3
+Stanford Open 2020,College,246235,California-Santa Cruz,6,California-Davis,5,2/9/20,Women,0,2020,California-Santa Cruz,California-Davis,6,5
+Stanford Open 2020,College,246237,San Diego State University,11,Carleton College,0,2/9/20,Women,0,2020,San Diego State University,Carleton College,11,0
+Stanford Open 2020,College,246239,Santa Clara,6,Carleton College,9,2/9/20,Women,0,2020,Carleton College,Santa Clara,9,6
+Bates Second Annual First Big Dance,College,246326,Bates,10,Amherst College,4,3/1/20,Women,0,2020,Bates,Amherst College,10,4
+Bates Second Annual First Big Dance,College,246327,Colby,10,Bowdoin,4,3/1/20,Women,0,2020,Colby,Bowdoin,10,4
+Bates Second Annual First Big Dance,College,246328,Bates,7,Colby,9,3/1/20,Women,0,2020,Colby,Bates,9,7
+Bates Second Annual First Big Dance,College,246329,Mount Holyoke,11,Bowdoin,2,3/1/20,Women,0,2020,Mount Holyoke,Bowdoin,11,2
+Bates Second Annual First Big Dance,College,246330,Bowdoin,7,Amherst College,6,3/1/20,Women,0,2020,Bowdoin,Amherst College,7,6
+Bates Second Annual First Big Dance,College,246331,Mount Holyoke,9,Colby,6,3/1/20,Women,0,2020,Mount Holyoke,Colby,9,6
+Bates Second Annual First Big Dance,College,246332,Bates,9,Bowdoin,5,3/1/20,Women,0,2020,Bates,Bowdoin,9,5
+Bates Second Annual First Big Dance,College,246333,Mount Holyoke,11,Amherst College,3,3/1/20,Women,0,2020,Mount Holyoke,Amherst College,11,3
+Bates Second Annual First Big Dance,College,246334,Bates,7,Mount Holyoke,8,3/1/20,Women,0,2020,Mount Holyoke,Bates,8,7
+Bates Second Annual First Big Dance,College,246335,Colby,13,Amherst College,1,3/1/20,Women,0,2020,Colby,Amherst College,13,1
+Antifreeze 2020,College,246799,Trinity,8,Texas Christian,3,2/8/20,Women,0,2020,Trinity,Texas Christian,8,3
+Antifreeze 2020,College,246800,Texas A&M,13,Sam Houston State,1,2/8/20,Women,0,2020,Texas A&M,Sam Houston State,13,1
+Antifreeze 2020,College,246801,Trinity,12,Sam Houston State,5,2/8/20,Women,0,2020,Trinity,Sam Houston State,12,5
+Antifreeze 2020,College,246802,Texas A&M,12,Texas Christian,4,2/8/20,Women,0,2020,Texas A&M,Texas Christian,12,4
+Antifreeze 2020,College,246803,Trinity,6,Texas A&M,9,2/8/20,Women,0,2020,Texas A&M,Trinity,9,6
+Antifreeze 2020,College,246804,Texas Christian,7,Sam Houston State,4,2/8/20,Women,0,2020,Texas Christian,Sam Houston State,7,4
+Antifreeze 2020,College,246805,Rice,9,Texas B,6,2/8/20,Women,0,2020,Rice,Texas B,9,6
+Antifreeze 2020,College,246806,Tulane,13,Houston,0,2/8/20,Women,0,2020,Tulane,Houston,13,0
+Antifreeze 2020,College,246807,Rice,11,Houston,4,2/8/20,Women,0,2020,Rice,Houston,11,4
+Antifreeze 2020,College,246808,Tulane,8,Texas B,1,2/8/20,Women,0,2020,Tulane,Texas B,8,1
+Antifreeze 2020,College,246809,Rice,8,Tulane,10,2/8/20,Women,0,2020,Tulane,Rice,10,8
+Antifreeze 2020,College,246810,Texas B,13,Houston,1,2/8/20,Women,0,2020,Texas B,Houston,13,1
+Antifreeze 2020,College,246811,Texas A&M,15,Houston,2,2/9/20,Women,0,2020,Texas A&M,Houston,15,2
+Antifreeze 2020,College,246812,Rice,13,Texas Christian,7,2/9/20,Women,0,2020,Rice,Texas Christian,13,7
+Antifreeze 2020,College,246813,Trinity,10,Texas B,5,2/9/20,Women,0,2020,Trinity,Texas B,10,5
+Antifreeze 2020,College,246814,Sam Houston State,4,Tulane,10,2/9/20,Women,0,2020,Tulane,Sam Houston State,10,4
+Antifreeze 2020,College,246815,Texas A&M,11,Rice,10,2/9/20,Women,0,2020,Texas A&M,Rice,11,10
+Antifreeze 2020,College,246816,Trinity,8,Tulane,6,2/9/20,Women,0,2020,Trinity,Tulane,8,6
+Antifreeze 2020,College,246817,Texas A&M,15,Trinity,7,2/9/20,Women,0,2020,Texas A&M,Trinity,15,7
+Antifreeze 2020,College,246818,Rice,10,Tulane,7,2/9/20,Women,0,2020,Rice,Tulane,10,7
+Antifreeze 2020,College,246819,Houston,2,Texas Christian,9,2/9/20,Women,0,2020,Texas Christian,Houston,9,2
+Antifreeze 2020,College,246820,Texas B,8,Sam Houston State,5,2/9/20,Women,0,2020,Texas B,Sam Houston State,8,5
+Antifreeze 2020,College,246821,Texas Christian,4,Texas B,10,2/9/20,Women,0,2020,Texas B,Texas Christian,10,4
+Antifreeze 2020,College,246822,Houston,5,Sam Houston State,8,2/9/20,Women,0,2020,Sam Houston State,Houston,8,5
+Stanford Open 2020,College,246987,Stanford B,4,Sonoma State,3,2/9/20,Women,0,2020,Stanford B,Sonoma State,4,3
+Stanford Open 2020,College,246988,Pacific Lutheran,3,Puget Sound,6,2/9/20,Women,0,2020,Puget Sound,Pacific Lutheran,6,3
+Stanford Open 2020,College,246989,Stanford B,3,Lewis & Clark,2,2/9/20,Women,0,2020,Stanford B,Lewis & Clark,3,2
+Stanford Open 2020,College,246990,Claremont,5,Sonoma State,6,2/9/20,Women,0,2020,Sonoma State,Claremont,6,5
+Stanford Open 2020,College,246991,Pacific Lutheran,10,Claremont,0,2/9/20,Women,0,2020,Pacific Lutheran,Claremont,10,0
+Stanford Open 2020,College,246992,Puget Sound,4,Lewis & Clark,1,2/9/20,Women,0,2020,Puget Sound,Lewis & Clark,4,1
+Stanford Open 2020,College,246996,Chico State,6,Cal Poly SLO B,5,2/9/20,Women,0,2020,Chico State,Cal Poly SLO B,6,5
+Stanford Open 2020,College,246997,UCLA B,5,Air Force,4,2/9/20,Women,0,2020,UCLA B,Air Force,5,4
+Stanford Open 2020,College,246998,Chico State,5,UCLA B,6,2/9/20,Women,0,2020,UCLA B,Chico State,6,5
+Stanford Open 2020,College,246999,Humboldt State,1,Air Force,5,2/9/20,Women,0,2020,Air Force,Humboldt State,5,1
+Stanford Open 2020,College,247001,Humboldt State,5,UCLA B,4,2/9/20,Women,0,2020,Humboldt State,UCLA B,5,4
+Stanford Open 2020,College,247002,Chico State,5,Air Force,6,2/9/20,Women,0,2020,Air Force,Chico State,6,5
+Stanford Open 2020,College,247005,UCLA B,7,Cal Poly SLO B,6,2/9/20,Women,0,2020,UCLA B,Cal Poly SLO B,7,6
+Stanford Open 2020,College,247018,Lewis & Clark,4,Sonoma State,5,2/9/20,Women,0,2020,Sonoma State,Lewis & Clark,5,4
+Stanford Open 2020,College,247019,Stanford B,6,Claremont,5,2/9/20,Women,0,2020,Stanford B,Claremont,6,5
+Commonwealth Cup 2020 Weekend 2,College,247091,Northeastern,11,Northwestern,8,1/1/20,Women,0,2020,Northeastern,Northwestern,11,8
+Commonwealth Cup 2020 Weekend 2,College,247092,North Carolina,15,Northwestern,6,1/1/20,Women,0,2020,North Carolina,Northwestern,15,6
+Commonwealth Cup 2020 Weekend 2,College,247093,North Carolina,15,Northeastern,5,1/1/20,Women,0,2020,North Carolina,Northeastern,15,5
+Commonwealth Cup 2020 Weekend 2,College,247094,Ohio State,10,Pittsburgh,11,1/1/20,Women,0,2020,Pittsburgh,Ohio State,11,10
+Commonwealth Cup 2020 Weekend 2,College,247095,Vermont,11,Georgia,10,1/1/20,Women,0,2020,Vermont,Georgia,11,10
+Commonwealth Cup 2020 Weekend 2,College,247096,Ohio State,13,Georgia,6,1/1/20,Women,0,2020,Ohio State,Georgia,13,6
+Commonwealth Cup 2020 Weekend 2,College,247097,Vermont,5,Pittsburgh,12,1/1/20,Women,0,2020,Pittsburgh,Vermont,12,5
+Commonwealth Cup 2020 Weekend 2,College,247098,Ohio State,10,Vermont,8,1/1/20,Women,0,2020,Ohio State,Vermont,10,8
+Commonwealth Cup 2020 Weekend 2,College,247099,Pittsburgh,8,Georgia,13,1/1/20,Women,0,2020,Georgia,Pittsburgh,13,8
+Commonwealth Cup 2020 Weekend 2,College,247101,Oberlin,9,North Carolina-Wilmington,11,1/1/20,Women,0,2020,North Carolina-Wilmington,Oberlin,11,9
+Commonwealth Cup 2020 Weekend 2,College,247103,Oberlin,7,Michigan,11,1/1/20,Women,0,2020,Michigan,Oberlin,11,7
+Commonwealth Cup 2020 Weekend 2,College,247105,Michigan,9,North Carolina-Wilmington,8,1/1/20,Women,0,2020,Michigan,North Carolina-Wilmington,9,8
+Commonwealth Cup 2020 Weekend 2,College,247106,Virginia,13,Pennsylvania,3,1/1/20,Women,0,2020,Virginia,Pennsylvania,13,3
+Commonwealth Cup 2020 Weekend 2,College,247107,Harvard,9,Columbia,10,1/1/20,Women,0,2020,Columbia,Harvard,10,9
+Commonwealth Cup 2020 Weekend 2,College,247108,Virginia,12,Columbia,5,1/1/20,Women,0,2020,Virginia,Columbia,12,5
+Commonwealth Cup 2020 Weekend 2,College,247109,Harvard,4,Pennsylvania,10,1/1/20,Women,0,2020,Pennsylvania,Harvard,10,4
+Commonwealth Cup 2020 Weekend 2,College,247110,Virginia,13,Harvard,5,1/1/20,Women,0,2020,Virginia,Harvard,13,5
+Commonwealth Cup 2020 Weekend 2,College,247111,Pennsylvania,9,Columbia,8,1/1/20,Women,0,2020,Pennsylvania,Columbia,9,8
+Commonwealth Cup 2020 Weekend 2,College,247112,Florida,13,North Carolina State,6,1/1/20,Women,0,2020,Florida,North Carolina State,13,6
+Commonwealth Cup 2020 Weekend 2,College,247113,Duke,11,Brown,5,1/1/20,Women,0,2020,Duke,Brown,11,5
+Commonwealth Cup 2020 Weekend 2,College,247114,Florida,9,Brown,6,1/1/20,Women,0,2020,Florida,Brown,9,6
+Commonwealth Cup 2020 Weekend 2,College,247115,Duke,8,North Carolina State,9,1/1/20,Women,0,2020,North Carolina State,Duke,9,8
+Commonwealth Cup 2020 Weekend 2,College,247116,Florida,11,Duke,7,1/1/20,Women,0,2020,Florida,Duke,11,7
+Commonwealth Cup 2020 Weekend 2,College,247117,North Carolina State,10,Brown,5,1/1/20,Women,0,2020,North Carolina State,Brown,10,5
+Commonwealth Cup 2020 Weekend 2,College,247118,North Carolina,11,Pittsburgh,9,1/1/20,Women,0,2020,North Carolina,Pittsburgh,11,9
+Commonwealth Cup 2020 Weekend 2,College,247119,Ohio State,11,Northeastern,15,1/1/20,Women,0,2020,Northeastern,Ohio State,15,11
+Commonwealth Cup 2020 Weekend 2,College,247120,Northwestern,10,Vermont,11,1/1/20,Women,0,2020,Vermont,Northwestern,11,10
+Commonwealth Cup 2020 Weekend 2,College,247121,Duke,9,Oberlin,11,1/1/20,Women,0,2020,Oberlin,Duke,11,9
+Commonwealth Cup 2020 Weekend 2,College,247122,North Carolina-Wilmington,15,Harvard,7,1/1/20,Women,0,2020,North Carolina-Wilmington,Harvard,15,7
+Commonwealth Cup 2020 Weekend 2,College,247123,Columbia,11,Brown,7,1/1/20,Women,0,2020,Columbia,Brown,11,7
+Commonwealth Cup 2020 Weekend 2,College,247124,North Carolina,15,Oberlin,2,1/1/20,Women,0,2020,North Carolina,Oberlin,15,2
+Commonwealth Cup 2020 Weekend 2,College,247125,Georgia,12,Virginia,13,1/1/20,Women,0,2020,Virginia,Georgia,13,12
+Commonwealth Cup 2020 Weekend 2,College,247126,Ohio State,15,North Carolina-Wilmington,4,1/1/20,Women,0,2020,Ohio State,North Carolina-Wilmington,15,4
+Commonwealth Cup 2020 Weekend 2,College,247127,Northwestern,8,North Carolina State,10,1/1/20,Women,0,2020,North Carolina State,Northwestern,10,8
+Commonwealth Cup 2020 Weekend 2,College,247128,Pittsburgh,12,Columbia,4,1/1/20,Women,0,2020,Pittsburgh,Columbia,12,4
+Commonwealth Cup 2020 Weekend 2,College,247130,Northeastern,13,Michigan,10,1/1/20,Women,0,2020,Northeastern,Michigan,13,10
+Commonwealth Cup 2020 Weekend 2,College,247131,Vermont,10,Pennsylvania,4,1/1/20,Women,0,2020,Vermont,Pennsylvania,10,4
+Commonwealth Cup 2020 Weekend 2,College,247132,North Carolina,13,Virginia,8,1/1/20,Women,0,2020,North Carolina,Virginia,13,8
+Commonwealth Cup 2020 Weekend 2,College,247133,Ohio State,15,North Carolina State,5,1/1/20,Women,0,2020,Ohio State,North Carolina State,15,5
+Commonwealth Cup 2020 Weekend 2,College,247135,Northeastern,14,Vermont,11,1/1/20,Women,0,2020,Northeastern,Vermont,14,11
+Commonwealth Cup 2020 Weekend 2,College,247136,North Carolina,15,Ohio State,9,1/1/20,Women,0,2020,North Carolina,Ohio State,15,9
+Commonwealth Cup 2020 Weekend 2,College,247137,Pittsburgh,14,Northeastern,12,1/1/20,Women,0,2020,Pittsburgh,Northeastern,14,12
+Commonwealth Cup 2020 Weekend 2,College,247138,North Carolina,15,Pittsburgh,8,1/1/20,Women,0,2020,North Carolina,Pittsburgh,15,8
+Commonwealth Cup 2020 Weekend 2,College,247139,Ohio State,13,Northeastern,14,1/1/20,Women,0,2020,Northeastern,Ohio State,14,13
+Commonwealth Cup 2020 Weekend 2,College,247140,Virginia,14,North Carolina State,9,1/1/20,Women,0,2020,Virginia,North Carolina State,14,9
+Commonwealth Cup 2020 Weekend 2,College,247142,Virginia,10,Vermont,6,1/1/20,Women,0,2020,Virginia,Vermont,10,6
+Commonwealth Cup 2020 Weekend 2,College,247144,Oberlin,7,Georgia,14,1/1/20,Women,0,2020,Georgia,Oberlin,14,7
+Commonwealth Cup 2020 Weekend 2,College,247145,North Carolina-Wilmington,1,Northwestern,15,1/1/20,Women,0,2020,Northwestern,North Carolina-Wilmington,15,1
+Commonwealth Cup 2020 Weekend 2,College,247146,Georgia,10,Northwestern,12,1/1/20,Women,0,2020,Northwestern,Georgia,12,10
+Commonwealth Cup 2020 Weekend 2,College,247148,Columbia,7,Florida,13,1/1/20,Women,0,2020,Florida,Columbia,13,7
+Commonwealth Cup 2020 Weekend 2,College,247149,Michigan,12,Pennsylvania,6,1/1/20,Women,0,2020,Michigan,Pennsylvania,12,6
+Commonwealth Cup 2020 Weekend 2,College,247150,Florida,13,Michigan,7,1/1/20,Women,0,2020,Florida,Michigan,13,7
+Commonwealth Cup 2020 Weekend 2,College,247151,Columbia,7,Pennsylvania,9,1/1/20,Women,0,2020,Pennsylvania,Columbia,9,7
+Presidents' Day Invite 2020,College,247155,California-San Diego,11,California,7,1/1/20,Women,0,2020,California-San Diego,California,11,7
+Presidents' Day Invite 2020,College,247156,Colorado,13,Whitman,2,1/1/20,Women,0,2020,Colorado,Whitman,13,2
+Presidents' Day Invite 2020,College,247157,California-San Diego,10,Whitman,4,1/1/20,Women,0,2020,California-San Diego,Whitman,10,4
+Presidents' Day Invite 2020,College,247158,Colorado,9,California,11,1/1/20,Women,0,2020,California,Colorado,11,9
+Presidents' Day Invite 2020,College,247159,California-San Diego,12,Colorado,4,1/1/20,Women,0,2020,California-San Diego,Colorado,12,4
+Presidents' Day Invite 2020,College,247160,California,9,Whitman,8,1/1/20,Women,0,2020,California,Whitman,9,8
+Presidents' Day Invite 2020,College,247161,Western Washington,12,Colorado College,6,1/1/20,Women,0,2020,Western Washington,Colorado College,12,6
+Presidents' Day Invite 2020,College,247162,UCLA,10,Chicago,9,1/1/20,Women,0,2020,UCLA,Chicago,10,9
+Presidents' Day Invite 2020,College,247163,Western Washington,13,Chicago,4,1/1/20,Women,0,2020,Western Washington,Chicago,13,4
+Presidents' Day Invite 2020,College,247164,UCLA,9,Colorado College,8,1/1/20,Women,0,2020,UCLA,Colorado College,9,8
+Presidents' Day Invite 2020,College,247165,Western Washington,8,UCLA,9,1/1/20,Women,0,2020,UCLA,Western Washington,9,8
+Presidents' Day Invite 2020,College,247166,Colorado College,9,Chicago,7,1/1/20,Women,0,2020,Colorado College,Chicago,9,7
+Presidents' Day Invite 2020,College,247167,California-Santa Barbara,12,Cal Poly-SLO,5,1/1/20,Women,0,2020,California-Santa Barbara,Cal Poly-SLO,12,5
+Presidents' Day Invite 2020,College,247168,Oregon,9,Massachusetts,10,1/1/20,Women,0,2020,Massachusetts,Oregon,10,9
+Presidents' Day Invite 2020,College,247169,California-Santa Barbara,13,Massachusetts,7,1/1/20,Women,0,2020,California-Santa Barbara,Massachusetts,13,7
+Presidents' Day Invite 2020,College,247170,Oregon,7,Cal Poly-SLO,8,1/1/20,Women,0,2020,Cal Poly-SLO,Oregon,8,7
+Presidents' Day Invite 2020,College,247171,California-Santa Barbara,14,Oregon,4,1/1/20,Women,0,2020,California-Santa Barbara,Oregon,14,4
+Presidents' Day Invite 2020,College,247172,Cal Poly-SLO,7,Massachusetts,8,1/1/20,Women,0,2020,Massachusetts,Cal Poly-SLO,8,7
+Presidents' Day Invite 2020,College,247173,Texas,9,Utah,5,1/1/20,Women,0,2020,Texas,Utah,9,5
+Presidents' Day Invite 2020,College,247174,Stanford,13,Southern California,4,1/1/20,Women,0,2020,Stanford,Southern California,13,4
+Presidents' Day Invite 2020,College,247175,Texas,12,Southern California,3,1/1/20,Women,0,2020,Texas,Southern California,12,3
+Presidents' Day Invite 2020,College,247176,Stanford,10,Utah,6,1/1/20,Women,0,2020,Stanford,Utah,10,6
+Presidents' Day Invite 2020,College,247177,Texas,9,Stanford,7,1/1/20,Women,0,2020,Texas,Stanford,9,7
+Presidents' Day Invite 2020,College,247178,Utah,12,Southern California,3,1/1/20,Women,0,2020,Utah,Southern California,12,3
+Are we in love (or just...) 2020,College,247299,Alabama,13,Iowa State,5,1/1/20,Women,0,2020,Alabama,Iowa State,13,5
+Are we in love (or just...) 2020,College,247300,Florida State,6,Vanderbilt,11,1/1/20,Women,0,2020,Vanderbilt,Florida State,11,6
+Are we in love (or just...) 2020,College,247301,Alabama,3,Vanderbilt,13,1/1/20,Women,0,2020,Vanderbilt,Alabama,13,3
+Are we in love (or just...) 2020,College,247302,Iowa State,3,Florida State,7,1/1/20,Women,0,2020,Florida State,Iowa State,7,3
+Are we in love (or just...) 2020,College,247303,Emory,13,Alabama-Huntsville,6,1/1/20,Women,0,2020,Emory,Alabama-Huntsville,13,6
+Are we in love (or just...) 2020,College,247304,Auburn,11,Jacksonville State,5,1/1/20,Women,0,2020,Auburn,Jacksonville State,11,5
+Are we in love (or just...) 2020,College,247305,Emory,10,Auburn,3,1/1/20,Women,0,2020,Emory,Auburn,10,3
+Are we in love (or just...) 2020,College,247363,Alabama-Huntsville,11,Jacksonville State,5,1/1/20,Women,0,2020,Alabama-Huntsville,Jacksonville State,11,5
+Are we in love (or just...) 2020,College,247364,Wisconsin-Milwaukee,5,Tennessee,13,1/1/20,Women,0,2020,Tennessee,Wisconsin-Milwaukee,13,5
+Are we in love (or just...) 2020,College,247365,Alabama-Birmingham,13,Belmont,2,1/1/20,Women,0,2020,Alabama-Birmingham,Belmont,13,2
+Are we in love (or just...) 2020,College,247366,Tennessee,13,Alabama-Birmingham,7,1/1/20,Women,0,2020,Tennessee,Alabama-Birmingham,13,7
+Are we in love (or just...) 2020,College,247367,Wisconsin-Milwaukee,11,Belmont,6,1/1/20,Women,0,2020,Wisconsin-Milwaukee,Belmont,11,6
+Presidents' Day Invite 2020,College,247433,Western Washington,5,California-San Diego,10,1/1/20,Women,0,2020,California-San Diego,Western Washington,10,5
+Presidents' Day Invite 2020,College,247434,California,9,Chicago,8,1/1/20,Women,0,2020,California,Chicago,9,8
+Presidents' Day Invite 2020,College,247435,UCLA,9,Cal Poly-SLO,7,1/1/20,Women,0,2020,UCLA,Cal Poly-SLO,9,7
+Presidents' Day Invite 2020,College,247436,California,8,UCLA,11,1/1/20,Women,0,2020,UCLA,California,11,8
+Presidents' Day Invite 2020,College,247437,Chicago,4,Cal Poly-SLO,14,1/1/20,Women,0,2020,Cal Poly-SLO,Chicago,14,4
+Presidents' Day Invite 2020,College,247438,Colorado,10,Texas,6,1/1/20,Women,0,2020,Colorado,Texas,10,6
+Presidents' Day Invite 2020,College,247439,Whitman,15,Massachusetts,1,1/1/20,Women,0,2020,Whitman,Massachusetts,15,1
+Presidents' Day Invite 2020,College,247440,Colorado,10,Whitman,6,1/1/20,Women,0,2020,Colorado,Whitman,10,6
+Presidents' Day Invite 2020,College,247441,Texas,12,Massachusetts,4,1/1/20,Women,0,2020,Texas,Massachusetts,12,4
+Presidents' Day Invite 2020,College,247442,Utah,10,Southern California,7,1/1/20,Women,0,2020,Utah,Southern California,10,7
+Presidents' Day Invite 2020,College,247443,Oregon,9,Colorado College,10,1/1/20,Women,0,2020,Colorado College,Oregon,10,9
+Presidents' Day Invite 2020,College,247444,Utah,10,Colorado College,9,1/1/20,Women,0,2020,Utah,Colorado College,10,9
+Presidents' Day Invite 2020,College,247445,Southern California,6,Oregon,9,1/1/20,Women,0,2020,Oregon,Southern California,9,6
+Are we in love (or just...) 2020,College,247446,Emory,11,Belmont,0,1/1/20,Women,0,2020,Emory,Belmont,11,0
+Are we in love (or just...) 2020,College,247447,Wisconsin-Milwaukee,7,Jacksonville State,6,1/1/20,Women,0,2020,Wisconsin-Milwaukee,Jacksonville State,7,6
+Are we in love (or just...) 2020,College,247448,Florida State,11,Emory,2,1/1/20,Women,0,2020,Florida State,Emory,11,2
+Are we in love (or just...) 2020,College,247449,Iowa State,9,Wisconsin-Milwaukee,7,1/1/20,Women,0,2020,Iowa State,Wisconsin-Milwaukee,9,7
+Are we in love (or just...) 2020,College,247450,Florida State,11,Wisconsin-Milwaukee,3,1/1/20,Women,0,2020,Florida State,Wisconsin-Milwaukee,11,3
+Are we in love (or just...) 2020,College,247451,Emory,11,Jacksonville State,2,1/1/20,Women,0,2020,Emory,Jacksonville State,11,2
+Are we in love (or just...) 2020,College,247452,Iowa State,11,Belmont,2,1/1/20,Women,0,2020,Iowa State,Belmont,11,2
+Are we in love (or just...) 2020,College,247453,Florida State,10,Jacksonville State,1,1/1/20,Women,0,2020,Florida State,Jacksonville State,10,1
+Are we in love (or just...) 2020,College,247454,Emory,7,Iowa State,8,1/1/20,Women,0,2020,Iowa State,Emory,8,7
+Are we in love (or just...) 2020,College,247455,Wisconsin-Milwaukee,7,Belmont,8,1/1/20,Women,0,2020,Belmont,Wisconsin-Milwaukee,8,7
+Are we in love (or just...) 2020,College,247456,Florida State,11,Belmont,0,1/1/20,Women,0,2020,Florida State,Belmont,11,0
+Are we in love (or just...) 2020,College,247457,Emory,11,Wisconsin-Milwaukee,2,1/1/20,Women,0,2020,Emory,Wisconsin-Milwaukee,11,2
+Are we in love (or just...) 2020,College,247458,Iowa State,8,Jacksonville State,1,1/1/20,Women,0,2020,Iowa State,Jacksonville State,8,1
+Are we in love (or just...) 2020,College,247459,Florida State,10,Iowa State,4,1/1/20,Women,0,2020,Florida State,Iowa State,10,4
+Are we in love (or just...) 2020,College,247460,Belmont,3,Jacksonville State,9,1/1/20,Women,0,2020,Jacksonville State,Belmont,9,3
+Are we in love (or just...) 2020,College,247461,Vanderbilt,9,Auburn,4,1/1/20,Women,0,2020,Vanderbilt,Auburn,9,4
+Are we in love (or just...) 2020,College,247462,Alabama,11,Alabama-Huntsville,3,1/1/20,Women,0,2020,Alabama,Alabama-Huntsville,11,3
+Are we in love (or just...) 2020,College,247463,Tennessee,10,Alabama-Birmingham,11,1/1/20,Women,0,2020,Alabama-Birmingham,Tennessee,11,10
+Are we in love (or just...) 2020,College,247464,Vanderbilt,5,Alabama,6,1/1/20,Women,0,2020,Alabama,Vanderbilt,6,5
+Are we in love (or just...) 2020,College,247465,Auburn,10,Tennessee,8,1/1/20,Women,0,2020,Auburn,Tennessee,10,8
+Are we in love (or just...) 2020,College,247466,Alabama-Huntsville,11,Alabama-Birmingham,8,1/1/20,Women,0,2020,Alabama-Huntsville,Alabama-Birmingham,11,8
+Are we in love (or just...) 2020,College,247467,Vanderbilt,11,Tennessee,3,1/1/20,Women,0,2020,Vanderbilt,Tennessee,11,3
+Are we in love (or just...) 2020,College,247468,Alabama,8,Alabama-Birmingham,7,1/1/20,Women,0,2020,Alabama,Alabama-Birmingham,8,7
+Are we in love (or just...) 2020,College,247469,Auburn,11,Alabama-Huntsville,1,1/1/20,Women,0,2020,Auburn,Alabama-Huntsville,11,1
+Are we in love (or just...) 2020,College,247470,Vanderbilt,11,Alabama-Birmingham,5,1/1/20,Women,0,2020,Vanderbilt,Alabama-Birmingham,11,5
+Are we in love (or just...) 2020,College,247471,Alabama,8,Auburn,5,1/1/20,Women,0,2020,Alabama,Auburn,8,5
+Are we in love (or just...) 2020,College,247472,Tennessee,6,Alabama-Huntsville,7,1/1/20,Women,0,2020,Alabama-Huntsville,Tennessee,7,6
+Are we in love (or just...) 2020,College,247473,Vanderbilt,11,Alabama-Huntsville,5,1/1/20,Women,0,2020,Vanderbilt,Alabama-Huntsville,11,5
+Are we in love (or just...) 2020,College,247474,Alabama,9,Tennessee,8,1/1/20,Women,0,2020,Alabama,Tennessee,9,8
+Are we in love (or just...) 2020,College,247475,Auburn,10,Alabama-Birmingham,6,1/1/20,Women,0,2020,Auburn,Alabama-Birmingham,10,6
+UMBC Safari Party 2020,College,247783,Towson,15,Johns Hopkins,2,1/1/20,Women,0,2020,Towson,Johns Hopkins,15,2
+UMBC Safari Party 2020,College,247784,Syracuse,9,West Virginia,6,1/1/20,Women,0,2020,Syracuse,West Virginia,9,6
+UMBC Safari Party 2020,College,247785,Lehigh,15,Goucher,1,1/1/20,Women,0,2020,Lehigh,Goucher,15,1
+UMBC Safari Party 2020,College,247786,MIT,15,Maryland-Baltimore County,3,1/1/20,Women,0,2020,MIT,Maryland-Baltimore County,15,3
+UMBC Safari Party 2020,College,247787,Towson,12,Syracuse,5,1/1/20,Women,0,2020,Towson,Syracuse,12,5
+UMBC Safari Party 2020,College,247788,Lehigh,10,MIT,5,1/1/20,Women,0,2020,Lehigh,MIT,10,5
+UMBC Safari Party 2020,College,247789,Towson,9,Lehigh,6,1/1/20,Women,0,2020,Towson,Lehigh,9,6
+UMBC Safari Party 2020,College,247790,Syracuse,11,MIT,8,1/1/20,Women,0,2020,Syracuse,MIT,11,8
+UMBC Safari Party 2020,College,247791,Johns Hopkins,1,West Virginia,10,1/1/20,Women,0,2020,West Virginia,Johns Hopkins,10,1
+UMBC Safari Party 2020,College,247792,Goucher,2,Maryland-Baltimore County,13,1/1/20,Women,0,2020,Maryland-Baltimore County,Goucher,13,2
+UMBC Safari Party 2020,College,247793,West Virginia,7,Maryland-Baltimore County,8,1/1/20,Women,0,2020,Maryland-Baltimore County,West Virginia,8,7
+UMBC Safari Party 2020,College,247794,Johns Hopkins,5,Goucher,4,1/1/20,Women,0,2020,Johns Hopkins,Goucher,5,4
+2nd Annual Royal Crown Classic,College,247811,Georgia College,11,Florida B,0,1/1/20,Women,0,2020,Georgia College,Florida B,11,0
+2nd Annual Royal Crown Classic,College,247812,Emory B,5,Florida Tech,8,1/1/20,Women,0,2020,Florida Tech,Emory B,8,5
+2nd Annual Royal Crown Classic,College,247813,LSU,11,Florida B,3,1/1/20,Women,0,2020,LSU,Florida B,11,3
+2nd Annual Royal Crown Classic,College,247814,Georgia College,11,Emory B,0,1/1/20,Women,0,2020,Georgia College,Emory B,11,0
+2nd Annual Royal Crown Classic,College,247815,Florida B,11,Emory B,2,1/1/20,Women,0,2020,Florida B,Emory B,11,2
+2nd Annual Royal Crown Classic,College,247816,LSU,11,Florida Tech,4,1/1/20,Women,0,2020,LSU,Florida Tech,11,4
+2nd Annual Royal Crown Classic,College,247817,Georgia College,11,Florida Tech,4,1/1/20,Women,0,2020,Georgia College,Florida Tech,11,4
+2nd Annual Royal Crown Classic,College,247818,LSU,11,Emory B,0,1/1/20,Women,0,2020,LSU,Emory B,11,0
+2nd Annual Royal Crown Classic,College,247819,LSU,10,Georgia College,7,1/1/20,Women,0,2020,LSU,Georgia College,10,7
+2nd Annual Royal Crown Classic,College,247820,Florida B,11,Florida Tech,3,1/1/20,Women,0,2020,Florida B,Florida Tech,11,3
+2nd Annual Royal Crown Classic,College,247821,South Florida,11,Tennessee-Chattanooga,3,1/1/20,Women,0,2020,South Florida,Tennessee-Chattanooga,11,3
+2nd Annual Royal Crown Classic,College,247822,North Georgia,11,FSU B,0,1/1/20,Women,0,2020,North Georgia,FSU B,11,0
+2nd Annual Royal Crown Classic,College,247823,Georgia Tech B,4,Berry,7,1/1/20,Women,0,2020,Berry,Georgia Tech B,7,4
+2nd Annual Royal Crown Classic,College,247824,South Florida,8,North Georgia,7,1/1/20,Women,0,2020,South Florida,North Georgia,8,7
+2nd Annual Royal Crown Classic,College,247825,Tennessee-Chattanooga,11,Georgia Tech B,3,1/1/20,Women,0,2020,Tennessee-Chattanooga,Georgia Tech B,11,3
+2nd Annual Royal Crown Classic,College,247826,FSU B,6,Berry,7,1/1/20,Women,0,2020,Berry,FSU B,7,6
+2nd Annual Royal Crown Classic,College,247827,South Florida,11,Georgia Tech B,3,1/1/20,Women,0,2020,South Florida,Georgia Tech B,11,3
+2nd Annual Royal Crown Classic,College,247828,North Georgia,11,Berry,0,1/1/20,Women,0,2020,North Georgia,Berry,11,0
+2nd Annual Royal Crown Classic,College,247829,Tennessee-Chattanooga,11,FSU B,2,1/1/20,Women,0,2020,Tennessee-Chattanooga,FSU B,11,2
+2nd Annual Royal Crown Classic,College,247830,South Florida,11,Berry,0,1/1/20,Women,0,2020,South Florida,Berry,11,0
+2nd Annual Royal Crown Classic,College,247831,North Georgia,11,Tennessee-Chattanooga,3,1/1/20,Women,0,2020,North Georgia,Tennessee-Chattanooga,11,3
+2nd Annual Royal Crown Classic,College,247832,Georgia Tech B,8,FSU B,2,1/1/20,Women,0,2020,Georgia Tech B,FSU B,8,2
+2nd Annual Royal Crown Classic,College,247833,South Florida,11,FSU B,0,1/1/20,Women,0,2020,South Florida,FSU B,11,0
+2nd Annual Royal Crown Classic,College,247834,North Georgia,11,Georgia Tech B,1,1/1/20,Women,0,2020,North Georgia,Georgia Tech B,11,1
+2nd Annual Royal Crown Classic,College,247835,Tennessee-Chattanooga,11,Berry,4,1/1/20,Women,0,2020,Tennessee-Chattanooga,Berry,11,4
+2nd Annual Royal Crown Classic,College,247836,Florida B,1,North Georgia,12,1/1/20,Women,0,2020,North Georgia,Florida B,12,1
+2nd Annual Royal Crown Classic,College,247837,Tennessee-Chattanooga,7,Georgia College,4,1/1/20,Women,0,2020,Tennessee-Chattanooga,Georgia College,7,4
+2nd Annual Royal Crown Classic,College,247843,Florida Tech,6,Georgia Tech B,7,1/1/20,Women,0,2020,Georgia Tech B,Florida Tech,7,6
+2nd Annual Royal Crown Classic,College,247846,Berry,11,Emory B,6,1/1/20,Women,0,2020,Berry,Emory B,11,6
+Presidents' Day Invite 2020,College,247991,California-San Diego,9,Western Washington,10,1/1/20,Women,0,2020,Western Washington,California-San Diego,10,9
+Presidents' Day Invite 2020,College,247992,Texas,13,Massachusetts,7,1/1/20,Women,0,2020,Texas,Massachusetts,13,7
+Presidents' Day Invite 2020,College,247993,California-San Diego,12,Massachusetts,7,1/1/20,Women,0,2020,California-San Diego,Massachusetts,12,7
+Presidents' Day Invite 2020,College,247994,Texas,7,Western Washington,8,1/1/20,Women,0,2020,Western Washington,Texas,8,7
+Presidents' Day Invite 2020,College,247995,California-San Diego,8,Texas,4,1/1/20,Women,0,2020,California-San Diego,Texas,8,4
+Presidents' Day Invite 2020,College,247996,Western Washington,11,Massachusetts,2,1/1/20,Women,0,2020,Western Washington,Massachusetts,11,2
+Presidents' Day Invite 2020,College,247997,UCLA,9,California,8,1/1/20,Women,0,2020,UCLA,California,9,8
+Presidents' Day Invite 2020,College,247998,California-Santa Barbara,9,Stanford,8,1/1/20,Women,0,2020,California-Santa Barbara,Stanford,9,8
+Presidents' Day Invite 2020,College,247999,UCLA,7,Stanford,12,1/1/20,Women,0,2020,Stanford,UCLA,12,7
+Presidents' Day Invite 2020,College,248000,California-Santa Barbara,13,California,7,1/1/20,Women,0,2020,California-Santa Barbara,California,13,7
+Presidents' Day Invite 2020,College,248001,UCLA,5,California-Santa Barbara,10,1/1/20,Women,0,2020,California-Santa Barbara,UCLA,10,5
+Presidents' Day Invite 2020,College,248002,California,7,Stanford,12,1/1/20,Women,0,2020,Stanford,California,12,7
+Presidents' Day Invite 2020,College,248003,Colorado,10,Chicago,6,1/1/20,Women,0,2020,Colorado,Chicago,10,6
+Presidents' Day Invite 2020,College,248004,Utah,13,Oregon,5,1/1/20,Women,0,2020,Utah,Oregon,13,5
+Presidents' Day Invite 2020,College,248005,Colorado,12,Oregon,3,1/1/20,Women,0,2020,Colorado,Oregon,12,3
+Presidents' Day Invite 2020,College,248006,Utah,8,Chicago,9,1/1/20,Women,0,2020,Chicago,Utah,9,8
+Presidents' Day Invite 2020,College,248007,Colorado,13,Utah,4,1/1/20,Women,0,2020,Colorado,Utah,13,4
+Presidents' Day Invite 2020,College,248008,Chicago,10,Oregon,5,1/1/20,Women,0,2020,Chicago,Oregon,10,5
+Presidents' Day Invite 2020,College,248009,Colorado College,8,Whitman,9,1/1/20,Women,0,2020,Whitman,Colorado College,9,8
+Presidents' Day Invite 2020,College,248010,Cal Poly-SLO,10,Southern California,7,1/1/20,Women,0,2020,Cal Poly-SLO,Southern California,10,7
+Presidents' Day Invite 2020,College,248011,Colorado College,13,Southern California,7,1/1/20,Women,0,2020,Colorado College,Southern California,13,7
+Presidents' Day Invite 2020,College,248012,Cal Poly-SLO,11,Whitman,7,1/1/20,Women,0,2020,Cal Poly-SLO,Whitman,11,7
+Presidents' Day Invite 2020,College,248013,Colorado College,10,Cal Poly-SLO,11,1/1/20,Women,0,2020,Cal Poly-SLO,Colorado College,11,10
+Presidents' Day Invite 2020,College,248014,Whitman,10,Southern California,2,1/1/20,Women,0,2020,Whitman,Southern California,10,2
+Presidents' Day Invite 2020,College,248039,California,11,Colorado,10,1/1/20,Women,0,2020,California,Colorado,11,10
+Presidents' Day Invite 2020,College,248040,Texas,8,Chicago,9,1/1/20,Women,0,2020,Chicago,Texas,9,8
+Presidents' Day Invite 2020,College,248041,UCLA,10,Whitman,4,1/1/20,Women,0,2020,UCLA,Whitman,10,4
+Presidents' Day Invite 2020,College,248042,Massachusetts,5,Cal Poly-SLO,10,1/1/20,Women,0,2020,Cal Poly-SLO,Massachusetts,10,5
+Presidents' Day Invite 2020,College,248043,Western Washington,11,California,8,1/1/20,Women,0,2020,Western Washington,California,11,8
+Presidents' Day Invite 2020,College,248044,Stanford,12,Chicago,8,1/1/20,Women,0,2020,Stanford,Chicago,12,8
+Presidents' Day Invite 2020,College,248045,California-San Diego,9,UCLA,4,1/1/20,Women,0,2020,California-San Diego,UCLA,9,4
+Presidents' Day Invite 2020,College,248046,California-Santa Barbara,12,Cal Poly-SLO,6,1/1/20,Women,0,2020,California-Santa Barbara,Cal Poly-SLO,12,6
+Presidents' Day Invite 2020,College,248047,Western Washington,6,Stanford,11,1/1/20,Women,0,2020,Stanford,Western Washington,11,6
+Presidents' Day Invite 2020,College,248048,California-San Diego,9,California-Santa Barbara,10,1/1/20,Women,0,2020,California-Santa Barbara,California-San Diego,10,9
+Presidents' Day Invite 2020,College,248049,Stanford,11,California-Santa Barbara,10,1/1/20,Women,0,2020,Stanford,California-Santa Barbara,11,10
+Dust Bowl 2020,College,248318,Kansas,15,Grinnell,4,1/1/20,Women,0,2020,Kansas,Grinnell,15,4
+Dust Bowl 2020,College,248319,Truman State,13,Grinnell,6,1/1/20,Women,0,2020,Truman State,Grinnell,13,6
+Dust Bowl 2020,College,248320,Kansas,14,Nebraska,11,1/1/20,Women,0,2020,Kansas,Nebraska,14,11
+Dust Bowl 2020,College,248321,Truman State,12,John Brown,11,1/1/20,Women,0,2020,Truman State,John Brown,12,11
+Dust Bowl 2020,College,248322,Truman State,11,Nebraska,4,1/1/20,Women,0,2020,Truman State,Nebraska,11,4
+Dust Bowl 2020,College,248323,John Brown,12,Grinnell,11,1/1/20,Women,0,2020,John Brown,Grinnell,12,11
+Dust Bowl 2020,College,248324,Nebraska,6,Grinnell,8,1/1/20,Women,0,2020,Grinnell,Nebraska,8,6
+Dust Bowl 2020,College,248325,Truman State,9,Kansas,11,1/1/20,Women,0,2020,Kansas,Truman State,11,9
+Dust Bowl 2020,College,248326,John Brown,11,Nebraska,5,1/1/20,Women,0,2020,John Brown,Nebraska,11,5
+Dust Bowl 2020,College,248327,John Brown,11,Kansas,15,1/1/20,Women,0,2020,Kansas,John Brown,15,11
+Dust Bowl 2020,College,248328,Denver,8,Oklahoma,5,1/1/20,Women,0,2020,Denver,Oklahoma,8,5
+Dust Bowl 2020,College,248329,Air Force,7,Tulsa,10,1/1/20,Women,0,2020,Tulsa,Air Force,10,7
+Dust Bowl 2020,College,248330,Missouri,4,Colorado School of Mines,12,1/1/20,Women,0,2020,Colorado School of Mines,Missouri,12,4
+Dust Bowl 2020,College,248331,Denver,10,Tulsa,7,1/1/20,Women,0,2020,Denver,Tulsa,10,7
+Dust Bowl 2020,College,248332,Air Force,8,Missouri,6,1/1/20,Women,0,2020,Air Force,Missouri,8,6
+Dust Bowl 2020,College,248333,Oklahoma,8,Colorado School of Mines,7,1/1/20,Women,0,2020,Oklahoma,Colorado School of Mines,8,7
+Dust Bowl 2020,College,248334,Denver,9,Air Force,8,1/1/20,Women,0,2020,Denver,Air Force,9,8
+Dust Bowl 2020,College,248335,Oklahoma,6,Missouri,1,1/1/20,Women,0,2020,Oklahoma,Missouri,6,1
+Dust Bowl 2020,College,248336,Tulsa,9,Colorado School of Mines,7,1/1/20,Women,0,2020,Tulsa,Colorado School of Mines,9,7
+Dust Bowl 2020,College,248337,Denver,7,Missouri,2,1/1/20,Women,0,2020,Denver,Missouri,7,2
+Dust Bowl 2020,College,248338,Air Force,9,Colorado School of Mines,7,1/1/20,Women,0,2020,Air Force,Colorado School of Mines,9,7
+Dust Bowl 2020,College,248339,Oklahoma,6,Tulsa,8,1/1/20,Women,0,2020,Tulsa,Oklahoma,8,6
+Dust Bowl 2020,College,248340,Denver,15,Colorado School of Mines,0,1/1/20,Women,0,2020,Denver,Colorado School of Mines,15,0
+Dust Bowl 2020,College,248341,Air Force,11,Oklahoma,6,1/1/20,Women,0,2020,Air Force,Oklahoma,11,6
+Dust Bowl 2020,College,248342,Missouri,2,Tulsa,15,1/1/20,Women,0,2020,Tulsa,Missouri,15,2
+Dust Bowl 2020,College,248343,Kansas,15,Oklahoma,5,1/1/20,Women,0,2020,Kansas,Oklahoma,15,5
+Dust Bowl 2020,College,248344,Tulsa,8,John Brown,15,1/1/20,Women,0,2020,John Brown,Tulsa,15,8
+Dust Bowl 2020,College,248345,Truman State,12,Air Force,4,1/1/20,Women,0,2020,Truman State,Air Force,12,4
+Dust Bowl 2020,College,248346,Denver,12,Grinnell,9,1/1/20,Women,0,2020,Denver,Grinnell,12,9
+Dust Bowl 2020,College,248347,Kansas,14,John Brown,7,1/1/20,Women,0,2020,Kansas,John Brown,14,7
+Dust Bowl 2020,College,248348,Truman State,12,Denver,5,1/1/20,Women,0,2020,Truman State,Denver,12,5
+Dust Bowl 2020,College,248349,Kansas,10,Truman State,6,1/1/20,Women,0,2020,Kansas,Truman State,10,6
+Dust Bowl 2020,College,248351,Air Force,15,Grinnell,5,1/1/20,Women,0,2020,Air Force,Grinnell,15,5
+Dust Bowl 2020,College,248353,John Brown,5,Denver,9,1/1/20,Women,0,2020,Denver,John Brown,9,5
+Dust Bowl 2020,College,248355,Nebraska,8,Colorado School of Mines,1,1/1/20,Women,0,2020,Nebraska,Colorado School of Mines,8,1
+Dust Bowl 2020,College,248356,Nebraska,10,Missouri,9,1/1/20,Women,0,2020,Nebraska,Missouri,10,9
+Big D in lil d 2020 (Women),College,248375,Texas-Dallas,8,Rice,5,1/1/20,Women,0,2020,Texas-Dallas,Rice,8,5
+Big D in lil d 2020 (Women),College,248376,Texas State,10,Colorado B,4,1/1/20,Women,0,2020,Texas State,Colorado B,10,4
+Big D in lil d 2020 (Women),College,248377,Texas A&M,13,North Texas,1,1/1/20,Women,0,2020,Texas A&M,North Texas,13,1
+Big D in lil d 2020 (Women),College,248378,Texas-Dallas,8,Texas State,5,1/1/20,Women,0,2020,Texas-Dallas,Texas State,8,5
+Big D in lil d 2020 (Women),College,248379,Rice,5,Texas A&M,8,1/1/20,Women,0,2020,Texas A&M,Rice,8,5
+Big D in lil d 2020 (Women),College,248380,Colorado B,11,North Texas,1,1/1/20,Women,0,2020,Colorado B,North Texas,11,1
+Big D in lil d 2020 (Women),College,248381,Texas-Dallas,9,Texas A&M,5,1/1/20,Women,0,2020,Texas-Dallas,Texas A&M,9,5
+Big D in lil d 2020 (Women),College,248382,Texas State,13,North Texas,5,1/1/20,Women,0,2020,Texas State,North Texas,13,5
+Big D in lil d 2020 (Women),College,248383,Rice,9,Colorado B,5,1/1/20,Women,0,2020,Rice,Colorado B,9,5
+Big D in lil d 2020 (Women),College,248384,Texas-Dallas,13,North Texas,4,1/1/20,Women,0,2020,Texas-Dallas,North Texas,13,4
+Big D in lil d 2020 (Women),College,248385,Texas State,11,Rice,5,1/1/20,Women,0,2020,Texas State,Rice,11,5
+Big D in lil d 2020 (Women),College,248386,Texas A&M,8,Colorado B,7,1/1/20,Women,0,2020,Texas A&M,Colorado B,8,7
+Big D in lil d 2020 (Women),College,248387,Texas-Dallas,9,Colorado B,4,1/1/20,Women,0,2020,Texas-Dallas,Colorado B,9,4
+Big D in lil d 2020 (Women),College,248388,Texas State,7,Texas A&M,9,1/1/20,Women,0,2020,Texas A&M,Texas State,9,7
+Big D in lil d 2020 (Women),College,248389,Rice,13,North Texas,5,1/1/20,Women,0,2020,Rice,North Texas,13,5
+Big D in lil d 2020 (Women),College,248390,Trinity,10,Baylor,7,1/1/20,Women,0,2020,Trinity,Baylor,10,7
+Big D in lil d 2020 (Women),College,248391,Colorado State,13,Texas Christian,5,1/1/20,Women,0,2020,Colorado State,Texas Christian,13,5
+Big D in lil d 2020 (Women),College,248392,Arkansas,3,Texas B,9,1/1/20,Women,0,2020,Texas B,Arkansas,9,3
+Big D in lil d 2020 (Women),College,248393,Trinity,5,Colorado State,9,1/1/20,Women,0,2020,Colorado State,Trinity,9,5
+Big D in lil d 2020 (Women),College,248394,Baylor,8,Arkansas,5,1/1/20,Women,0,2020,Baylor,Arkansas,8,5
+Big D in lil d 2020 (Women),College,248395,Texas Christian,4,Texas B,8,1/1/20,Women,0,2020,Texas B,Texas Christian,8,4
+Big D in lil d 2020 (Women),College,248396,Trinity,8,Arkansas,6,1/1/20,Women,0,2020,Trinity,Arkansas,8,6
+Big D in lil d 2020 (Women),College,248397,Colorado State,10,Texas B,3,1/1/20,Women,0,2020,Colorado State,Texas B,10,3
+Big D in lil d 2020 (Women),College,248398,Baylor,6,Texas Christian,7,1/1/20,Women,0,2020,Texas Christian,Baylor,7,6
+Big D in lil d 2020 (Women),College,248399,Trinity,7,Texas B,6,1/1/20,Women,0,2020,Trinity,Texas B,7,6
+Big D in lil d 2020 (Women),College,248400,Colorado State,13,Baylor,4,1/1/20,Women,0,2020,Colorado State,Baylor,13,4
+Big D in lil d 2020 (Women),College,248401,Arkansas,4,Texas Christian,8,1/1/20,Women,0,2020,Texas Christian,Arkansas,8,4
+Big D in lil d 2020 (Women),College,248402,Trinity,8,Texas Christian,6,1/1/20,Women,0,2020,Trinity,Texas Christian,8,6
+Big D in lil d 2020 (Women),College,248403,Colorado State,13,Arkansas,5,1/1/20,Women,0,2020,Colorado State,Arkansas,13,5
+Big D in lil d 2020 (Women),College,248404,Baylor,6,Texas B,8,1/1/20,Women,0,2020,Texas B,Baylor,8,6
+Big D in lil d 2020 (Women),College,248405,Texas State,5,Trinity,8,1/1/20,Women,0,2020,Trinity,Texas State,8,5
+Big D in lil d 2020 (Women),College,248406,Texas B,8,Texas A&M,12,1/1/20,Women,0,2020,Texas A&M,Texas B,12,8
+Big D in lil d 2020 (Women),College,248407,Texas-Dallas,13,Trinity,3,1/1/20,Women,0,2020,Texas-Dallas,Trinity,13,3
+Big D in lil d 2020 (Women),College,248408,Colorado State,12,Texas A&M,5,1/1/20,Women,0,2020,Colorado State,Texas A&M,12,5
+Big D in lil d 2020 (Women),College,248409,Texas-Dallas,9,Colorado State,7,1/1/20,Women,0,2020,Texas-Dallas,Colorado State,9,7
+Big D in lil d 2020 (Women),College,248410,Trinity,11,Texas A&M,13,1/1/20,Women,0,2020,Texas A&M,Trinity,13,11
+Big D in lil d 2020 (Women),College,248411,Texas State,9,Texas B,6,1/1/20,Women,0,2020,Texas State,Texas B,9,6
+Big D in lil d 2020 (Women),College,248412,North Texas,8,Baylor,11,1/1/20,Women,0,2020,Baylor,North Texas,11,8
+Big D in lil d 2020 (Women),College,248413,Arkansas,3,Colorado B,7,1/1/20,Women,0,2020,Colorado B,Arkansas,7,3
+Big D in lil d 2020 (Women),College,248414,Rice,13,Baylor,6,1/1/20,Women,0,2020,Rice,Baylor,13,6
+Big D in lil d 2020 (Women),College,248415,Texas Christian,5,Colorado B,10,1/1/20,Women,0,2020,Colorado B,Texas Christian,10,5
+Big D in lil d 2020 (Women),College,248416,Rice,5,Colorado B,7,1/1/20,Women,0,2020,Colorado B,Rice,7,5
+Big D in lil d 2020 (Women),College,248418,North Texas,7,Arkansas,9,1/1/20,Women,0,2020,Arkansas,North Texas,9,7
+Cutlass Classic 2020,College,248447,Maryland,6,East Carolina,7,1/1/20,Women,0,2020,East Carolina,Maryland,7,6
+Cutlass Classic 2020,College,248448,Catholic,10,Charleston,5,1/1/20,Women,0,2020,Catholic,Charleston,10,5
+Cutlass Classic 2020,College,248449,Kennesaw State,9,Maryland,4,1/1/20,Women,0,2020,Kennesaw State,Maryland,9,4
+Cutlass Classic 2020,College,248450,George Washington,9,Charleston,5,1/1/20,Women,0,2020,George Washington,Charleston,9,5
+Cutlass Classic 2020,College,248451,Catholic,6,East Carolina,5,1/1/20,Women,0,2020,Catholic,East Carolina,6,5
+Cutlass Classic 2020,College,248452,Kennesaw State,6,George Washington,11,1/1/20,Women,0,2020,George Washington,Kennesaw State,11,6
+Cutlass Classic 2020,College,248453,North Georgia,13,East Carolina,2,1/1/20,Women,0,2020,North Georgia,East Carolina,13,2
+Cutlass Classic 2020,College,248454,Maryland,11,Charleston,3,1/1/20,Women,0,2020,Maryland,Charleston,11,3
+Cutlass Classic 2020,College,248455,Maryland,8,Catholic,5,1/1/20,Women,0,2020,Maryland,Catholic,8,5
+Cutlass Classic 2020,College,248456,North Georgia,5,George Washington,9,1/1/20,Women,0,2020,George Washington,North Georgia,9,5
+Cutlass Classic 2020,College,248457,East Carolina,11,Charleston,5,3/1/20,Women,0,2020,East Carolina,Charleston,11,5
+Cutlass Classic 2020,College,248458,Kennesaw State,12,Catholic,3,3/1/20,Women,0,2020,Kennesaw State,Catholic,12,3
+Cutlass Classic 2020,College,248459,Maryland,8,George Washington,13,3/1/20,Women,0,2020,George Washington,Maryland,13,8
+Cutlass Classic 2020,College,248460,North Georgia,13,Charleston,1,3/1/20,Women,0,2020,North Georgia,Charleston,13,1
+Cutlass Classic 2020,College,248461,Kennesaw State,10,East Carolina,3,3/1/20,Women,0,2020,Kennesaw State,East Carolina,10,3
+Cutlass Classic 2020,College,248462,Maryland,9,North Georgia,6,3/1/20,Women,0,2020,Maryland,North Georgia,9,6
+Cutlass Classic 2020,College,248463,Catholic,4,George Washington,11,3/1/20,Women,0,2020,George Washington,Catholic,11,4
+Cutlass Classic 2020,College,248464,Kennesaw State,9,North Georgia,2,1/1/20,Women,0,2020,Kennesaw State,North Georgia,9,2
+Cutlass Classic 2020,College,248465,George Washington,12,East Carolina,5,1/1/20,Women,0,2020,George Washington,East Carolina,12,5
+Cutlass Classic 2020,College,248466,Catholic,7,North Georgia,6,1/1/20,Women,0,2020,Catholic,North Georgia,7,6
+Cutlass Classic 2020,College,248467,Kennesaw State,11,Charleston,1,1/1/20,Women,0,2020,Kennesaw State,Charleston,11,1
+Cutlass Classic 2020,College,248468,George Washington,11,Kennesaw State,6,3/1/20,Women,0,2020,George Washington,Kennesaw State,11,6
+Cutlass Classic 2020,College,248469,Maryland,15,Catholic,4,3/1/20,Women,0,2020,Maryland,Catholic,15,4
+Cutlass Classic 2020,College,248470,North Georgia,12,East Carolina,8,3/1/20,Women,0,2020,North Georgia,East Carolina,12,8
+UMBC Safari Party 2020,College,248487,MIT,13,Goucher,0,1/1/20,Women,0,2020,MIT,Goucher,13,0
+UMBC Safari Party 2020,College,248488,Towson,10,West Virginia,5,1/1/20,Women,0,2020,Towson,West Virginia,10,5
+UMBC Safari Party 2020,College,248489,MIT,13,SUNY-Buffalo,1,1/1/20,Women,0,2020,MIT,SUNY-Buffalo,13,1
+UMBC Safari Party 2020,College,248490,Towson,13,Goucher,1,1/1/20,Women,0,2020,Towson,Goucher,13,1
+UMBC Safari Party 2020,College,248491,Goucher,0,West Virginia,12,1/1/20,Women,0,2020,West Virginia,Goucher,12,0
+UMBC Safari Party 2020,College,248492,Towson,13,SUNY-Buffalo,0,1/1/20,Women,0,2020,Towson,SUNY-Buffalo,13,0
+UMBC Safari Party 2020,College,248493,MIT,9,West Virginia,2,1/1/20,Women,0,2020,MIT,West Virginia,9,2
+UMBC Safari Party 2020,College,248494,SUNY-Buffalo,4,Goucher,5,1/1/20,Women,0,2020,Goucher,SUNY-Buffalo,5,4
+UMBC Safari Party 2020,College,248495,MIT,6,Towson,11,1/1/20,Women,0,2020,Towson,MIT,11,6
+UMBC Safari Party 2020,College,248496,SUNY-Buffalo,1,West Virginia,13,1/1/20,Women,0,2020,West Virginia,SUNY-Buffalo,13,1
+UMBC Safari Party 2020,College,248497,Lehigh,12,Johns Hopkins,2,1/1/20,Women,0,2020,Lehigh,Johns Hopkins,12,2
+UMBC Safari Party 2020,College,248498,Syracuse,13,Salisbury,2,1/1/20,Women,0,2020,Syracuse,Salisbury,13,2
+UMBC Safari Party 2020,College,248499,Maryland-Baltimore County,11,Lehigh B,4,1/1/20,Women,0,2020,Maryland-Baltimore County,Lehigh B,11,4
+UMBC Safari Party 2020,College,248500,Lehigh,7,Syracuse,4,1/1/20,Women,0,2020,Lehigh,Syracuse,7,4
+UMBC Safari Party 2020,College,248501,Johns Hopkins,3,Maryland-Baltimore County,9,1/1/20,Women,0,2020,Maryland-Baltimore County,Johns Hopkins,9,3
+UMBC Safari Party 2020,College,248502,Salisbury,3,Lehigh B,9,1/1/20,Women,0,2020,Lehigh B,Salisbury,9,3
+UMBC Safari Party 2020,College,248503,Lehigh,9,Maryland-Baltimore County,3,1/1/20,Women,0,2020,Lehigh,Maryland-Baltimore County,9,3
+UMBC Safari Party 2020,College,248504,Syracuse,10,Lehigh B,4,1/1/20,Women,0,2020,Syracuse,Lehigh B,10,4
+UMBC Safari Party 2020,College,248505,Johns Hopkins,9,Salisbury,4,1/1/20,Women,0,2020,Johns Hopkins,Salisbury,9,4
+UMBC Safari Party 2020,College,248506,Lehigh,7,Lehigh B,2,1/1/20,Women,0,2020,Lehigh,Lehigh B,7,2
+UMBC Safari Party 2020,College,248507,Syracuse,12,Johns Hopkins,4,1/1/20,Women,0,2020,Syracuse,Johns Hopkins,12,4
+UMBC Safari Party 2020,College,248508,Maryland-Baltimore County,13,Salisbury,1,1/1/20,Women,0,2020,Maryland-Baltimore County,Salisbury,13,1
+UMBC Safari Party 2020,College,248509,Lehigh,13,Salisbury,0,1/1/20,Women,0,2020,Lehigh,Salisbury,13,0
+UMBC Safari Party 2020,College,248510,Syracuse,11,Maryland-Baltimore County,6,1/1/20,Women,0,2020,Syracuse,Maryland-Baltimore County,11,6
+UMBC Safari Party 2020,College,248511,Johns Hopkins,7,Lehigh B,4,1/1/20,Women,0,2020,Johns Hopkins,Lehigh B,7,4
+UMBC Safari Party 2020,College,248512,Lehigh B,9,Salisbury,7,1/1/20,Women,0,2020,Lehigh B,Salisbury,9,7
+UMBC Safari Party 2020,College,248513,SUNY-Buffalo,2,Salisbury,11,1/1/20,Women,0,2020,Salisbury,SUNY-Buffalo,11,2
+Forever Winter 2020,College,248635,St Olaf,13,Michigan Tech,5,1/1/20,Women,0,2020,St Olaf,Michigan Tech,13,5
+Forever Winter 2020,College,248636,Carleton College,13,Macalester,2,1/1/20,Women,0,2020,Carleton College,Macalester,13,2
+Forever Winter 2020,College,248637,Michigan Tech,13,Wisconsin-La Crosse,5,1/1/20,Women,0,2020,Michigan Tech,Wisconsin-La Crosse,13,5
+Forever Winter 2020,College,248638,St Olaf,7,Carleton College,6,1/1/20,Women,0,2020,St Olaf,Carleton College,7,6
+Forever Winter 2020,College,248639,Wisconsin-La Crosse,6,Macalester,9,1/1/20,Women,0,2020,Macalester,Wisconsin-La Crosse,9,6
+Forever Winter 2020,College,248640,Carleton College,9,Michigan Tech,4,1/1/20,Women,0,2020,Carleton College,Michigan Tech,9,4
+Forever Winter 2020,College,248641,St Olaf,13,Wisconsin-La Crosse,1,1/1/20,Women,0,2020,St Olaf,Wisconsin-La Crosse,13,1
+Forever Winter 2020,College,248642,Michigan Tech,11,Macalester,5,1/1/20,Women,0,2020,Michigan Tech,Macalester,11,5
+Forever Winter 2020,College,248643,St Olaf,12,Macalester,3,1/1/20,Women,0,2020,St Olaf,Macalester,12,3
+Forever Winter 2020,College,248644,Carleton College,12,Wisconsin-La Crosse,2,1/1/20,Women,0,2020,Carleton College,Wisconsin-La Crosse,12,2
+TOTs 2020,College,248645,Purdue,7,Tennessee,8,1/1/20,Women,0,2020,Tennessee,Purdue,8,7
+TOTs 2020,College,248648,Alabama-Huntsville,6,Tennessee,7,1/1/20,Women,0,2020,Tennessee,Alabama-Huntsville,7,6
+TOTs 2020,College,248649,Purdue,11,Alabama-Huntsville,3,1/1/20,Women,0,2020,Purdue,Alabama-Huntsville,11,3
+TOTs 2020,College,248651,Virginia Tech,5,Georgia College,7,1/1/20,Women,0,2020,Georgia College,Virginia Tech,7,5
+TOTs 2020,College,248652,Mississippi,8,Kentucky,3,1/1/20,Women,0,2020,Mississippi,Kentucky,8,3
+TOTs 2020,College,248653,Virginia Tech,7,Kentucky,4,1/1/20,Women,0,2020,Virginia Tech,Kentucky,7,4
+TOTs 2020,College,248654,Mississippi,8,Georgia College,3,1/1/20,Women,0,2020,Mississippi,Georgia College,8,3
+TOTs 2020,College,248655,Virginia Tech,4,Mississippi,8,1/1/20,Women,0,2020,Mississippi,Virginia Tech,8,4
+TOTs 2020,College,248656,Georgia College,5,Kentucky,8,1/1/20,Women,0,2020,Kentucky,Georgia College,8,5
+TOTs 2020,College,248658,Mississippi,9,Tennessee,6,1/1/20,Women,0,2020,Mississippi,Tennessee,9,6
+TOTs 2020,College,248659,Purdue,9,Kentucky,8,1/1/20,Women,0,2020,Purdue,Kentucky,9,8
+TOTs 2020,College,248660,Virginia Tech,11,Alabama-Huntsville,6,1/1/20,Women,0,2020,Virginia Tech,Alabama-Huntsville,11,6
+TOTs 2020,College,248662,Virginia Tech,13,Purdue,12,3/1/20,Women,0,2020,Virginia Tech,Purdue,13,12
+TOTs 2020,College,248663,Tennessee,13,Georgia College,6,3/1/20,Women,0,2020,Tennessee,Georgia College,13,6
+TOTs 2020,College,248664,Mississippi,13,Alabama-Huntsville,5,3/1/20,Women,0,2020,Mississippi,Alabama-Huntsville,13,5
+TOTs 2020,College,248666,Tennessee,13,Mississippi,3,3/1/20,Women,0,2020,Tennessee,Mississippi,13,3
+TOTs 2020,College,248668,Kentucky,13,Purdue,10,3/1/20,Women,0,2020,Kentucky,Purdue,13,10
+TOTs 2020,College,248669,Georgia College,9,Alabama-Huntsville,11,3/1/20,Women,0,2020,Alabama-Huntsville,Georgia College,11,9
+TOTs 2020,College,248670,Kentucky,11,Alabama-Huntsville,10,3/1/20,Women,0,2020,Kentucky,Alabama-Huntsville,11,10
+TOTs 2020,College,248671,Virginia Tech,9,Mississippi,7,3/1/20,Women,0,2020,Virginia Tech,Mississippi,9,7
+Commonwealth Cup 2020 Weekend 2,College,248678,Harvard,3,Duke,15,1/1/20,Women,0,2020,Duke,Harvard,15,3
+Commonwealth Cup 2020 Weekend 2,College,248679,Brown,2,Duke,15,1/1/20,Women,0,2020,Duke,Brown,15,2
+Commonwealth Cup 2020 Weekend 2,College,248680,Brown,14,Harvard,5,1/1/20,Women,0,2020,Brown,Harvard,14,5
+2020 Women's BBQ,College,248735,Portland State,9,Western Washington B,13,3/1/20,Women,0,2020,Western Washington B,Portland State,13,9
+2020 Women's BBQ,College,248736,Seattle,11,Washington B,13,3/1/20,Women,0,2020,Washington B,Seattle,13,11
+Bring The Huckus 10 2020,College,248744,Skidmore,13,NYU,3,1/1/20,Women,0,2020,Skidmore,NYU,13,3
+Bring The Huckus 10 2020,College,248745,NYU,10,Amherst College,4,1/1/20,Women,0,2020,NYU,Amherst College,10,4
+Bring The Huckus 10 2020,College,248746,Ithaca,4,Haverford/Bryn Mawr,13,1/1/20,Women,0,2020,Haverford/Bryn Mawr,Ithaca,13,4
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248874,Case Western Reserve,11,Ohio Wesleyan,1,1/1/20,Women,0,2020,Case Western Reserve,Ohio Wesleyan,11,1
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248875,Xavier,6,Akron,8,1/1/20,Women,0,2020,Akron,Xavier,8,6
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248876,Ohio,8,Ohio Wesleyan,2,1/1/20,Women,0,2020,Ohio,Ohio Wesleyan,8,2
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248877,Dayton,11,Ohio State B,2,1/1/20,Women,0,2020,Dayton,Ohio State B,11,2
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248878,Xavier,7,Ohio Wesleyan,3,1/1/20,Women,0,2020,Xavier,Ohio Wesleyan,7,3
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248879,Case Western Reserve,5,Ohio,8,1/1/20,Women,0,2020,Ohio,Case Western Reserve,8,5
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248880,Dayton,8,Akron,1,1/1/20,Women,0,2020,Dayton,Akron,8,1
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248881,Ohio,7,Akron,0,1/1/20,Women,0,2020,Ohio,Akron,7,0
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248882,Xavier,5,Ohio State B,8,1/1/20,Women,0,2020,Ohio State B,Xavier,8,5
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248883,Case Western Reserve,9,Dayton,5,1/1/20,Women,0,2020,Case Western Reserve,Dayton,9,5
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248884,Ohio State B,6,Ohio Wesleyan,4,1/1/20,Women,0,2020,Ohio State B,Ohio Wesleyan,6,4
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248885,Ohio,10,Xavier,2,1/1/20,Women,0,2020,Ohio,Xavier,10,2
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248886,Xavier,1,Dayton,11,1/1/20,Women,0,2020,Dayton,Xavier,11,1
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248887,Ohio,11,Ohio State B,1,1/1/20,Women,0,2020,Ohio,Ohio State B,11,1
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248888,Case Western Reserve,11,Akron,1,1/1/20,Women,0,2020,Case Western Reserve,Akron,11,1
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248889,Ohio State B,7,Akron,5,3/1/20,Women,0,2020,Ohio State B,Akron,7,5
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248890,Case Western Reserve,11,Xavier,0,3/1/20,Women,0,2020,Case Western Reserve,Xavier,11,0
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248891,Dayton,11,Ohio Wesleyan,3,3/1/20,Women,0,2020,Dayton,Ohio Wesleyan,11,3
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248892,Case Western Reserve,11,Ohio State B,0,3/1/20,Women,0,2020,Case Western Reserve,Ohio State B,11,0
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248893,Akron,7,Ohio Wesleyan,3,3/1/20,Women,0,2020,Akron,Ohio Wesleyan,7,3
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248894,Ohio,10,Dayton,3,3/1/20,Women,0,2020,Ohio,Dayton,10,3
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248895,Ohio,12,Case Western Reserve,5,3/1/20,Women,0,2020,Ohio,Case Western Reserve,12,5
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,248896,Dayton,9,Ohio State B,1,3/1/20,Women,0,2020,Dayton,Ohio State B,9,1
+2nd Annual Claremont Ultimate Classic,College,248906,Claremont,7,UCLA B,6,1/1/20,Women,0,2020,Claremont,UCLA B,7,6
+2nd Annual Claremont Ultimate Classic,College,248908,Claremont,5,Occidental,9,1/1/20,Women,0,2020,Occidental,Claremont,9,5
+2nd Annual Claremont Ultimate Classic,College,248909,UCLA B,6,San Diego State University B,8,1/1/20,Women,0,2020,San Diego State University B,UCLA B,8,6
+2nd Annual Claremont Ultimate Classic,College,248910,Claremont,7,California-San Diego B,8,1/1/20,Women,0,2020,California-San Diego B,Claremont,8,7
+2nd Annual Claremont Ultimate Classic,College,248911,San Diego State University B,7,Occidental,10,1/1/20,Women,0,2020,Occidental,San Diego State University B,10,7
+2nd Annual Claremont Ultimate Classic,College,248912,Claremont,4,San Diego State University B,7,1/1/20,Women,0,2020,San Diego State University B,Claremont,7,4
+2nd Annual Claremont Ultimate Classic,College,248913,California-San Diego B,9,UCLA B,4,1/1/20,Women,0,2020,California-San Diego B,UCLA B,9,4
+TOTs 2020,College,248914,Purdue,8,Georgia College,4,3/1/20,Women,0,2020,Purdue,Georgia College,8,4
+The Culture 2020,College,249092,Williams,6,Connecticut,8,3/7/20,Women,0,2020,Connecticut,Williams,8,6
+The Culture 2020,College,249093,Brandeis,5,Drexel,4,3/7/20,Women,0,2020,Brandeis,Drexel,5,4
+The Culture 2020,College,249094,Williams,4,Drexel,6,3/7/20,Women,0,2020,Drexel,Williams,6,4
+The Culture 2020,College,249095,Brandeis,7,Connecticut,5,3/7/20,Women,0,2020,Brandeis,Connecticut,7,5
+The Culture 2020,College,249096,Williams,2,Brandeis,7,3/7/20,Women,0,2020,Brandeis,Williams,7,2
+The Culture 2020,College,249097,Connecticut,11,Drexel,5,3/7/20,Women,0,2020,Connecticut,Drexel,11,5
+The Culture 2020,College,249098,Mount Holyoke,9,Syracuse,8,3/7/20,Women,0,2020,Mount Holyoke,Syracuse,9,8
+The Culture 2020,College,249099,New Hampshire,8,SUNY-Stony Brook,7,3/7/20,Women,0,2020,New Hampshire,SUNY-Stony Brook,8,7
+The Culture 2020,College,249100,Mount Holyoke,8,SUNY-Stony Brook,6,3/7/20,Women,0,2020,Mount Holyoke,SUNY-Stony Brook,8,6
+The Culture 2020,College,249101,New Hampshire,9,Syracuse,7,3/7/20,Women,0,2020,New Hampshire,Syracuse,9,7
+The Culture 2020,College,249102,Mount Holyoke,8,New Hampshire,7,3/7/20,Women,0,2020,Mount Holyoke,New Hampshire,8,7
+The Culture 2020,College,249103,Syracuse,8,SUNY-Stony Brook,6,3/7/20,Women,0,2020,Syracuse,SUNY-Stony Brook,8,6
+The Culture 2020,College,249110,Drexel,11,SUNY-Albany,6,3/8/20,Women,0,2020,Drexel,SUNY-Albany,11,6
+The Culture 2020,College,249111,SUNY-Stony Brook,9,SUNY Cortland,3,3/8/20,Women,0,2020,SUNY-Stony Brook,SUNY Cortland,9,3
+The Culture 2020,College,249112,Hofstra,2,Williams,14,3/8/20,Women,0,2020,Williams,Hofstra,14,2
+The Culture 2020,College,249113,Syracuse,11,Marist,7,3/8/20,Women,0,2020,Syracuse,Marist,11,7
+The Culture 2020,College,249114,Drexel,2,New Hampshire,10,3/8/20,Women,0,2020,New Hampshire,Drexel,10,2
+The Culture 2020,College,249115,SUNY-Stony Brook,2,Brandeis,13,3/8/20,Women,0,2020,Brandeis,SUNY-Stony Brook,13,2
+The Culture 2020,College,249116,Connecticut,12,Williams,5,3/8/20,Women,0,2020,Connecticut,Williams,12,5
+The Culture 2020,College,249117,Mount Holyoke,11,Syracuse,8,3/8/20,Women,0,2020,Mount Holyoke,Syracuse,11,8
+The Culture 2020,College,249118,New Hampshire,11,Brandeis,6,3/8/20,Women,0,2020,New Hampshire,Brandeis,11,6
+The Culture 2020,College,249119,Connecticut,5,Mount Holyoke,10,3/8/20,Women,0,2020,Mount Holyoke,Connecticut,10,5
+The Culture 2020,College,249120,New Hampshire,6,Mount Holyoke,9,3/8/20,Women,0,2020,Mount Holyoke,New Hampshire,9,6
+The Culture 2020,College,249121,SUNY-Albany,10,SUNY Cortland,1,3/8/20,Women,0,2020,SUNY-Albany,SUNY Cortland,10,1
+The Culture 2020,College,249122,Marist,9,Hofstra,2,3/8/20,Women,0,2020,Marist,Hofstra,9,2
+The Culture 2020,College,249127,SUNY-Stony Brook,8,Williams,4,3/8/20,Women,0,2020,SUNY-Stony Brook,Williams,8,4
+The Culture 2020,College,249129,Brandeis,6,Connecticut,8,3/8/20,Women,0,2020,Connecticut,Brandeis,8,6
+The Culture 2020,College,249219,Brandeis,5,New Hampshire,6,3/7/20,Women,0,2020,New Hampshire,Brandeis,6,5
+The Culture 2020,College,249220,Connecticut,1,Mount Holyoke,11,3/7/20,Women,0,2020,Mount Holyoke,Connecticut,11,1
+2020 Women's BBQ,College,249283,Puget Sound,13,Pacific Lutheran B,0,1/1/20,Women,0,2020,Puget Sound,Pacific Lutheran B,13,0
+2020 Women's BBQ,College,249284,Portland State,6,Seattle,10,1/1/20,Women,0,2020,Seattle,Portland State,10,6
+2020 Women's BBQ,College,249285,Puget Sound,13,Portland State,2,1/1/20,Women,0,2020,Puget Sound,Portland State,13,2
+2020 Women's BBQ,College,249286,Western Washington B,11,Seattle,5,1/1/20,Women,0,2020,Western Washington B,Seattle,11,5
+2020 Women's BBQ,College,249287,Seattle,13,Pacific Lutheran B,1,1/1/20,Women,0,2020,Seattle,Pacific Lutheran B,13,1
+2020 Women's BBQ,College,249288,Western Washington B,13,Portland State,6,1/1/20,Women,0,2020,Western Washington B,Portland State,13,6
+2020 Women's BBQ,College,249289,Puget Sound,13,Seattle,3,1/1/20,Women,0,2020,Puget Sound,Seattle,13,3
+2020 Women's BBQ,College,249290,Western Washington B,13,Pacific Lutheran B,2,1/1/20,Women,0,2020,Western Washington B,Pacific Lutheran B,13,2
+2020 Women's BBQ,College,249291,Puget Sound,13,Western Washington B,5,1/1/20,Women,0,2020,Puget Sound,Western Washington B,13,5
+2020 Women's BBQ,College,249292,Portland State,13,Pacific Lutheran B,2,1/1/20,Women,0,2020,Portland State,Pacific Lutheran B,13,2
+Big Sky Brawl 2020,College,249429,Northern Arizona,13,Idaho,2,1/1/20,Women,0,2020,Northern Arizona,Idaho,13,2
+Big Sky Brawl 2020,College,249430,Montana State University,8,Nevada-Reno,7,1/1/20,Women,0,2020,Montana State University,Nevada-Reno,8,7
+Big Sky Brawl 2020,College,249431,Boise State,8,Montana,5,1/1/20,Women,0,2020,Boise State,Montana,8,5
+Big Sky Brawl 2020,College,249432,Northern Arizona,8,Nevada-Reno,3,1/1/20,Women,0,2020,Northern Arizona,Nevada-Reno,8,3
+Big Sky Brawl 2020,College,249433,Montana State University,9,Idaho,2,3/1/20,Women,0,2020,Montana State University,Idaho,9,2
+Big Sky Brawl 2020,College,249434,Boise State,4,Oregon State,8,3/1/20,Women,0,2020,Oregon State,Boise State,8,4
+Big Sky Brawl 2020,College,249435,Montana State University,8,Boise State,3,3/1/20,Women,0,2020,Montana State University,Boise State,8,3
+Big Sky Brawl 2020,College,249436,Oregon State,12,Idaho,3,1/1/20,Women,0,2020,Oregon State,Idaho,12,3
+Big Sky Brawl 2020,College,249437,Nevada-Reno,11,Montana,7,1/1/20,Women,0,2020,Nevada-Reno,Montana,11,7
+Big Sky Brawl 2020,College,249438,Northern Arizona,5,Boise State,3,3/1/20,Women,0,2020,Northern Arizona,Boise State,5,3
+Big Sky Brawl 2020,College,249439,Oregon State,7,Nevada-Reno,5,3/1/20,Women,0,2020,Oregon State,Nevada-Reno,7,5
+Big Sky Brawl 2020,College,249440,Idaho,6,Montana,7,1/1/20,Women,0,2020,Montana,Idaho,7,6
+Big Sky Brawl 2020,College,249442,Northern Arizona,9,Montana State University,8,3/1/20,Women,0,2020,Northern Arizona,Montana State University,9,8
+Big Sky Brawl 2020,College,249443,Oregon State,11,Montana,3,3/1/20,Women,0,2020,Oregon State,Montana,11,3
+Big Sky Brawl 2020,College,249444,Boise State,8,Idaho,6,1/1/20,Women,0,2020,Boise State,Idaho,8,6
+Big Sky Brawl 2020,College,249445,Northern Arizona,8,Oregon State,9,1/1/20,Women,0,2020,Oregon State,Northern Arizona,9,8
+Big Sky Brawl 2020,College,249446,Montana State University,8,Montana,7,1/1/20,Women,0,2020,Montana State University,Montana,8,7
+Big Sky Brawl 2020,College,249447,Idaho,6,Nevada-Reno,9,3/1/20,Women,0,2020,Nevada-Reno,Idaho,9,6
+Big Sky Brawl 2020,College,249449,Northern Arizona,11,Montana,3,3/1/20,Women,0,2020,Northern Arizona,Montana,11,3
+Big Sky Brawl 2020,College,249450,Montana State University,13,Oregon State,10,1/1/20,Women,0,2020,Montana State University,Oregon State,13,10
+Big Sky Brawl 2020,College,249451,Boise State,3,Nevada-Reno,9,1/1/20,Women,0,2020,Nevada-Reno,Boise State,9,3
+Big Sky Brawl 2020,College,249452,Brigham Young,13,Oregon State,8,1/1/20,Women,0,2020,Brigham Young,Oregon State,13,8
+Big Sky Brawl 2020,College,249453,Brigham Young,13,Northern Arizona,2,1/1/20,Women,0,2020,Brigham Young,Northern Arizona,13,2
+Big Sky Brawl 2020,College,249454,Brigham Young,13,Montana State University,2,1/1/20,Women,0,2020,Brigham Young,Montana State University,13,2
+Big Sky Brawl 2020,College,249455,Brigham Young,13,Boise State,1,1/1/20,Women,0,2020,Brigham Young,Boise State,13,1
+Big Sky Brawl 2020,College,249468,Oregon State,3,Northern Arizona,6,3/1/20,Women,0,2020,Northern Arizona,Oregon State,6,3
+Big Sky Brawl 2020,College,249469,Montana State University,4,Nevada-Reno,5,3/1/20,Women,0,2020,Nevada-Reno,Montana State University,5,4
+Big Sky Brawl 2020,College,249470,Montana,5,Boise State,6,3/1/20,Women,0,2020,Boise State,Montana,6,5
+2020 Women's BBQ,College,249877,Pacific Lutheran,13,Washington B,3,1/1/20,Women,0,2020,Pacific Lutheran,Washington B,13,3
+2020 Women's BBQ,College,249878,Portland,13,Washington B,2,1/1/20,Women,0,2020,Portland,Washington B,13,2
+2020 Women's BBQ,College,249880,Portland,11,Pacific Lutheran,5,1/1/20,Women,0,2020,Portland,Pacific Lutheran,11,5
+2020 Women's BBQ,College,249884,Pacific Lutheran B,2,Washington B,15,3/1/20,Women,0,2020,Washington B,Pacific Lutheran B,15,2
+2020 Women's BBQ,College,249885,Portland,15,Portland State,7,3/1/20,Women,0,2020,Portland,Portland State,15,7
+2020 Women's BBQ,College,249887,Seattle,6,Pacific Lutheran,15,3/1/20,Women,0,2020,Pacific Lutheran,Seattle,15,6
+2020 Women's BBQ,College,249888,Washington B,7,Puget Sound,15,3/1/20,Women,0,2020,Puget Sound,Washington B,15,7
+2020 Women's BBQ,College,249890,Pacific Lutheran,8,Puget Sound,15,3/1/20,Women,0,2020,Puget Sound,Pacific Lutheran,15,8
+2020 Women's BBQ,College,249891,Portland,6,Puget Sound,14,3/1/20,Women,0,2020,Puget Sound,Portland,14,6
+Stanford Invite 2020,College,249892,Carleton College,9,Pittsburgh,6,3/7/20,Women,0,2020,Carleton College,Pittsburgh,9,6
+Stanford Invite 2020,College,249893,UCLA,9,California-Santa Cruz,6,3/7/20,Women,0,2020,UCLA,California-Santa Cruz,9,6
+Stanford Invite 2020,College,249894,Carleton College,13,California-Santa Cruz,2,3/7/20,Women,0,2020,Carleton College,California-Santa Cruz,13,2
+Stanford Invite 2020,College,249895,UCLA,10,Pittsburgh,4,3/7/20,Women,0,2020,UCLA,Pittsburgh,10,4
+Stanford Invite 2020,College,249896,Carleton College,10,UCLA,8,3/7/20,Women,0,2020,Carleton College,UCLA,10,8
+Stanford Invite 2020,College,249897,Pittsburgh,10,California-Santa Cruz,6,3/7/20,Women,0,2020,Pittsburgh,California-Santa Cruz,10,6
+Stanford Invite 2020,College,249898,Tufts,13,California,6,3/7/20,Women,0,2020,Tufts,California,13,6
+Stanford Invite 2020,College,249899,British Columbia,13,Oregon,3,3/7/20,Women,0,2020,British Columbia,Oregon,13,3
+Stanford Invite 2020,College,249900,Tufts,13,Oregon,4,3/7/20,Women,0,2020,Tufts,Oregon,13,4
+Stanford Invite 2020,College,249901,British Columbia,10,California,4,3/7/20,Women,0,2020,British Columbia,California,10,4
+Stanford Invite 2020,College,249902,Tufts,13,British Columbia,8,3/7/20,Women,0,2020,Tufts,British Columbia,13,8
+Stanford Invite 2020,College,249903,California,8,Oregon,9,3/7/20,Women,0,2020,Oregon,California,9,8
+Stanford Invite 2020,College,249904,California-Santa Barbara,10,Colorado,7,3/7/20,Women,0,2020,California-Santa Barbara,Colorado,10,7
+Stanford Invite 2020,College,249905,Washington,11,Cal Poly-SLO,6,3/7/20,Women,0,2020,Washington,Cal Poly-SLO,11,6
+Stanford Invite 2020,College,249906,California-Santa Barbara,10,Cal Poly-SLO,6,3/7/20,Women,0,2020,California-Santa Barbara,Cal Poly-SLO,10,6
+Stanford Invite 2020,College,249907,Washington,13,Colorado,10,3/7/20,Women,0,2020,Washington,Colorado,13,10
+Stanford Invite 2020,College,249908,California-Santa Barbara,10,Washington,12,3/7/20,Women,0,2020,Washington,California-Santa Barbara,12,10
+Stanford Invite 2020,College,249909,Colorado,12,Cal Poly-SLO,6,3/7/20,Women,0,2020,Colorado,Cal Poly-SLO,12,6
+Stanford Invite 2020,College,249910,California-San Diego,13,Texas,4,3/7/20,Women,0,2020,California-San Diego,Texas,13,4
+Stanford Invite 2020,College,249911,Stanford,11,Minnesota,6,3/7/20,Women,0,2020,Stanford,Minnesota,11,6
+Stanford Invite 2020,College,249912,California-San Diego,12,Minnesota,7,3/7/20,Women,0,2020,California-San Diego,Minnesota,12,7
+Stanford Invite 2020,College,249913,Stanford,9,Texas,6,3/7/20,Women,0,2020,Stanford,Texas,9,6
+Stanford Invite 2020,College,249914,California-San Diego,7,Stanford,8,3/7/20,Women,0,2020,Stanford,California-San Diego,8,7
+Stanford Invite 2020,College,249915,Texas,9,Minnesota,8,3/7/20,Women,0,2020,Texas,Minnesota,9,8
+Stanford Invite 2020,College,249918,California-San Diego,9,Pittsburgh,5,3/7/20,Women,0,2020,California-San Diego,Pittsburgh,9,5
+Stanford Invite 2020,College,249919,Texas,6,UCLA,9,3/7/20,Women,0,2020,UCLA,Texas,9,6
+Stanford Invite 2020,College,249920,Carleton College,12,Colorado,8,3/8/20,Women,0,2020,Carleton College,Colorado,12,8
+Stanford Invite 2020,College,249921,Stanford,13,California-Santa Barbara,9,3/8/20,Women,0,2020,Stanford,California-Santa Barbara,13,9
+Stanford Invite 2020,College,249922,Washington,8,California-San Diego,11,3/8/20,Women,0,2020,California-San Diego,Washington,11,8
+Stanford Invite 2020,College,249923,Tufts,10,UCLA,9,3/8/20,Women,0,2020,Tufts,UCLA,10,9
+Stanford Invite 2020,College,249924,Carleton College,13,Stanford,7,3/8/20,Women,0,2020,Carleton College,Stanford,13,7
+Stanford Invite 2020,College,249925,California-San Diego,6,Tufts,9,3/8/20,Women,0,2020,Tufts,California-San Diego,9,6
+Stanford Invite 2020,College,249926,Carleton College,13,Tufts,10,3/8/20,Women,0,2020,Carleton College,Tufts,13,10
+Stanford Invite 2020,College,249927,Stanford,10,California-San Diego,7,3/8/20,Women,0,2020,Stanford,California-San Diego,10,7
+Stanford Invite 2020,College,249928,Colorado,8,California-Santa Barbara,7,3/8/20,Women,0,2020,Colorado,California-Santa Barbara,8,7
+Stanford Invite 2020,College,249929,Washington,10,UCLA,7,3/8/20,Women,0,2020,Washington,UCLA,10,7
+Stanford Invite 2020,College,249930,Colorado,8,Washington,10,3/8/20,Women,0,2020,Washington,Colorado,10,8
+Stanford Invite 2020,College,249931,California-Santa Barbara,7,UCLA,9,3/8/20,Women,0,2020,UCLA,California-Santa Barbara,9,7
+Stanford Invite 2020,College,249932,British Columbia,10,Colorado,11,3/7/20,Women,0,2020,Colorado,British Columbia,11,10
+Stanford Invite 2020,College,249933,British Columbia,13,Texas,7,3/8/20,Women,0,2020,British Columbia,Texas,13,7
+Stanford Invite 2020,College,249934,Oregon,5,Pittsburgh,13,3/8/20,Women,0,2020,Pittsburgh,Oregon,13,5
+Stanford Invite 2020,College,249935,British Columbia,8,Pittsburgh,11,3/8/20,Women,0,2020,Pittsburgh,British Columbia,11,8
+Stanford Invite 2020,College,249936,Texas,12,Oregon,5,3/8/20,Women,0,2020,Texas,Oregon,12,5
+Stanford Invite 2020,College,249937,California-Santa Cruz,5,Cal Poly-SLO,11,3/8/20,Women,0,2020,Cal Poly-SLO,California-Santa Cruz,11,5
+Stanford Invite 2020,College,249938,California,7,Minnesota,8,3/8/20,Women,0,2020,Minnesota,California,8,7
+Stanford Invite 2020,College,249939,California-Santa Cruz,3,Minnesota,13,3/8/20,Women,0,2020,Minnesota,California-Santa Cruz,13,3
+Stanford Invite 2020,College,249940,California,11,Cal Poly-SLO,8,3/8/20,Women,0,2020,California,Cal Poly-SLO,11,8
+Stanford Invite 2020,College,249942,Cal Poly-SLO,8,Minnesota,12,3/8/20,Women,0,2020,Minnesota,Cal Poly-SLO,12,8
+The Culture 2020,College,249993,SUNY-Albany,9,Hofstra,3,3/7/20,Women,0,2020,SUNY-Albany,Hofstra,9,3
+The Culture 2020,College,249994,SUNY Cortland,5,College of New Jersey,4,3/7/20,Women,0,2020,SUNY Cortland,College of New Jersey,5,4
+The Culture 2020,College,249995,SUNY-Albany,6,SUNY Cortland,2,3/7/20,Women,0,2020,SUNY-Albany,SUNY Cortland,6,2
+The Culture 2020,College,249996,Marist,8,College of New Jersey,6,3/7/20,Women,0,2020,Marist,College of New Jersey,8,6
+The Culture 2020,College,249997,College of New Jersey,2,Hofstra,7,3/7/20,Women,0,2020,Hofstra,College of New Jersey,7,2
+The Culture 2020,College,249998,Marist,3,SUNY Cortland,2,3/7/20,Women,0,2020,Marist,SUNY Cortland,3,2
+The Culture 2020,College,249999,SUNY-Albany,7,College of New Jersey,0,3/7/20,Women,0,2020,SUNY-Albany,College of New Jersey,7,0
+The Culture 2020,College,250000,Marist,6,Hofstra,4,3/7/20,Women,0,2020,Marist,Hofstra,6,4
+The Culture 2020,College,250001,SUNY-Albany,4,Marist,5,3/7/20,Women,0,2020,Marist,SUNY-Albany,5,4
+The Culture 2020,College,250002,SUNY Cortland,4,Hofstra,2,3/7/20,Women,0,2020,SUNY Cortland,Hofstra,4,2
+The Culture 2020,College,250003,Drexel,5,SUNY-Stony Brook,6,3/7/20,Women,0,2020,SUNY-Stony Brook,Drexel,6,5
+The Culture 2020,College,250004,Williams,9,Syracuse,8,3/7/20,Women,0,2020,Williams,Syracuse,9,8
+The Culture 2020,College,250005,Hofstra,6,College of New Jersey,5,3/8/20,Women,0,2020,Hofstra,College of New Jersey,6,5
+The Culture 2020,College,250006,College of New Jersey,2,SUNY Cortland,3,3/8/20,Women,0,2020,SUNY Cortland,College of New Jersey,3,2
+Mash-Up 2020,College,250021,SUNY-Fredonia,8,RIT,5,3/7/20,Women,0,2020,SUNY-Fredonia,RIT,8,5
+Mash-Up 2020,College,250022,Liberty,13,Rhode Island,4,3/7/20,Women,0,2020,Liberty,Rhode Island,13,4
+Mash-Up 2020,College,250023,Vermont B,4,Haverford/Bryn Mawr,9,3/7/20,Women,0,2020,Haverford/Bryn Mawr,Vermont B,9,4
+Mash-Up 2020,College,250024,Liberty,7,Haverford/Bryn Mawr,9,3/7/20,Women,0,2020,Haverford/Bryn Mawr,Liberty,9,7
+Mash-Up 2020,College,250025,Cincinnati,13,RIT,2,3/7/20,Women,0,2020,Cincinnati,RIT,13,2
+Mash-Up 2020,College,250026,Vermont B,8,Rhode Island,9,3/7/20,Women,0,2020,Rhode Island,Vermont B,9,8
+Mash-Up 2020,College,250027,Liberty,9,Cincinnati,5,3/7/20,Women,0,2020,Liberty,Cincinnati,9,5
+Mash-Up 2020,College,250028,SUNY-Fredonia,7,Rhode Island,2,3/7/20,Women,0,2020,SUNY-Fredonia,Rhode Island,7,2
+Mash-Up 2020,College,250029,Vermont B,10,RIT,2,3/7/20,Women,0,2020,Vermont B,RIT,10,2
+Mash-Up 2020,College,250030,Liberty,9,SUNY-Fredonia,3,3/7/20,Women,0,2020,Liberty,SUNY-Fredonia,9,3
+Mash-Up 2020,College,250031,Haverford/Bryn Mawr,11,RIT,1,3/7/20,Women,0,2020,Haverford/Bryn Mawr,RIT,11,1
+Mash-Up 2020,College,250032,Cincinnati,11,Rhode Island,4,3/7/20,Women,0,2020,Cincinnati,Rhode Island,11,4
+Mash-Up 2020,College,250033,Cincinnati,8,Vermont B,6,3/8/20,Women,0,2020,Cincinnati,Vermont B,8,6
+Mash-Up 2020,College,250034,Haverford/Bryn Mawr,12,SUNY-Fredonia,4,3/8/20,Women,0,2020,Haverford/Bryn Mawr,SUNY-Fredonia,12,4
+Mash-Up 2020,College,250035,RIT,1,Rhode Island,13,3/8/20,Women,0,2020,Rhode Island,RIT,13,1
+Mash-Up 2020,College,250036,Liberty,10,Vermont B,5,3/8/20,Women,0,2020,Liberty,Vermont B,10,5
+Mash-Up 2020,College,250037,Cincinnati,12,SUNY-Fredonia,3,3/8/20,Women,0,2020,Cincinnati,SUNY-Fredonia,12,3
+Mash-Up 2020,College,250038,Haverford/Bryn Mawr,12,Rhode Island,6,3/8/20,Women,0,2020,Haverford/Bryn Mawr,Rhode Island,12,6
+Mash-Up 2020,College,250039,Liberty,13,RIT,3,3/8/20,Women,0,2020,Liberty,RIT,13,3
+Mash-Up 2020,College,250040,Cincinnati,9,Haverford/Bryn Mawr,8,3/8/20,Women,0,2020,Cincinnati,Haverford/Bryn Mawr,9,8
+Mash-Up 2020,College,250041,Vermont B,9,SUNY-Fredonia,4,3/8/20,Women,0,2020,Vermont B,SUNY-Fredonia,9,4
+Mash-Up 2020,College,250042,Liberty,13,Haverford/Bryn Mawr,6,3/8/20,Women,0,2020,Liberty,Haverford/Bryn Mawr,13,6
+Mash-Up 2020,College,250043,Cincinnati,9,Vermont B,6,3/8/20,Women,0,2020,Cincinnati,Vermont B,9,6
+Mash-Up 2020,College,250044,SUNY-Fredonia,5,Rhode Island,12,3/8/20,Women,0,2020,Rhode Island,SUNY-Fredonia,12,5
+Country Roads Classic 2020,College,250074,Maryland-Baltimore County,11,Oberlin B,1,3/7/20,Women,0,2020,Maryland-Baltimore County,Oberlin B,11,1
+Country Roads Classic 2020,College,250075,Miami (Ohio),10,Goucher,0,3/7/20,Women,0,2020,Miami (Ohio),Goucher,10,0
+Country Roads Classic 2020,College,250076,Maryland-Baltimore County,10,Miami (Ohio),4,3/7/20,Women,0,2020,Maryland-Baltimore County,Miami (Ohio),10,4
+Country Roads Classic 2020,College,250077,West Virginia,13,Goucher,2,3/7/20,Women,0,2020,West Virginia,Goucher,13,2
+Country Roads Classic 2020,College,250078,Goucher,7,Oberlin B,5,3/7/20,Women,0,2020,Goucher,Oberlin B,7,5
+Country Roads Classic 2020,College,250079,West Virginia,8,Miami (Ohio),4,3/7/20,Women,0,2020,West Virginia,Miami (Ohio),8,4
+Country Roads Classic 2020,College,250080,Maryland-Baltimore County,11,Goucher,1,3/7/20,Women,0,2020,Maryland-Baltimore County,Goucher,11,1
+Country Roads Classic 2020,College,250081,West Virginia,13,Oberlin B,0,3/7/20,Women,0,2020,West Virginia,Oberlin B,13,0
+Country Roads Classic 2020,College,250082,Maryland-Baltimore County,7,West Virginia,6,3/7/20,Women,0,2020,Maryland-Baltimore County,West Virginia,7,6
+Country Roads Classic 2020,College,250083,Miami (Ohio),13,Oberlin B,3,3/7/20,Women,0,2020,Miami (Ohio),Oberlin B,13,3
+Santa Clara Rage Home Tournament 2020,College,250333,San Diego State University,10,California B,5,3/7/20,Women,0,2020,San Diego State University,California B,10,5
+Santa Clara Rage Home Tournament 2020,College,250334,California-San Diego B,7,Nevada-Reno,6,3/7/20,Women,0,2020,California-San Diego B,Nevada-Reno,7,6
+Santa Clara Rage Home Tournament 2020,College,250335,San Diego State University,8,California-San Diego B,5,3/7/20,Women,0,2020,San Diego State University,California-San Diego B,8,5
+Santa Clara Rage Home Tournament 2020,College,250336,Santa Clara,6,Nevada-Reno,8,3/7/20,Women,0,2020,Nevada-Reno,Santa Clara,8,6
+Santa Clara Rage Home Tournament 2020,College,250337,Nevada-Reno,10,California B,2,3/7/20,Women,0,2020,Nevada-Reno,California B,10,2
+Santa Clara Rage Home Tournament 2020,College,250338,Santa Clara,4,California-San Diego B,9,3/7/20,Women,0,2020,California-San Diego B,Santa Clara,9,4
+Santa Clara Rage Home Tournament 2020,College,250339,San Diego State University,9,Nevada-Reno,5,3/7/20,Women,0,2020,San Diego State University,Nevada-Reno,9,5
+Santa Clara Rage Home Tournament 2020,College,250340,Santa Clara,11,California B,3,3/7/20,Women,0,2020,Santa Clara,California B,11,3
+Santa Clara Rage Home Tournament 2020,College,250341,San Diego State University,9,Santa Clara,3,3/7/20,Women,0,2020,San Diego State University,Santa Clara,9,3
+Santa Clara Rage Home Tournament 2020,College,250342,California-San Diego B,9,California B,3,3/7/20,Women,0,2020,California-San Diego B,California B,9,3
+Santa Clara Rage Home Tournament 2020,College,250343,Occidental,12,California-Davis B,4,3/7/20,Women,0,2020,Occidental,California-Davis B,12,4
+Santa Clara Rage Home Tournament 2020,College,250344,Cal Poly SLO B,6,Sonoma State,9,3/7/20,Women,0,2020,Sonoma State,Cal Poly SLO B,9,6
+Santa Clara Rage Home Tournament 2020,College,250345,Occidental,12,Cal Poly SLO B,1,3/7/20,Women,0,2020,Occidental,Cal Poly SLO B,12,1
+Santa Clara Rage Home Tournament 2020,College,250346,Cal State-Long Beach,10,Sonoma State,3,3/7/20,Women,0,2020,Cal State-Long Beach,Sonoma State,10,3
+Santa Clara Rage Home Tournament 2020,College,250347,Sonoma State,9,California-Davis B,2,3/7/20,Women,0,2020,Sonoma State,California-Davis B,9,2
+Santa Clara Rage Home Tournament 2020,College,250348,Cal State-Long Beach,13,Cal Poly SLO B,2,3/7/20,Women,0,2020,Cal State-Long Beach,Cal Poly SLO B,13,2
+Santa Clara Rage Home Tournament 2020,College,250349,Occidental,7,Sonoma State,5,3/7/20,Women,0,2020,Occidental,Sonoma State,7,5
+Santa Clara Rage Home Tournament 2020,College,250350,Cal State-Long Beach,9,California-Davis B,2,3/7/20,Women,0,2020,Cal State-Long Beach,California-Davis B,9,2
+Santa Clara Rage Home Tournament 2020,College,250351,Occidental,9,Cal State-Long Beach,7,3/7/20,Women,0,2020,Occidental,Cal State-Long Beach,9,7
+Santa Clara Rage Home Tournament 2020,College,250352,Cal Poly SLO B,4,California-Davis B,10,3/7/20,Women,0,2020,California-Davis B,Cal Poly SLO B,10,4
+Santa Clara Rage Home Tournament 2020,College,250353,Nevada-Reno,6,Cal State-Long Beach,9,3/8/20,Women,0,2020,Cal State-Long Beach,Nevada-Reno,9,6
+Santa Clara Rage Home Tournament 2020,College,250354,Sonoma State,6,California-San Diego B,8,3/8/20,Women,0,2020,California-San Diego B,Sonoma State,8,6
+Santa Clara Rage Home Tournament 2020,College,250355,San Diego State University,6,Cal State-Long Beach,7,3/8/20,Women,0,2020,Cal State-Long Beach,San Diego State University,7,6
+Santa Clara Rage Home Tournament 2020,College,250356,California-San Diego B,2,Occidental,7,3/8/20,Women,0,2020,Occidental,California-San Diego B,7,2
+Santa Clara Rage Home Tournament 2020,College,250357,Cal State-Long Beach,7,Occidental,8,3/8/20,Women,0,2020,Occidental,Cal State-Long Beach,8,7
+Santa Clara Rage Home Tournament 2020,College,250358,San Diego State University,10,California-San Diego B,6,3/8/20,Women,0,2020,San Diego State University,California-San Diego B,10,6
+Santa Clara Rage Home Tournament 2020,College,250359,Nevada-Reno,9,Sonoma State,4,3/8/20,Women,0,2020,Nevada-Reno,Sonoma State,9,4
+Santa Clara Rage Home Tournament 2020,College,250360,Santa Clara,11,California-Davis B,4,3/8/20,Women,0,2020,Santa Clara,California-Davis B,11,4
+Santa Clara Rage Home Tournament 2020,College,250361,California B,5,Cal Poly SLO B,12,3/8/20,Women,0,2020,Cal Poly SLO B,California B,12,5
+Santa Clara Rage Home Tournament 2020,College,250362,Santa Clara,13,Cal Poly SLO B,5,3/8/20,Women,0,2020,Santa Clara,Cal Poly SLO B,13,5
+Santa Clara Rage Home Tournament 2020,College,250363,California-Davis B,7,California B,6,3/8/20,Women,0,2020,California-Davis B,California B,7,6
+Midwest Throwdown 2020,College,250390,Northwestern,13,Knox,0,3/7/20,Women,0,2020,Northwestern,Knox,13,0
+Midwest Throwdown 2020,College,250391,Wisconsin-Eau Claire,8,Washington University B,9,3/7/20,Women,0,2020,Washington University B,Wisconsin-Eau Claire,9,8
+Midwest Throwdown 2020,College,250392,Northwestern,13,Washington University B,0,3/7/20,Women,0,2020,Northwestern,Washington University B,13,0
+Midwest Throwdown 2020,College,250393,Wisconsin-Eau Claire,8,Knox,5,3/7/20,Women,0,2020,Wisconsin-Eau Claire,Knox,8,5
+Midwest Throwdown 2020,College,250394,Northwestern,13,Wisconsin-Eau Claire,1,3/7/20,Women,0,2020,Northwestern,Wisconsin-Eau Claire,13,1
+Midwest Throwdown 2020,College,250395,Knox,4,Washington University B,9,3/7/20,Women,0,2020,Washington University B,Knox,9,4
+Midwest Throwdown 2020,College,250396,Truman State,12,Luther,2,3/7/20,Women,0,2020,Truman State,Luther,12,2
+Midwest Throwdown 2020,College,250397,Minnesota-Duluth,10,Northwestern B,2,3/7/20,Women,0,2020,Minnesota-Duluth,Northwestern B,10,2
+Midwest Throwdown 2020,College,250398,Truman State,9,Northwestern B,1,3/7/20,Women,0,2020,Truman State,Northwestern B,9,1
+Midwest Throwdown 2020,College,250399,Minnesota-Duluth,8,Luther,3,3/7/20,Women,0,2020,Minnesota-Duluth,Luther,8,3
+Midwest Throwdown 2020,College,250400,Truman State,11,Minnesota-Duluth,4,3/7/20,Women,0,2020,Truman State,Minnesota-Duluth,11,4
+Midwest Throwdown 2020,College,250401,Luther,8,Northwestern B,3,3/7/20,Women,0,2020,Luther,Northwestern B,8,3
+Midwest Throwdown 2020,College,250402,Colorado State,7,Illinois,4,3/7/20,Women,0,2020,Colorado State,Illinois,7,4
+Midwest Throwdown 2020,College,250403,John Brown,13,Kansas State,2,3/7/20,Women,0,2020,John Brown,Kansas State,13,2
+Midwest Throwdown 2020,College,250404,Colorado State,11,Kansas State,3,3/7/20,Women,0,2020,Colorado State,Kansas State,11,3
+Midwest Throwdown 2020,College,250405,John Brown,13,Illinois,3,3/7/20,Women,0,2020,John Brown,Illinois,13,3
+Midwest Throwdown 2020,College,250406,Colorado State,10,John Brown,5,3/7/20,Women,0,2020,Colorado State,John Brown,10,5
+Midwest Throwdown 2020,College,250407,Illinois,12,Kansas State,5,3/7/20,Women,0,2020,Illinois,Kansas State,12,5
+Midwest Throwdown 2020,College,250414,Texas-Dallas,11,Drake University,1,3/7/20,Women,0,2020,Texas-Dallas,Drake University,11,1
+Midwest Throwdown 2020,College,250415,Wisconsin-Milwaukee,7,Macalester,5,3/7/20,Women,0,2020,Wisconsin-Milwaukee,Macalester,7,5
+Midwest Throwdown 2020,College,250416,Texas-Dallas,11,Macalester,4,3/7/20,Women,0,2020,Texas-Dallas,Macalester,11,4
+Midwest Throwdown 2020,College,250417,Wisconsin-Milwaukee,12,Drake University,5,3/7/20,Women,0,2020,Wisconsin-Milwaukee,Drake University,12,5
+Midwest Throwdown 2020,College,250418,Texas-Dallas,7,Wisconsin-Milwaukee,5,3/7/20,Women,0,2020,Texas-Dallas,Wisconsin-Milwaukee,7,5
+Midwest Throwdown 2020,College,250419,Drake University,4,Macalester,8,3/7/20,Women,0,2020,Macalester,Drake University,8,4
+Midwest Throwdown 2020,College,250420,Washington University,12,Grinnell,3,3/7/20,Women,0,2020,Washington University,Grinnell,12,3
+Midwest Throwdown 2020,College,250421,Iowa,10,Missouri,1,3/7/20,Women,0,2020,Iowa,Missouri,10,1
+Midwest Throwdown 2020,College,250422,Washington University,13,Missouri,2,3/7/20,Women,0,2020,Washington University,Missouri,13,2
+Midwest Throwdown 2020,College,250423,Iowa,9,Grinnell,5,3/7/20,Women,0,2020,Iowa,Grinnell,9,5
+Midwest Throwdown 2020,College,250424,Washington University,12,Iowa,2,3/7/20,Women,0,2020,Washington University,Iowa,12,2
+Midwest Throwdown 2020,College,250425,Grinnell,11,Missouri,3,3/7/20,Women,0,2020,Grinnell,Missouri,11,3
+Midwest Throwdown 2020,College,250426,Kansas,13,Tulsa,3,3/7/20,Women,0,2020,Kansas,Tulsa,13,3
+Midwest Throwdown 2020,College,250427,St Olaf,13,Oklahoma,2,3/7/20,Women,0,2020,St Olaf,Oklahoma,13,2
+Midwest Throwdown 2020,College,250428,Kansas,9,Oklahoma,3,3/7/20,Women,0,2020,Kansas,Oklahoma,9,3
+Midwest Throwdown 2020,College,250429,St Olaf,13,Tulsa,2,3/7/20,Women,0,2020,St Olaf,Tulsa,13,2
+Midwest Throwdown 2020,College,250430,Kansas,8,St Olaf,3,3/7/20,Women,0,2020,Kansas,St Olaf,8,3
+Midwest Throwdown 2020,College,250431,Tulsa,8,Oklahoma,5,3/7/20,Women,0,2020,Tulsa,Oklahoma,8,5
+Midwest Throwdown 2020,College,250432,Chicago,11,Wisconsin B,4,3/7/20,Women,0,2020,Chicago,Wisconsin B,11,4
+Midwest Throwdown 2020,College,250433,Carleton College,10,Nebraska,1,3/7/20,Women,0,2020,Carleton College,Nebraska,10,1
+Midwest Throwdown 2020,College,250434,Chicago,13,Nebraska,2,3/7/20,Women,0,2020,Chicago,Nebraska,13,2
+Midwest Throwdown 2020,College,250435,Carleton College,12,Wisconsin B,2,3/7/20,Women,0,2020,Carleton College,Wisconsin B,12,2
+Midwest Throwdown 2020,College,250436,Chicago,8,Carleton College,7,3/7/20,Women,0,2020,Chicago,Carleton College,8,7
+Midwest Throwdown 2020,College,250437,Wisconsin B,6,Nebraska,8,3/7/20,Women,0,2020,Nebraska,Wisconsin B,8,6
+Midwest Throwdown 2020,College,250494,Northwestern,9,Carleton College,4,3/7/20,Women,0,2020,Northwestern,Carleton College,9,4
+Midwest Throwdown 2020,College,250495,Texas-Dallas,8,Iowa State,5,3/7/20,Women,0,2020,Texas-Dallas,Iowa State,8,5
+Midwest Throwdown 2020,College,250496,Colorado State,10,Iowa,5,3/7/20,Women,0,2020,Colorado State,Iowa,10,5
+Midwest Throwdown 2020,College,250497,Kansas,13,Minnesota-Duluth,5,3/7/20,Women,0,2020,Kansas,Minnesota-Duluth,13,5
+Midwest Throwdown 2020,College,250498,Truman State,9,St Olaf,4,3/7/20,Women,0,2020,Truman State,St Olaf,9,4
+Midwest Throwdown 2020,College,250499,Washington University,13,John Brown,4,3/7/20,Women,0,2020,Washington University,John Brown,13,4
+Midwest Throwdown 2020,College,250500,Purdue,11,Wisconsin-Milwaukee,1,3/7/20,Women,0,2020,Purdue,Wisconsin-Milwaukee,11,1
+Midwest Throwdown 2020,College,250501,Chicago,13,Washington University B,1,3/7/20,Women,0,2020,Chicago,Washington University B,13,1
+Midwest Throwdown 2020,College,250502,Northwestern,8,Texas-Dallas,4,3/8/20,Women,0,2020,Northwestern,Texas-Dallas,8,4
+Midwest Throwdown 2020,College,250503,Colorado State,5,Kansas,6,3/8/20,Women,0,2020,Kansas,Colorado State,6,5
+Midwest Throwdown 2020,College,250504,Truman State,8,Washington University,7,3/8/20,Women,0,2020,Truman State,Washington University,8,7
+Midwest Throwdown 2020,College,250505,Purdue,6,Chicago,7,3/8/20,Women,0,2020,Chicago,Purdue,7,6
+Midwest Throwdown 2020,College,250506,Northwestern,9,Kansas,6,3/8/20,Women,0,2020,Northwestern,Kansas,9,6
+Midwest Throwdown 2020,College,250507,Truman State,7,Chicago,6,3/8/20,Women,0,2020,Truman State,Chicago,7,6
+Midwest Throwdown 2020,College,250508,Northwestern,10,Truman State,4,3/8/20,Women,0,2020,Northwestern,Truman State,10,4
+Midwest Throwdown 2020,College,250517,Carleton College,12,Iowa State,5,3/8/20,Women,0,2020,Carleton College,Iowa State,12,5
+Midwest Throwdown 2020,College,250518,Iowa,10,Minnesota-Duluth,1,3/8/20,Women,0,2020,Iowa,Minnesota-Duluth,10,1
+Midwest Throwdown 2020,College,250519,St Olaf,9,John Brown,4,3/8/20,Women,0,2020,St Olaf,John Brown,9,4
+Midwest Throwdown 2020,College,250520,Wisconsin-Milwaukee,10,Washington University B,2,3/8/20,Women,0,2020,Wisconsin-Milwaukee,Washington University B,10,2
+Midwest Throwdown 2020,College,250521,Purdue,7,Carleton College,8,3/8/20,Women,0,2020,Carleton College,Purdue,8,7
+Midwest Throwdown 2020,College,250522,Washington University,10,Iowa,2,3/8/20,Women,0,2020,Washington University,Iowa,10,2
+Midwest Throwdown 2020,College,250523,Colorado State,6,St Olaf,8,3/8/20,Women,0,2020,St Olaf,Colorado State,8,6
+Midwest Throwdown 2020,College,250524,Texas-Dallas,9,Wisconsin-Milwaukee,2,3/8/20,Women,0,2020,Texas-Dallas,Wisconsin-Milwaukee,9,2
+Midwest Throwdown 2020,College,250525,Carleton College,5,Washington University,6,3/8/20,Women,0,2020,Washington University,Carleton College,6,5
+Midwest Throwdown 2020,College,250526,St Olaf,7,Texas-Dallas,8,3/8/20,Women,0,2020,Texas-Dallas,St Olaf,8,7
+Midwest Throwdown 2020,College,250527,Chicago,7,Washington University,5,3/8/20,Women,0,2020,Chicago,Washington University,7,5
+Midwest Throwdown 2020,College,250528,Kansas,6,Texas-Dallas,7,3/8/20,Women,0,2020,Texas-Dallas,Kansas,7,6
+Midwest Throwdown 2020,College,250529,Washington University,6,Kansas,7,3/8/20,Women,0,2020,Kansas,Washington University,7,6
+Midwest Throwdown 2020,College,250530,Carleton College,7,St Olaf,6,3/8/20,Women,0,2020,Carleton College,St Olaf,7,6
+Midwest Throwdown 2020,College,250531,Purdue,12,Iowa,3,3/8/20,Women,0,2020,Purdue,Iowa,12,3
+Midwest Throwdown 2020,College,250532,Colorado State,13,Wisconsin-Milwaukee,2,3/8/20,Women,0,2020,Colorado State,Wisconsin-Milwaukee,13,2
+Midwest Throwdown 2020,College,250533,Purdue,8,Colorado State,4,3/8/20,Women,0,2020,Purdue,Colorado State,8,4
+Midwest Throwdown 2020,College,250534,Iowa,6,Wisconsin-Milwaukee,4,3/8/20,Women,0,2020,Iowa,Wisconsin-Milwaukee,6,4
+Midwest Throwdown 2020,College,250535,Iowa State,10,Minnesota-Duluth,5,3/8/20,Women,0,2020,Iowa State,Minnesota-Duluth,10,5
+Midwest Throwdown 2020,College,250536,John Brown,10,Washington University B,6,3/8/20,Women,0,2020,John Brown,Washington University B,10,6
+Midwest Throwdown 2020,College,250538,Minnesota-Duluth,6,Washington University B,7,3/8/20,Women,0,2020,Washington University B,Minnesota-Duluth,7,6
+Midwest Throwdown 2020,College,250539,Wisconsin-Eau Claire,8,Wisconsin B,4,3/7/20,Women,0,2020,Wisconsin-Eau Claire,Wisconsin B,8,4
+Midwest Throwdown 2020,College,250540,Macalester,9,Wisconsin-Oshkosh,4,3/7/20,Women,0,2020,Macalester,Wisconsin-Oshkosh,9,4
+Midwest Throwdown 2020,College,250542,Tulsa,8,Northwestern B,2,3/7/20,Women,0,2020,Tulsa,Northwestern B,8,2
+Midwest Throwdown 2020,College,250543,Luther,6,Oklahoma,8,3/8/20,Women,0,2020,Oklahoma,Luther,8,6
+Midwest Throwdown 2020,College,250544,Grinnell,7,Kansas State,5,3/8/20,Women,0,2020,Grinnell,Kansas State,7,5
+Midwest Throwdown 2020,College,250545,Arkansas,8,Drake University,1,3/8/20,Women,0,2020,Arkansas,Drake University,8,1
+Midwest Throwdown 2020,College,250546,Nebraska,7,Knox,8,3/8/20,Women,0,2020,Knox,Nebraska,8,7
+Midwest Throwdown 2020,College,250547,Wisconsin-Eau Claire,6,Macalester,7,3/8/20,Women,0,2020,Macalester,Wisconsin-Eau Claire,7,6
+Midwest Throwdown 2020,College,250548,Illinois,8,Tulsa,6,3/8/20,Women,0,2020,Illinois,Tulsa,8,6
+Midwest Throwdown 2020,College,250549,Oklahoma,6,Grinnell,7,3/8/20,Women,0,2020,Grinnell,Oklahoma,7,6
+Midwest Throwdown 2020,College,250550,Arkansas,13,Knox,4,3/8/20,Women,0,2020,Arkansas,Knox,13,4
+Midwest Throwdown 2020,College,250551,Macalester,4,Illinois,7,3/8/20,Women,0,2020,Illinois,Macalester,7,4
+Midwest Throwdown 2020,College,250552,Grinnell,3,Arkansas,9,3/8/20,Women,0,2020,Arkansas,Grinnell,9,3
+Midwest Throwdown 2020,College,250553,Illinois,8,Arkansas,5,3/8/20,Women,0,2020,Illinois,Arkansas,8,5
+Midwest Throwdown 2020,College,250554,Macalester,8,Grinnell,5,3/8/20,Women,0,2020,Macalester,Grinnell,8,5
+Midwest Throwdown 2020,College,250555,Wisconsin-Eau Claire,8,Tulsa,4,3/8/20,Women,0,2020,Wisconsin-Eau Claire,Tulsa,8,4
+Midwest Throwdown 2020,College,250556,Oklahoma,7,Knox,3,3/8/20,Women,0,2020,Oklahoma,Knox,7,3
+Midwest Throwdown 2020,College,250557,Wisconsin-Eau Claire,7,Oklahoma,2,3/8/20,Women,0,2020,Wisconsin-Eau Claire,Oklahoma,7,2
+Midwest Throwdown 2020,College,250559,Wisconsin B,4,Wisconsin-Oshkosh,7,3/8/20,Women,0,2020,Wisconsin-Oshkosh,Wisconsin B,7,4
+Midwest Throwdown 2020,College,250560,Missouri,7,Northwestern B,5,3/8/20,Women,0,2020,Missouri,Northwestern B,7,5
+Midwest Throwdown 2020,College,250561,Luther,8,Kansas State,4,3/8/20,Women,0,2020,Luther,Kansas State,8,4
+Midwest Throwdown 2020,College,250562,Drake University,7,Nebraska,8,3/8/20,Women,0,2020,Nebraska,Drake University,8,7
+Midwest Throwdown 2020,College,250563,Wisconsin-Oshkosh,4,Missouri,5,3/8/20,Women,0,2020,Missouri,Wisconsin-Oshkosh,5,4
+Midwest Throwdown 2020,College,250564,Luther,7,Nebraska,4,3/8/20,Women,0,2020,Luther,Nebraska,7,4
+Midwest Throwdown 2020,College,250565,Missouri,1,Luther,10,3/8/20,Women,0,2020,Luther,Missouri,10,1
+Midwest Throwdown 2020,College,250567,Wisconsin B,7,Drake University,1,3/8/20,Women,0,2020,Wisconsin B,Drake University,7,1
+Midwest Throwdown 2020,College,250569,Wisconsin B,8,Northwestern B,1,3/8/20,Women,0,2020,Wisconsin B,Northwestern B,8,1
+Midwest Throwdown 2020,College,250570,Kansas State,7,Drake University,8,3/8/20,Women,0,2020,Drake University,Kansas State,8,7
+Air Force Invite 2020,College,250599,Colorado College,13,Air Force,3,3/7/20,Women,0,2020,Colorado College,Air Force,13,3
+Air Force Invite 2020,College,250600,Denver,8,Colorado School of Mines,4,3/7/20,Women,0,2020,Denver,Colorado School of Mines,8,4
+Air Force Invite 2020,College,250601,Colorado College,13,Colorado School of Mines,0,3/7/20,Women,0,2020,Colorado College,Colorado School of Mines,13,0
+Air Force Invite 2020,College,250602,Denver,7,Air Force,2,3/7/20,Women,0,2020,Denver,Air Force,7,2
+Air Force Invite 2020,College,250603,Colorado College,11,Denver,5,3/7/20,Women,0,2020,Colorado College,Denver,11,5
+Air Force Invite 2020,College,250604,Air Force,10,Colorado School of Mines,5,3/7/20,Women,0,2020,Air Force,Colorado School of Mines,10,5
+No Sleep Till Brooklyn 2020,College,250803,Yale,7,MIT,6,3/7/20,Women,0,2020,Yale,MIT,7,6
+No Sleep Till Brooklyn 2020,College,250804,Oberlin,9,MIT,5,3/7/20,Women,0,2020,Oberlin,MIT,9,5
+No Sleep Till Brooklyn 2020,College,250805,Yale,2,NYU,7,3/7/20,Women,0,2020,NYU,Yale,7,2
+No Sleep Till Brooklyn 2020,College,250806,Oberlin,9,Columbia B,4,3/7/20,Women,0,2020,Oberlin,Columbia B,9,4
+No Sleep Till Brooklyn 2020,College,250807,MIT,5,NYU,8,3/7/20,Women,0,2020,NYU,MIT,8,5
+No Sleep Till Brooklyn 2020,College,250808,Oberlin,5,NYU,9,3/7/20,Women,0,2020,NYU,Oberlin,9,5
+No Sleep Till Brooklyn 2020,College,250809,Yale,9,Columbia B,3,3/7/20,Women,0,2020,Yale,Columbia B,9,3
+No Sleep Till Brooklyn 2020,College,250810,Oberlin,8,Yale,7,3/7/20,Women,0,2020,Oberlin,Yale,8,7
+No Sleep Till Brooklyn 2020,College,250811,MIT,10,Columbia B,3,3/7/20,Women,0,2020,MIT,Columbia B,10,3
+No Sleep Till Brooklyn 2020,College,250812,Bates,7,Temple,5,3/7/20,Women,0,2020,Bates,Temple,7,5
+No Sleep Till Brooklyn 2020,College,250813,Brown,6,Colby,9,3/7/20,Women,0,2020,Colby,Brown,9,6
+No Sleep Till Brooklyn 2020,College,250814,Bates,9,Colby,7,3/7/20,Women,0,2020,Bates,Colby,9,7
+No Sleep Till Brooklyn 2020,College,250815,Brown,6,Temple,7,3/7/20,Women,0,2020,Temple,Brown,7,6
+No Sleep Till Brooklyn 2020,College,250816,Bates,8,Brown,7,3/7/20,Women,0,2020,Bates,Brown,8,7
+No Sleep Till Brooklyn 2020,College,250817,Colby,5,Temple,6,3/7/20,Women,0,2020,Temple,Colby,6,5
+No Sleep Till Brooklyn 2020,College,250818,Cornell,4,Columbia,8,3/7/20,Women,0,2020,Columbia,Cornell,8,4
+No Sleep Till Brooklyn 2020,College,250819,Cornell,8,Princeton,5,3/7/20,Women,0,2020,Cornell,Princeton,8,5
+No Sleep Till Brooklyn 2020,College,250820,Columbia,8,Amherst College,4,3/7/20,Women,0,2020,Columbia,Amherst College,8,4
+No Sleep Till Brooklyn 2020,College,250821,Cornell,5,Amherst College,4,3/7/20,Women,0,2020,Cornell,Amherst College,5,4
+No Sleep Till Brooklyn 2020,College,250822,Columbia,9,Princeton,2,3/7/20,Women,0,2020,Columbia,Princeton,9,2
+No Sleep Till Brooklyn 2020,College,250823,Amherst College,9,Princeton,7,3/7/20,Women,0,2020,Amherst College,Princeton,9,7
+No Sleep Till Brooklyn 2020,College,250824,Colby,8,Amherst College,7,3/7/20,Women,0,2020,Colby,Amherst College,8,7
+No Sleep Till Brooklyn 2020,College,250825,Brown,9,Princeton,2,3/7/20,Women,0,2020,Brown,Princeton,9,2
+No Sleep Till Brooklyn 2020,College,250826,NYU,5,Colby,8,3/8/20,Women,0,2020,Colby,NYU,8,5
+No Sleep Till Brooklyn 2020,College,250827,Cornell,8,Temple,7,3/8/20,Women,0,2020,Cornell,Temple,8,7
+No Sleep Till Brooklyn 2020,College,250828,Columbia,8,Oberlin,7,3/8/20,Women,0,2020,Columbia,Oberlin,8,7
+No Sleep Till Brooklyn 2020,College,250829,Bates,10,Yale,7,3/8/20,Women,0,2020,Bates,Yale,10,7
+No Sleep Till Brooklyn 2020,College,250830,Colby,5,Cornell,9,3/8/20,Women,0,2020,Cornell,Colby,9,5
+No Sleep Till Brooklyn 2020,College,250831,Columbia,8,Bates,6,3/8/20,Women,0,2020,Columbia,Bates,8,6
+No Sleep Till Brooklyn 2020,College,250832,Cornell,6,Columbia,10,3/8/20,Women,0,2020,Columbia,Cornell,10,6
+Country Roads Classic 2020,College,251416,Allegheny,4,DePaul,10,3/7/20,Women,0,2020,DePaul,Allegheny,10,4
+Country Roads Classic 2020,College,251417,Messiah,9,SUNY-Buffalo,0,3/7/20,Women,0,2020,Messiah,SUNY-Buffalo,9,0
+Country Roads Classic 2020,College,251418,Allegheny,13,Messiah,3,3/7/20,Women,0,2020,Allegheny,Messiah,13,3
+Country Roads Classic 2020,College,251419,Johns Hopkins,10,SUNY-Buffalo,3,3/7/20,Women,0,2020,Johns Hopkins,SUNY-Buffalo,10,3
+Country Roads Classic 2020,College,251420,SUNY-Buffalo,0,DePaul,13,3/7/20,Women,0,2020,DePaul,SUNY-Buffalo,13,0
+Country Roads Classic 2020,College,251421,Johns Hopkins,10,Messiah,6,3/7/20,Women,0,2020,Johns Hopkins,Messiah,10,6
+Country Roads Classic 2020,College,251422,Allegheny,13,SUNY-Buffalo,3,3/7/20,Women,0,2020,Allegheny,SUNY-Buffalo,13,3
+Country Roads Classic 2020,College,251423,Johns Hopkins,3,DePaul,11,3/7/20,Women,0,2020,DePaul,Johns Hopkins,11,3
+Country Roads Classic 2020,College,251424,Allegheny,12,Johns Hopkins,4,3/7/20,Women,0,2020,Allegheny,Johns Hopkins,12,4
+Country Roads Classic 2020,College,251425,Messiah,8,DePaul,10,3/7/20,Women,0,2020,DePaul,Messiah,10,8
+Country Roads Classic 2020,College,251426,Oberlin B,2,Messiah,13,3/8/20,Women,0,2020,Messiah,Oberlin B,13,2
+Country Roads Classic 2020,College,251427,Goucher,6,SUNY-Buffalo,8,3/8/20,Women,0,2020,SUNY-Buffalo,Goucher,8,6
+Country Roads Classic 2020,College,251428,Messiah,3,Maryland-Baltimore County,13,3/8/20,Women,0,2020,Maryland-Baltimore County,Messiah,13,3
+Country Roads Classic 2020,College,251429,Allegheny,9,Miami (Ohio),10,3/8/20,Women,0,2020,Miami (Ohio),Allegheny,10,9
+Country Roads Classic 2020,College,251430,Johns Hopkins,8,West Virginia,12,3/8/20,Women,0,2020,West Virginia,Johns Hopkins,12,8
+Country Roads Classic 2020,College,251431,DePaul,11,SUNY-Buffalo,1,3/8/20,Women,0,2020,DePaul,SUNY-Buffalo,11,1
+Country Roads Classic 2020,College,251432,Maryland-Baltimore County,9,Miami (Ohio),6,3/8/20,Women,0,2020,Maryland-Baltimore County,Miami (Ohio),9,6
+Country Roads Classic 2020,College,251433,West Virginia,12,DePaul,5,3/8/20,Women,0,2020,West Virginia,DePaul,12,5
+Country Roads Classic 2020,College,251434,Maryland-Baltimore County,9,West Virginia,7,3/8/20,Women,0,2020,Maryland-Baltimore County,West Virginia,9,7
+Country Roads Classic 2020,College,251435,Miami (Ohio),8,DePaul,4,3/8/20,Women,0,2020,Miami (Ohio),DePaul,8,4
+Country Roads Classic 2020,College,251436,Goucher,3,Johns Hopkins,9,3/8/20,Women,0,2020,Johns Hopkins,Goucher,9,3
+Country Roads Classic 2020,College,251437,Oberlin B,4,Allegheny,10,3/8/20,Women,0,2020,Allegheny,Oberlin B,10,4
+Country Roads Classic 2020,College,251438,Johns Hopkins,9,SUNY-Buffalo,1,3/8/20,Women,0,2020,Johns Hopkins,SUNY-Buffalo,9,1
+Country Roads Classic 2020,College,251439,Messiah,5,Allegheny,12,3/8/20,Women,0,2020,Allegheny,Messiah,12,5
+Country Roads Classic 2020,College,251440,Johns Hopkins,6,Allegheny,9,3/8/20,Women,0,2020,Allegheny,Johns Hopkins,9,6
+Country Roads Classic 2020,College,251441,SUNY-Buffalo,0,Messiah,15,3/8/20,Women,0,2020,Messiah,SUNY-Buffalo,15,0
+Midwest Throwdown 2020,College,251457,Iowa State,7,Arkansas,5,3/7/20,Women,0,2020,Iowa State,Arkansas,7,5
+Midwest Throwdown 2020,College,251458,Purdue,9,Wisconsin-Oshkosh,3,3/7/20,Women,0,2020,Purdue,Wisconsin-Oshkosh,9,3
+Midwest Throwdown 2020,College,251459,Iowa State,10,Wisconsin-Oshkosh,3,3/7/20,Women,0,2020,Iowa State,Wisconsin-Oshkosh,10,3
+Midwest Throwdown 2020,College,251460,Purdue,12,Arkansas,4,3/7/20,Women,0,2020,Purdue,Arkansas,12,4
+Midwest Throwdown 2020,College,251461,Iowa State,7,Purdue,11,3/7/20,Women,0,2020,Purdue,Iowa State,11,7
+Midwest Throwdown 2020,College,251462,Arkansas,7,Wisconsin-Oshkosh,4,3/7/20,Women,0,2020,Arkansas,Wisconsin-Oshkosh,7,4
+Stanford Invite 2020,College,251801,Oregon,6,California-Santa Barbara,9,3/7/20,Women,0,2020,California-Santa Barbara,Oregon,9,6
+No Sleep Till Brooklyn 2020,College,252165,Amherst College,8,Columbia B,3,3/8/20,Women,0,2020,Amherst College,Columbia B,8,3
+No Sleep Till Brooklyn 2020,College,252167,Amherst College,4,Brown,13,3/8/20,Women,0,2020,Brown,Amherst College,13,4
+No Sleep Till Brooklyn 2020,College,252168,MIT,13,Princeton,2,3/8/20,Women,0,2020,MIT,Princeton,13,2
+No Sleep Till Brooklyn 2020,College,252170,MIT,6,Brown,10,3/8/20,Women,0,2020,Brown,MIT,10,6
+No Sleep Till Brooklyn 2020,College,252173,Amherst College,6,MIT,11,3/8/20,Women,0,2020,MIT,Amherst College,11,6
+No Sleep Till Brooklyn 2020,College,252362,NYU,5,Temple,10,3/8/20,Women,0,2020,Temple,NYU,10,5
+No Sleep Till Brooklyn 2020,College,252363,Oberlin,7,Yale,5,3/8/20,Women,0,2020,Oberlin,Yale,7,5
+No Sleep Till Brooklyn 2020,College,252364,Temple,7,Oberlin,9,3/8/20,Women,0,2020,Oberlin,Temple,9,7
+No Sleep Till Brooklyn 2020,College,252365,Colby,3,Bates,9,3/8/20,Women,0,2020,Bates,Colby,9,3
+No Sleep Till Brooklyn 2020,College,252366,NYU,4,Yale,10,3/8/20,Women,0,2020,Yale,NYU,10,4

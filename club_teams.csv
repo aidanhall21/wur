@@ -1,0 +1,1781 @@
+team,gender,division,city,state,region,section,id
+Phoenix,Men,Club,Ottawa,Ontario,Northeast,Upstate NY,0
+El Niño,Men,Club,Oakland Park,FL,Southeast,Florida,1
+DNA,Men,Club,Surrey,BC,Northwest,Washington BC,2
+SOUF,Men,Club,Seattle,WA,Northwest,Washington BC,3
+Rumspringa,Men,Club,Virginville,PA,Mid-Atlantic,Founders,4
+Low Point,Men,Club,Salt Lake City,UT,Northwest,Big Sky,5
+Journeymen,Men,Club,Sunnyvale,CA,Southwest,NorCal,6
+The Berkeley Bobcats,Men,Club,Berkeley,CA,Southwest,NorCal,7
+Green Means Bro,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,8
+Little Teapots,Men,Club,Santa Cruz,CA,Southwest,NorCal,9
+Flash Flood,Men,Club,Dallas,TX,South Central,Texas,10
+Big Muscle Boys,Men,Club,Storrs,CT,Northeast,Metro NY,11
+Boulder United Flatiron Hammers,Men,Club,Boulder,CO,South Central,Rocky Mountain,12
+Old Ephraim,Men,Club,Logan,UT,Northwest,Big Sky,13
+DINGWOP,Men,Club,Duluth,MN,North Central,Northwest Plains,14
+Rock Steady,Men,Club,Austin,TX,South Central,Texas,15
+Waste Management Squad,Men,Club,Seattle,WA,Northwest,Washington BC,16
+White Sauce Hot Sauce,Men,Club,KEW GARDENS,NY,Northeast,Metro NY,17
+Medicine Men,Men,Club,Baltimore,MD,Mid-Atlantic,Capital,18
+Not A Sport,Men,Club,Somerset,NJ,Mid-Atlantic,Founders,19
+Kingdome,Men,Club,Seattle,WA,Northwest,Washington BC,20
+UpRoar Claws,Men,Club,Tampa,FL,Southeast,Florida,21
+Goaltimate All Stars,Men,Club,San Diego,CA,Southwest,So Cal,22
+Miner Magic,Men,Club,Rolla,MO,North Central,West Plains,23
+Arithmetic Ultimate,Men,Club,Mountain View,CA,Southwest,NorCal,24
+Black Knights,Men,Club,West Point,NY,Northeast,Metro NY,25
+Festive Salmon,Men,Club,New York,NY,Northeast,Metro NY,26
+Fargoats,Men,Club,Fargo,ND,North Central,Northwest Plains,27
+Apollo 7,Men,Club,West Chester,PA,Mid-Atlantic,Founders,28
+Nasty Girls,Men,Club,urbana,IL,Great Lakes,Central Plains,29
+desert penguins,Men,Club,San Diego,CA,Southwest,So Cal,30
+Huckleberry,Men,Club,LRFayettenam,AR,South Central,Ozarks,31
+Space Force,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders,32
+HBW United,Men,Club,Arlington,VA,Southeast,East Coast,33
+Fathom II,Men,Club,Newport News,VA,Mid-Atlantic,Capital,34
+Axial Tilt,Men,Club,Bethlehem,PA,Mid-Atlantic,Founders,35
+Stuyvesant Sticky Fingers Alumni,Men,Club,New York,NY,Northeast,Metro NY,36
+Philadelphia Padawans,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,37
+Bash Bros,Men,Club,Cary,NC,Southeast,North Carolina,38
+Hot Tamales,Men,Club,Bethlehem,PA,Mid-Atlantic,Founders,39
+Ditto B,Men,Club,Gary,IN,Great Lakes,Central Plains,40
+Ditto A,Men,Club,Gary,IN,Great Lakes,Central Plains,41
+Bearproof,Men,Club,Harrisburg,PA,Mid-Atlantic,Founders,42
+Satellite,Men,Club,Normal,IL,Great Lakes,Central Plains,43
+Tsunami B,Men,Club,Saint Louis,MO,North Central,,44
+Fathom,Men,Club,Ft Monroe,VA,Mid-Atlantic,Capital,45
+Cockfight,Men,Club,Columbia,SC,Southeast,East Coast,46
+Seattle Blacklist,Men,Club,Seattle,WA,Northwest,Washington BC,47
+ScooberDivers,Men,Club,Lake Wales,FL,Southeast,Florida,48
+Rawhide,Men,Club,Tulsa,OK,South Central,Ozarks,49
+Madhouse,Men,Club,Halifax,Nova Scotia,Northeast,East New England,50
+Rampage,Men,Club,Huntsville,AL,Southeast,Gulf Coast,51
+Minnesota Superior U20B,Men,Club,Twin Cities,MN,North Central,,52
+Villains,Men,Club,Franklin,TN,Southeast,Gulf Coast,53
+PoNY,Men,Club,New York,NY,Northeast,Metro NY,54
+Mango Tree,Men,Club,Ann Arbor,MI,Great Lakes,East Plains,55
+Midnight Meat Train,Men,Club,Grand Rapids,MI,Great Lakes,East Plains,56
+Highlight Reel,Men,Club,attleboro,MA,Northeast,East New England,57
+Haymaker,Men,Club,Chicago,IL,Great Lakes,Central Plains,58
+BlackER Market Y,Men,Club,Lombard,IL,Great Lakes,Central Plains,59
+BlackER Market X,Men,Club,Lombard,IL,Great Lakes,Central Plains,60
+Black Market III,Men,Club,Lombard,IL,Great Lakes,Central Plains,61
+Black Market II,Men,Club,Lombard,IL,Great Lakes,Central Plains,62
+Black Market I,Men,Club,Lombard,IL,Great Lakes,Central Plains,63
+Nain Rouge,Men,Club,Ferndale,MI,Great Lakes,East Plains,64
+Genny Lite,Men,Club,Rochester,NY,Northeast,Upstate NY,65
+MomINtuM,Men,Club,Indianapolis,IN,Great Lakes,Central Plains,66
+Guerrilla,Men,Club,Oakland,CA,Southwest,NorCal,67
+Revolver,Men,Club,San Francisco,CA,Southwest,NorCal,68
+Glycerine,Men,Club,Dallas,TX,South Central,Texas,69
+Brickyard,Men,Club,Indianapolis,IN,Great Lakes,Central Plains,70
+MKE,Men,Club,Milwaukee,WI,North Central,Northwest Plains,71
+Carolina Sky,Men,Club,Triangle,NC,,,72
+NEO,Men,Club,Northeast,OH,Great Lakes,East Plains,73
+Swamp Horse,Men,Club,Florida,FL,Southeast,Florida,74
+H.I.P,Men,Club,Texas City,TX,South Central,Texas,75
+Red Bat,Men,Club,DES MOINES,IA,North Central,West Plains,76
+Messengers,Men,Club,Austin,TX,South Central,Texas,77
+Doublewide,Men,Club,Austin,TX,South Central,Texas,78
+Mad Men,Men,Club,Madison,WI,North Central,Northwest Plains,79
+Identity Crisis,Men,Club,St Louis,MO,North Central,West Plains,80
+Gentlemen's Club,Men,Club,Knoxville,TN,Southeast,East Coast,81
+Harvey Cats,Men,Club,Houston,TX,South Central,Texas,82
+Oakgrove Boys,Men,Club,ARLINGTON,VA,Mid-Atlantic,Capital,83
+Gamble,Men,Club,Austin,TX,South Central,Texas,84
+Gaucho,Men,Club,Austin,TX,South Central,Texas,85
+Surrilic Audovice,Men,Club,Richardson,TX,South Central,Texas,86
+Texas Toast,Men,Club,Austin,TX,South Central,Texas,87
+Chicago Machine,Men,Club,Chicago,IL,Great Lakes,Central Plains,88
+Rip City,Men,Club,Portland,OR,Northwest,Oregon,89
+Swans,Men,Club,Saint Paul,MN,North Central,Northwest Plains,90
+Dark Star,Men,Club,Eugene,OR,Northwest,Oregon,91
+Red Tide,Men,Club,Portland,ME,Northeast,East New England,92
+Tyranny,Men,Club,Tampa,FL,Southeast,Florida,93
+Texas Heatwave,Men,Club,Houston,TX,South Central,Texas,94
+Vicious Cycle,Men,Club,Gainesville,FL,Southeast,Florida,95
+Flying Pig,Men,Club,Cincinnati,OH,Great Lakes,East Plains,96
+Cojones,Men,Club,San Francisco,CA,Southwest,NorCal,97
+Inception,Men,Club,Denver,CO,South Central,Rocky Mountain,98
+Flying Piglet,Men,Club,Cincinnati,OH,,,99
+BUDA U20B,Men,Club,Boston,MA,Northeast,West New England,100
+Mallard,Men,Club,Minneapolis,MN,North Central,Northwest Plains,101
+Somerville BAG,Men,Club,Somerville,MA,Northeast,East New England,102
+Red Hots - u20,Men,Club,Chicago,IL,Great Lakes,Central Plains,103
+CITYWIDE Special,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,104
+Pittsburgh Temper,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders,105
+ISO Atmo,Men,Club,Boulder,CO,South Central,Rocky Mountain,106
+Johnny Bravo,Men,Club,Denver,CO,South Central,Rocky Mountain,107
+Omen (OH),Men,Club,Cincinnati,OH,Great Lakes,East Plains,108
+Omen (FL),Men,Club,Orlando,FL,Southeast,Florida,109
+Sub Zero,Men,Club,Minneapolis,MN,North Central,Northwest Plains,110
+Patrol,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,111
+Scythe,Men,Club,Omaha,NE,North Central,West Plains,112
+Louisiana Second Line,Men,Club,Baton Rouge,LA,Southeast,Gulf Coast,113
+Bullet,Men,Club,Atlanta,GA,Southeast,East Coast,114
+Kansas City Smokestack,Men,Club,Kansas City,KS,North Central,West Plains,115
+Red Imp.ala,Men,Club,Ferndale,MI,Great Lakes,East Plains,116
+Winc City Fog of War,Men,Club,Winchester,VA,Mid-Atlantic,Capital,117
+DOGGPOUND,Men,Club,Los Angeles,CA,Southwest,So Cal,118
+War Machine,Men,Club,Birmingham,AL,Southeast,Gulf Coast,119
+Blackfish,Men,Club,Vancouver,BC,Northwest,Washington BC,120
+Hail Mary,Men,Club,Lynchburg,VA,Mid-Atlantic,Capital,121
+Slag Dump,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders,122
+A-Block,Men,Club,Athens,OH,North Central,,123
+Chimney,Men,Club,Cleveland,OH,Great Lakes,East Plains,124
+Regiment,Men,Club,St Johns,Newfoundland/Labrador,Northeast,East New England,125
+Truck Stop,Men,Club,Washington,DC,Mid-Atlantic,Capital,126
+Komori,Men,Club,Vancouver,British Columbia,Northwest,Washington BC,127
+GOAT,Men,Club,Toronto,Ontario,Northeast,Upstate NY,128
+Rhino Slam!,Men,Club,Portland,OR,Northwest,Oregon,129
+Bird Patrol,Men,Club,Bloomington,IN,Great Lakes,Central Plains,130
+Charleston Heat Stroke,Men,Club,Charleston,SC,Southeast,East Coast,131
+Kentucky Flying Circus,Men,Club,Louisville,KY,Great Lakes,East Plains,132
+Clutch,Men,Club,Houston,TX,South Central,Texas,133
+Enigma,Men,Club,Dayton,OH,Great Lakes,East Plains,134
+Voodoo,Men,Club,Seattle,WA,Northwest,Washington BC,135
+Flying Dutchmen,Men,Club,Columbus,OH,Great Lakes,East Plains,136
+Barefoot,Men,Club,Tupelo,MS,Southeast,Gulf Coast,137
+Predator,Men,Club,Hattiesburg,MS,Southeast,Gulf Coast,138
+Freaks,Men,Club,Huntsville,AL,Southeast,Gulf Coast,139
+Red Circus,Men,Club,Halifax,Nova Scotia,Northeast,East New England,140
+Choice City Hops,Men,Club,Fort Collins,CO,South Central,Rocky Mountain,141
+Chain Lightning,Men,Club,Atlanta,GA,Southeast,East Coast,142
+Sandbaggers,Men,Club,Washington,UT,Northwest,Big Sky,143
+Overcast,Men,Club,Syracuse,NY,Northeast,Upstate NY,144
+H.O.G. Ultimate,Men,Club,Macon,GA,Southeast,East Coast,145
+Watch City,Men,Club,Medford,MA,Northeast,East New England,146
+Club M - Magma,Men,Club,Montreal,Québec,Northeast,West New England,147
+Syndicate,Men,Club,Colorado Springs,CO,South Central,Rocky Mountain,148
+Babe,Men,Club,Centerville,OH,Great Lakes,East Plains,149
+Rougaroux,Men,Club,New Orleans,LA,Southeast,Gulf Coast,150
+Adelphos,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,151
+One Night,Men,Club,Mendon,MA,Northeast,East New England,152
+Shade,Men,Club,New York,NY,Northeast,Metro NY,153
+Club M - Manic,Men,Club,Montreal,quebec,Northeast,West New England,154
+Buffalo Open,Men,Club,Buffalo,NY,Northeast,Upstate NY,155
+Big Wrench,Men,Club,Somerville,MA,Northeast,East New England,156
+Sky Hook,Men,Club,New York,NY,Northeast,Metro NY,157
+Helots,Men,Club,Sparta,NJ,Mid-Atlantic,Founders,158
+JAWN,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders,159
+Texas United,Men,Club,Dallas,TX,South Central,Texas,160
+Red Dawn,Men,Club,San Francisco Bay Area,CA,Southwest,NorCal,161
+Tanasi,Men,Club,Tennessee,TN,Southeast,East Coast,162
+defunCT,Men,Club,Naugatuck,CT,Northeast,Metro NY,163
+Fusion,Men,Club,Rhinebeck,NY,Northeast,Metro NY,164
+baNC,Men,Club,Charlotte,NC,Southeast,North Carolina,165
+Sprout,Men,Club,Amherst,MA,Northeast,West New England,166
+CLE Smokestack,Men,Club,Cleveland,OH,Great Lakes,East Plains,167
+Foxtrot,Men,Club,Austin,TX,South Central,Texas,168
+Alamode,Men,Club,San Antonio,TX,South Central,Texas,169
+Traffic (M),Men,Club,Troy,AL,Southeast,Gulf Coast,170
+Hazard,Men,Club,Erie,PA,Mid-Atlantic,Founders,171
+Ender's Outcasts,Men,Club,Somerville,MA,Northeast,East New England,172
+Quaze,Men,Club,HOUSTON,TX,South Central,Texas,173
+Brickhouse,Men,Club,Durham,NC,Southeast,North Carolina,174
+Dynasty,Men,Club,Cincinnati,OH,Great Lakes,East Plains,175
+OAT,Men,Club,Livermore,CA,Southwest,NorCal,176
+Scootlyfe,Men,Club,Tallahassee,FL,Southeast,Florida,177
+Oregon Eruption!,Men,Club,Portland,OR,Northwest,Oregon,178
+Riverside,Men,Club,Austin,TX,South Central,Texas,179
+Sherbrooke Gentlemen's Club,Men,Club,Sherbrooke,QC,Northeast,East New England,180
+THE BODY,Men,Club,Minneapolis,MN,North Central,Northwest Plains,181
+Shrike,Men,Club,Ottawa,ON,Northeast,Upstate NY,182
+UpRoar,Men,Club,Tampa Bay,FL,Southeast,Florida,183
+Dohrk Stor,Men,Club,Portland,OR,Northwest,Oregon,184
+Burly,Men,Club,Burlington,VT,Northeast,West New England,185
+Garden State Ultimate,Men,Club,Princeton,NJ,Mid-Atlantic,Founders,186
+Town Hall Stars,Men,Club,College Park,MD,Mid-Atlantic,Capital,187
+Trent's Team,Men,Club,Starkville,MS,Southeast,Gulf Coast,188
+Colt,Men,Club,Southington,CT,Northeast,Metro NY,189
+Nitro,Men,Club,Dallas,TX,South Central,Texas,190
+Lantern,Men,Club,Boston,MA,Northeast,East New England,191
+Log Jam,Men,Club,Hyde Park,NY,Northeast,Metro NY,192
+John Doe,Men,Club,Washington,DC,Mid-Atlantic,Capital,193
+Bomb Squad,Men,Club,Towson,MD,Mid-Atlantic,Capital,194
+Ironmen,Men,Club,Birmingham,AL,Southeast,Gulf Coast,195
+Space Coast Ultimate,Men,Club,Melbourne,FL,Southeast,Florida,196
+Johnny Encore,Men,Club,Denver,CO,South Central,Rocky Mountain,197
+Milwaukee Revival,Men,Club,Milwaukee,WI,North Central,Northwest Plains,198
+Battery,Men,Club,San Francisco,CA,Southwest,NorCal,199
+Daybreak,Men,Club,Denver,CO,South Central,Rocky Mountain,200
+Supercell,Men,Club,Oklahoma City,OK,South Central,Ozarks,201
+Space Cowboys,Men,Club,Greenville,SC,Southeast,East Coast,202
+Magma Bears,Men,Club,ALL OF NEW YORK,NY,Northeast,Metro NY,203
+CaSTLe,Men,Club,St. Louis,MO,North Central,West Plains,204
+Spring Break '93,Men,Club,Hartford,CT,Northeast,Metro NY,205
+Bees,Men,Club,Long Island,NY,Northeast,Metro NY,206
+Streetgang,Men,Club,San Diego,CA,Southwest,So Cal,207
+E.V.I.L.,Men,Club,Fort Worth,TX,South Central,Texas,208
+Blueprint,Men,Club,Brooklyn,NY,Northeast,Metro NY,209
+Richmond Floodwall,Men,Club,Richmond,VA,Mid-Atlantic,Capital,210
+Rush Hour ATL,Men,Club,Atlanta,GA,Southeast,East Coast,211
+Yacht Club,Men,Club,Kansas City,MO,North Central,West Plains,212
+Green River Swordfish,Men,Club,Davis,CA,Southwest,NorCal,213
+Timber,Men,Club,Appleton,WI,North Central,Northwest Plains,214
+Black Lung,Men,Club,Lexington,KY,Great Lakes,East Plains,215
+Battleship,Men,Club,Mobile,AL,Southeast,Gulf Coast,216
+Thunder Boys,Men,Club,Portsmouth,NH,Northeast,East New England,217
+Imperial,Men,Club,Saint Paul,MN,North Central,Northwest Plains,218
+SoCal Condors,Men,Club,Calico,CA,Southwest,So Cal,219
+Sundowners,Men,Club,Santa Barbara,CA,Southwest,So Cal,220
+Yogosbo,Men,Club,Madison,WI,North Central,Northwest Plains,221
+Dreadnought,Men,Club,Fayetteville,AR,South Central,Ozarks,222
+Watchdogs,Men,Club,Bethesda,MD,Mid-Atlantic,Capital,223
+DeMo,Men,Club,Des Moines,IA,North Central,West Plains,224
+Furious George,Men,Club,Vancouver,BC,Northwest,Washington BC,225
+Ghost Train,Men,Club,Seattle,WA,Northwest,Washington BC,226
+Johnny Walker,Men,Club,Denver/Boulder,CO,South Central,Rocky Mountain,227
+Prairie Fire,Men,Club,Kansas City,KS,North Central,West Plains,228
+PowderHogs,Men,Club,Salt Lake City,UT,Northwest,Big Sky,229
+Genny The Boys (GTB),Men,Club,New York,NY,Northeast,Metro NY,230
+Papa Bear,Men,Club,Houston,TX,South Central,Texas,231
+Ring of Fire,Men,Club,Raleigh,NC,Southeast,North Carolina,232
+DUPlex,Men,Club,Dallas,TX,South Central,Texas,233
+Turbine,Men,Club,Durham,NC,Southeast,North Carolina,234
+Vault,Men,Club,Hampton,VA,Mid-Atlantic,Capital,235
+Rising Tide U20B,Men,Club,Portland,ME,Northeast,East New England,236
+OC Crows,Men,Club,Fullerton,CA,Southwest,So Cal,237
+Foggy Bottom Boys,Men,Club,Washington,DC,Mid-Atlantic,,238
+Deathsquad,Men,Club,Needham,MA,Northeast,East New England,239
+General Strike,Men,Club,Winnipeg,Manitoba,North Central,Northwest Plains,240
+ATLiens,Men,Club,Atlanta,GA,,,241
+Neap Tide,Men,Club,Portland,ME,Northeast,East New England,242
+Bulldogs,Men,Club,Flint,MI,,,243
+Cryptic,Men,Club,Iowa City,IA,North Central,West Plains,244
+GURU,Men,Club,Spokane,WA,,,245
+Lost Boys,Men,Club,Columbia,SC,Southeast,East Coast,246
+DiG,Men,Club,Boston,MA,Northeast,East New England,247
+The Killjoys,Men,Club,Orem,UT,Northwest,Big Sky,248
+HouSE,Men,Club,Kenosha,WI,North Central,Northwest Plains,249
+Sockeye,Men,Club,Seattle,WA,Northwest,Washington BC,250
+Sawtooth,Men,Club,Boise,ID,Northwest,Big Sky,251
+V-SQUAD,Women,Club,Montreal,Quebec,Northeast,West New England,252
+2nd Wave,Women,Club,Bay Area,CA,Southwest,NorCal,253
+Austin Hex,Women,Club,Austin,TX,South Central,Texas,254
+COSMOS,Women,Club,Colorado Springs,CO,South Central,Rocky Mountain,255
+Honey Pot,Women,Club,Chattanooga,TN,Southeast,East Coast,256
+Wildfire,Women,Club,San Diego,CA,Southwest,So Cal,257
+Helix,Women,Club,Chicago,IL,Great Lakes,Central Plains,258
+Rampage,Women,Club,Los Angeles,CA,Southwest,So Cal,259
+Fusion,Women,Club,Winnipeg,Manitoba,North Central,Northwest Plains,260
+Superior,Women,Club,Minneapolis,MN,North Central,,261
+Venom,Women,Club,Tucson,AZ,Southwest,So Cal,262
+Portland Ivy,Women,Club,Portland,OR,Northwest,Oregon,263
+Sizzle,Women,Club,Seattle,WA,Northwest,Washington BC,264
+Seattle Soul,Women,Club,Seattle,WA,Northwest,Washington BC,265
+Valley Ultimate U20 Girls,Women,Club,Amherst,MA,Northeast,West New England,266
+Nightlock,Women,Club,Bay Area,CA,Southwest,NorCal,267
+BUDA U20G,Women,Club,Boston,MA,Northeast,West New England,268
+Trash.,Women,Club,Portland,OR,Northwest,Oregon,269
+Jackwagon,Women,Club,Boulder/Denver,CO,South Central,Rocky Mountain,270
+Belle,Women,Club,Cincinnati,OH,Great Lakes,East Plains,271
+Frolic,Women,Club,Portland,ME,Northeast,East New England,272
+Phoenix,Women,Club,Raleigh,NC,Southeast,North Carolina,273
+Ultraviolet,Women,Club,Bay Area,CA,Southwest,NorCal,274
+Molly Brown,Women,Club,Denver/Boulder,CO,South Central,Rocky Mountain,275
+Viva,Women,Club,Los Angeles,CA,Southwest,So Cal,276
+Colorado Small Batch,Women,Club,Denver,CO,South Central,Rocky Mountain,277
+Korra,Women,Club,Regina,Saskatchewan,Northwest,Big Sky,278
+Seattle Riot,Women,Club,Seattle,WA,Northwest,Washington BC,279
+Elevate,Women,Club,Salt Lake City,UT,Northwest,Big Sky,280
+Salty,Women,Club,Halifax,Nova Scotia,Northeast,East New England,281
+Showdown,Women,Club,Texas City,TX,South Central,Texas,282
+Maeve,Women,Club,Dallas,TX,South Central,Texas,283
+LOL,Women,Club,Oakland,CA,Southwest,NorCal,284
+Crush City,Women,Club,Houston,TX,South Central,Texas,285
+Outbreak,Women,Club,Atlanta,GA,Southeast,East Coast,286
+PLOW,Women,Club,Northampton,MA,Northeast,West New England,287
+Queen Cake,Women,Club,New Orleans,LA,Southeast,Gulf Coast,288
+Taco Truck,Women,Club,Triangle,NC,Southeast,North Carolina,289
+Versa,Women,Club,Watertown,MA,Northeast,East New England,290
+Pickup Lines,Women,Club,"Washington, DC",MD,Mid-Atlantic,Capital,291
+Vintage,Women,Club,Montreal,Quebec,Northeast,West New England,292
+Tabby Rosa,Women,Club,Gainesville,FL,Southeast,Florida,293
+BENT,Women,Club,New York,NY,Northeast,Metro NY,294
+TOX6ix,Women,Club,Toronto,Ontario,Northeast,Upstate NY,295
+Venus,Women,Club,Montreal,Quebec,Northeast,West New England,296
+Stella,Women,Club,Ottawa,Ontario,Northeast,Upstate NY,297
+PPF,Women,Club,Kitchener-Waterloo,Ontario,Northeast,Upstate NY,298
+Brute Squad,Women,Club,Boston,MA,Northeast,East New England,299
+6ixers,Women,Club,Toronto,Ontario,Northeast,Upstate NY,300
+Rebel Rebel,Women,Club,Albany,NY,Northeast,Upstate NY,301
+Hot Metal,Women,Club,Pittsburgh,PA,Mid-Atlantic,Founders,302
+Sneaky House Hippos,Women,Club,Vancouver,British Columbia,Northwest,Washington BC,303
+Ozone,Women,Club,Atlanta,GA,Southeast,East Coast,304
+Sureshot,Women,Club,Cincinnati,OH,Great Lakes,East Plains,305
+Rival,Women,Club,Columbus/Ann Arbor,OH,Great Lakes,East Plains,306
+Cazadora,Women,Club,Austin,TX,South Central,Texas,307
+Trainwreck,Women,Club,Fort Collins,CO,South Central,Rocky Mountain,308
+Pine Baroness,Women,Club,Princeton,NJ,Mid-Atlantic,Founders,309
+Vice,Women,Club,Cambridge,MA,Northeast,East New England,310
+cATLanta,Women,Club,Atlanta,GA,Southeast,East Coast,311
+Siege,Women,Club,Boston,MA,Northeast,East New England,312
+Throwback,Women,Club,Edmonton,Alberta,Northwest,,313
+Tempest,Women,Club,St. John's,NL,Northeast,East New England,314
+Oligarchy,Women,Club,Newport News,VA,Mid-Atlantic,Capital,315
+Rush Hour,Women,Club,Oceanside,NY,Northeast,Metro NY,316
+Huntsville Laika,Women,Club,Huntsville,AL,Southeast,Gulf Coast,317
+HOPE,Women,Club,Providence,RI,Northeast,East New England,318
+Indy Rogue,Women,Club,Indianapolis,IN,Great Lakes,Central Plains,319
+Inferno,Women,Club,Houston,TX,South Central,Texas,320
+Iris,Women,Club,Québec,Quebec,Northeast,West New England,321
+Scandal,Women,Club,Washington,DC,Mid-Atlantic,Capital,322
+Agency,Women,Club,Washington,DC,Mid-Atlantic,Capital,323
+Traffic,Women,Club,Vancouver,BC,Northwest,Washington BC,324
+Eliza Furnace,Women,Club,Pittsburgh,PA,Mid-Atlantic,Founders,325
+Frenzy,Women,Club,Chicago,IL,Great Lakes,Central Plains,326
+DC Rogue,Women,Club,Washington,DC,,,327
+Schwa,Women,Club,Portland,OR,Northwest,Oregon,328
+Cold Cuts,Women,Club,Minneapolis,MN,North Central,Northwest Plains,329
+Warhawks,Women,Club,Triangle Area,NC,,,330
+PDXtra,Women,Club,Portland,OR,Northwest,Oregon,331
+Stellar,Women,Club,St. Louis,MO,North Central,West Plains,332
+Iowa Wild Rose,Women,Club,Ames,IA,North Central,West Plains,333
+Notorious C.L.E.,Women,Club,Cleveland,OH,Great Lakes,East Plains,334
+Suffrage,Women,Club,Washington,DC,Mid-Atlantic,Capital,335
+Autonomous,Women,Club,Ann Arbor/Detroit,MI,Great Lakes,East Plains,336
+Wicked,Women,Club,Kansas City,KS,North Central,West Plains,337
+Lady Forward,Women,Club,Madison,WI,North Central,Northwest Plains,338
+Fiasco,Women,Club,Fort Lauderdale,FL,Southeast,Florida,339
+MystiKuE,Women,Club,Milwaukee,WI,North Central,Northwest Plains,340
+Crackle,Women,Club,Minneapolis,MN,North Central,Northwest Plains,341
+Boston,Women,Club,Boston,MA,Northeast,East New England,342
+Fury,Women,Club,San Francisco,CA,Southwest,NorCal,343
+Tempo,Women,Club,Bay Area,CA,Southwest,NorCal,344
+The Matriarchy,Women,Club,St.Paul,MN,North Central,Northwest Plains,345
+DINO,Women,Club,New York,NY,Northeast,Metro NY,346
+Koi,Women,Club,Vancouver,British Columbia,Northwest,Washington BC,347
+Broad City,Women,Club,Philadelphia,PA,Mid-Atlantic,Founders,348
+FAB,Women,Club,Bay Area,CA,Southwest,NorCal,349
+Brooklyn Book Club,Women,Club,Brooklyn,NY,Northeast,Metro NY,350
+Red Hot Ultimate,Women,Club,Columbia,SC,Southeast,East Coast,351
+Heist,Women,Club,Madison,WI,North Central,Northwest Plains,352
+Grit,Women,Club,Washington,DC,Mid-Atlantic,Capital,353
+Underground,Women,Club,Seattle,WA,Northwest,Washington BC,354
+Seven Devils,Women,Club,Boise,ID,Northwest,Big Sky,355
+Virginia Rebellion,Women,Club,Richmond,VA,Mid-Atlantic,Capital,356
+Dish,Women,Club,Chicago,IL,Great Lakes,Central Plains,357
+Ignite,Women,Club,"Hartford, CT",CT,Northeast,Metro NY,358
+Steel,Women,Club,Birmingham,AL,Southeast,Gulf Coast,359
+Pop,Women,Club,Minneapolis,MN,North Central,Northwest Plains,360
+Nemesis,Women,Club,Chicago,IL,Great Lakes,Central Plains,361
+Roc Paper Scissors,Women,Club,Rochester,NY,Northeast,Upstate NY,362
+U54 Ultimate,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,363
+'Shine,Mixed,Club,Nashville,TN,Southeast,East Coast,364
+Mesteño,Mixed,Club,Denver,CO,South Central,Rocky Mountain,365
+Bunnies,Mixed,Club,Saskatoon,SK,Northwest,Big Sky,366
+Vendetta,Mixed,Club,Denver,CO,South Central,Rocky Mountain,367
+Blowing Heat 3.0,Mixed,Club,New Castle,DE,Mid-Atlantic,Founders,368
+Fireball,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,369
+Surge,Mixed,Club,Spokane,WA,Northwest,Washington BC,370
+PS,Mixed,Club,Allentown,PA,Mid-Atlantic,Founders,371
+Springs Mixed Ulty Team,Mixed,Club,Colorado Springs,CO,South Central,Rocky Mountain,372
+Too Much Fun,Mixed,Club,Asheville,NC,Southeast,North Carolina,373
+T.T,Mixed,Club,Vancouver,Bc,Northwest,Washington BC,374
+Los Heros,Mixed,Club,Bloomington,IN,Great Lakes,Central Plains,375
+Townies,Mixed,Club,Ithaca,NY,Northeast,Upstate NY,376
+Seven Hills,Mixed,Club,Seattle,WA,Northwest,Washington BC,377
+Fishpix!,Mixed,Club,Missoula,MT,Northwest,Big Sky,378
+Left Turn Lane,Mixed,Club,Mercer,NJ,Mid-Atlantic,Founders,379
+Zen,Mixed,Club,Toronto,On,Northeast,Upstate NY,380
+DTH,Mixed,Club,Waltham,MA,Northeast,East New England,381
+Trenton Takers,Mixed,Club,Trenton,NJ,Mid-Atlantic,Founders,382
+Eugene Skyfall,Mixed,Club,Eugene,OR,Northwest,Oregon,383
+Tlacuaches,Mixed,Club,McAllen,TX,South Central,Texas,384
+Bozos,Mixed,Club,Bozeman,MT,Northwest,Big Sky,385
+Skyscrapers,Mixed,Club,Brooklyn,NY,Northeast,Metro NY,386
+Boomshakalaka,Mixed,Club,Austin,TX,South Central,Texas,387
+WhirlyNegs,Mixed,Club,Arlington,VA,Mid-Atlantic,Capital,388
+Nottoway Flatball Club,Mixed,Club,Vienna,VA,Mid-Atlantic,Capital,389
+Drunk in Space,Mixed,Club,Boston,MA,Northeast,East New England,390
+Cleveland Rocks,Mixed,Club,Cleveland,OH,Great Lakes,East Plains,391
+Mufanauts,Mixed,Club,Madison,WI,North Central,Northwest Plains,392
+Hot Tamales,Mixed,Club,Bethlehem,PA,Mid-Atlantic,Founders,393
+The Leftovers,Mixed,Club,Atlanta,GA,Southeast,East Coast,394
+Wasatch Sasquatch,Mixed,Club,Salt Lake City,UT,Northwest,Big Sky,395
+NWA White Tails,Mixed,Club,Bentonville,AR,South Central,Ozarks,396
+Be Reasonable,Mixed,Club,Fayetteville,AR,South Central,Ozarks,397
+Midnight Whiskey,Mixed,Club,Eugene,OR,Northwest,Oregon,398
+Fable,Mixed,Club,Vancouver,BC,Northwest,Washington BC,399
+Mola Mola,Mixed,Club,Vancouver,British Columbia,Northwest,Washington BC,400
+Chowdaheads,Mixed,Club,Providence,RI,Northeast,,401
+Mishigami,Mixed,Club,Lansing,MI,Great Lakes,East Plains,402
+MUTT,Mixed,Club,St. Paul,MN,North Central,Northwest Plains,403
+Discney,Mixed,Club,Beaumont,TX,South Central,Texas,404
+Bulleit Train,Mixed,Club,Seattle,WA,Northwest,Washington BC,405
+Friendzone,Mixed,Club,Seattle,WA,Northwest,Washington BC,406
+The Los Gatos Gatos,Mixed,Club,San Jose,CA,Southwest,NorCal,407
+I-79,Mixed,Club,Pittsburgh,PA,Mid-Atlantic,Founders,408
+MN Superior,Mixed,Club,Twin Cities,MN,,,409
+Sparkle Ponies,Mixed,Club,Rockville,MD,Mid-Atlantic,Capital,410
+Cool Whip,Mixed,Club,Boston,MA,Northeast,East New England,411
+Fleet,Mixed,Club,Baltimore,MD,Mid-Atlantic,Capital,412
+Mutiny,Mixed,Club,St. Petersburg,FL,Southeast,Florida,413
+Farm Show,Mixed,Club,Harrisburg,PA,Mid-Atlantic,Founders,414
+Eat Lightning,Mixed,Club,New York City,NY,Northeast,Metro NY,415
+Long Beach Legacy,Mixed,Club,Long Beach,CA,Southwest,So Cal,416
+Dinosaur Fancy,Mixed,Club,Madison,WI,North Central,Northwest Plains,417
+WHUF*,Mixed,Club,Woods Hole,MA,Northeast,West New England,418
+Rogue,Mixed,Club,Tucson,AZ,Southwest,So Cal,419
+DR,Mixed,Club,Berkeley,CA,Southwest,NorCal,420
+Bucket,Mixed,Club,Atlanta,GA,Southeast,East Coast,421
+Liquid Hustle,Mixed,Club,Indianapolis,IN,Great Lakes,Central Plains,422
+Blackbird,Mixed,Club,San Francisco,CA,Southwest,NorCal,423
+Rocket LawnChair,Mixed,Club,Ann Arbor,MI,Great Lakes,East Plains,424
+BFG,Mixed,Club,Seattle,WA,Northwest,Washington BC,425
+Indiana Pterodactyl Attack (IPA),Mixed,Club,Clarksville,IN,Great Lakes,Central Plains,426
+Goose Lee,Mixed,Club,Cincinnati,OH,Great Lakes,East Plains,427
+FIRE ULTIMATE CLUB MIAMI,Mixed,Club,Miami,FL,Southeast,Florida,428
+Moonshine,Mixed,Club,Lexington,KY,Great Lakes,East Plains,429
+Hybrid,Mixed,Club,Ann Arbor,MI,Great Lakes,East Plains,430
+Natural Twenties,Mixed,Club,Portland,OR,Northwest,Oregon,431
+Classy,Mixed,Club,San Francisco,CA,Southwest,NorCal,432
+HAOS,Mixed,Club,Watertown,MA,Northeast,East New England,433
+Happy Valley,Mixed,Club,Amherst,MA,Northeast,West New England,434
+Pixel,Mixed,Club,Royal Oak,MI,Great Lakes,East Plains,435
+Toast,Mixed,Club,Grand Rapids,MI,Great Lakes,East Plains,436
+Shakedown,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,437
+Sweet Action,Mixed,Club,Denver,CO,South Central,Rocky Mountain,438
+Bird,Mixed,Club,Minneapolis,MN,North Central,Northwest Plains,439
+Family Style,Mixed,Club,Los Angeles,CA,Southwest,So Cal,440
+Ope!,Mixed,Club,Minneapolis,MN,North Central,Northwest Plains,441
+SkyLab,Mixed,Club,Portland,OR,Northwest,Oregon,442
+Pretty Boys and Handsome Girls,Mixed,Club,Winnipeg,Manitoba,,,443
+Tequila Mockingbird,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,444
+Stackcats,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,445
+Happy Hour,Mixed,Club,McMinnville,OR,Northwest,Oregon,446
+Superlame,Mixed,Club,Asheville,NC,Southeast,North Carolina,447
+sKNO cone,Mixed,Club,Knoxville,TN,Southeast,East Coast,448
+Dead Reckoning,Mixed,Club,Portland,ME,Northeast,East New England,449
+Pivot,Mixed,Club,Phoenix,AZ,Southwest,So Cal,450
+Pink pear 2019,Mixed,Club,New York,NY,Northeast,Metro NY,451
+Swing Vote,Mixed,Club,Washington,DC,,,452
+The Chad Larson Experience,Mixed,Club,Ames,IA,North Central,West Plains,453
+Magic City Mayhem,Mixed,Club,Birmingham,AL,Southeast,Gulf Coast,454
+Wild Card,Mixed,Club,Boston,MA,Northeast,East New England,455
+Philly Twist,Mixed,Club,Philadelphia,PA,Mid-Atlantic,Founders,456
+Sad Mountain,Mixed,Club,Greenfield,MA,Northeast,West New England,457
+Delta Breeze,Mixed,Club,Davis,CA,Southwest,NorCal,458
+Identity Theft,Mixed,Club,Minneapolis,MN,North Central,Northwest Plains,459
+Mashed,Mixed,Club,Syracuse,NY,Northeast,Upstate NY,460
+Fear and Loathing,Mixed,Club,Las Vegas,NV,Southwest,So Cal,461
+Tropics Ultimate,Mixed,Club,Oneonta,NY,Northeast,Upstate NY,462
+Choco Ghost House,Mixed,Club,Portland,OR,Northwest,Oregon,463
+7 Sins,Mixed,Club,Kansas City,KS,North Central,West Plains,464
+Side Hustle,Mixed,Club,Burlington,VT,Northeast,West New England,465
+Nautilus,Mixed,Club,Newington,CT,Northeast,Metro NY,466
+Platypi,Mixed,Club,Chico,CA,Southwest,NorCal,467
+Hive,Mixed,Club,Portland,OR,Northwest,Oregon,468
+Mixed Signals,Mixed,Club,Fort Collins,CO,South Central,Rocky Mountain,469
+Rising Tide U20X,Mixed,Club,Portland,ME,Northeast,East New England,470
+Garbage,Mixed,Club,Seattle,WA,Northwest,Washington BC,471
+Garage Sale,Mixed,Club,Eugene,OR,Northwest,Oregon,472
+Love Tractor,Mixed,Club,Denver,CO,South Central,Rocky Mountain,473
+Madison United Mixed Ultimate,Mixed,Club,Madison,WI,North Central,Northwest Plains,474
+Chili Poppers,Mixed,Club,Fort Worth,TX,South Central,Texas,475
+Lights Out,Mixed,Club,Seattle,WA,Northwest,Washington BC,476
+Equinox,Mixed,Club,Montpelier,VT,Northeast,West New England,477
+Seattle Mixtape,Mixed,Club,Seattle,WA,Northwest,Washington BC,478
+Chaotic Good,Mixed,Club,Cambridge,MA,Northeast,East New England,479
+The Administrators,Mixed,Club,Portland,OR,Northwest,Oregon,480
+Midwestern Mediocrity,Mixed,Club,Grand Rapids,MI,Great Lakes,East Plains,481
+TBD,Mixed,Club,NYC,NY,Northeast,Metro NY,482
+Mixed on the Rock,Mixed,Club,Little Rock,AR,South Central,Ozarks,483
+Public Enemy,Mixed,Club,Dallas/Fort Worth,TX,South Central,Texas,484
+Buckwild,Mixed,Club,Sacramento,CA,Southwest,NorCal,485
+Mississippi Blues,Mixed,Club,Jackson,MS,Southeast,Gulf Coast,486
+California Burrito,Mixed,Club,San Diego,CA,Southwest,So Cal,487
+shame.,Mixed,Club,Fort Collins,CO,South Central,Rocky Mountain,488
+BW Ultimate,Mixed,Club,Sunnyvale,CA,Southwest,NorCal,489
+Moontower,Mixed,Club,Austin,TX,South Central,Texas,490
+Nothing's Great Again (aka Babymaker),Mixed,Club,Chicago,IL,Great Lakes,Central Plains,491
+Garbage Plates,Mixed,Club,Rochester,NY,Northeast,Upstate NY,492
+Balloon,Mixed,Club,College Station,TX,South Central,Texas,493
+Storm,Mixed,Club,Charlotte,NC,Southeast,North Carolina,494
+Megalodon,Mixed,Club,Sunnyvale,CA,Southwest,NorCal,495
+Hellbenders,Mixed,Club,Springfield,MO,North Central,West Plains,496
+Argo,Mixed,Club,San Francisco,CA,Southwest,NorCal,497
+VU,Mixed,Club,San Francisco,CA,Southwest,NorCal,498
+Party Cats,Mixed,Club,San Francisco,CA,Southwest,NorCal,499
+Feral Cows,Mixed,Club,Palo Alto,CA,Southwest,NorCal,500
+Bold City,Mixed,Club,Jacksonville,FL,Southeast,Florida,501
+Big Bend,Mixed,Club,Tallahassee,FL,Southeast,Florida,502
+Hairy Otter,Mixed,Club,Nashville,TN,Southeast,East Coast,503
+Huntsville Outlaws,Mixed,Club,Huntsville,AL,Southeast,Gulf Coast,504
+Tex Mix,Mixed,Club,Dallas,TX,South Central,Texas,505
+Trash Pandas,Mixed,Club,Nashville,TN,Southeast,East Coast,506
+Jughandle,Mixed,Club,Princeton,NJ,Mid-Atlantic,Founders,507
+Mixfits,Mixed,Club,Dallas,TX,South Central,Texas,508
+Alchemy,Mixed,Club,San Francisco,CA,Southwest,NorCal,509
+Varsity,Mixed,Club,New York,NY,Northeast,Metro NY,510
+Igneous Ultimate,Mixed,Club,Bend,OR,Northwest,Oregon,511
+Piedmont United,Mixed,Club,Winston-Salem,NC,Southeast,North Carolina,512
+Stoke,Mixed,Club,West Chester,PA,Mid-Atlantic,Founders,513
+Loco,Mixed,Club,West Chester,PA,Mid-Atlantic,Founders,514
+Toro,Mixed,Club,Durham,NC,Southeast,North Carolina,515
+Legion,Mixed,Club,Virginia,VA,Mid-Atlantic,Capital,516
+Stormborn,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,517
+APEX,Mixed,Club,Charleston,SC,Southeast,East Coast,518
+Ant Madness,Mixed,Club,Arlington,VA,Mid-Atlantic,Capital,519
+Snake Country,Mixed,Club,Boston,MA,Northeast,East New England,520
+NC Galaxy,Mixed,Club,Chapel Hill,NC,Southeast,North Carolina,521
+Malice in Wonderland,Mixed,Club,Raleigh,NC,Southeast,North Carolina,522
+Lotus,Mixed,Club,Los Angeles,CA,Southwest,So Cal,523
+Firefly,Mixed,Club,San Francisco,CA,Southwest,NorCal,524
+Risky Business,Mixed,Club,Dallas,TX,South Central,Texas,525
+Metro North,Mixed,Club,Mianus,CT,Northeast,Metro NY,526
+Alpha,Mixed,Club,The Woodlands,TX,South Central,Texas,527
+Turnstyle,Mixed,Club,New York,NY,Northeast,Metro NY,528
+EMU,Mixed,Club,Evanston,IL,Great Lakes,Central Plains,529
+Unlimited Swipes,Mixed,Club,New York,NY,Northeast,Metro NY,530
+Absolute Zero,Mixed,Club,Santa Clara,CA,Southwest,NorCal,531
+Wildstyle,Mixed,Club,Austin,TX,South Central,Texas,532
+Happy Cows,Mixed,Club,San Francisco Bay Area,CA,,,533
+Impact,Mixed,Club,Wichita,KS,North Central,West Plains,534
+Robot,Mixed,Club,Santa Barbara,CA,Southwest,So Cal,535
+Mischief,Mixed,Club,San Francisco Bay Area,CA,Southwest,NorCal,536
+Rubix,Mixed,Club,Phoenix,AZ,Southwest,So Cal,537
+Memphis STAX,Mixed,Club,Memphis,TN,Southeast,Gulf Coast,538
+SlipStream,Mixed,Club,Indianapolis,IN,Great Lakes,Central Plains,539
+ELevate,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,540
+LudICRous,Mixed,Club,Cedar Rapids,IA,North Central,West Plains,541
+Pi+,Mixed,Club,Lexington,KY,Great Lakes,East Plains,542
+Robotic Snakes,Mixed,Club,Lincoln,NE,North Central,West Plains,544
+Mixchief,Mixed,Club,WEST PALM BEACH,FL,Southeast,Florida,545
+Weird,Mixed,Club,Florida,FL,Southeast,Florida,546
+BATL Cows,Mixed,Club,Atlanta,GA,Southeast,East Coast,547
+Fox Valley Forge,Mixed,Club,Fox Valley,WI,North Central,Northwest Plains,548
+Jackpot,Mixed,Club,Jacksonville,FL,Southeast,Florida,549
+HVAC,Mixed,Club,Washington DC,DC,Mid-Atlantic,Capital,550
+Skyhawks,Mixed,Club,South Bend,IN,Great Lakes,Central Plains,551
+Rally,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,552
+Point of No Return,Mixed,Club,Stevens Point,WI,North Central,Northwest Plains,553
+Superstition,Mixed,Club,Phoenix,AZ,Southwest,So Cal,554
+Espionage,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,555
+FlyTrap,Mixed,Club,Wilmington,NC,Southeast,North Carolina,556
+Heavy Flow,Mixed,Club,Columbia,MD,Mid-Atlantic,Capital,557
+District Cocktails,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,558
+NOISE,Mixed,Club,Madison,WI,North Central,Northwest Plains,559
+Birds of Paradise,Mixed,Club,San Diego,CA,Southwest,So Cal,560
+Scarecrow,Mixed,Club,Manchester,NH,Northeast,East New England,561
+The Umbrella,Mixed,Club,Athens,GA,Southeast,East Coast,562
+Craw Daddies,Mixed,Club,Baton Rouge,LA,Southeast,Gulf Coast,563
+Second Wind,Mixed,Club,Columbus,OH,Great Lakes,East Plains,564
+m'kay Ultimate,Mixed,Club,ATLANTA,GA,Southeast,East Coast,565
+Monster,Mixed,Club,Loganville,GA,Southeast,East Coast,566
+ThunderCats,Mixed,Club,Charlotte,NC,Southeast,North Carolina,567
+Sorted Beans,Mixed,Club,Cambridge,MA,Northeast,East New England,568
+Sabers,Mixed,Club,Columbus,OH,Great Lakes,East Plains,569
+Waterloo,Mixed,Club,Austin,TX,South Central,Texas,570
+Pandamonium,Mixed,Club,Saint Paul,MN,North Central,Northwest Plains,571
+The Bandits,Mixed,Club,Montclair,NJ,Mid-Atlantic,Founders,572
+Space Heater,Mixed,Club,Washington,DC,Mid-Atlantic,Capital,573
+Flight Club,Mixed,Club,Denver,CO,South Central,Rocky Mountain,574
+Pegasus,Mixed,Club,Seattle,WA,Northwest,Washington BC,575
+Memphis Hustle & Flow,Mixed,Club,Memphis,TN,Southeast,Gulf Coast,576
+Mud Turtles,Mixed,Club,Houston,TX,South Central,Texas,577
+Bexar,Mixed,Club,San Antonio,TX,South Central,Texas,578
+Crucible,Mixed,Club,Pittsburgh,PA,Mid-Atlantic,Founders,579
+Breakers Mark,Mixed,Club,Portland,OR,Northwest,Oregon,580
+Alt Stacks,Mixed,Club,Fairfield,CT,Northeast,Metro NY,581
+Stripes,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,582
+blOKC party,Mixed,Club,Oklahoma City,OK,South Central,Ozarks,583
+No Touching!,Mixed,Club,Twin Cities,MN,North Central,Northwest Plains,584
+Instant Karma,Mixed,Club,Tucson,AZ,Southwest,So Cal,585
+Carolina Reaper,Mixed,Club,Raleigh,NC,Southeast,North Carolina,586
+rubber duck ultimate.,Mixed,Club,Fayetteville,AR,South Central,Ozarks,587
+LORD,Mixed,Club,Fairfax,VA,Mid-Atlantic,Capital,588
+The Feminists,Mixed,Club,New York,NY,Northeast,Metro NY,589
+Seoulmates,Mixed,Club,Charlotte,NC,Southeast,North Carolina,590
+Drag'n Thrust,Mixed,Club,Minneapolis,MN,North Central,Northwest Plains,591
+Albany Airbenders,Mixed,Club,Albany,NY,Northeast,Upstate NY,592
+Prion,Mixed,Club,Champaign,IL,Great Lakes,Central Plains,593
+Soft Boiled,Mixed,Club,Philadelphia,PA,Mid-Atlantic,Founders,594
+OutKast,Mixed,Club,Atlanta,GA,Southeast,East Coast,595
+Rowdy,Mixed,Club,Raleigh,NC,Southeast,North Carolina,596
+Murmur,Mixed,Club,Athens,GA,Southeast,East Coast,597
+Default,Mixed,Club,Burlington,VT,Northeast,West New England,598
+EDM,Mixed,Club,Denver,CO,South Central,Rocky Mountain,599
+League of Shadows,Mixed,Club,Boston,MA,Northeast,East New England,600
+MOONDOG,Mixed,Club,Montana,MT,Northwest,Big Sky,601
+Pandatime,Mixed,Club,Towson,MD,Mid-Atlantic,Capital,602
+Face Off,Mixed,Club,Portsmouth,NH,Northeast,East New England,603
+Donuts,Mixed,Club,Bay Area,CA,Southwest,NorCal,604
+Darkwing,Mixed,Club,Mansfield,MA,Northeast,East New England,605
+Old #7,Mixed,Club,Lynchburg,TN,Southeast,East Coast,606
+Minnesota Star Power,Mixed,Club,Minneapolis/ St. Paul,MN,North Central,Northwest Plains,607
+Duloofda,Mixed,Club,Duluth,MN,North Central,Northwest Plains,608
+Slow White,Mixed,Club,Boston,MA,Northeast,East New England,609
+Ouzel,Mixed,Club,Fort Collins,CO,South Central,Rocky Mountain,610
+Boomtown Pandas,Mixed,Club,Madison,WI,North Central,Northwest Plains,611
+Possum,Mixed,Club,Greenville,SC,Southeast,East Coast,612
+Buffalo Brain Freeze,Mixed,Club,Buffalo,NY,Northeast,Upstate NY,613
+Great Minnesota Get Together,Mixed,Club,Falcon Heights,MN,North Central,Northwest Plains,614
+Sebastopol Orchard,Mixed,Club,Sebastopol,CA,Southwest,NorCal,615
+Taco Cat,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,616
+Baltimore BENCH,Mixed,Club,Baltimore,MD,Mid-Atlantic,Capital,617
+Enough Monkeys,Mixed,Club,Hartford,VT,Northeast,West New England,618
+Jabba,Mixed,Club,Chicago,IL,Great Lakes,Central Plains,619
+RnB,Mixed,Club,Roanoke n Blacksburg,VA,Mid-Atlantic,Capital,620
+Pushovers,Mixed,Club,Lake Elmo,MN,North Central,Northwest Plains,621
+8 Bit Heroes,Mixed,Club,Frederick,MD,Mid-Atlantic,Capital,622
+Funk,Mixed,Club,Newburgh,NY,Northeast,Metro NY,623
+Birdfruit,Mixed,Club,Seattle,WA,Northwest,Washington BC,624
+Orbit,Mixed,Club,Atlanta,GA,Southeast,East Coast,625
+Melt,Mixed,Club,Saint Paul,MN,North Central,Northwest Plains,626
+Cutthroat,Mixed,Club,Reno,NV,Southwest,NorCal,627
+Thunderpants the Magic Dragon,Mixed,Club,Dayton,OH,Great Lakes,East Plains,628
+Petey's Scallywags,Mixed,Club,Columbus,OH,Great Lakes,East Plains,629
+Petey's Pirates,Mixed,Club,Columbus,OH,Great Lakes,East Plains,630
+Rainbow,Mixed,Club,Somerville,MA,Northeast,East New England,631
+Mojo Jojo,Mixed,Club,Minneapolis,MN,North Central,Northwest Plains,632
+American Barbecue,Mixed,Club,San Francisco,CA,Southwest,NorCal,633
+Tyrannis,Mixed,Club,Charlottesville,VA,Mid-Atlantic,Capital,634
+Alloy,Mixed,Club,Pittsburgh,PA,Mid-Atlantic,Founders,635
+Spoiler Alert,Mixed,Club,Los Angeles,CA,Southwest,So Cal,636
+Auburn HeyDay,Mixed,Club,Auburn,AL,Southeast,Gulf Coast,637
+Night Shift,Mixed,Club,Walpole/Taunton,MA,Northeast,East New England,638
+The Strangers,Mixed,Club,Westminster,CO,South Central,Rocky Mountain,639
+Mad Udderburn,Mixed,Club,Madison,WI,North Central,Northwest Plains,640
+Rat City,Mixed,Club,Baltimore,MD,Mid-Atlantic,Capital,641
+Polar Bears,Mixed,Club,Berkeley,CA,Southwest,NorCal,642
+Mastodon,Mixed,Club,Madison,WI,North Central,Northwest Plains,643
+Birds,Mixed,Club,Long Island,NY,Northeast,Metro NY,644
+Woodwork,Mixed,Club,Omaha,NE,North Central,West Plains,645
+Baywatch,Mixed,Club,Pensacola,FL,Southeast,Florida,646
+Boomtown,Mixed,Club,Tulsa,OK,South Central,Ozarks,647
+Columbus Cocktails,Mixed,Club,Columbus,OH,Great Lakes,East Plains,648
+Derby City Thunder,Mixed,Club,Louisville,KY,Great Lakes,East Plains,649
+Steamboat,Mixed,Club,Cincinnati,OH,Great Lakes,East Plains,650
+Battleship,Mixed,Club,St-Jean-sur-Richelieu,Quebec,Northeast,East New England,651
+Rampage,Mixed,Club,Raleigh,NC,Southeast,North Carolina,652
+Lochsa,Mixed,Club,Boise,ID,Northwest,Big Sky,653
+Buffalo Lake Effect,Mixed,Club,Buffalo,NY,Northeast,Upstate NY,654
+Northern Comfort,Mixed,Club,Milwaukee,WI,North Central,Northwest Plains,655
+Mousetrap,Mixed,Club,Madison,WI,North Central,Northwest Plains,656
+Grand Army,Mixed,Club,Brooklyn,NY,Northeast,Metro NY,657
+PanIC,Mixed,Club,Iowa City,IA,North Central,West Plains,658
+XIST,Mixed,Club,New York,NY,Northeast,Metro NY,659
+AMP,Mixed,Club,Philadelphia,PA,Mid-Atlantic,Founders,660
+Sunken Circus,Mixed,Club,Portland,ME,Northeast,East New England,661
+JLP,Mixed,Club,Atlanta,GA,Southeast,East Coast,662
+Chalice,Mixed,Club,St. Louis,MO,North Central,West Plains,663
+Rhino,Men,Club,,,Northwest,Oregon,1805
+Ironside,Men,Club,,,North Central,Northwest Plains,1806
+Temper,Men,Club,,,Mid-Atlantic,Founders,1807
+Riot,Women,Club,,,,,1808
+Capitals,Women,Club,,,,,1809
+Green Means Go,Women,Club,,,Mid-Atlantic,Founders,1810
+Seattle Mixed,Mixed,Club,,,Northwest,Washington BC,1811
+D'oh! Abides,Mixed,Club,,,Northwest,Washington BC,1812
+7 Figures,Mixed,Club,,,Southwest,So Cal,1813
+Santa Maria,Mixed,Club,,,Great Lakes,East Plains,1814
+Cosa Nostra,Mixed,Club,,,South Central,Texas,1815
+Madison Club,Men,Club,,,North Central,Northwest Plains,1816
+Madison Club B,Men,Club,,,North Central,Northwest Plains,1817
+SmokeStack,Men,Club,,,North Central,West Plains,1818
+City Park Ultimate,Men,Club,,,North Central,West Plains,1819
+T.C. Imperial,Men,Club,,,North Central,Northwest Plains,1820
+Illusion,Men,Club,,,North Central,West Plains,1821
+Condors,Men,Club,,,Southwest,So Cal,1822
+Renegade,Men,Club,,,Southwest,So Cal,1823
+Boost FC,Men,Club,,,Southwest,NorCal,1824
+Sprawl,Men,Club,,,Southwest,So Cal,1825
+Oaks,Men,Club,,,Southwest,NorCal,1826
+CAKti,Men,Club,,,Great Lakes,East Plains,1827
+HIGH FIVE,Men,Club,,,Great Lakes,East Plains,1828
+Beachfront Property,Men,Club,,,Great Lakes,Central Plains,1829
+Madcow,Men,Club,,,Great Lakes,East Plains,1830
+Black Market,Men,Club,,,Great Lakes,Central Plains,1831
+BroCats,Men,Club,,,Great Lakes,East Plains,1832
+Smokestack,Men,Club,,,North Central,West Plains,1833
+Taft-Punk,Men,Club,,,Great Lakes,East Plains,1834
+Killjoys,Men,Club,,,Northwest,Big Sky,1835
+Mental Toss Flycoons,Men,Club,,,Northwest,Big Sky,1836
+Warchild,Men,Club,,,Northwest,Big Sky,1837
+Garuda,Men,Club,,,Northeast,East New England,1838
+Bruises,Men,Club,,,Northeast,East New England,1839
+Genny Tall Boys,Men,Club,,,Northeast,Upstate NY,1840
+Grand Trunk,Men,Club,,,Northeast,Upstate NY,1841
+Mephisto,Men,Club,,,Northeast,West New England,1842
+Man Man,Men,Club,,,Northeast,Metro NY,1843
+Night's Watch,Men,Club,,,Northeast,Metro NY,1844
+The Watchmen,Men,Club,,,Northeast,Metro NY,1845
+Youngbloods,Men,Club,,,Northeast,Metro NY,1846
+Dark or Light,Men,Club,,,Northeast,West New England,1847
+Omen,Men,Club,,,Southeast,Florida,1848
+Florida United,Men,Club,,,Southeast,Florida,1849
+Cash Crop,Men,Club,,,Southeast,North Carolina,1850
+Shrimp Boat,Men,Club,,,Southeast,Florida,1851
+Jockamo,Men,Club,,,Southeast,Gulf Coast,1852
+Southern Hospitality,Men,Club,,,Southeast,Gulf Coast,1853
+Strong Hand,Men,Club,,,Southeast,East Coast,1854
+ShawShack Redemption,Men,Club,,,Southeast,East Coast,1855
+Freaks Uv Nature,Men,Club,,,Southeast,Gulf Coast,1856
+Space City Ignite,Men,Club,,,South Central,Texas,1857
+Presidio de Bexar,Men,Club,,,South Central,Texas,1858
+Wildcard,Men,Club,,,South Central,Ozarks,1859
+PLEX,Men,Club,,,South Central,Texas,1860
+Riverside Ultimate,Men,Club,,,South Central,Texas,1861
+Howlers,Men,Club,,,South Central,Ozarks,1862
+Red or Green?,Mixed,Club,,,South Central,Rocky Mountain,1863
+RUA,Mixed,Club,,,South Central,Ozarks,1864
+Identity Crisis,Mixed,Club,,,South Central,Texas,1865
+Houston Hellfighters,Mixed,Club,,,South Central,Texas,1866
+Spikes Peak,Mixed,Club,,,South Central,Rocky Mountain,1867
+Flying Dutchman,Mixed,Club,,,South Central,Texas,1868
+Beta Iota Delta,Mixed,Club,,,South Central,Texas,1869
+RUCkus,Mixed,Club,,,South Central,Ozarks,1870
+theRUB,Mixed,Club,,,South Central,Ozarks,1871
+The Observers,Mixed,Club,,,South Central,Texas,1872
+Possum Stompers,Men,Club,,,Mid-Atlantic,Founders,1873
+RUNTIME,Men,Club,,,Mid-Atlantic,Capital,1874
+Colorblind,Men,Club,,,Mid-Atlantic,Founders,1875
+Dire Wolf,Men,Club,,,Mid-Atlantic,Founders,1876
+CityWide Special,Men,Club,,,Mid-Atlantic,Founders,1877
+Drago,Men,Club,,,Mid-Atlantic,Founders,1878
+Des Moines Metro,Mixed,Club,,,North Central,West Plains,1879
+No Touching,Mixed,Club,,,North Central,Northwest Plains,1880
+panIC,Mixed,Club,,,North Central,West Plains,1881
+Thoroughbred,Mixed,Club,,,North Central,West Plains,1882
+Del Sol,Mixed,Club,,,Southwest,So Cal,1883
+Groove,Mixed,Club,,,Southwest,NorCal,1884
+Dauntless,Mixed,Club,,,Southwest,So Cal,1885
+Dorado,Mixed,Club,,,Southwest,So Cal,1886
+Naughty Love,Mixed,Club,,,Southwest,So Cal,1887
+Capitol Punishment,Mixed,Club,,,Southwest,NorCal,1888
+Shenanigans,Mixed,Club,,,Southwest,So Cal,1889
+Handlebar,Mixed,Club,,,Great Lakes,East Plains,1890
+Interrobang!,Mixed,Club,,,Great Lakes,Central Plains,1891
+The Abusement Park,Mixed,Club,,,Great Lakes,Central Plains,1892
+Snow Day,Mixed,Club,,,Great Lakes,East Plains,1893
+Omertà,Mixed,Club,,,Great Lakes,Central Plains,1894
+Robot Twoniraffapus 3030,Mixed,Club,,,Northwest,Washington BC,1895
+Tire Fire,Mixed,Club,,,Northwest,Oregon,1896
+BirdFruit,Mixed,Club,,,Northwest,Washington BC,1897
+Skysharks,Mixed,Club,,,Northwest,Washington BC,1898
+makeshift,Mixed,Club,,,Northwest,Oregon,1899
+Seattle Freeze,Mixed,Club,,,Northwest,Washington BC,1900
+SHUYAMOUF,Mixed,Club,,,Northeast,Metro NY,1901
+7 Express,Mixed,Club,,,Northeast,Metro NY,1902
+UNION,Mixed,Club,,,Northeast,Upstate NY,1903
+Lions,Mixed,Club,,,Northeast,East New England,1904
+Destructors,Mixed,Club,,,Northeast,Upstate NY,1905
+The Ghosts,Mixed,Club,,,Northeast,East New England,1906
+Pleasuretown,Mixed,Club,,,Northeast,East New England,1907
+Last Call,Mixed,Club,,,Northeast,Metro NY,1908
+Ursidae,Mixed,Club,,,Northeast,East New England,1909
+Mixed Nuts,Mixed,Club,,,Northeast,East New England,1910
+Carolina Reign,Mixed,Club,,,Southeast,North Carolina,1911
+Nooga by Nature,Mixed,Club,,,Southeast,East Coast,1912
+KoD,Mixed,Club,,,Southeast,Florida,1913
+Cahoots,Mixed,Club,,,Southeast,North Carolina,1914
+Swing State,Mixed,Club,,,Southeast,Florida,1915
+Pluff Mud Panic,Mixed,Club,,,Southeast,East Coast,1916
+Charlotte Storm,Mixed,Club,,,Southeast,North Carolina,1917
+Swamp Rabbit,Mixed,Club,,,Southeast,East Coast,1918
+The Hucking Dead,Mixed,Club,,,Southeast,Florida,1919
+Raleighwood,Mixed,Club,,,Southeast,North Carolina,1920
+NOPPSAPC,Mixed,Club,,,Southeast,Gulf Coast,1921
+Jolly Roger,Mixed,Club,,,Southeast,Florida,1922
+Southern Revival,Mixed,Club,,,Southeast,East Coast,1923
+Death By Jubilee,Mixed,Club,,,Mid-Atlantic,Capital,1924
+Ambiguous Grey,Mixed,Club,,,Mid-Atlantic,Capital,1925
+Bang!,Mixed,Club,,,Mid-Atlantic,Founders,1926
+Jagged Ice,Mixed,Club,,,Mid-Atlantic,Founders,1927
+Hooray for Coed Hooray!,Mixed,Club,,,Mid-Atlantic,Founders,1928
+The Muff 'n Men,Mixed,Club,,,Mid-Atlantic,Founders,1929
+American Hyperbole,Mixed,Club,,,Mid-Atlantic,Capital,1930
+Blowin Heat,Mixed,Club,,,Mid-Atlantic,Founders,1931
+Throws of Passion,Mixed,Club,,,Mid-Atlantic,Capital,1932
+BITMAP,Mixed,Club,,,Mid-Atlantic,Founders,1933
+Clue,Mixed,Club,,,Mid-Atlantic,Founders,1934
+Snap,Women,Club,,,North Central,Northwest Plains,1935
+RevoLOUtion,Women,Club,,,North Central,West Plains,1936
+Spicy Tuna,Women,Club,,,Great Lakes,Central Plains,1937
+Flo,Women,Club,,,Great Lakes,East Plains,1938
+Fryz Ultimate,Women,Club,,,Northwest,Washington BC,1939
+Outlaw,Women,Club,,,Northwest,Big Sky,1940
+Further,Women,Club,,,Northwest,Oregon,1941
+Nova,Women,Club,,,Northeast,West New England,1942
+Baywatch,Women,Club,,,Northeast,Metro NY,1943
+Swagger,Women,Club,,,Northeast,East New England,1944
+Storm,Women,Club,,,Northeast,West New England,1945
+Encore,Women,Club,,,Southeast,East Coast,1946
+Backhanded,Women,Club,,,Mid-Atlantic,Capital,1947
+Breakfast Club,Women,Club,,,Mid-Atlantic,Founders,1948
+Bear Jordan,Men,Club,,,Great Lakes,Central Plains,1949
+Lafayette Street Dogs,Men,Club,,,Great Lakes,Central Plains,1950
+INfamous,Men,Club,,,Great Lakes,Central Plains,1951
+Polar Vortex,Men,Club,,,Great Lakes,Central Plains,1952
+Pocket City Approach,Men,Club,,,Great Lakes,Central Plains,1953
+University of Illinois,Men,Club,,,Great Lakes,Central Plains,1954
+Olivet Nazarene,Men,Club,,,Great Lakes,Central Plains,1955
+Papal Rage,Men,Club,,,Great Lakes,Central Plains,1956
+Jurassic Shark,Men,Club,,,Great Lakes,East Plains,1957
+Ghetto Farce,Men,Club,,,Great Lakes,East Plains,1958
+Spoiler,Men,Club,,,Great Lakes,East Plains,1959
+FoG,Men,Club,,,Great Lakes,East Plains,1960
+Super Phun Tyme,Men,Club,,,Great Lakes,East Plains,1961
+Breaker's Mark,Men,Club,,,Great Lakes,East Plains,1962
+Lunchbelly,Men,Club,,,Great Lakes,East Plains,1963
+Supernova,Men,Club,,,Mid-Atlantic,Capital,1964
+L-Train,Men,Club,,,Mid-Atlantic,Founders,1965
+Puppies,Men,Club,,,Mid-Atlantic,Founders,1966
+Wisconsin Hops,Men,Club,,,North Central,Northwest Plains,1967
+Hippie Mafia,Men,Club,,,North Central,Northwest Plains,1968
+Climax,Men,Club,,,North Central,Northwest Plains,1969
+Bonehorn,Men,Club,,,North Central,West Plains,1970
+Mistress,Men,Club,,,North Central,West Plains,1971
+DUC,Men,Club,,,North Central,West Plains,1972
+Warriors of Rad,Men,Club,,,Northeast,East New England,1973
+Somerville Youth,Men,Club,,,Northeast,East New England,1974
+Providence Pack Dogs,Men,Club,,,Northeast,East New England,1975
+Red Tide Black,Men,Club,,,Northeast,East New England,1976
+Medford Jumbats,Men,Club,,,Northeast,East New England,1977
+#GHETTOFOREST,Men,Club,,,Northeast,East New England,1978
+Colby,Men,Club,,,Northeast,East New England,1979
+Bowdoin,Men,Club,,,Northeast,East New England,1980
+Boston University,Men,Club,,,Northeast,East New England,1981
+Highbrow,Men,Club,,,Northeast,East New England,1982
+Birds of Pray,Men,Club,,,Northeast,East New England,1983
+Brawl,Men,Club,,,Northeast,East New England,1984
+Hazed and Confused,Men,Club,,,Northeast,East New England,1985
+Candy Shop,Men,Club,,,Northeast,East New England,1986
+Yale Superfly,Men,Club,,,Northeast,Metro NY,1987
+Sectionals Ultimate Club NYC,Men,Club,,,Northeast,Metro NY,1988
+The Skyentists,Men,Club,,,Northeast,Metro NY,1989
+Westchester Magma Bears,Men,Club,,,Northeast,Metro NY,1990
+The Greater B.A.D.,Men,Club,,,Northeast,Metro NY,1991
+Stuyvesant Sticky Fingers,Men,Club,,,Northeast,Metro NY,1992
+Middletown Flatball,Men,Club,,,Northeast,Metro NY,1993
+Cornell Club,Men,Club,,,Northeast,Upstate NY,1994
+Stonefish,Men,Club,,,Northeast,Upstate NY,1995
+Xavier's School for Gifted Youngsters,Men,Club,,,Northeast,Upstate NY,1996
+Lone Wolves,Men,Club,,,Northeast,Upstate NY,1997
+UVM X,Men,Club,,,Northeast,West New England,1998
+Agony,Men,Club,,,Northeast,West New England,1999
+Rage,Men,Club,,,Northeast,West New England,2000
+Amherst X,Men,Club,,,Northeast,West New England,2001
+Amherst Y,Men,Club,,,Northeast,West New England,2002
+Dartmouth,Men,Club,,,Northeast,West New England,2003
+Williams-X,Men,Club,,,Northeast,West New England,2004
+Magma 3,Men,Club,,,Northeast,West New England,2005
+UVM Y,Men,Club,,,Northeast,West New England,2006
+Serengeti,Men,Club,,,Northwest,Big Sky,2007
+Pizza Kids,Men,Club,,,Northwest,Big Sky,2008
+Burnside,Men,Club,,,Northwest,Oregon,2009
+Rip City Ultimate Club Team,Men,Club,,,Northwest,Oregon,2010
+PTC,Men,Club,,,Northwest,Washington BC,2011
+HAM,Men,Club,,,Northwest,Washington BC,2012
+Fryz,Men,Club,,,Northwest,Washington BC,2013
+TFT,Men,Club,,,Northwest,Washington BC,2014
+Mamabird,Men,Club,,,South Central,Rocky Mountain,2015
+Open Space,Mixed,Club,,,South Central,Rocky Mountain,2016
+Dragon Army,Mixed,Club,,,South Central,Rocky Mountain,2017
+Space City Fuel,Men,Club,,,South Central,Texas,2018
+Zero Gravity,Men,Club,,,South Central,Texas,2019
+Huck If I Know,Men,Club,,,South Central,Texas,2020
+Crude Ultimate,Men,Club,,,South Central,Texas,2021
+Space City Eclipse,Men,Club,,,South Central,Texas,2022
+Hypnotoad,Men,Club,,,South Central,Texas,2023
+Riverside Messengers,Men,Club,,,South Central,Texas,2024
+OHANA,Women,Club,,,South Central,Texas,2025
+Pad See Ew,Mixed,Club,,,South Central,Texas,2026
+Bexar Necessities,Mixed,Club,,,South Central,Texas,2027
+Reckon,Men,Club,,,Southeast,East Coast,2028
+Six Pack,Men,Club,,,Southeast,East Coast,2029
+Old Hickory,Men,Club,,,Southeast,East Coast,2030
+SAVAGEandahalf,Men,Club,,,Southeast,East Coast,2031
+Cartel,Men,Club,,,Southeast,Florida,2032
+The Cat's Meow,Men,Club,,,Southeast,Florida,2033
+Key Rats,Men,Club,,,Southeast,Florida,2034
+Shotgun,Men,Club,,,Southeast,Gulf Coast,2035
+Prairie Squids,Men,Club,,,Southeast,Gulf Coast,2036
+Gunshine State Ultimate,Men,Club,,,Southeast,Gulf Coast,2037
+Jurassic,Men,Club,,,Southeast,Gulf Coast,2038
+Freaky Too,Men,Club,,,Southeast,Gulf Coast,2039
+Riders of Brohan,Men,Club,,,Southeast,Gulf Coast,2040
+Pilot,Men,Club,,,Southeast,North Carolina,2041
+Queen City Thunder,Men,Club,,,Southeast,North Carolina,2042
+North Carolina State,Men,Club,,,Southeast,North Carolina,2043
+Right Coast Lost Boys,Men,Club,,,Southeast,North Carolina,2044
+Steamworks,Men,Club,,,Southwest,NorCal,2045
+Slugs,Men,Club,,,Southwest,NorCal,2046
+Shadows,Men,Club,,,Southwest,NorCal,2047
+Atlas,Men,Club,,,Southwest,NorCal,2048
+Air Show,Men,Club,,,Southwest,So Cal,2049
+Gridlock,Men,Club,,,Southwest,So Cal,2050
+Pizza Party!,Mixed,Club,,,Great Lakes,Central Plains,2051
+Stack Cats,Mixed,Club,,,Great Lakes,Central Plains,2052
+Bob Marlin,Mixed,Club,,,Great Lakes,East Plains,2053
+The Villains,Mixed,Club,,,Great Lakes,East Plains,2054
+Cake,Mixed,Club,,,Great Lakes,East Plains,2055
+Food Fight,Mixed,Club,,,Great Lakes,East Plains,2056
+North Coast Disc Co,Mixed,Club,,,Great Lakes,East Plains,2057
+Fighting Kirby's,Mixed,Club,,,Great Lakes,East Plains,2058
+RedLine,Mixed,Club,,,Mid-Atlantic,Capital,2059
+Los Penguinos,Mixed,Club,,,Mid-Atlantic,Capital,2060
+Mason Jars,Mixed,Club,,,Mid-Atlantic,Capital,2061
+Rail Yard,Mixed,Club,,,Mid-Atlantic,Capital,2062
+Beautiful Animals,Mixed,Club,,,Mid-Atlantic,Capital,2063
+X-Panda,Mixed,Club,,,Mid-Atlantic,Founders,2064
+Moorestown Meeples,Mixed,Club,,,Mid-Atlantic,Founders,2065
+Dix'Y'Chix,Mixed,Club,,,Mid-Atlantic,Founders,2066
+Tramp Stamp,Mixed,Club,,,Mid-Atlantic,Founders,2067
+Key Party!,Mixed,Club,,,Mid-Atlantic,Founders,2068
+Dub Club,Mixed,Club,,,Mid-Atlantic,Founders,2069
+Pan Fried Funk,Mixed,Club,,,Mid-Atlantic,Founders,2070
+Happy Days,Mixed,Club,,,North Central,Northwest Plains,2071
+Cream City Crooks,Mixed,Club,,,North Central,Northwest Plains,2072
+Spirit Fowl,Mixed,Club,,,North Central,Northwest Plains,2073
+Milnona,Mixed,Club,,,North Central,Northwest Plains,2074
+Oomph,Mixed,Club,,,North Central,Northwest Plains,2075
+Light Touching,Mixed,Club,,,North Central,Northwest Plains,2076
+Troy's Bucket,Mixed,Club,,,North Central,West Plains,2077
+WHUF,Mixed,Club,,,Northeast,East New England,2078
+Blackfly,Mixed,Club,,,Northeast,East New England,2079
+Masters In Terror,Mixed,Club,,,Northeast,East New England,2080
+Providence Mob,Mixed,Club,,,Northeast,East New England,2081
+Beezer Ultimate,Mixed,Club,,,Northeast,East New England,2082
+SuckerPunch,Mixed,Club,,,Northeast,East New England,2083
+Reading Rainbow,Mixed,Club,,,Northeast,East New England,2084
+Craftier,Mixed,Club,,,Northeast,Metro NY,2085
+Snatch,Mixed,Club,,,Northeast,Metro NY,2086
+FLI,Mixed,Club,,,Northeast,Metro NY,2087
+Bodega Cats,Mixed,Club,,,Northeast,Metro NY,2088
+Golden Domes,Mixed,Club,,,Northeast,West New England,2089
+RUT,Mixed,Club,,,Northeast,West New England,2090
+A Moose Bouche,Mixed,Club,,,Northeast,West New England,2091
+Downpour,Mixed,Club,,,Northwest,Washington BC,2092
+Fools and Horses,Mixed,Club,,,Northwest,Washington BC,2093
+Swashington Undodgers,Mixed,Club,,,Northwest,Washington BC,2094
+Port Lager Ale,Mixed,Club,,,Southeast,Florida,2095
+Swag State,Mixed,Club,,,Southeast,Florida,2096
+#Margteam,Mixed,Club,,,Southeast,Florida,2097
+Turmoil,Mixed,Club,,,Southeast,Gulf Coast,2098
+Downstairs Mixup,Mixed,Club,,,Southeast,Gulf Coast,2099
+Boxcar,Mixed,Club,,,Southeast,North Carolina,2100
+BooneShaka!,Mixed,Club,,,Southeast,North Carolina,2101
+Mission Impossible,Mixed,Club,,,Southwest,NorCal,2102
+Dinobots,Mixed,Club,,,Southwest,NorCal,2103
+Greater Good,Mixed,Club,,,Southwest,NorCal,2104
+Anarchy,Mixed,Club,,,Southwest,NorCal,2105
+Gummi Bears,Mixed,Club,,,Southwest,NorCal,2106
+Why So Serious?,Mixed,Club,,,Southwest,NorCal,2107
+Feral Cows Sectionals 2014,Mixed,Club,,,Southwest,NorCal,2108
+Remedy,Mixed,Club,,,Southwest,So Cal,2109
+Humphreys,Mixed,Club,,,Southwest,So Cal,2110
+TIE Penguins,Mixed,Club,,,Southwest,So Cal,2111
+Ozone,Mixed,Club,,,Southwest,So Cal,2112
+BUS,Women,Club,,,Great Lakes,East Plains,2113
+DC MadDames,Women,Club,,,Mid-Atlantic,Capital,2114
+VETO,Women,Club,,,Mid-Atlantic,Capital,2115
+Harvard,Women,Club,,,Northeast,East New England,2116
+Wellesley College,Women,Club,,,Northeast,East New England,2117
+Bowdoin,Women,Club,,,Northeast,East New England,2118
+Bowdoin B,Women,Club,,,Northeast,East New England,2119
+Yale,Women,Club,,,Northeast,Metro NY,2120
+Columbia,Women,Club,,,Northeast,Metro NY,2121
+Connecticut,Women,Club,,,Northeast,Metro NY,2122
+Salt City Spirit,Women,Club,,,Northeast,Upstate NY,2123
+Dartmouth,Women,Club,,,Northeast,West New England,2124
+Polaris,Women,Club,,,Northeast,West New England,2125
+Middlebury,Women,Club,,,Northeast,West New England,2126
+University of Vermont,Women,Club,,,Northeast,West New England,2127
+Mystik,Women,Club,,,Northeast,West New England,2128
+Smith,Women,Club,,,Northeast,West New England,2129
+Zephyr,Women,Club,,,Northwest,Washington BC,2130
+Reign,Women,Club,,,Southwest,So Cal,2131
+Clapham Ultimate,Men,Club,,,,,2132
+Iceni,Women,Club,,,,,2133
+Birmingham,Men,Club,,,,,2134
+Jello Yackets,Men,Club,,,Southeast,East Coast,2135
+Dune Cats,Men,Club,,,,,2136
+Blade,Men,Club,,,Southeast,East Coast,2137
+Lagniappe,Men,Club,,,,,2138
+NOLA Women,Women,Club,,,,,2139
+Golden Girls,Women,Club,,,Southeast,East Coast,2140
+The Ghosts,Men,Club,,,Northeast,East New England,2141
+Los Heros,Men,Club,,,,,2142
+Strictly Bidness,Mixed,Club,,,Mid-Atlantic,Capital,2143
+A Cappella Ultimate,Men,Club,,,,,2144
+SOUP Dynasty,Mixed,Club,,,,,2145
+Carlos Danger,Mixed,Club,,,Great Lakes,Central Plains,2146
+Free Ride,Mixed,Club,,,North Central,West Plains,2147
+The Blake Larson Experience,Mixed,Club,,,,,2148
+pARCHed,Mixed,Club,,,,,2149
+"Hooray for Coed, Hooray!",Mixed,Club,,,,,2150
+Lady Condors,Women,Club,,,Southwest,So Cal,2151
+UPA,Mixed,Club,,,Great Lakes,Central Plains,2152
+Black Sheep,Men,Club,,,Great Lakes,Central Plains,2153
+Spin-Itch,Men,Club,,,Great Lakes,Central Plains,2154
+Maverick,Men,Club,,,Great Lakes,East Plains,2155
+Bounty Hunters,Men,Club,,,Great Lakes,Central Plains,2156
+RoadHouse,Men,Club,,,Mid-Atlantic,Capital,2157
+8$OLD SOL,Men,Club,,,Mid-Atlantic,Founders,2158
+Bear Proof,Men,Club,,,Mid-Atlantic,Founders,2159
+Takers,Men,Club,,,Mid-Atlantic,Founders,2160
+Mockingbird,Men,Club,,,Northeast,West New England,2161
+KING,Men,Club,,,Northwest,Washington BC,2162
+Anger Management,Men,Club,,,Northwest,Washington BC,2163
+Rip City Ultimate,Men,Club,,,Northwest,Oregon,2164
+Tune Squad,Men,Club,,,South Central,Texas,2165
+Plex,Men,Club,,,South Central,Texas,2166
+Fénix Ultimate,Men,Club,,,South Central,Texas,2167
+Right coast,Men,Club,,,Southeast,North Carolina,2168
+NME,Men,Club,,,Southeast,East Coast,2169
+BaNC,Men,Club,,,Southeast,North Carolina,2170
+Sour Mash,Men,Club,,,Southeast,East Coast,2171
+Frisbee Football All Stars,Men,Club,,,Southwest,NorCal,2172
+Dream Killas,Mixed,Club,,,Great Lakes,East Plains,2173
+MixCats,Mixed,Club,,,Great Lakes,East Plains,2174
+Pileup,Mixed,Club,,,Great Lakes,East Plains,2175
+The Muffin Men,Mixed,Club,,,Mid-Atlantic,Founders,2176
+LoveBomb,Mixed,Club,,,Mid-Atlantic,Founders,2177
+Distelfink,Mixed,Club,,,Mid-Atlantic,Founders,2178
+Wingdings,Mixed,Club,,,North Central,West Plains,2179
+Minneapolis Millers,Mixed,Club,,,North Central,Northwest Plains,2180
+Quest,Mixed,Club,,,Northeast,West New England,2181
+Lake Avengers,Mixed,Club,,,Northeast,Upstate NY,2182
+Mental Toss Flycoons,Mixed,Club,,,Northwest,Big Sky,2183
+RoC'n'CoC'em,Mixed,Club,,,Northwest,Oregon,2184
+BLOB,Mixed,Club,,,South Central,Texas,2185
+tHUMP,Mixed,Club,,,South Central,Texas,2186
+Lakefire,Mixed,Club,,,South Central,Texas,2187
+KOD,Mixed,Club,,,Southeast,Florida,2188
+9Hammer,Mixed,Club,,,Southeast,East Coast,2189
+DUMDUMs,Mixed,Club,,,Southeast,Gulf Coast,2190
+LoveShack,Mixed,Club,,,Southeast,East Coast,2191
+BAREFOOT,Mixed,Club,,,Southeast,Gulf Coast,2192
+Boomslang,Women,Club,,,Northeast,Upstate NY,2193
+LoCo,Women,Club,,,Northwest,Washington BC,2194
+Seattle Grind,Women,Club,,,Northwest,Washington BC,2195
+Wavz,Women,Club,,,Northwest,Washington BC,2196
+Deadly Viper Assassination Squad,Women,Club,,,Southwest,NorCal,2197
+Ascension,Men,Club,,,Great Lakes,Central Plains,2198
+Kekionga,Men,Club,,,Great Lakes,Central Plains,2199
+Vortex,Men,Club,,,Great Lakes,Central Plains,2200
+Dirty D,Men,Club,,,Great Lakes,East Plains,2201
+Hustle,Men,Club,,,Great Lakes,East Plains,2202
+DMV,Men,Club,,,Mid-Atlantic,Capital,2203
+Beltway Bullets,Men,Club,,,Mid-Atlantic,Capital,2204
+Club Horse,Men,Club,,,Mid-Atlantic,Capital,2205
+RUYO,Men,Club,,,Mid-Atlantic,Capital,2206
+boi to the oioi,Men,Club,,,Mid-Atlantic,Capital,2207
+PowderKeg,Men,Club,,,Mid-Atlantic,Founders,2208
+Garden State Thruway,Men,Club,,,Mid-Atlantic,Founders,2209
+Lehigh,Men,Club,,,Mid-Atlantic,Founders,2210
+NorthStar HOUSE United,Men,Club,,,North Central,Northwest Plains,2211
+DingWop,Men,Club,,,North Central,Northwest Plains,2212
+Doobie Brothers,Men,Club,,,North Central,Northwest Plains,2213
+Lincoln Prep,Men,Club,,,North Central,West Plains,2214
+Breakers,Men,Club,,,Northeast,East New England,2215
+Allen's Army,Men,Club,,,Northeast,East New England,2216
+Voodoo Child,Men,Club,,,Northeast,Metro NY,2217
+Fat and Mediocre,Men,Club,,,Northeast,Metro NY,2218
+Caliber,Men,Club,,,Northeast,Metro NY,2219
+"Good Kid, B.A.D. City",Men,Club,,,Northeast,Metro NY,2220
+Genny Light,Men,Club,,,Northeast,Upstate NY,2221
+NXTMNS,Men,Club,,,Northeast,Upstate NY,2222
+Fetch,Men,Club,,,Northeast,Upstate NY,2223
+Grey,Men,Club,,,Northeast,West New England,2224
+Get Off My Lawn,Men,Club,,,Northeast,West New England,2225
+Inferno,Men,Club,,,South Central,Texas,2226
+Big Rock Masters,Men,Club,,,Northwest,Big Sky,2227
+Spirit Quest,Men,Club,,,Northwest,Big Sky,2228
+Bulldawg Ultimate,Men,Club,,,Northwest,Oregon,2229
+Evergreen,Men,Club,,,Northwest,Washington BC,2230
+Vertigo,Men,Club,,,South Central,Rocky Mountain,2231
+Cerberus,Men,Club,,,Southeast,East Coast,2232
+Torch,Men,Club,,,Southeast,East Coast,2233
+Woolly Mammoth,Men,Club,,,Southeast,Florida,2234
+Hammerhead,Men,Club,,,Southeast,Florida,2235
+Memphis Belle,Men,Club,,,Southeast,Gulf Coast,2236
+SouthBeast,Men,Club,,,Southeast,Gulf Coast,2237
+Rocket City Rampage,Men,Club,,,Southeast,Gulf Coast,2238
+Hammer Bros,Men,Club,,,Southeast,Gulf Coast,2239
+Turbine X,Men,Club,,,Southeast,North Carolina,2240
+SHADOWS 2015-Open,Men,Club,,,Southwest,NorCal,2241
+Mission Impossible,Men,Club,,,Southwest,NorCal,2242
+Sons,Men,Club,,,Southwest,NorCal,2243
+strike,Men,Club,,,Southwest,NorCal,2244
+Mission Impossible Ghost Protocol,Men,Club,,,Southwest,NorCal,2245
+Maximum Security,Men,Club,,,Southwest,So Cal,2246
+The UPA,Mixed,Club,,,Great Lakes,Central Plains,2247
+Los  Heros,Mixed,Club,,,Great Lakes,Central Plains,2248
+Clubumbus,Mixed,Club,,,Great Lakes,East Plains,2249
+Fifth Element,Mixed,Club,,,Great Lakes,East Plains,2250
+Bro Kittens,Mixed,Club,,,Great Lakes,East Plains,2251
+The Barefoot Bungle Happens at Forbes St,Mixed,Club,,,Mid-Atlantic,Capital,2252
+Pandas,Mixed,Club,,,Mid-Atlantic,Founders,2253
+Hatch,Mixed,Club,,,Mid-Atlantic,Founders,2254
+Dix y Chix,Mixed,Club,,,Mid-Atlantic,Founders,2255
+Nonsuch Ultimate,Mixed,Club,,,North Central,Northwest Plains,2256
+Coalition Ultimate,Mixed,Club,,,North Central,Northwest Plains,2257
+Carleton Alumni Team,Mixed,Club,,,North Central,Northwest Plains,2258
+TMI,Mixed,Club,,,North Central,Northwest Plains,2259
+Brew City Bandits,Mixed,Club,,,North Central,Northwest Plains,2260
+Team Rocket,Mixed,Club,,,North Central,Northwest Plains,2261
+GooNEs,Mixed,Club,,,North Central,West Plains,2262
+Shipwreck,Mixed,Club,,,Northeast,East New England,2263
+MildCard,Mixed,Club,,,Northeast,East New England,2264
+Rising Tide,Mixed,Club,,,Northeast,East New England,2265
+Kong,Mixed,Club,,,Northeast,Metro NY,2266
+T-Rex,Mixed,Club,,,Northeast,West New England,2267
+Dixon Melons,Mixed,Club,,,Northwest,Big Sky,2268
+BoZoollings,Mixed,Club,,,Northwest,Big Sky,2269
+Flying Circus Disc Club,Mixed,Club,,,Northwest,Oregon,2270
+Trash Bears,Mixed,Club,,,South Central,Rocky Mountain,2271
+Force Collins,Mixed,Club,,,South Central,Rocky Mountain,2272
+Spring Loaded,Mixed,Club,,,South Central,Rocky Mountain,2273
+bHUMP,Mixed,Club,,,South Central,Texas,2274
+Special Tactics,Mixed,Club,,,South Central,Texas,2275
+cHUMP,Mixed,Club,,,South Central,Texas,2276
+Hammerheads,Mixed,Club,,,South Central,Texas,2277
+Alamo Flow,Mixed,Club,,,South Central,Texas,2278
+JUSDISC LEAGUE,Mixed,Club,,,South Central,Texas,2279
+Atomic Drop,Mixed,Club,,,Southeast,East Coast,2280
+BlueSails,Mixed,Club,,,Southeast,Florida,2281
+Burn Cycle,Mixed,Club,,,Southeast,Florida,2282
+k0d,Mixed,Club,,,Southeast,Florida,2283
+Turnip The Beets,Mixed,Club,,,Southwest,NorCal,2284
+Bernardo,Mixed,Club,,,Southwest,NorCal,2285
+Ursa Major,Mixed,Club,,,Southwest,NorCal,2286
+Feral Cows 2015,Mixed,Club,,,Southwest,NorCal,2287
+Fastlane,Mixed,Club,,,Southwest,So Cal,2288
+Crippled Frown Tour,Mixed,Club,,,Southwest,So Cal,2289
+Nichibei Drift,Mixed,Club,,,Southwest,So Cal,2290
+Fiesta,Mixed,Club,,,Southwest,So Cal,2291
+Dayton,Women,Club,,,Great Lakes,East Plains,2292
+Shadowbox,Women,Club,,,Mid-Atlantic,Capital,2293
+Silver Lineish,Women,Club,,,Mid-Atlantic,Capital,2294
+Curved,Women,Club,,,Northeast,Metro NY,2295
+SugarRush,Women,Club,,,Northeast,West New England,2296
+Polaris - Domino,Women,Club,,,Northeast,West New England,2297
+Malafama Ultimate Club,Women,Club,,,South Central,Texas,2298
+Chick Flicks,Women,Club,,,Southeast,Florida,2299
+Gravity,Women,Club,,,Southeast,Gulf Coast,2300
+Great Britain,Men,Club,,,,,2301
+Inside Rakete,Men,Club,,,,,2302
+Ellipsis,Mixed,Club,,,,,2303
+Feral Cows Cal States 2015,Mixed,Club,,,,,2304
+Buds,Men,Club,,,,,2305
+Colorado Cutthroat,Men,Club,,,South Central,Rocky Mountain,2306
+Spring ReLoaded,Mixed,Club,,,,,2307
+Mixtape,Mixed,Club,,,South Central,Rocky Mountain,2308
+Snorkel Kittens,Men,Club,,,,,2309
+Larry,Men,Club,,,,,2310
+Dim Sun,Men,Club,,,,,2311
+Flatline,Men,Club,,,Northwest,Washington BC,2312
+Ivy,Women,Club,,,Northwest,Washington BC,2313
+U23 Women's National Team,Women,Club,,,,,2314
+Team Canada U23 - Women,Women,Club,,,,,2315
+Wendigo,Women,Club,,,Northwest,Washington BC,2316
+Shotgun Betty,Women,Club,,,,,2317
+gunshrimp,Men,Club,,,,,2318
+Borderline Ultimate,Mixed,Club,,,,,2319
+Elements,Men,Club,,,,,2320
+NSOM,Men,Club,,,,,2321
+Magma,Men,Club,,,,,2322
+BUDA Open,Men,Club,,,,,2323
+Magma 2,Men,Club,,,,,2324
+Seleccion Antioquia Sub 17,Men,Club,,,,,2325
+Galaxy Swag Universe,Men,Club,,,,,2326
+Independence,Women,Club,,,Mid-Atlantic,Founders,2327
+Exo,Women,Club,,,,,2328
+Plow,Women,Club,,,Northeast,West New England,2329
+Lotus,Women,Club,,,Southwest,So Cal,2330
+Bessarion,Mixed,Club,,,,,2331
+GB Mixed,Mixed,Club,,,,,2332
+Team Canada U23 - Mixed,Mixed,Club,,,,,2333
+Tejas,Men,Club,,,,,2334
+Open Carry,Men,Club,,,,,2335
+Deaf Fruit,Men,Club,,,South Central,Texas,2336
+Hype,Men,Club,,,,,2337
+Jr. Roughnecks,Men,Club,,,,,2338
+Houston Helix,Men,Club,,,,,2339
+Flash Flood!,Men,Club,,,South Central,Texas,2340
+ohana means family,Women,Club,,,,,2341
+Temptress,Women,Club,,,South Central,Texas,2342
+LadyMeat,Mixed,Club,,,,,2343
+Right Coast Ultimate,Men,Club,,,Southeast,Florida,2344
+Snow Bird,Men,Club,,,Southeast,Florida,2345
+Fables,Mixed,Club,,,,,2346
+NRG,Men,Club,,,,,2347
+Nashvillains YCC U19 Open,Men,Club,,,,,2348
+Steel Magnolia,Women,Club,,,Southeast,Gulf Coast,2349
+Refinery,Men,Club,,,Northwest,Washington BC,2350
+Triforce,Men,Club,,,,,2351
+SideWall,Men,Club,,,,,2352
+Deadrise,Men,Club,,,,,2353
+LouFriendly,Men,Club,,,,,2354
+Schlammhase,Mixed,Club,,,Southeast,East Coast,2355
+Humidity,Men,Club,,,,,2356
+Chicago YCC U-19,Men,Club,,,,,2357
+SEMI,Men,Club,,,,,2358
+Liquid Hustle B,Mixed,Club,,,Great Lakes,Central Plains,2359
+Jabba the Huck,Mixed,Club,,,Great Lakes,Central Plains,2360
+Bluffdragons,Mixed,Club,,,North Central,Northwest Plains,2361
+Devyl U19B,Men,Club,,,,,2362
+Bunka Shutter Buzz Bullets,Men,Club,,,,,2363
+Toaster,Mixed,Club,,,,,2364
+Mister Rodgers' Neighborhood Watch,Mixed,Club,,,,,2365
+Harvard,Mixed,Club,,,Northeast,East New England,2366
+Squall,Mixed,Club,,,,,2367
+Feral Cows Revolution 2015,Mixed,Club,,,,,2368
+Grand Army.,Mixed,Club,,,Northeast,Metro NY,2369
+Vertigo,Mixed,Club,,,South Central,Rocky Mountain,2370
+Despicable Tree,Mixed,Club,,,,,2371
+Green Mountain Mixed GMX,Mixed,Club,,,,,2372
+All Aboard,Mixed,Club,,,Northwest,Washington BC,2373
+x C,Mixed,Club,,,,,2374
+Stony Brook Club,Mixed,Club,,,Northeast,Metro NY,2375
+Rogue,Women,Club,,,Southeast,North Carolina,2376
+Silver Line,Women,Club,,,Mid-Atlantic,Capital,2377
+Rut-ro,Women,Club,,,,,2378
+Filthy Gorgeous,Women,Club,,,North Central,West Plains,2379
+Dig,Men,Club,,,Northeast,East New England,2380
+Four,Men,Club,,,Great Lakes,East Plains,2381
+Schweingeist,Men,Club,,,Great Lakes,East Plains,2382
+South Shore Line,Men,Club,,,Great Lakes,Central Plains,2383
+Pesterbug,Men,Club,,,Northeast,East New England,2384
+Boston Baked Beans,Men,Club,,,Northeast,East New England,2385
+Ham,Men,Club,,,Northwest,Washington BC,2386
+DTH,Men,Club,,,Northeast,East New England,2387
+Dallas United: Desperados,Men,Club,,,South Central,Texas,2388
+Premium,Men,Club,,,South Central,Texas,2389
+Singlewide,Men,Club,,,South Central,Texas,2390
+Dallas United: Outlaws,Men,Club,,,South Central,Texas,2391
+Rush Hour,Men,Club,,,Southeast,East Coast,2392
+Republic,Men,Club,,,Southwest,So Cal,2393
+Asylum,Mixed,Club,,,Great Lakes,East Plains,2394
+Chef Curry with the Pot,Mixed,Club,,,Mid-Atlantic,Capital,2395
+Blowing Heat 2.0,Mixed,Club,,,Mid-Atlantic,Founders,2396
+PleasureTown,Mixed,Club,,,Northeast,East New England,2397
+Heartless,Mixed,Club,,,Northeast,West New England,2398
+Titan NE,Mixed,Club,,,Northeast,East New England,2399
+Crash,Mixed,Club,,,Northeast,Upstate NY,2400
+Friday Night Couch,Mixed,Club,,,Northwest,Washington BC,2401
+Big,Mixed,Club,,,,,2402
+BoyShe,Mixed,Club,,,Northwest,Big Sky,2403
+Misfits,Mixed,Club,,,Northwest,Washington BC,2404
+Sellout,Mixed,Club,,,South Central,Texas,2405
+"All Jeeps, All Night",Mixed,Club,,,South Central,Rocky Mountain,2406
+Crush,Mixed,Club,,,Southeast,East Coast,2407
+G-Unit,Mixed,Club,,,Southeast,Florida,2408
+Method,Mixed,Club,,,Southeast,Gulf coast,2409
+Nemesis,Mixed,Club,,,Great Lakes,Central Plains,2410
+Notorious C.L.E.,Mixed,Club,,,Great Lakes,East Plains,2411
+Sureshot,Mixed,Club,,,Great Lakes,East Plains,2412
+Rival,Mixed,Club,,,Great Lakes,East Plains,2413
+Indy Rogue,Mixed,Club,,,Great Lakes,Central Plains,2414
+Dish,Mixed,Club,,,Great Lakes,Central Plains,2415
+Helix,Mixed,Club,,,Great Lakes,Central Plains,2416
+Sparks,Mixed,Club,,,Great Lakes,East Plains,2417
+Green,Women,Club,,,Mid-Atlantic,Founders,2418
+Lockdown,Women,Club,,,North Central,Northwest Plains,2419
+Savage,Women,Club,,,Northeast,East New England,2420
+fiasco,Women,Club,,,Southeast,Florida,2421
+Hoax,Women,Club,,,,,2422
+Phoenix Uprising,Women,Club,,,Southwest,So Cal,2423
+The Roofing Co.,Men,Club,,,Great Lakes,Central Plains,2424
+Black Penguins Club,Men,Club,,,Great Lakes,Central Plains,2425
+Baemaker,Men,Club,,,Great Lakes,Central Plains,2426
+Los Beeros,Men,Club,,,Great Lakes,Central Plains,2427
+AK Pipeline,Men,Club,,,Great Lakes,East Plains,2428
+Low Five,Men,Club,,,Great Lakes,East Plains,2429
+Solar Eclipse,Men,Club,,,Great Lakes,East Plains,2430
+Munch Box,Men,Club,,,Mid-Atlantic,Capital,2431
+Jelly Straus,Men,Club,,,Mid-Atlantic,Capital,2432
+Shockoe Slip Flatball Club,Men,Club,,,Mid-Atlantic,Capital,2433
+HB Boys,Men,Club,,,Mid-Atlantic,Capital,2434
+First Order,Men,Club,,,Mid-Atlantic,Capital,2435
+Garden Party,Men,Club,,,Mid-Atlantic,Founders,2436
+Pittsburgh Puppies,Men,Club,,,Mid-Atlantic,Founders,2437
+AOL All Outta Love,Men,Club,,,Mid-Atlantic,Founders,2438
+Path of Totality,Men,Club,,,Mid-Atlantic,Founders,2439
+Barden Btate Bultimate,Men,Club,,,Mid-Atlantic,Founders,2440
+houSE,Men,Club,,,North Central,Northwest Plains,2441
+Snip Snip,Men,Club,,,North Central,Northwest Plains,2442
+Cream City Crooks,Men,Club,,,North Central,Northwest Plains,2443
+Green Bay Quackers,Men,Club,,,North Central,Northwest Plains,2444
+Auxiliary,Men,Club,,,North Central,West Plains,2445
+Dredge,Men,Club,,,Northeast,Metro NY,2446
+The Silent Flatballers,Men,Club,,,Northeast,Metro NY,2447
+Connecticut Connvicts,Men,Club,,,Northeast,Metro NY,2448
+East Rock Candy Mountain,Men,Club,,,Northeast,Metro NY,2449
+Buffalo Ultimate,Men,Club,,,Northeast,Upstate NY,2450
+MaverNads,Men,Club,,,Northeast,Upstate NY,2451
+Shades,Men,Club,,,Northeast,West New England,2452
+Mutiny,Men,Club,,,Northeast,West New England,2453
+Club M - Rage,Men,Club,,,Northeast,West New England,2454
+Union,Men,Club,,,Northeast,Upstate NY,2455
+SURE,Men,Club,,,Northwest,Washington BC,2456
+Cloverleaf,Men,Club,,,Northwest,Washington BC,2457
+The Bucket Brigade,Men,Club,,,South Central,Ozarks,2458
+Spring Creek Ascension,Men,Club,,,South Central,Texas,2459
+Dallas United: Neato Banditos,Men,Club,,,South Central,Texas,2460
+Holy City Heathens,Men,Club,,,Southeast,East Coast,2461
+Chattanooga Gentlemen's Club,Men,Club,,,Southeast,East Coast,2462
+Right Coast,Men,Club,,,Southeast,North Carolina,2463
+Ultimate Impact,Men,Club,,,Southwest,NorCal,2464
+Gulls,Men,Club,,,Southwest,NorCal,2465
+Thundersnow,Men,Club,,,Southwest,So Cal,2466
+North Coast Disc Co.,Mixed,Club,,,Great Lakes,East Plains,2467
+Doppler Effect,Mixed,Club,,,Great Lakes,East Plains,2468
+Petey's Parrots,Mixed,Club,,,Great Lakes,East Plains,2469
+The Greatest Team in America,Mixed,Club,,,Mid-Atlantic,Capital,2470
+MxD,Mixed,Club,,,Mid-Atlantic,Capital,2471
+Flat Earth Club,Mixed,Club,,,Mid-Atlantic,Capital,2472
+Family Julez,Mixed,Club,,,Mid-Atlantic,Founders,2473
+Lovebomb,Mixed,Club,,,Mid-Atlantic,Founders,2474
+Sabotage,Mixed,Club,,,Mid-Atlantic,Founders,2475
+Bitmap,Mixed,Club,,,Mid-Atlantic,Founders,2476
+N.A.B.P.S. Not Awesome But Pretty Solid,Mixed,Club,,,North Central,Northwest Plains,2477
+Blitzkrieg,Mixed,Club,,,North Central,West Plains,2478
+FENOD & Friends,Mixed,Club,,,Northeast,East New England,2479
+#Beez,Mixed,Club,,,Northeast,Metro NY,2480
+#Birdz,Mixed,Club,,,Northeast,Metro NY,2481
+Alternative Stacks,Mixed,Club,,,Northeast,Metro NY,2482
+Powermove,Mixed,Club,,,Northeast,Metro NY,2483
+Pink Pear,Mixed,Club,,,Northeast,Metro NY,2484
+defunct,Mixed,Club,,,Northeast,Metro NY,2485
+Oh My!,Mixed,Club,,,Northwest,Oregon,2486
+Makeshift Returns,Mixed,Club,,,Northwest,Oregon,2487
+OMBU,Mixed,Club,,,Northwest,Oregon,2488
+Springs Mixed Ulty Team SMUT,Mixed,Club,,,South Central,Rocky Mountain,2489
+Freetail,Mixed,Club,,,South Central,Texas,2490
+Flicks and Chill,Mixed,Club,,,South Central,Texas,2491
+Sun Bats,Mixed,Club,,,South Central,Texas,2492
+HORUS ULTIMATE TEAM,Mixed,Club,,,South Central,Texas,2493
+TAU,Mixed,Club,,,Southeast,North Carolina,2494
+Sir Walter Rowdy,Mixed,Club,,,Southeast,North Carolina,2495
+Lawn Patrol,Mixed,Club,,,Southwest,NorCal,2496
+Mimosas,Mixed,Club,,,Southwest,NorCal,2497
+AC Bandits,Mixed,Club,,,Southwest,NorCal,2498
+Glitter Bomb,Mixed,Club,,,Southwest,NorCal,2499
+Taco Truck PNC,Mixed,Club,,,Southwest,NorCal,2500
+Swing,Mixed,Club,,,Southwest,So Cal,2501
+¡Fiesta!,Mixed,Club,,,Southwest,So Cal,2502
+Sparks,Women,Club,,,Great Lakes,East Plains,2503
+Jinx,Women,Club,,,Northeast,East New England,2504
+BMN,Women,Club,,,Northeast,East New England,2505
+Fresh Grannies,Women,Club,,,Northwest,Washington BC,2506
+Seattle Beat,Women,Club,,,Northwest,Washington BC,2507
+Monsoon Ultimate,Women,Club,,,Southwest,So Cal,2508
+CUS Bologna,Men,Club,,,,,2509
+Club Deportivo Revolution,Women,Club,,,,,2510
+uno,Women,Club,,,,,2511
+MUD,Women,Club,,,,,2512
+SHINSHU LOOSE,Mixed,Club,,,,,2513
+FIRE ULTIMATE CLUB,Mixed,Club,,,,,2514
+Team Mexico,Mixed,Club,,,,,2515
+Dream Team Frisbee,Mixed,Club,,,,,2516
+Friend Zone,Mixed,Club,,,,,2517
+BUDA,Men,Club,,,,,2518
+Somerville Boys and Girls,Men,Club,,,,,2519
+BLADE,Women,Club,,,Southeast,East Coast,2520
+BUDA,Women,Club,,,,,2521
+EXO,Women,Club,,,,,2522
+spokane flatline,Men,Club,,,Northwest,Washington BC,2523
+T.R.W.F.B.,Men,Club,,,,,2524
+Flicky Stardust and the Cutters From Mars,Men,Club,,,,,2525
+Old Growth,Men,Club,,,,,2526
+Huck the Patriarchy,Women,Club,,,,,2527
+Black Market X,Men,Club,,,,,2528
+Black Market Y,Men,Club,,,,,2529
+Cincinnati Flying Piglet,Men,Club,,,,,2530
+Transatlantic Danger Zone,Men,Club,,,,,2531
+AndyGator,Men,Club,,,Southeast,Gulf Coast,2532
+Texas Two Step,Men,Club,,,,,2533
+VIP Club,Mixed,Club,,,,,2534
+Get A Baby,Mixed,Club,,,,,2535
+Pocket City Approach,Mixed,Club,,,Great Lakes,Central Plains,2536
+Mixed Results,Mixed,Club,,,Southeast,East Coast,2537
+Impulse,Men,Club,,,,,2538
+JABBA,Mixed,Club,,,Great Lakes,Central Plains,2539
+Jared Lorenzen Project,Mixed,Club,,,Southeast,East Coast,2540
+Dumpster Fire,Mixed,Club,,,Southeast,East Coast,2541
+BRUH,Mixed,Club,,,Southeast,East Coast,2542
+Kettering,Men,Club,,,,,2543
+Rising Tide,Men,Club,,,Northeast,East New England,2544
+defunct,Men,Club,,,Northeast,Metro NY,2545
+Rip Tide,Women,Club,,,,,2546
+Austin Amigos,Men,Club,,,,,2547
+SA Spares,Men,Club,,,South Central,Texas,2548
+Marxmen,Men,Club,,,,,2549
+Local 613,Mixed,Club,,,,,2550
+Coastal Empire,Men,Club,,,Southeast,East Coast,2551
+CerB WerB,Men,Club,,,,,2552
+Dragon Army,Men,Club,,,South Central,Rocky Mountain,2553
+Gravy Train Wreck,Men,Club,,,,,2554
+RuffSide,Men,Club,,,Northwest,Washington BC,2555
+Swipe >,Mixed,Club,,,South Central,Ozarks,2556
+Mississippi Valley Tundra Swans,Men,Club,,,,,2557
+Rogue Grimace,Men,Club,,,,,2558
+ALTimate Brews,Mixed,Club,,,North Central,Northwest Plains,2559
+Madd Dogg,Men,Club,,,Northwest,Big Sky,2560
+Utah Swarm Mixed + friends,Mixed,Club,,,,,2561
+INcognito,Mixed,Club,,,Great Lakes,Central Plains,2562
+Serial Crusher Theory,Mixed,Club,,,,,2563
+Mixed Pi,Mixed,Club,,,,,2564
+Notorious P.I.G.,Mixed,Club,,,,,2565
+Slam,Mixed,Club,,,Southeast,East Coast,2566
+Philadelphia Forge Mixed,Mixed,Club,,,,,2567
+NEKUD,Mixed,Club,,,Northeast,West New England,2568
+Dinosaur,Women,Club,,,,,2569
+Blackbuck,Men,Club,,,Northeast,West New England,2570
+New Amsterdam,Men,Club,,,Northeast,Metro NY,2571
+Orlando Citronauts,Men,Club,,,Southeast,Florida,2572
+Phalanx,Men,Club,,,Southwest,NorCal,2573
+Shenanigans,Men,Club,,,Southwest,So Cal,2574
+Nassau,Mixed,Club,,,Northwest,Oregon,2575
+MTF,Mixed,Club,,,Northwest,Big Sky,2576
+ROC'em,Mixed,Club,,,Northwest,Oregon,2577
+Kermit Roosevelt Jr.,Mixed,Club,,,Northwest,Washington BC,2578
+Orlando Friends,Mixed,Club,,,Southeast,Florida,2579
+B-Yard,Men,Club,,,Great Lakes,Central Plains,2580
+Spoiler Ice,Men,Club,,,Great Lakes,East Plains,2581
+Pi,Men,Club,,,Great Lakes,East Plains,2582
+Heavy Rescue,Men,Club,,,Great Lakes,East Plains,2583
+Navy,Men,Club,,,Mid-Atlantic,Capital,2584
+Club House,Men,Club,,,Mid-Atlantic,Capital,2585
+Carleton Alumni Team,Men,Club,,,North Central,Northwest Plains,2586
+Diglett,Men,Club,,,Northeast,East New England,2587
+Jerk Factory,Men,Club,,,Northeast,East New England,2588
+NXTMNS1,Men,Club,,,Northeast,Upstate NY,2589
+Shades of Grey,Men,Club,,,Northeast,West New England,2590
+G Street,Men,Club,,,Northeast,West New England,2591
+Club M - Inferno,Men,Club,,,Northeast,West New England,2592
+Club M - Mephisto,Men,Club,,,Northeast,West New England,2593
+Big Rock,Men,Club,,,Northwest,Big Sky,2594
+Octane,Men,Club,,,South Central,Texas,2595
+Lago de Fuego,Men,Club,,,South Central,Texas,2596
+HangTime Ultimate,Men,Club,,,Southeast,East Coast,2597
+Vicious Cycle: Doggers Edition,Men,Club,,,Southeast,Florida,2598
+GirthQuake,Men,Club,,,Southeast,Gulf Coast,2599
+MS,Men,Club,,,Southeast,Gulf Coast,2600
+Misfit,Men,Club,,,Southeast,North Carolina,2601
+Sculpin,Men,Club,,,Southwest,So Cal,2602
+North Coast,Mixed,Club,,,Great Lakes,East Plains,2603
+WOOcestershire Sauce,Mixed,Club,,,Great Lakes,East Plains,2604
+Goosebumps and Hucks,Mixed,Club,,,Great Lakes,East Plains,2605
+Lord Fairfax,Mixed,Club,,,Mid-Atlantic,Capital,2606
+Fuster,Mixed,Club,,,Mid-Atlantic,Capital,2607
+Norfolkin' Around,Mixed,Club,,,Mid-Atlantic,Capital,2608
+The Herd,Mixed,Club,,,North Central,Northwest Plains,2609
+Mystery Box,Mixed,Club,,,Northeast,East New England,2610
+Baba Yaga/Dack,Mixed,Club,,,Northeast,East New England,2611
+Hasselhoff's Rolex,Mixed,Club,,,Northeast,Metro NY,2612
+Gecko,Mixed,Club,,,Northeast,West New England,2613
+Pronghorn,Mixed,Club,,,Northwest,Big Sky,2614
+Tragic Magic,Mixed,Club,,,Northwest,Big Sky,2615
+Rainier Mountaineers,Mixed,Club,,,Northwest,Washington BC,2616
+Victoria Mixed,Mixed,Club,,,Northwest,Washington BC,2617
+Springs Mixed Ultimate Team SMUT,Mixed,Club,,,South Central,Rocky Mountain,2618
+Kowabunga,Mixed,Club,,,South Central,Texas,2619
+Charlotte Ultimate League Team,Mixed,Club,,,Southeast,North Carolina,2620
+Cold Snap,Women,Club,,,Northeast,West New England,2621
+Party Animals,Women,Club,,,Northwest,Washington BC,2622
+Club Mint,Women,Club,,,Northwest,Washington BC,2623
+slowhana,Women,Club,,,South Central,Texas,2624
+Thundercats,Women,Club,,,Southwest,NorCal,2625
+Ki.e,Men,Club,,,,,2626
+Urutau,Men,Club,,,,,2627
+Panamá,Mixed,Club,,,,,2628
+Voltaje U.C,Mixed,Club,,,,,2629
+Buzzkill,Men,Club,,,,,2630
+Bullet X,Men,Club,,,,,2631
+Real Atlanta,Men,Club,,,,,2632
+Skyline,Men,Club,,,,,2633
+BigWheel,Men,Club,,,,,2634
+flATLine,Mixed,Club,,,Northwest,Washington BC,2635
+Purple Rain,Men,Club,,,,,2636
+Afterburn,Men,Club,,,,,2637
+ZFG,Women,Club,,,,,2638
+Boy-She,Mixed,Club,,,,,2639
+Qub,Women,Club,,,,,2640
+COLOMBIA U19 MIXED TEAM,Mixed,Club,,,,,2641
+Smoke,Men,Club,,,Southeast,East Coast,2642
+Sally Ride,Women,Club,,,,,2643
+Huntsville Method,Mixed,Club,,,,,2644
+B.L.O.B.,Men,Club,,,,,2645
+Hot Flash,Women,Club,,,,,2646
+Helix,Men,Club,,,Great Lakes,Central Plains,2647
+Spf5000,Men,Club,,,,,2648
+Surfside,Men,Club,,,,,2649
+Goon Squad,Men,Club,,,,,2650
+Stump Kids,Mixed,Club,,,,,2651
+Whiskeyjacks,Men,Club,,,,,2652
+Name in the Wind,Women,Club,,,,,2653
+Black Cans & Highlands,Men,Club,,,,,2654
+NC Hammer,Men,Club,,,,,2655
+Florida Youth Ultimate All Star Team,Men,Club,,,,,2656
+Old Man Winter,Men,Club,,,,,2657
+Mississippi Valley Rivermen,Men,Club,,,,,2658
+Surly MUDI,Men,Club,,,,,2659
+Minnesota Superior A,Men,Club,,,,,2660
+Superior 2,Men,Club,,,,,2661
+Old and Busted,Men,Club,,,,,2662
+Presidio,Men,Club,,,,,2663
+Bear Fax,Men,Club,,,Mid-Atlantic,Capital,2664
+First Order,Mixed,Club,,,Mid-Atlantic,Capital,2665
+Boone!Shaka,Mixed,Club,,,,,2666
+B.L.U.R.Foot,Mixed,Club,,,,,2667
+Sexy Use of Plaid,Women,Club,,,,,2668
+Sock Guy,Mixed,Club,,,,,2669
+Rhino Slam,Men,Club,,,Northwest,Oregon,2670
+Greater Gary Goblins Y,Men,Club,,,Great Lakes,Central Plains,2671
+BlackER Market,Men,Club,,,Great Lakes,Central Plains,2672
+Prime,Men,Club,,,South Central,Texas,2673
+Nothing's Great Again aka Babymaker,Mixed,Club,,,Great Lakes,Central Plains,2674
+Commitment Issues,Mixed,Club,,,Great Lakes,East Plains,2675
+The Process,Mixed,Club,,,Mid-Atlantic,Founders,2676
+Fake Newport News,Mixed,Club,,,Mid-Atlantic,Capital,2677
+Pheathers and Phurr,Mixed,Club,,,Northwest,Washington BC,2678
+Five One Two,Mixed,Club,,,South Central,Texas,2679
+ROBOS,Mixed,Club,,,Southwest,So Cal,2680
+Greater Gary Goblins X,Men,Club,,,Great Lakes,Central Plains,2681
+BlackEST Market,Men,Club,,,Great Lakes,Central Plains,2682
+Pipeline,Men,Club,,,Great Lakes,East Plains,2683
+Bearfest,Men,Club,,,Mid-Atlantic,Capital,2684
+Trenton Takers,Men,Club,,,Mid-Atlantic,Founders,2685
+Mailmeñ,Men,Club,,,Mid-Atlantic,Founders,2686
+8$OLD,Men,Club,,,Mid-Atlantic,Founders,2687
+Fifty-Fifty,Men,Club,,,North Central,West Plains,2688
+KC SmokeStack,Men,Club,,,North Central,West Plains,2689
+Baked Beans,Men,Club,,,Northeast,East New England,2690
+HIPPO nee burnside 33,Men,Club,,,Northwest,Oregon,2691
+The Bayou Boys,Men,Club,,,South Central,Texas,2692
+DUCS,Men,Club,,,South Central,Texas,2693
+Duel,Men,Club,,,Southeast,East Coast,2694
+GrandMaster Flash,Men,Club,,,Southeast,Florida,2695
+Ra,Men,Club,,,Southeast,North Carolina,2696
+Bonfire,Mixed,Club,,,Great Lakes,East Plains,2697
+Hott Olson,Mixed,Club,,,Mid-Atlantic,Capital,2698
+Vacation,Mixed,Club,,,Mid-Atlantic,Capital,2699
+SPACE INVADERS,Mixed,Club,,,Mid-Atlantic,Capital,2700
+Peep Show,Mixed,Club,,,Mid-Atlantic,Founders,2701
+Mixed Duluth,Mixed,Club,,,North Central,Northwest Plains,2702
+DTX,Mixed,Club,,,Northeast,East New England,2703
+RIMIX,Mixed,Club,,,Northeast,East New England,2704
+BLT Stacks,Mixed,Club,,,Northeast,Metro NY,2705
+Super Happy Fun Time,Mixed,Club,,,Northeast,Metro NY,2706
+Bees,Mixed,Club,,,Northeast,Metro NY,2707
+Portland Waldorf,Mixed,Club,,,Northwest,Oregon,2708
+Image.Is.Everything.,Mixed,Club,,,Northwest,Washington BC,2709
+iNUT,Mixed,Club,,,Northwest,Washington BC,2710
+RuffSide,Mixed,Club,,,Northwest,Washington BC,2711
+Eggshells,Mixed,Club,,,South Central,Rocky Mountain,2712
+Spring Creek Ascension,Mixed,Club,,,South Central,Texas,2713
+Heartbreakers,Mixed,Club,,,Southeast,East Coast,2714
+STAX,Mixed,Club,,,Southeast,Gulf Coast,2715
+V-TEAM,Women,Club,,,Northeast,West New England,2716
+Seattle END,Women,Club,,,Northwest,Washington BC,2717
+Loquitos,Men,Club,,,,,2718
+Osaka Spirits,Men,Club,,,,,2719
+Fire of London,Men,Club,,,,,2720
+Blackwidows,Women,Club,,,,,2721
+Germany Mixed,Mixed,Club,,,,,2722
+Orbit,Women,Club,,,Southeast,East Coast,2723
+Colorado Cutthroat,Women,Club,,,South Central,Rocky Mountain,2724
+Quantum,Men,Club,,,,,2725
+All Bashed Out,Men,Club,,,,,2726
+Discountry Ultimate Club,Men,Club,,,,,2727
+Eclipse,Women,Club,,,,,2728
+Anchor,Mixed,Club,,,Southwest,NorCal,2729
+101 Summertime,Women,Club,,,,,2730
+Macalester College C,Mixed,Club,,,,,2731
+Dallas United: Bazooka,Men,Club,,,,,2732
+Surrillic Audovice,Men,Club,,,,,2733
+Texas Tango,Women,Club,,,,,2734
+D-Crash Ultimate Club,Mixed,Club,,,,,2735
+Brewcade,Mixed,Club,,,,,2736
+Hot Stix,Mixed,Club,,,Southwest,NorCal,2737
+Ripe,Women,Club,,,,,2738
+Nashvillians,Men,Club,,,,,2739
+Torontosaurus Rex,Men,Club,,,,,2740
+COAT,Men,Club,,,,,2741
+Thunderpants the Magic Dragon B Team,Mixed,Club,,,,,2742
+Carbon,Men,Club,,,,,2743
+BromINtum,Men,Club,,,,,2744
+Illinois Youth Ultimate - u20,Men,Club,,,,,2745
+Confluence,Men,Club,,,,,2746
+Spidermonkeys,Mixed,Club,,,,,2747
+POWERLINE,Mixed,Club,,,,,2748
+Blacker Market,Men,Club,,,Great Lakes,Central Plains,2749
+Tune-UP,Men,Club,,,Mid-Atlantic,Founders,2750
+Genny The Boys GTB,Men,Club,,,Northeast,Metro NY,2751
+Colorado Cutthroat: Youth Club U-20 Boys,Men,Club,,,South Central,Rocky Mountain,2752
+Traffic M,Men,Club,,,Southeast,Gulf Coast,2753
+Indiana Pterodactyl Attack IPA,Mixed,Club,,,Great Lakes,Central Plains,2754
+"All Jeeps, All Night.",Mixed,Club,,,South Central,Rocky Mountain,2755
+Nomadic Tribe,Men,Club,,,,,2756
+Comunidad El Oso,Men,Club,,,,,2757
+MAKAWUA,Men,Club,,,,,2758
+Revolution,Women,Club,,,Great Lakes,East Plains,2759
+HUCK,Women,Club,,,,,2760
+CRAZY,Mixed,Club,,,,,2761
+Chaos,Mixed,Club,,,,,2762
+"Genny, The Boys GTB",Men,Club,,,,,2763
+Traffic,Men,Club,,,Northwest,Washington BC,2764
+NexGen All-Star Tour,Men,Club,,,,,2765
+Milwaukee WUT women's ultimate team,Women,Club,,,North Central,Northwest Plains,2766
+Ice Queens,Women,Club,,,,,2767
+Revolution,Men,Club,,,Great Lakes,East Plains,2768
+Westfield High School,Men,Club,,,Mid-Atlantic,Founders,2769
+Columbia Ultimate Tryout Team CUTT,Men,Club,,,Mid-Atlantic,Founders,2770
+Male Men,Men,Club,,,North Central,Northwest Plains,2771
+Wentworth Tech,Men,Club,,,Northeast,East New England,2772
+Bayport Siena Alum,Men,Club,,,Northeast,Metro NY,2773
+Firebird,Men,Club,,,Northeast,Upstate NY,2774
+Wingmen,Men,Club,,,Northeast,Upstate NY,2775
+Middlebury Pranksters X,Men,Club,,,Northeast,West New England,2776
+Amherst Z,Men,Club,,,Northeast,West New England,2777
+Middlebury Pranksters Y,Men,Club,,,Northeast,West New England,2778
+Corvallis Mens Ultimate,Men,Club,,,Northwest,Oregon,2779
+Gunslinger,Men,Club,,,South Central,Ozarks,2780
+Air Force,Men,Club,,,South Central,Rocky Mountain,2781
+Zombie Ice Cream Truck,Women,Club,,,South Central,Rocky Mountain,2782
+Huck It Trebek Tribute Band,Men,Club,,,South Central,Texas,2783
+Apocalypse,Women,Club,,,South Central,Texas,2784
+Black Pearl,Mixed,Club,,,South Central,Texas,2785
+ARNOLD PALMER ALERT,Men,Club,,,Southeast,Gulf Coast,2786
+DEtox,Mixed,Club,,,Mid-Atlantic,Founders,2787
+Muhlenberg,Mixed,Club,,,Mid-Atlantic,Founders,2788
+Expendables,Mixed,Club,,,Mid-Atlantic,Founders,2789
+Huckin' for Love,Mixed,Club,,,Northeast,East New England,2790
+Revolution,Mixed,Club,,,Great Lakes,East Plains,2791
+Huck Dynasty,Mixed,Club,,,Northeast,Upstate NY,2792
+Red Scare,Mixed,Club,,,Northeast,West New England,2793
+Bozoula,Mixed,Club,,,Northwest,Big Sky,2794
+Wolfstack,Mixed,Club,,,Northwest,Big Sky,2795
+Inversion,Mixed,Club,,,Northwest,Big Sky,2796
+Second Line,Mixed,Club,,,Southeast,Gulf Coast,2797
+Strip Club,Mixed,Club,,,Southeast,North Carolina,2798
+Barbary Coast Dance Hall,Mixed,Club,,,Southwest,NorCal,2799
+Proceed With Caution,Women,Club,,,Mid-Atlantic,Founders,2800
+Colby,Women,Club,,,Northeast,East New England,2801
+The Beacon School,Women,Club,,,Northeast,Metro NY,2802
+Massachusetts,Women,Club,,,Northeast,West New England,2803
+Williams,Women,Club,,,Northeast,West New England,2804
+Breezeblocks,Women,Club,,,Northwest,Big Sky,2805
+Seismic,Women,Club,,,Northwest,Washington BC,2806
+Restless,Women,Club,,,Southeast,Florida,2807
+EVOLUTION,Men,Club,,,,,2808
+Bamboo,Women,Club,,,,,2809
+One To One,Mixed,Club,,,,,2810
+Candy-Licious,Women,Club,,,,,2811
+Tsunami,Women,Club,,,,,2812
+DEVYL,Men,Club,,,Mid-Atlantic,Founders,2813
+Loon,Men,Club,,,North Central,Northwest Plains,2814
+Washington University B,Men,Club,,,North Central,West Plains,2815
+Bad Company,Men,Club,,,Northeast,Metro NY,2816
+A$AP TULA,Men,Club,,,Northeast,Upstate NY,2817
+Dark nor Light,Men,Club,,,Northeast,West New England,2818
+LPP&P,Men,Club,,,Northwest,Big Sky,2819
+Lawn Dart,Men,Club,,,Northwest,Oregon,2820
+Colorado Cuttthroat Alums,Men,Club,,,South Central,Rocky Mountain,2821
+Tlacuaches,Men,Club,,,South Central,Texas,2822
+Shore Break,Men,Club,,,Southeast,Florida,2823
+Fayetteville Flying Foxes,Men,Club,,,Southeast,North Carolina,2824
+Big Buckin' Beavers,Mixed,Club,,,Great Lakes,East Plains,2825
+FusterCLUCK,Mixed,Club,,,Mid-Atlantic,Capital,2826
+Hoe Beau Huckers,Mixed,Club,,,Mid-Atlantic,Founders,2827
+Colby College,Mixed,Club,,,Northeast,East New England,2828
+Missoula Oblongata,Mixed,Club,,,Northwest,Big Sky,2829
+Wolfpack: The Secret Essence,Women,Club,,,North Central,Northwest Plains,2830
+Fuzion,Women,Club,,,Northeast,West New England,2831
+wOmen,Women,Club,,,Southeast,Florida,2832
+Bromeliads,Women,Club,,,Southeast,North Carolina,2833
+Berkeley High School,Women,Club,,,Southwest,NorCal,2834
+Team Colombia,Men,Club,,,,,2835
+Team Colombia,Mixed,Club,,,,,2836
+BUDA Girls,Women,Club,,,,,2837
+Alberta Flatball Club,Men,Club,,,,,2838
+The Boy Who Cried Buttchug,Mixed,Club,,,,,2839
+Serengeti,Mixed,Club,,,Northwest,Big Sky,2840
+WOLP,Women,Club,,,Northeast,West New England,2841
+The Boys,Men,Club,,,Great Lakes,East Plains,2842
+SPACE INVADERS,Men,Club,,,Mid-Atlantic,Capital,2843
+Science Leadership Academy,Men,Club,,,Mid-Atlantic,Founders,2844
+Bates,Men,Club,,,Northeast,East New England,2845
+EXIT 54,Men,Club,,,Northeast,Metro NY,2846
+Team Rocket,Men,Club,,,North Central,Northwest Plains,2847
+Syracuse Doom,Men,Club,,,Northeast,Upstate NY,2848
+Interesting Tummy Birds,Men,Club,,,South Central,Rocky Mountain,2849
+Swangos,Men,Club,,,South Central,Texas,2850
+Honey Bashfords,Men,Club,,,Southeast,North Carolina,2851
+CUFAX,Mixed,Club,,,Mid-Atlantic,Founders,2852
+SOFA Spartans,Mixed,Club,,,Northeast,Upstate NY,2853
+Twonies,Mixed,Club,,,Northeast,Upstate NY,2854
+Merry Band of Muffin Makers from the Land of Megastar,Mixed,Club,,,South Central,Rocky Mountain,2855
+The Tossers,Mixed,Club,,,South Central,Texas,2856
+Crop That Top Davidson,Mixed,Club,,,Southeast,North Carolina,2857
+Rice Crispies,Women,Club,,,North Central,Northwest Plains,2858
+Migrant,Mixed,Club,,,,,2859
+Cutthroat Girls,Women,Club,,,,,2860
+Minnesota Superior,Women,Club,,,,,2861
+Gargantuan Spider Dragons,Men,Club,,,,,2862
+Texas Swing,Men,Club,,,,,2863
+CimaSalta,Mixed,Club,,,,,2864
+Big Sky,Men,Club,,,,,2865
+Defy the Meta,Men,Club,,,,,2866
+Missoula Yoursoula,Mixed,Club,,,,,2867
+Snail,Mixed,Club,,,,,2868
+Dregs,Men,Club,,,Great Lakes,Central Plains,2869
+Gnot the gnomes,Men,Club,,,Great Lakes,Central Plains,2870
+Big Buckin' Chicken,Men,Club,,,Great Lakes,East Plains,2871
+Torque,Men,Club,,,Great Lakes,East Plains,2872
+BUCK,Men,Club,,,Mid-Atlantic,Founders,2873
+B.A.D. Influence,Men,Club,,,Northeast,Metro NY,2874
+Fowl Mood,Men,Club,,,Northeast,Upstate NY,2875
+Starfox,Men,Club,,,Northeast,West New England,2876
+Scubaru Outbacks,Men,Club,,,Northeast,West New England,2877
+NSFW,Men,Club,,,Northwest,Oregon,2878
+Gunsmoke,Men,Club,,,South Central,Ozarks,2879
+DIP,Men,Club,,,South Central,Rocky Mountain,2880
+Arnold Palmer Alert,Men,Club,,,Southeast,Gulf Coast,2881
+CoachDuffin,Men,Club,,,Southeast,North Carolina,2882
+Grizzly,Men,Club,,,Southwest,NorCal,2883
+Code Blue,Mixed,Club,,,Northeast,East New England,2884
+Dreamcatchers Ultimate,Mixed,Club,,,South Central,Texas,2885
+Astris,Mixed,Club,,,Southwest,NorCal,2886
+Sports Team,Mixed,Club,,,Southwest,So Cal,2887
+Mason Meth,Women,Club,,,Mid-Atlantic,Capital,2888
+Lumberjills,Women,Club,,,Northeast,West New England,2889
+Raft Ultimate,Mixed,Club,,,,,2890
+Reunion,Men,Club,,,,,2891
+DiscJockeys,Men,Club,,,,,2892
+Spirit Quest,Mixed,Club,,,Northwest,Big Sky,2893
+Clinton Interns,Mixed,Club,,,,,2894
+Ranier Mountaineers,Mixed,Club,,,,,2895
+Justice,Women,Club,,,,,2896
+BLUD,Men,Club,,,Mid-Atlantic,Capital,2897
+Mr. Scott and the Tots,Men,Club,,,Mid-Atlantic,Capital,2898
+ESF Mighty Oaks,Men,Club,,,Northeast,Upstate NY,2899
+NCFO,Men,Club,,,Northwest,Big Sky,2900
+NANO,Men,Club,,,Northwest,Oregon,2901
+Fight Club,Men,Club,,,Northwest,Washington BC,2902
+Shrike Cutters,Men,Club,,,South Central,Texas,2903
+The Semple Temple,Men,Club,,,Southeast,North Carolina,2904
+Anchor,Men,Club,,,Southwest,NorCal,2905
+Arizona Society of Underachievers,Men,Club,,,Southwest,So Cal,2906
+Huck Norris,Mixed,Club,,,Mid-Atlantic,Capital,2907
+Hot Tub Magic,Mixed,Club,,,Northwest,Big Sky,2908
+boom shaka laka,Mixed,Club,,,South Central,Texas,2909
+Philadelphia Forge Girls,Women,Club,,,Mid-Atlantic,Founders,2910
+Ruck City,Women,Club,,,Northeast,West New England,2911
+Whitefish,Men,Club,,,,,2912
+DC Rally,Mixed,Club,,,,,2913
+Old Rush,Mixed,Club,,,,,2914
+Allen's Adolescents,Men,Club,,,,,2915
+Low Tide Scramblers,Mixed,Club,,,,,2916
+Lone Peak Y,Mixed,Club,,,,,2917
+HB Woodlawn,Men,Club,,,Mid-Atlantic,Capital,2918
+Gonzaga,Men,Club,,,Northwest,Washington BC,2919
+German National Team,Women,Club,,,,,2920
+Colorado Cutthroat: Youth Club U-20 Girls,Women,Club,,,,,2921

@@ -1,0 +1,2286 @@
+﻿event,division,season,id
+USA Ultimate National Championships,Club,2014,0
+North Central Mens Regionals,Club,2014,1
+Southwest Men's Regionals,Club,2014,2
+Great Lakes Men's Regionals,Club,2014,3
+Northwest Mens Regionals,Club,2014,4
+Northeast Mens Regionals,Club,2014,5
+Southeast Men's Regionals,Club,2014,6
+South Central Club Regionals,Club,2014,7
+Mid-Atlantic Men's Regionals,Club,2014,8
+North Central Mixed Regionals,Club,2014,9
+Southwest Mixed Regionals,Club,2014,10
+Great Lakes Mixed Regionals,Club,2014,11
+Northwest Mixed Regionals,Club,2014,12
+Northeast Mixed Regionals,Club,2014,13
+Southeast Mixed Regionals,Club,2014,14
+Mid-Atlantic Mixed Regionals,Club,2014,15
+North Central Womens Regionals,Club,2014,16
+Southwest Women's Regionals,Club,2014,17
+Great Lakes Women's Regionals,Club,2014,18
+Northwest Women's Regionals,Club,2014,19
+Northeast Womens Regionals,Club,2014,20
+Southeast Women's Regionals,Club,2014,21
+Mid-Atlantic Women's Regionals,Club,2014,22
+Central Plains Mens Sectionals,Club,2014,23
+East Plains Mens Sectionals,Club,2014,24
+Capital Mens Sectionals,Club,2014,25
+Founders Mens Sectionals,Club,2014,26
+Northwest Plains Men Sectionals,Club,2014,27
+West Plains Mens Sectionals,Club,2014,28
+East New England Mens Sectionals,Club,2014,29
+Metro New York Mens Sectionals,Club,2014,30
+Upstate New York Mens Sectionals,Club,2014,31
+West New England Mens Sectionals,Club,2014,32
+Big Sky Mens Sectionals,Club,2014,33
+Oregon Mens Sectionals,Club,2014,34
+Washington Mens Sectionals,Club,2014,35
+Ozarks Club Sectionals (Men),Club,2014,36
+Rocky Mountain Club Sectionals,Club,2014,37
+Texas Club Sectionals,Club,2014,38
+East Coast Mens Sectionals,Club,2014,39
+Florida Mens Sectionals,Club,2014,40
+Gulf Coast Mens Sectionals,Club,2014,41
+North Carolina Mens Sectionals,Club,2014,42
+Nor Cal Mens Sectionals,Club,2014,43
+So Cal Mens Sectionals,Club,2014,44
+Central Plains Mixed Sectionals,Club,2014,45
+East Plains Mixed Sectionals,Club,2014,46
+Capital Mixed Sectionals,Club,2014,47
+Founders Mixed Sectionals,Club,2014,48
+Northwest Plains Mixed Sectionals,Club,2014,49
+West Plains Mixed Sectionals,Club,2014,50
+East New England Mixed Sectionals,Club,2014,51
+Metro New York Mixed Sectionals,Club,2014,52
+Upstate New York Mixed Sectionals,Club,2014,53
+West New England Mixed Sectionals,Club,2014,54
+Big Sky Mixed Sectionals,Club,2014,55
+Oregon Mixed Sectionals,Club,2014,56
+Washington Mixed Sectionals,Club,2014,57
+"Ozarks Club Sectionals (Mixed, Women)",Club,2014,58
+East Coast Mixed Sectionals,Club,2014,59
+Florida Mixed Sectionals,Club,2014,60
+Gulf Coast Mixed Sectionals,Club,2014,61
+North Carolina Mixed Sectionals,Club,2014,62
+Nor Cal Mixed Sectionals,Club,2014,63
+So Cal Mixed Sectionals,Club,2014,64
+Central Plains Womens Sectionals,Club,2014,65
+East Plains Womens Sectionals,Club,2014,66
+Capital Womens Sectionals,Club,2014,67
+Founders Womens Sectionals,Club,2014,68
+Northwest Plains Womens Sectionals,Club,2014,69
+West Plains Womens Sectionals,Club,2014,70
+East New England Womens Sectionals,Club,2014,71
+Metro New York Womens Sectionals,Club,2014,72
+Upstate New York Womens Sectionals,Club,2014,73
+West New England Womens Sectionals,Club,2014,74
+Big Sky Womens Sectionals,Club,2014,75
+Oregon Womens Sectionals,Club,2014,76
+Washington Womens Sectionals,Club,2014,77
+East Coast Womens Sectionals,Club,2014,78
+Florida Womens Sectionals,Club,2014,79
+Nor Cal Womens Sectionals,Club,2014,80
+So Cal Womens Sectionals,Club,2014,81
+US Open Ultimate Championships,Club,2014,82
+Chesapeake Invite (TCT Pro-Elite Challenge),Club,2014,83
+Colorado Cup (TCT Elite-Select Challenge),Club,2014,84
+Emerald City Classic (TCT Pro Finale),Club,2014,85
+ATL Classic,Club,2014,86
+Huckfest,Club,2014,87
+San Diego Slammer,Club,2014,88
+Kentucky Flying Circus Presents: The Three Ring Rally,Club,2014,89
+Cooler Classic,Club,2014,90
+Ski Town Classic,Club,2014,91
+NY Mixed Invite (TCT Pro-Elite Challenge),Club,2014,92
+Fort Collins Summer Solstice,Club,2014,93
+St. Louis Heat Wave,Club,2014,94
+Philly Invite 2014,Club,2014,95
+HoDown XVIII,Club,2014,96
+Chowdafest,Club,2014,97
+SD Slammer Women's Division,Club,2014,98
+USA Ultimate National Championships,Club,2015,99
+Great Lakes Men's Regionals,Club,2015,100
+Mid-Atlantic Men's Regionals,Club,2015,101
+North Central Men's Regionals,Club,2015,102
+Northeast Men's Regionals,Club,2015,103
+Northwest Men's Regionals,Club,2015,104
+South Central Men's Regionals,Club,2015,105
+Southeast Men's Regionals,Club,2015,106
+Southwest Men's Regionals,Club,2015,107
+Great Lakes Mixed Regionals,Club,2015,108
+Mid-Atlantic Mixed Regionals,Club,2015,109
+North Central Mixed Regionals,Club,2015,110
+Northeast Mixed Regionals,Club,2015,111
+Northwest Mixed Regionals,Club,2015,112
+South Central Mixed Regionals,Club,2015,113
+Southeast Mixed Regionals,Club,2015,114
+Southwest Mixed Regionals,Club,2015,115
+Great Lakes Women's Regionals,Club,2015,116
+Mid-Atlantic Women's Regionals,Club,2015,117
+North Central Women's Regionals,Club,2015,118
+Northeast Women's Regionals,Club,2015,119
+Northwest Women's Regionals,Club,2015,120
+South Central Women's Regionals,Club,2015,121
+Southeast Women's Regionals,Club,2015,122
+Southwest Women's Regionals,Club,2015,123
+Central Plains Men's Sectionals,Club,2015,124
+East Plains Men's Sectionals,Club,2015,125
+Capital Men's Sectionals,Club,2015,126
+Founders Men's Sectionals,Club,2015,127
+Northwest Plains Men's Sectionals,Club,2015,128
+West Plains Men's Sectionals,Club,2015,129
+East New England Men's Sectionals,Club,2015,130
+Metro New York Men's Sectionals,Club,2015,131
+Upstate New York Men's Sectionals,Club,2015,132
+West New England Men's Sectionals,Club,2015,133
+Big Sky Men's Sectionals,Club,2015,134
+Oregon Men's Sectionals,Club,2015,135
+Washington Men's Sectionals,Club,2015,136
+Ozarks Men's Sectionals,Club,2015,137
+Rocky Mountain Men's Sectionals,Club,2015,138
+Texas Men's Sectionals,Club,2015,139
+East Coast Men's Sectionals,Club,2015,140
+Florida Men's Sectionals,Club,2015,141
+Gulf Coast Men's Sectionals,Club,2015,142
+North Carolina Men's Sectionals,Club,2015,143
+Nor Cal Men's Sectionals,Club,2015,144
+So Cal Men's Sectionals,Club,2015,145
+Central Plains Mixed Sectionals,Club,2015,146
+East Plains Mixed Sectionals,Club,2015,147
+Capital Mixed Sectionals,Club,2015,148
+Founders Mixed Sectionals,Club,2015,149
+Northwest Plains Mixed Sectionals,Club,2015,150
+West Plains Mixed Sectionals,Club,2015,151
+East New England Mixed Sectionals,Club,2015,152
+Metro New York Mixed Sectionals,Club,2015,153
+Upstate New York Mixed Sectionals,Club,2015,154
+West New England Mixed Sectionals,Club,2015,155
+Big Sky Mixed Sectionals,Club,2015,156
+Oregon Mixed Sectionals,Club,2015,157
+Washington Mixed Sectionals,Club,2015,158
+Ozarks Mixed Sectionals,Club,2015,159
+Rocky Mountain Mixed Sectionals,Club,2015,160
+Texas Mixed Sectionals,Club,2015,161
+East Coast Mixed Sectionals,Club,2015,162
+Florida Mixed Sectionals,Club,2015,163
+Gulf Coast Mixed Sectionals,Club,2015,164
+North Carolina Mixed Sectionals,Club,2015,165
+Nor Cal Mixed Sectionals,Club,2015,166
+So Cal Mixed Sectionals,Club,2015,167
+Central Plains Women's Sectionals,Club,2015,168
+East Plains Women's Sectionals,Club,2015,169
+Capital Women's Sectionals,Club,2015,170
+Founders Women's Sectionals,Club,2015,171
+Northwest Plains Women's Sectionals,Club,2015,172
+West Plains Women's Sectionals,Club,2015,173
+East New England Women's Sectionals,Club,2015,174
+Metro New York Women's Sectionals,Club,2015,175
+Upstate New York Women's Sectionals,Club,2015,176
+West New England Women's Sectionals,Club,2015,177
+Oregon Women's Sectionals,Club,2015,178
+Washington Women's Sectionals,Club,2015,179
+Rocky Mountain Women's Sectionals,Club,2015,180
+Texas Women's Sectionals,Club,2015,181
+East Coast Women's Sectionals,Club,2015,182
+Florida Women's Sectionals,Club,2015,183
+Gulf Coast Women's Sectionals,Club,2015,184
+North Carolina Women's Sectionals,Club,2015,185
+Nor Cal Women's Sectionals,Club,2015,186
+So Cal Women's Sectionals,Club,2015,187
+US Open Ultimate Championships 2015,Club,2015,188
+TCT Elite-Select Challenge 2015 (Oshadega Invite),Club,2015,189
+TCT Pro-Elite Challenge 2015 (Colorado Cup),Club,2015,190
+TCT Select Flight Invite 2015 (Diamond Bear Brouhaha),Club,2015,191
+TCT Pro Flight Finale 2015,Club,2015,192
+Cal States 2015,Club,2015,193
+2015 Fort Collins Solstice Ultimate Tournament,Club,2015,194
+Eugene Summer Solstice #37,Club,2015,195
+ATL Classic 2015,Club,2015,196
+Boston Invite 2015,Club,2015,197
+Space City Classic 2015,Club,2015,198
+Texas 2 Finger 2015,Club,2015,199
+San Diego Slammer 2015,Club,2015,200
+Swan Boat 2015,Club,2015,201
+Huckfest 2015,Club,2015,202
+Bruise Cruise Classic 2015,Club,2015,203
+PNW Hootenanny 2015,Club,2015,204
+PB&J 2015,Club,2015,205
+Stonewalled 2015,Club,2015,206
+Three Ring Rally 2015,Club,2015,207
+2015 Club Terminus,Club,2015,208
+CBR Memorial Tournament 2015,Club,2015,209
+Motown Throwdown 2015,Club,2015,210
+Ok Corral 2015,Club,2015,211
+Angel City Shootout 2015,Club,2015,212
+Chesapeake Open 2015,Club,2015,213
+Riverside Classic 2015,Club,2015,214
+Heavyweights 2015,Club,2015,215
+Ski Town Classic 2015,Club,2015,216
+Cooler Classic 27,Club,2015,217
+Nucci's Cup 2015,Club,2015,218
+2015 Bro Flight Finale,Club,2015,219
+Northeast Mixed 2015,Club,2015,220
+Summer Glazed Daze 2015,Club,2015,221
+Driftwood Huckfest 2015,Club,2015,222
+Revolution 2015,Club,2015,223
+MUDI 2015,Club,2015,224
+Philly Invite XI,Club,2015,225
+NC/VA Round Robin,Club,2015,226
+Rocky Mountain State Games 2015,Club,2015,227
+Northwest Mixed Cup 2015,Club,2015,228
+White Mountain Mixed 2015,Club,2015,229
+72 and Sunny 2015,Club,2015,230
+Des Moines RR 2015,Club,2015,231
+Kleinman Eruption 2015,Club,2015,232
+YCC Mixed Showcase,Club,2015,233
+HoDown XIX,Club,2015,234
+Chowdafest 2015,Club,2015,235
+Mixed Signals 2015,Club,2015,236
+KoD Round Robbin',Club,2015,237
+2015 Versailles Mixed Invitational,Club,2015,238
+AZ Mixed Madness 2015,Club,2015,239
+LI Round Robin 2015,Club,2015,240
+Cackalacky Challenge 2015,Club,2015,241
+Show Me State of Mind 2015,Club,2015,242
+SCINNY 2015,Club,2015,243
+Old Line Classic 2015,Club,2015,244
+CT Women's Invite 2015,Club,2015,245
+Small Batch vs. Molly Brown,Club,2015,246
+Connecticut Women's Round Robin 2015,Club,2015,247
+LA Invitational 2015,Club,2015,248
+PNW Summer Classic 2015,Club,2015,249
+USA Ultimate National Championships,Club,2016,250
+Great Lakes Men's Regionals,Club,2016,251
+Mid-Atlantic Men's Regionals,Club,2016,252
+North Central Men's Regionals,Club,2016,253
+Northeast Men's Regionals,Club,2016,254
+Northwest Men's Regionals,Club,2016,255
+South Central Men's Regionals,Club,2016,256
+Southeast Men's Regionals,Club,2016,257
+Southwest Men's Regionals,Club,2016,258
+Great Lakes Mixed Regionals,Club,2016,259
+Mid-Atlantic Mixed Regionals,Club,2016,260
+North Central Mixed Regionals,Club,2016,261
+Northeast Mixed Regionals,Club,2016,262
+Northwest Mixed Regionals,Club,2016,263
+South Central Mixed Regionals,Club,2016,264
+Southeast Mixed Regionals,Club,2016,265
+Southwest Mixed Regionals,Club,2016,266
+Great Lakes Women's Regionals,Club,2016,267
+Mid-Atlantic Women's Regionals,Club,2016,268
+North Central Women's Regionals,Club,2016,269
+Northeast Women's Regionals,Club,2016,270
+Northwest Women's Regionals,Club,2016,271
+South Central Women's Regionals,Club,2016,272
+Southwest Women's Regionals,Club,2016,273
+Central Plains Men's Sectionals,Club,2016,274
+East Plains Men's Sectionals,Club,2016,275
+Capital Men's Sectionals,Club,2016,276
+Founders Men's Sectionals,Club,2016,277
+Northwest Plains Men's Sectionals,Club,2016,278
+West Plains Men's Sectionals,Club,2016,279
+East New England Men's Sectionals,Club,2016,280
+Metro New York Men's Sectionals,Club,2016,281
+Upstate New York Men's Sectionals,Club,2016,282
+West New England Men's Sectionals,Club,2016,283
+Big Sky Men's Sectionals,Club,2016,284
+Oregon Men's Sectionals,Club,2016,285
+Washington Men's Sectionals,Club,2016,286
+Ozarks Men's Sectionals,Club,2016,287
+Rocky Mountain Men's Sectionals,Club,2016,288
+Texas Men's Sectionals,Club,2016,289
+East Coast Men's Sectionals,Club,2016,290
+Florida Men's Sectionals,Club,2016,291
+Gulf Coast Men's Sectionals,Club,2016,292
+North Carolina Men's Sectionals,Club,2016,293
+Nor Cal Men's Sectionals,Club,2016,294
+So Cal Men's Sectionals,Club,2016,295
+Central Plains Mixed Sectionals,Club,2016,296
+East Plains Mixed Sectionals,Club,2016,297
+Capital Mixed Sectionals,Club,2016,298
+Founders Mixed Sectionals,Club,2016,299
+Northwest Plains Mixed Sectionals,Club,2016,300
+West Plains Mixed Sectionals,Club,2016,301
+East New England Mixed Sectionals,Club,2016,302
+Metro New York Mixed Sectionals,Club,2016,303
+Upstate New York Mixed Sectionals,Club,2016,304
+West New England Mixed Sectionals,Club,2016,305
+Big Sky Mixed Sectionals,Club,2016,306
+Oregon Mixed Sectionals,Club,2016,307
+Washington Mixed Sectionals,Club,2016,308
+Ozarks Mixed Sectionals,Club,2016,309
+Rocky Mountain Mixed Sectionals,Club,2016,310
+Texas Mixed Sectionals,Club,2016,311
+East Coast Mixed Sectionals,Club,2016,312
+Florida Mixed Sectionals,Club,2016,313
+Gulf coast Mixed Sectionals,Club,2016,314
+North Carolina Mixed Sectionals,Club,2016,315
+Nor Cal Mixed Sectionals,Club,2016,316
+So Cal Mixed Sectionals,Club,2016,317
+Central Plains Women's Sectionals,Club,2016,318
+East Plains Women's Sectionals,Club,2016,319
+Capital Women's Sectionals,Club,2016,320
+Founders Women's Sectionals,Club,2016,321
+Northwest Plains Women's Sectionals,Club,2016,322
+East New England Women's Sectionals,Club,2016,323
+Metro New York Women's Sectionals,Club,2016,324
+Upstate New York Women's Sectionals,Club,2016,325
+West New England Women's Sectionals,Club,2016,326
+Washington Women's Sectionals,Club,2016,327
+Rocky Mountain Women's Sectionals,Club,2016,328
+Texas Women's Sectionals,Club,2016,329
+East Coast Women's Sectionals,Club,2016,330
+Florida women's Sectionals,Club,2016,331
+Gulf Coast Women's Sectionals,Club,2016,332
+North Carolina Women's Sectionals,Club,2016,333
+Nor Cal Women's Sectionals,Club,2016,334
+So Cal Women's Sectionals,Club,2016,335
+US Open Ultimate Championships,Club,2016,336
+TCT Elite-Select Challenge 2016 (Oshadega Invite),Club,2016,337
+TCT Pro-Elite Challenge 2016 (Colorado Cup),Club,2016,338
+TCT Select Flight Invite 2016,Club,2016,339
+TCT Pro Flight Finale 2016 (Cascadia Classic),Club,2016,340
+ATL Classic 2016,Club,2016,341
+Eugene Summer Solstice 2016,Club,2016,342
+Fort Collins Summer Solstice 2016,Club,2016,343
+Boston Invite 2016,Club,2016,344
+Huckfest 2016,Club,2016,345
+SCINNY 2016,Club,2016,346
+Texas 2 Finger 2016,Club,2016,347
+San Diego Slammer 2016,Club,2016,348
+AntlerLock 2016,Club,2016,349
+Mid-Summer Meltdown 2016,Club,2016,350
+Ski Town Classic 2016,Club,2016,351
+Stonewalled 2016,Club,2016,352
+Swan Boat 2016,Club,2016,353
+Club Terminus,Club,2016,354
+Heavyweights 2016,Club,2016,355
+MN Ultimate Disc Invitational 2016,Club,2016,356
+Vacationland Tournament 2016 (Maine Ult.),Club,2016,357
+PB&J 2016,Club,2016,358
+Motown Throwdown 2016,Club,2016,359
+CBR Memorial Tournament 2016,Club,2016,360
+Philly Open 2016,Club,2016,361
+PNW Hootenanny 2016,Club,2016,362
+10th Annual Nucci's Cup,Club,2016,363
+Chesapeake Open 2016,Club,2016,364
+Hootie on the Hill 2016,Club,2016,365
+Bro Flight Finale 2016,Club,2016,366
+Cooler Classic 28,Club,2016,367
+Summer Glazed Daze 2016,Club,2016,368
+Idaho Round Robin 2016,Club,2016,369
+Virginia Commonwealth Games 2016,Club,2016,370
+Bourbon Bash 2016,Club,2016,371
+Philly Invite 2016,Club,2016,372
+The Chillout 2016 Club Tournament,Club,2016,373
+Northwest Mixed Cup 2016,Club,2016,374
+Revolution 2016,Club,2016,375
+Mixed Signals 2016,Club,2016,376
+Rocky Mountain State Games 2016,Club,2016,377
+White Mountain Mixed 2016,Club,2016,378
+HoDown XX 2016,Club,2016,379
+Inaugural Coconino Classic 2016,Club,2016,380
+Cackalacky Challenge 2016,Club,2016,381
+Old Line Classic 2016,Club,2016,382
+USA Ultimate National Championships,Club,2017,383
+Great Lakes Men's Regional Championship 2017,Club,2017,384
+North Central Men's Regional Championship 2017,Club,2017,385
+Northeast Men's Regional Championship 2017,Club,2017,386
+Northwest Men's Regional Championship 2017,Club,2017,387
+South Central Men's Regional Championship 2017,Club,2017,388
+Southeast Men's Regional Championship 2017,Club,2017,389
+Southwest Men's Regional Club Championship 2017,Club,2017,390
+Great Lakes Mixed Regional Championship 2017,Club,2017,391
+Mid-Atlantic Mixed Regional Championship 2017,Club,2017,392
+North Central Mixed Regional Championship 2017,Club,2017,393
+Northeast Mixed Regional Championship 2017,Club,2017,394
+Northwest Mixed Regional Championship 2017,Club,2017,395
+South Central Mixed Regional Championship 2017,Club,2017,396
+Southeast Mixed Regional Championship 2017,Club,2017,397
+Southwest Mixed Regional Club Championship 2017,Club,2017,398
+Great Lakes Women's Regional Championship 2017,Club,2017,399
+Mid-Atlantic Women's Regional Championship 2017,Club,2017,400
+North Central Women's Regional Championship 2017,Club,2017,401
+Northeast Women's Regional Championship 2017,Club,2017,402
+Northwest Women's Regional Championship 2017,Club,2017,403
+South Central Women's Regional Championship 2017,Club,2017,404
+Southeast Women's Regional Championship 2017,Club,2017,405
+Southwest Women's Regional Club Championship 2017,Club,2017,406
+2017 Central Plains Men's Sectionals,Club,2017,407
+2017 East Plains Men's Sectionals,Club,2017,408
+2017 Capital Men's Sectionals,Club,2017,409
+2017 Founders Men's Sectionals,Club,2017,410
+2017 Northwest Plains Men's Sectionals,Club,2017,411
+2017 West Plains Men's Sectionals,Club,2017,412
+2017 East New England Men's Sectionals,Club,2017,413
+2017 Metro New York Men's Sectionals,Club,2017,414
+2017 Upstate New York Men's Sectionals,Club,2017,415
+2017 West New England Men's Sectionals,Club,2017,416
+2017 Big Sky Men's Sectionals,Club,2017,417
+2017 Oregon Men's Sectionals,Club,2017,418
+2017 Washington Men's Sectionals,Club,2017,419
+2017 Ozarks Men's Sectionals,Club,2017,420
+2017 Rocky Mountain Men's Sectionals,Club,2017,421
+2017 Texas Men's Sectionals,Club,2017,422
+2017 East Coast Men's Sectionals,Club,2017,423
+2017 Florida Men's Sectionals,Club,2017,424
+2017 Gulf Coast Men's Sectionals,Club,2017,425
+2017 North Carolina Men's Sectionals,Club,2017,426
+2017 Nor Cal Men's Sectionals,Club,2017,427
+2017 So Cal Men's Sectionals,Club,2017,428
+2017 Central Plains Mixed Sectionals,Club,2017,429
+2017 East Plains Mixed Sectionals,Club,2017,430
+2017 Capital Mixed Sectionals,Club,2017,431
+2017 Founders Mixed Sectionals,Club,2017,432
+2017 Northwest Plains Mixed Sectionals,Club,2017,433
+2017 West Plains Mixed Sectionals,Club,2017,434
+2017 East New England Mixed Sectionals,Club,2017,435
+2017 Metro New York Mixed Sectionals,Club,2017,436
+2017 Upstate New York Mixed Sectionals,Club,2017,437
+2017 West New England Mixed Sectionals,Club,2017,438
+2017 Oregon Mixed Sectionals,Club,2017,439
+2017 Washington Mixed Sectionals,Club,2017,440
+2017 Ozarks Mixed Sectionals,Club,2017,441
+2017 Rocky Mountain Mixed Sectionals,Club,2017,442
+2017 Texas Mixed Sectionals,Club,2017,443
+2017 East Coast Mixed Sectionals,Club,2017,444
+2017 Florida Mixed Sectionals,Club,2017,445
+2017 Gulf Coast Mixed Sectionals,Club,2017,446
+2017 North Carolina Mixed Sectionals,Club,2017,447
+2017 Nor Cal Mixed Sectionals,Club,2017,448
+2017 So Cal Mixed Sectionals,Club,2017,449
+2017 Central Plains Women's Sectionals,Club,2017,450
+2017 East Plains Women's Sectionals,Club,2017,451
+2017 Capital Women's Sectionals,Club,2017,452
+2017 Founders Women's Sectionals,Club,2017,453
+2017 Northwest Plains Women's Sectionals,Club,2017,454
+2017 West Plains Women's Sectionals,Club,2017,455
+2017 East New England Women's Sectionals,Club,2017,456
+2017 Metro New York Women's Sectionals,Club,2017,457
+2017 Upstate New York Women's Sectionals,Club,2017,458
+2017 West New England Women's Sectionals,Club,2017,459
+2017 Washington Women's Sectionals,Club,2017,460
+2017 Rocky Mountain Women's Sectionals,Club,2017,461
+2017 Texas Women's Sectionals,Club,2017,462
+2017 Florida Women's Sectionals,Club,2017,463
+2017 Gulf Coast Women's Sectionals,Club,2017,464
+2017 North Carolina Women's Sectionals,Club,2017,465
+2017 Nor Cal Women's Sectionals,Club,2017,466
+2017 So Cal Women's Sectionals,Club,2017,467
+2017 U.S. Open Club Championships,Club,2017,468
+ATL Classic 2017,Club,2017,469
+Fort Collins Summer Solstice 2017,Club,2017,470
+Boston Invitational 2017,Club,2017,471
+Eugene Summer Solstice #39,Club,2017,472
+SCINNY 2017,Club,2017,473
+Texas Two Finger 2017,Club,2017,474
+Antlerlock 2017,Club,2017,475
+Huckfest 2017,Club,2017,476
+MoTown Throwdown 2017,Club,2017,477
+Philadelphia Select Classic I,Club,2017,478
+San Diego Slammer 2017,Club,2017,479
+Swan Boat 2017,Club,2017,480
+TCT Pro-Elite Challenge 2017,Club,2017,481
+Club Terminus 2017,Club,2017,482
+Heavyweights 2017,Club,2017,483
+Stonewalled 2017,Club,2017,484
+Vacationland 2017,Club,2017,485
+PB&J 2017,Club,2017,486
+TCT Select Flight Invite 2017,Club,2017,487
+Philly Open 2017,Club,2017,488
+Trestlemania 2017,Club,2017,489
+Chesapeake Open 2017,Club,2017,490
+Hootenanny 2017,Club,2017,491
+Hootie on the Hill 2017,Club,2017,492
+Nucci's Cup 2017,Club,2017,493
+The Bropen 2017,Club,2017,494
+Cooler Classic 29,Club,2017,495
+Florida Warm Up Club 2017,Club,2017,496
+2017 Rocket City Invite,Club,2017,497
+Ski Town Classic 2017,Club,2017,498
+TCT Elite-Select Challenge 2017,Club,2017,499
+CBR Memorial 2017,Club,2017,500
+CT Men's Round Robin 2017 Connecticut Ultimate,Club,2017,501
+Indy Invite Club 2017,Club,2017,502
+New York Invite 2017,Club,2017,503
+TCT Pro Championships 2017 (formerly Pro Flight Finale),Club,2017,504
+Rose City Rumble 2017,Club,2017,505
+Summer Glazed Daze 2017,Club,2017,506
+Mixed MUDI 2017 Minnesota Ultimate,Club,2017,507
+Bourbon Bash Mixed 2017,Club,2017,508
+Philly Invite 2017,Club,2017,509
+Revolution 2017,Club,2017,510
+Rocky Mountain State Games 2017,Club,2017,511
+Virginia Commonwealth Games 2017,Club,2017,512
+SoCal Mixed Cup 2017,Club,2017,513
+White Mountain Mixed 2017,Club,2017,514
+Coconino Classic 2017,Club,2017,515
+HoDown XXI,Club,2017,516
+Kleinman Eruption 2017,Club,2017,517
+Michigan Mix Up 2017,Club,2017,518
+Missoula Roundup 2017,Club,2017,519
+Chowdafest 2017,Club,2017,520
+Petey's Pirates Round Robin 2017,Club,2017,521
+KC Mashup,Club,2017,522
+Upstate NY Mixed Cup 2017,Club,2017,523
+Sanctionals 2017,Club,2017,524
+Cackalacky Challenge 2017,Club,2017,525
+Old Line Classic 2017,Club,2017,526
+USA Ultimate National Championships,Club,2018,527
+Great Lakes Men's Regional Championship,Club,2018,528
+Mid-Atlantic Men's Regional Championship,Club,2018,529
+North Central Men's Regional Championship,Club,2018,530
+Northeast Men's Regional Championship,Club,2018,531
+Northwest Men's Regional Championship,Club,2018,532
+South Central Men's Regional Championship,Club,2018,533
+Southeast Men's Regional Championship,Club,2018,534
+Southwest Men's Regional Championship,Club,2018,535
+Great Lakes Mixed Regional Championship,Club,2018,536
+Mid-Atlantic Mixed Regional Championship,Club,2018,537
+North Central Mixed Regional Championship,Club,2018,538
+Northeast Mixed Regional Championship,Club,2018,539
+Northwest Mixed Regional Championship,Club,2018,540
+South Central Mixed Regional Championship,Club,2018,541
+Southeast Mixed Regional Championship,Club,2018,542
+Southwest Mixed Regional Championship,Club,2018,543
+Great Lakes Women's Regional Championship,Club,2018,544
+Mid-Atlantic Women's Regional Championship,Club,2018,545
+North Central Women's Regional Championship,Club,2018,546
+Northeast Women's Regional Championship,Club,2018,547
+Northwest Women's Regional Championship,Club,2018,548
+South Central Women's Regional Championship,Club,2018,549
+Southeast Women's Regional Championship,Club,2018,550
+Southwest Women's Regional Championship,Club,2018,551
+Central Plains Men's Sectional Championship,Club,2018,552
+East Plains Men's Sectional Championship,Club,2018,553
+Capital Men's Sectional Championship,Club,2018,554
+Founders Men's Sectional Championship,Club,2018,555
+Northwest Plains Men's Sectional Championship,Club,2018,556
+West Plains Men's Sectional Championship,Club,2018,557
+East New England Men's Sectional Championship,Club,2018,558
+Metro New York Men's Sectional Championship,Club,2018,559
+Upstate New York Men's Sectional Championship,Club,2018,560
+West New England Men's Sectional Championship,Club,2018,561
+Big Sky Men's Sectional Championship,Club,2018,562
+Oregon Men's Sectional Championship,Club,2018,563
+Washington Men's Sectional Championship,Club,2018,564
+Ozarks Men's Sectional Championship,Club,2018,565
+Rocky Mountain Men's Sectional Championship,Club,2018,566
+Texas Men's Sectional Championship,Club,2018,567
+East Coast Men's Sectional Championship,Club,2018,568
+Florida Men's Sectional Championship,Club,2018,569
+Gulf Coast Men's Sectional Championship,Club,2018,570
+North Carolina Men's Sectional Championship,Club,2018,571
+Nor Cal Men's Sectional Championship,Club,2018,572
+So Cal Men's Sectional Championship,Club,2018,573
+Central Plains Mixed Sectional Championship,Club,2018,574
+East Plains Mixed Sectional Championship,Club,2018,575
+Capital Mixed Sectional Championship,Club,2018,576
+Founders Mixed Sectional Championship,Club,2018,577
+Northwest Plains Mixed Sectional Championship,Club,2018,578
+West Plains Mixed Sectional Championship,Club,2018,579
+East New England Mixed Sectional Championship,Club,2018,580
+Metro New York Mixed Sectional Championship,Club,2018,581
+Upstate New York Mixed Sectional Championship,Club,2018,582
+West New England Mixed Sectional Championship,Club,2018,583
+Big Sky Mixed Sectional Championship,Club,2018,584
+Oregon Mixed Sectional Championship,Club,2018,585
+Washington Mixed Sectional Championship,Club,2018,586
+Ozarks Mixed Sectional Championship,Club,2018,587
+Rocky Mountain Mixed Sectional Championship,Club,2018,588
+Texas Mixed Sectional Championship,Club,2018,589
+East Coast Mixed Sectional Championship,Club,2018,590
+Florida Mixed Sectional Championship,Club,2018,591
+Gulf Coast Mixed Sectional Championship,Club,2018,592
+North Carolina Mixed Sectional Championship,Club,2018,593
+Nor Cal Mixed Sectional Championship,Club,2018,594
+So Cal Mixed Sectional Championship,Club,2018,595
+Central Plains Women's Sectional Championship,Club,2018,596
+East Plains Women's Sectional Championship,Club,2018,597
+Capital Women's Sectional Championship,Club,2018,598
+Founders Women's Sectional Championship,Club,2018,599
+Northwest Plains Women's Sectional Championship,Club,2018,600
+East New England Women's Sectional Championship,Club,2018,601
+Metro New York Women's Sectional Championship,Club,2018,602
+Upstate New York Women's Sectional Championship,Club,2018,603
+West New England Women's Sectional Championship,Club,2018,604
+Washington Women's Sectional Championship,Club,2018,605
+Rocky Mountain Women's Sectional Championship,Club,2018,606
+Texas Women's Sectional Championship,Club,2018,607
+East Coast Women's Sectional Championship,Club,2018,608
+Florida Women's Sectional Championship,Club,2018,609
+Gulf Coast Women's Sectional Championship,Club,2018,610
+North Carolina Women's Sectional Championship,Club,2018,611
+Nor Cal Women's Sectional Championship,Club,2018,612
+So Cal Women's Sectional Championship,Club,2018,613
+2018 U.S. Open Club Championships,Club,2018,614
+ATL Classic 2018,Club,2018,615
+Fort Collins Summer Solstice 2018,Club,2018,616
+Boston Invite 2018,Club,2018,617
+Eugene Summer Solstice #40,Club,2018,618
+Spirit of the Plains 2018,Club,2018,619
+Texas Two Finger 2018,Club,2018,620
+Bay Area Ultimate Classic 2018,Club,2018,621
+Amp Invite 2018,Club,2018,622
+Colorado Mixed Round Robin (2018),Club,2018,623
+Summer Glazed Daze 2018,Club,2018,624
+New York Warm Up 2018 - Sanctioned Women's Event,Club,2018,625
+Cackalacky Challenge 2018,Club,2018,626
+SCINNY 2018,Club,2018,627
+AntlerLock 2018,Club,2018,628
+Huckfest 2018,Club,2018,629
+Motown Throwdown 2018,Club,2018,630
+2018 San Diego Slammer,Club,2018,631
+Swan Boat 2018,Club,2018,632
+TCT Pro-Elite Challenge (Colorado Cup) 2018,Club,2018,633
+2018 Philadelphia Select Classic II,Club,2018,634
+Club Terminus 2018,Club,2018,635
+Layout for Summer 2018,Club,2018,636
+2018 Richmond Stonewalled,Club,2018,637
+The Royal Experience '18,Club,2018,638
+Vacationland 2018,Club,2018,639
+TCT Select Flight Invite 2018,Club,2018,640
+Philly Invite 2018,Club,2018,641
+Rose City Rumble 2,Club,2018,642
+Battle for the Beltway 2018,Club,2018,643
+MN Ultimate Disc Invitational 2018,Club,2018,644
+Bourbon Bash 2018,Club,2018,645
+Revolution 2018,Club,2018,646
+SunRise Open 2018,Club,2018,647
+Truckee River Ultimate Cooldown 2018,Club,2018,648
+Old Line Classic 2018,Club,2018,649
+Heavyweights 2018,Club,2018,650
+PB&J 2018,Club,2018,651
+Chesapeake Open 2018,Club,2018,652
+Hootie on the Hill 2018,Club,2018,653
+Nucci's Cup 2018,Club,2018,654
+Cooler Classic 30,Club,2018,655
+Oshadega Ultimate Invite 2018,Club,2018,656
+Riverside Classic 2018,Club,2018,657
+Ski Town Classic 2018,Club,2018,658
+TCT Elite-Select Challenge 2018,Club,2018,659
+Trestlemania III,Club,2018,660
+The Bropen 2018,Club,2018,661
+CBR Memorial 2018,Club,2018,662
+End of Season Round Robin - Boston,Club,2018,663
+The Incident 2018,Club,2018,664
+Indy Invite Club 2018,Club,2018,665
+Sectional Sanction Upstate NY 2018,Club,2018,666
+Rush Hour Round Robin 2018,Club,2018,667
+Rutabaga Rebellion,Club,2018,668
+Coconino Classic 2018,Club,2018,669
+Kleinman Eruption 2018,Club,2018,670
+WC Mixed Round Robin,Club,2018,671
+White Mountain Mixed 2018,Club,2018,672
+Philly Open 2018,Club,2018,673
+HoDown¬†ShowDown¬†XXII,Club,2018,674
+Michigan Mix Up 2018,Club,2018,675
+Chowdafest 2018,Club,2018,676
+Mixed Club Summer Series 2018,Club,2018,677
+The 1st Annual Northwest Fruit Bowl,Club,2018,678
+Castle Rock Mixed 2018,Club,2018,679
+Vermont Round Robin 2018,Club,2018,680
+Bay Area Invite 2018,Club,2018,681
+TCT Pro Championships 2018,Club,2018,682
+USA Ultimate National Championships,Club,2019,683
+Great Lakes Men's Club Regional Championship,Club,2019,684
+Mid-Atlantic Men's Club Regional Championship 2019,Club,2019,685
+North Central Club Men's Regional Championship 2019,Club,2019,686
+Northeast Club Men's Regional Championship 2019,Club,2019,687
+Northwest Club Men's Regional Championship 2019,Club,2019,688
+South Central Club Men's Regional Championship 2019,Club,2019,689
+Southeast Club Men's Regional Championship 2019,Club,2019,690
+Southwest Club Men's Regional Championship 2019,Club,2019,691
+Great Lakes Mixed Club Regional Championship 2019,Club,2019,692
+Mid-Atlantic Mixed Club Regional Championship 2019,Club,2019,693
+North Central Club Mixed Regional Championship 2019,Club,2019,694
+Northeast Club Mixed Regional Championship 2019,Club,2019,695
+Northwest Club Mixed Regional Championship 2019,Club,2019,696
+South Central Club Mixed Regional Championship 2019,Club,2019,697
+Southeast Club Mixed Regional Championship 2019,Club,2019,698
+Southwest Club Mixed Regional Championship 2019,Club,2019,699
+Great Lakes Women's Club Regional Championship 2019,Club,2019,700
+Mid-Atlantic Women's Club Regional Championship 2019,Club,2019,701
+North Central Club Women's Regional Championship 2019,Club,2019,702
+Northeast Club Women's Regional Championship 2019,Club,2019,703
+Northwest Club Women's Regional Championship 2019,Club,2019,704
+South Central Club Women's Regional Championship 2019,Club,2019,705
+Southeast Club Women's Regional Championship 2019,Club,2019,706
+Southwest Club Women's Regional Championship 2019,Club,2019,707
+Central Plains Men's Club Sectional Championship 2019,Club,2019,708
+East Plains Men's Club Sectional Championship 2019,Club,2019,709
+Capital Men's Club Sectional Championship 2019,Club,2019,710
+Founders Men's Club Sectional Championship 2019,Club,2019,711
+Northwest Plains Men's Club Sectional Championship 2019,Club,2019,712
+West Plains Men's Club Sectional Championship 2019,Club,2019,713
+East New England Men's Club Sectional Championship 2019,Club,2019,714
+Metro New York Men's Club Sectional Championship 2019,Club,2019,715
+Upstate New York Men's Club Sectional Championship 2019,Club,2019,716
+Big Sky Men's Club Sectional Championship 2019,Club,2019,717
+Oregon Men's Club Sectional Championship 2019,Club,2019,718
+Washington Men's Club Sectional Championship 2019,Club,2019,719
+Ozarks Men's Club Sectional Championship 2019,Club,2019,720
+Rocky Mountain Men's Club Sectional Championship 2019,Club,2019,721
+Texas Men's Club Sectional Championship 2019,Club,2019,722
+East Coast Men's Club Sectional Championship 2019,Club,2019,723
+Florida Men's Club Sectional Championship 2019,Club,2019,724
+Gulf Coast Men's Club Sectional Championship 2019,Club,2019,725
+North Carolina Men's Club Sectional Championship 2019,Club,2019,726
+Nor Cal Men's Club Sectional Championship 2019,Club,2019,727
+So Cal Men's Club Sectional Championship 2019,Club,2019,728
+Central Plains Mixed Club Sectional Championship 2019,Club,2019,729
+East Plains Mixed Club Sectional Championship 2019,Club,2019,730
+Capital Mixed Club Sectional Championship 2019,Club,2019,731
+Founders Mixed Club Sectional Championship 2019,Club,2019,732
+Northwest Plains Mixed Club Sectional Championship 2019,Club,2019,733
+West Plains Mixed Club Sectional Championship 2019,Club,2019,734
+East New England Mixed Club Sectional Championship 2019,Club,2019,735
+Metro New York Mixed Club Sectional Championship 2019,Club,2019,736
+Upstate New York Mixed Club Sectional Championship 2019,Club,2019,737
+West New England Mixed Club Sectional Championship 2019,Club,2019,738
+Big Sky Mixed Club Sectional Championship 2019,Club,2019,739
+Oregon Mixed Club Sectional Championship 2019,Club,2019,740
+Washington Mixed Club Sectional Championship 2019,Club,2019,741
+Ozarks Mixed Club Sectional Championship 2019,Club,2019,742
+Rocky Mountain Mixed Club Sectional Championship 2019,Club,2019,743
+Texas Mixed Club Sectional Championship 2019,Club,2019,744
+East Coast Mixed Club Sectional Championship 2019,Club,2019,745
+Florida Mixed Club Sectional Championship 2019,Club,2019,746
+Gulf Coast Mixed Club Sectional Championship 2019,Club,2019,747
+North Carolina Mixed Club Sectional Championship 2019,Club,2019,748
+Nor Cal Mixed Club Sectional Championship 2019,Club,2019,749
+So Cal Mixed Club Sectional Championship 2019,Club,2019,750
+Central Plains Women's Club Sectional Championship 2019,Club,2019,751
+East Plains Women's Club Sectional Championship 2019,Club,2019,752
+Capital Women's Club Sectional Championship 2019,Club,2019,753
+Founders Women's Club Sectional Championship 2019,Club,2019,754
+Northwest Plains Women's Club Sectional Championship 2019,Club,2019,755
+West Plains Women's Club Sectional Championship 2019,Club,2019,756
+East New England Women's Club Sectional Championship 2019,Club,2019,757
+Metro New York Women's Club Sectional Championship 2019,Club,2019,758
+Upstate New York Women's Club Sectional Championship 2019,Club,2019,759
+West New England Women's Club Sectional Championship 2019,Club,2019,760
+Big Sky Women's Club Sectional Championship 2019,Club,2019,761
+Washington Women's Club Sectional Championship 2019,Club,2019,762
+Rocky Mountain Women's Club Sectional Championship 2019,Club,2019,763
+Texas Women's Club Sectional Championship 2019,Club,2019,764
+East Coast Women's Club Sectional Championship 2019,Club,2019,765
+Florida Women's Club Sectional Championship 2019,Club,2019,766
+Gulf Coast Women's Club Sectional Championship 2019,Club,2019,767
+North Carolina Women's Club Sectional Championship 2019,Club,2019,768
+Nor Cal Women's Club Sectional Championship 2019,Club,2019,769
+So Cal Women's Club Sectional Championship 2019,Club,2019,770
+2019 U.S. Open Club Championship,Club,2019,771
+ATL Classic 2019,Club,2019,772
+San Diego Slammer 2019,Club,2019,773
+Boston Invite 2019,Club,2019,774
+SCINNY 2019,Club,2019,775
+Eugene Summer Solstice 2019,Club,2019,776
+Fort Collins Summer Solstice 2019,Club,2019,777
+Texas 2 Finger - Men's and Women's,Club,2019,778
+Bay Area Ultimate Classic 2019,Club,2019,779
+AMP Invite 2019,Club,2019,780
+Northwest Mixer 2019,Club,2019,781
+Texas Two Finger 2019,Club,2019,782
+Capital District Classic 2019,Club,2019,783
+Summer Glazed Daze 2019,Club,2019,784
+Rocky Mountain Mixed Round Robin,Club,2019,785
+Rose City Rumble 2019,Club,2019,786
+Truckee River Ultimate Cooldown 2019,Club,2019,787
+New York Warmup Women's Sanctioned Games 2019,Club,2019,788
+Motown Throwdown 2019,Club,2019,789
+Huntsville Huckfest 2019,Club,2019,790
+AntlerLock 2019,Club,2019,791
+Ow My Knee,Club,2019,792
+Swan Boat 2019,Club,2019,793
+The Bropen 2019,Club,2019,794
+Riverside Classic 2019,Club,2019,795
+TCT Pro-Elite Challenge (Colorado Cup) 2019,Club,2019,796
+TCT Select Flight Invite - West 2019,Club,2019,797
+Stonewalled 2019,Club,2019,798
+The Royal Experience 2019,Club,2019,799
+Vacationland 2019,Club,2019,800
+2019 Club Terminus,Club,2019,801
+Angel City Shootout 2019,Club,2019,802
+PB&J 2019,Club,2019,803
+TCT Select Flight Invite - East 2019,Club,2019,804
+Spirit of the Plains 2018,Club,2019,805
+Battle for the Beltway 2019,Club,2019,806
+Hometown Mix Up 2019,Club,2019,807
+OK Corral 2019,Club,2019,808
+Philly Invite 2019,Club,2019,809
+Bourbon Bash 2019,Club,2019,810
+Minnesota Ultimate Disc Invitational,Club,2019,811
+Revolution 2019,Club,2019,812
+Scuffletown Throwdown 2019,Club,2019,813
+The Friend Zone,Club,2019,814
+Heavyweights 2019,Club,2019,815
+Philly Open 2019,Club,2019,816
+CBR 2019,Club,2019,817
+Chesapeake Open 2019,Club,2019,818
+Nucci's Cup 2019,Club,2019,819
+TCT Elite-Select Challenge 2019,Club,2019,820
+Cooler Classic 31,Club,2019,821
+Hootie on the Hill 2019,Club,2019,822
+Mudbowl 2019,Club,2019,823
+Indy Invite Club 2019,Club,2019,824
+FCS Invite 2019,Club,2019,825
+The Incident 2019: Age of Ultimatron,Club,2019,826
+Ski Town Classic 2019,Club,2019,827
+Labor Day (Recreational Tournament),Club,2019,828
+TCT Pro Championships 2019,Club,2019,829
+4th Annual Coconino Classic 2019,Club,2019,830
+Kleinman Eruption 2019,Club,2019,831
+HoDown ShowDown 23 G.O.A.T.,Club,2019,832
+CUDA Round Robin 2019,Club,2019,833
+Sanctionals 2019,Club,2019,834
+Chowdafest 2019,Club,2019,835
+Northwest Fruit Bowl 2019,Club,2019,836
+Seattle Round Robin 2019,Club,2019,837
+D-I College Championships,College,2014,838
+D-III College Championships,College,2014,839
+Atlantic Coast D-I College Men's Regionals,College,2014,840
+Atlantic Coast D-III College Men's Regionals,College,2014,841
+Atlantic Coast Dev College Men's Regionals,College,2014,842
+Great Lakes D-I College Men's Regionals,College,2014,843
+Great Lakes D-III College Men's Regionals,College,2014,844
+Metro East D-I College Men's Regionals,College,2014,845
+Metro East D-III College Men's Regionals,College,2014,846
+New England D-I College Men's Regionals,College,2014,847
+New England Dev College Men's Regionals,College,2014,848
+New England D-III College Men's Regionals,College,2014,849
+North Central D-I College Men's Regionals,College,2014,850
+North Central D-III College Men's Regionals,College,2014,851
+Northwest D-I College Men's Regionals,College,2014,852
+Ohio Valley D-I College Men's Regionals,College,2014,853
+Ohio Valley D-III College Men's Regionals,College,2014,854
+Ohio Valley Dev College Men's Regionals,College,2014,855
+South Central D-I College Men's Regionals,College,2014,856
+Southeast D-I College Men's Regionals,College,2014,857
+Southwest D-I College Men's Regionals,College,2014,858
+Atlantic Coast D-I College Women's Regionals,College,2014,859
+Great Lakes D-I College Women's Regionals,College,2014,860
+Metro East D-I College Women's Regionals,College,2014,861
+Metro East D-III College Women's Regionals,College,2014,862
+New England D-I College Women's Regionals,College,2014,863
+New England D-III College Women's Regionals,College,2014,864
+North Central D-I College Women's Regionals,College,2014,865
+Northwest D-I College Women's Regionals,College,2014,866
+Ohio Valley D-I College Women's Regionals,College,2014,867
+Ohio Valley D-III College Women's Regionals,College,2014,868
+South Central D-I College Women's Regionals,College,2014,869
+Southeast D-I College Women's Regionals,College,2014,870
+Southwest D-I College Women's Regionals,College,2014,871
+Carolina D-I College Men's CC,College,2014,872
+Carolina D-III College Men's CC,College,2014,873
+Virginia Dev College Men's CC,College,2014,874
+Colonial D-I College Men's CC,College,2014,875
+Colonial Dev College Men's CC,College,2014,876
+Northern Atlantic Coast D-III College Men's CC,College,2014,877
+Virginia D-I College Men's CC,College,2014,878
+Eastern Great Lakes Dev College Men's CC,College,2014,879
+East Plains D-I College Men's CC,College,2014,880
+East Plains D-III College Men's CC,College,2014,881
+Illinois D-I College Men's CC,College,2014,882
+Illinois D-III College Men's CC,College,2014,883
+Michigan D-I College Men's CC,College,2014,884
+Hudson Valley D-I College Men's CC,College,2014,885
+Hudson Valley D-III College Men's CC,College,2014,886
+Metro East Dev College Men's CC,College,2014,887
+Metro NY D-I College Men's CC,College,2014,888
+Metro NY D-III College Men's CC,College,2014,889
+Western NY D-I College Men's CC,College,2014,890
+Western NY D-III College Men's CC,College,2014,891
+Metro Boston D-I College Men's CC,College,2014,892
+Metro Boston D-III College Men's CC,College,2014,893
+Metro Boston Dev College Men's CC,College,2014,894
+North New England D-I College Men's CC,College,2014,895
+North New England D-III College Men's CC,College,2014,896
+North New England Dev College Men's CC,College,2014,897
+South New England D-I College Men's CC,College,2014,898
+South New England D-III College Men's CC,College,2014,899
+South New England Dev College Men's CC,College,2014,900
+Northwoods D-I College Men's CC,College,2014,901
+Northwoods D-III College Men's CC,College,2014,902
+Northwoods Dev College Men's CC,College,2014,903
+Lake Superior D-I College Men's CC,College,2014,904
+Lake Superior D-III College Men's CC,College,2014,905
+Lake Superior Dev College Men's CC,College,2014,906
+West Plains D-I College Men's CC,College,2014,907
+West Plains D-III College Men's CC,College,2014,908
+Big Sky D-I College Men's CC,College,2014,909
+Cascadia D-I College Men's CC,College,2014,910
+Northwest D-III College Men's CC,College,2014,911
+East Penn D-I College Men's CC,College,2014,912
+East Penn D-III College Men's CC,College,2014,913
+Ohio D-I College Men's CC,College,2014,914
+Ohio D-III College Men's CC,College,2014,915
+Ohio Dev College Men's CC,College,2014,916
+Pennsylvania Dev College Men's CC,College,2014,917
+West Penn D-I College Men's CC,College,2014,918
+West Penn D-III College Men's CC,College,2014,919
+North Texas D-I College Men's CC,College,2014,920
+Ozarks D-I College Men's CC,College,2014,921
+Rocky Mountain D-I College Men's CC,College,2014,922
+South Central D-III College Men's CC,College,2014,923
+South Texas D-I College Men's CC,College,2014,924
+Florida D-I College Men's CC,College,2014,925
+Florida Dev College Men's CC,College,2014,926
+Gulf Coast D-I College Men's CC,College,2014,927
+Southern Appalachian D-I College Men's CC,College,2014,928
+Southeast D-III College Men's CC,College,2014,929
+Desert D-I College Men's CC,College,2014,930
+NorCal D-I College Men's CC,College,2014,931
+Southwest Dev College Men's CC,College,2014,932
+SoCal D-I College Men's CC,College,2014,933
+Southwest D-III College Men's CC,College,2014,934
+Atlantic Coast D-III College Women's CC,College,2014,935
+Atlantic Coast Dev College Women's CC,College,2014,936
+Carolina D-I College Women's CC,College,2014,937
+Colonial D-I College Women's CC,College,2014,938
+Virginia D-I College Women's CC,College,2014,939
+Eastern Great Lakes D-I College Women's CC,College,2014,940
+Great Lakes D-III College Women's CC,College,2014,941
+Illinois D-I College Women's CC,College,2014,942
+Eastern Metro East D-I College Women's CC,College,2014,943
+Eastern Metro East D-III College Women's CC,College,2014,944
+Western NY D-I College Women's CC,College,2014,945
+Greater New England D-I College Women's CC,College,2014,946
+Metro Boston D-I College Women's CC,College,2014,947
+Metro Boston D-III College Women's CC,College,2014,948
+New England Dev College Women's CC,College,2014,949
+North New England D-III College Women's CC,College,2014,950
+South New England D-III College Women's CC,College,2014,951
+North Central D-III College Women's CC,College,2014,952
+Western North Central D-I College Women's CC,College,2014,953
+Big Sky D-I College Women's CC,College,2014,954
+Cascadia D-I College Women's CC,College,2014,955
+Northwest D-III College Women's CC,College,2014,956
+Ohio D-I College Women's CC,College,2014,957
+Ohio D-III College Women's CC,College,2014,958
+Pennsylvania D-I College Women's CC,College,2014,959
+Pennsylvania D-III College Women's CC,College,2014,960
+Ozarks D-I College Women's CC,College,2014,961
+Rocky Mountain D-I College Women's CC,College,2014,962
+Texas D-I College Women's CC,College,2014,963
+Florida D-I College Women's CC,College,2014,964
+Gulf Coast D-I College Women's CC,College,2014,965
+Southern Appalachian D-I College Women's CC,College,2014,966
+Desert D-I College Women's CC,College,2014,967
+NorCal D-I College Women's CC,College,2014,968
+SoCal D-I College Women's CC,College,2014,969
+Southwest Dev College Women's CC,College,2014,970
+ACC Ultimate Championships,College,2014,971
+New Year Fest,College,2014,972
+Santa Barbara Invite,College,2014,973
+T-Town Throwdown X,College,2014,974
+Colluvium 2014,College,2014,975
+Big D in Little d,College,2014,976
+DIII Warm Up,College,2014,977
+Emory Invite 2014,College,2014,978
+Queen City Tune Up 2014,College,2014,979
+Stanford Open 2014,College,2014,980
+Warm Up: A Florida Affair,College,2014,981
+Hendrix Ultimate Experience (HUX),College,2014,982
+President's Day Invite,College,2014,983
+Guruvium 2.0,College,2014,984
+Cat Fight,College,2014,985
+DC Area Round Robin,College,2014,986
+Easterns Qualifier,College,2014,987
+Huckin' in the Hills,College,2014,988
+Bring the Huckus V,College,2014,989
+DIII Midwestern Invite,College,2014,990
+Mardi Gras 27,College,2014,991
+Midwest Throwdown,College,2014,992
+Stanford Invite 2014,College,2014,993
+Trouble In Vegas,College,2014,994
+Woodside Invite - Developmental,College,2014,995
+AC Session I,College,2014,996
+Huck Finn,College,2014,997
+Tally Classic IX,College,2014,998
+Boogie Nights,College,2014,999
+Centex Invite,College,2014,1000
+College Terminus 2014,College,2014,1001
+PLU BBQ,College,2014,1002
+Woodside Invite,College,2014,1003
+Easterns and DIII Easterns,College,2014,1004
+Southerns,College,2014,1005
+A-Town Throwdown,College,2014,1006
+Battle for the Beltway,College,2014,1007
+Huck Buddy Invite,College,2014,1008
+Music City Tune-Up,College,2014,1009
+Patriot Games,College,2014,1010
+Provo Open,College,2014,1011
+River City Lights,College,2014,1012
+Spring Awakening,College,2014,1013
+Chicago Invite College,College,2014,1014
+Freaknik,College,2014,1015
+Garden State IV,College,2014,1016
+Heart of Texas Huckfest,College,2014,1017
+Kentucky Classic,College,2014,1018
+New England Open 2014,College,2014,1019
+Old Capital Open,College,2014,1020
+Rocky Mountain Invite,College,2014,1021
+Smellfish Beenanza,College,2014,1022
+Snow Pants/No Pants,College,2014,1023
+Get Skyy'd (Men's),College,2014,1024
+Richmond Tune-Up,College,2014,1025
+Florida Winter Classic Womens,College,2014,1026
+Joint Summit,College,2014,1027
+Big D in Little d (Women's),College,2014,1028
+Tarheel Tune-Up,College,2014,1029
+Presidents' Day Open Classic,College,2014,1030
+Queen City Tune-Up,College,2014,1031
+Presidents' Day Invitational 2014,College,2014,1032
+Ashevillian Invitational 2014,College,2014,1033
+Bonanza (Women's Division),College,2014,1034
+Houston Antifreeze,College,2014,1035
+Moonlight Invite,College,2014,1036
+Pigglyfest B,College,2014,1037
+Jungle Love Remix,College,2014,1038
+Delaware Classic,College,2014,1039
+Music City Mash-Up,College,2014,1040
+MIT Round Robin - Saturday,College,2014,1041
+Virginia is for Layouts,College,2014,1042
+MIT Round Robin - Sunday,College,2014,1043
+UNH Casual Huck,College,2014,1044
+Women's College Centex,College,2014,1045
+NW Challenge,College,2014,1046
+Get Skyy'd,College,2014,1047
+I-85 Rodeo,College,2014,1048
+Boomtown Invite,College,2014,1049
+USA Ultimate D-I College Championships,College,2015,1050
+USA Ultimate D-III College Championships,College,2015,1051
+Atlantic Coast Dev College Men's Regionals,College,2015,1052
+Atlantic Coast D-I College Men's Regionals,College,2015,1053
+Atlantic Coast D-III College Men's Regionals,College,2015,1054
+Great Lakes Dev College Men's Regionals,College,2015,1055
+Great Lakes D-I College Men's Regionals,College,2015,1056
+Great Lakes D-III College Men's Regionals,College,2015,1057
+Metro East D-I College Men's Regionals,College,2015,1058
+Metro East D-III College Men's Regionals,College,2015,1059
+New England Dev College Men's Regionals,College,2015,1060
+New England D-I College Men's Regionals,College,2015,1061
+New England D-III College Men's Regionals,College,2015,1062
+North Central D-I College Men's Regionals,College,2015,1063
+North Central D-III College Men's Regionals,College,2015,1064
+Northwest D-I College Men's Regionals,College,2015,1065
+Ohio Valley D-I College Men's Regionals,College,2015,1066
+Ohio Valley D-III College Men's Regionals,College,2015,1067
+South Central D-I College Men's Regionals,College,2015,1068
+South Central D-III College Men's Regionals,College,2015,1069
+Southeast D-I College Men's Regionals,College,2015,1070
+Southwest D-I College Men's Regionals,College,2015,1071
+Atlantic Coast D-I College Women's Regionals,College,2015,1072
+Great Lakes D-I College Women's Regionals,College,2015,1073
+Metro East D-I College Women's Regionals,College,2015,1074
+Metro East D-III College Women's Regionals,College,2015,1075
+New England D-I College Women's Regionals,College,2015,1076
+New England D-III College Women's Regionals,College,2015,1077
+North Central D-I College Women's Regionals,College,2015,1078
+Northwest D-I College Women's Regionals,College,2015,1079
+Ohio Valley D-I College Women's Regionals,College,2015,1080
+Ohio Valley D-III College Women's Regionals,College,2015,1081
+South Central D-I College Women's Regionals,College,2015,1082
+Southeast D-I College Women's Regionals,College,2015,1083
+Southwest D-I College Women's Regionals,College,2015,1084
+Carolina Dev College Men's CC,College,2015,1085
+Colonial Dev College Men's CC,College,2015,1086
+Virginia Dev College Men's CC,College,2015,1087
+Carolina D-I College Men's CC,College,2015,1088
+Colonial D-I College Men's CC,College,2015,1089
+Virginia D-I College Men's CC,College,2015,1090
+Carolina D-III College Men's CC,College,2015,1091
+Northern Atlantic Coast D-III College Men's CC,College,2015,1092
+Eastern Great Lakes Dev College Men's CC,College,2015,1093
+East Plains D-I College Men's CC,College,2015,1094
+Illinois D-I College Men's CC,College,2015,1095
+Michigan D-I College Men's CC,College,2015,1096
+East Plains D-III College Men's CC,College,2015,1097
+Illinois D-III College Men's CC,College,2015,1098
+Metro East Dev College Men's CC,College,2015,1099
+Hudson Valley D-I College Men's CC,College,2015,1100
+Metro NY D-I College Men's CC,College,2015,1101
+Western NY D-I College Men's CC,College,2015,1102
+Hudson Valley D-III College Men's CC,College,2015,1103
+Metro NY D-III College Men's CC,College,2015,1104
+Western NY D-III College Men's CC,College,2015,1105
+Metro Boston Dev College Men's CC,College,2015,1106
+South New England Dev College Men's CC,College,2015,1107
+Metro Boston D-I College Men's CC,College,2015,1108
+South New England D-I College Men's CC,College,2015,1109
+Metro Boston D-III College Men's CC,College,2015,1110
+North New England D-III College Men's CC,College,2015,1111
+South New England D-III College Men's CC,College,2015,1112
+North Central Dev College Men's CC,College,2015,1113
+Lake Superior D-I College Men's CC,College,2015,1114
+Northwoods D-I College Men's CC,College,2015,1115
+West Plains D-I College Men's CC,College,2015,1116
+Lake Superior D-III College Men's CC,College,2015,1117
+Northwoods D-III College Men's CC,College,2015,1118
+West Plains D-III College Men's CC,College,2015,1119
+Big Sky D-I College Men's CC,College,2015,1120
+Cascadia D-I College Men's CC,College,2015,1121
+Northwest D-III College Men's CC,College,2015,1122
+Ohio Dev College Men's CC,College,2015,1123
+Pennsylvania Dev College Men's CC,College,2015,1124
+East Penn D-I College Men's CC,College,2015,1125
+Ohio D-I College Men's CC,College,2015,1126
+West Penn D-I College Men's CC,College,2015,1127
+East Penn D-III College Men's CC,College,2015,1128
+Ohio D-III College Men's CC,College,2015,1129
+West Penn D-III College Men's CC,College,2015,1130
+North Texas D-I College Men's CC,College,2015,1131
+Ozarks D-I College Men's CC,College,2015,1132
+Rocky Mountain D-I College Men's CC,College,2015,1133
+South Texas D-I College Men's CC,College,2015,1134
+Northern South Central D-III College Men's CC,College,2015,1135
+Texas D-III College Men's CC,College,2015,1136
+Southeast Dev College Men's CC,College,2015,1137
+Florida D-I College Men's CC,College,2015,1138
+Gulf Coast D-I College Men's CC,College,2015,1139
+Southern Appalachian D-I College Men's CC,College,2015,1140
+Southeast D-III College Men's CC,College,2015,1141
+Southwest Dev College Men's CC,College,2015,1142
+Desert D-I College Men's CC,College,2015,1143
+NorCal D-I College Men's CC,College,2015,1144
+SoCal D-I College Men's CC,College,2015,1145
+Southwest D-III College Men's CC,College,2015,1146
+Atlantic Coast Dev College Women's CC,College,2015,1147
+Carolina D-I College Women's CC,College,2015,1148
+Colonial D-I College Women's CC,College,2015,1149
+Virginia D-I College Women's CC,College,2015,1150
+Atlantic Coast D-III College Women's CC,College,2015,1151
+Eastern Great Lakes D-I College Women's CC,College,2015,1152
+Illinois D-I College Women's CC,College,2015,1153
+Great Lakes D-III College Women's CC,College,2015,1154
+Eastern Metro East D-I College Women's CC,College,2015,1155
+Western NY D-I College Women's CC,College,2015,1156
+Eastern Metro East D-III College Women's CC,College,2015,1157
+Western NY D-III College Women's CC,College,2015,1158
+New England Dev College Women's CC,College,2015,1159
+Greater New England D-I College Women's CC,College,2015,1160
+Metro Boston D-I College Women's CC,College,2015,1161
+Metro Boston D-III College Women's CC,College,2015,1162
+North New England D-III College Women's CC,College,2015,1163
+South New England D-III College Women's CC,College,2015,1164
+Lake Superior D-I College Women's CC,College,2015,1165
+Western North Central D-I College Women's CC,College,2015,1166
+North Central D-III College Women's CC,College,2015,1167
+Big Sky D-I College Women's CC,College,2015,1168
+Cascadia D-I College Women's CC,College,2015,1169
+Northwest D-III College Women's CC,College,2015,1170
+Ohio D-I College Women's CC,College,2015,1171
+Pennsylvania D-I College Women's CC,College,2015,1172
+Ohio D-III College Women's CC,College,2015,1173
+Pennsylvania D-III College Women's CC,College,2015,1174
+Ozarks D-I College Women's CC,College,2015,1175
+Rocky Mountain D-I College Women's CC,College,2015,1176
+Texas D-I College Women's CC,College,2015,1177
+South Central D-III College Women's CC,College,2015,1178
+Florida D-I College Women's CC,College,2015,1179
+Gulf Coast D-I College Women's CC,College,2015,1180
+Southern Appalachian D-I College Women's CC,College,2015,1181
+Southwest Dev College Women's CC,College,2015,1182
+Desert D-I College Women's CC,College,2015,1183
+NorCal D-I College Women's CC,College,2015,1184
+SoCal D-I College Women's CC,College,2015,1185
+Santa Barbara Qualifier 2015,College,2015,1186
+Carolina Kickoff 2015,College,2015,1187
+Colluvium 2015 (Men's),College,2015,1188
+Santa Barbara Invite 2015 sponsored by Savage,College,2015,1189
+Joint Summit XXXI,College,2015,1190
+New Year Fest College Division 2015,College,2015,1191
+Queen City Tune Up 2015,College,2015,1192
+Stanford Open 2015,College,2015,1193
+Warm Up: A Florida Affair 2015,College,2015,1194
+Ugly Winter Dome 2015,College,2015,1195
+Crouching Tiger Hidden Panda Developmental 2015,College,2015,1196
+Mardi Gras 28,College,2015,1197
+President's Day Invite 2015,College,2015,1198
+Lovers Quarrel 2015,College,2015,1199
+2015 Big D in Little d (Men's),College,2015,1200
+Bring The Huckus 2015 - Indoors,College,2015,1201
+Chillanova 2015,College,2015,1202
+Easterns Qualifier 2015,College,2015,1203
+Illinois Classic 2015,College,2015,1204
+1st Annual West Point Classic,College,2015,1205
+Booya's Spring Stampede 2015,College,2015,1206
+Bring The Huckus VI,College,2015,1207
+Cat Fight III,College,2015,1208
+DIII Midwestern Invite 2015,College,2015,1209
+Trouble In Vegas 2015,College,2015,1210
+Samford Tournament 2015,College,2015,1211
+Dust Bowl 2015,College,2015,1212
+Garden State Indoor 2015,College,2015,1213
+Huckin' in the Hills II,College,2015,1214
+Midwest Throwdown 2015,College,2015,1215
+San Jose State Ultimate Tournament 2015,College,2015,1216
+Stanford Invite 2015,College,2015,1217
+Atlantic City V,College,2015,1218
+Centex Invite 2015,College,2015,1219
+PLU BBQ 2015,College,2015,1220
+Rip Tide 2015,College,2015,1221
+Tally Classic X,College,2015,1222
+Woodside Invite 2015,College,2015,1223
+DIII Easterns 2015,College,2015,1224
+Pam's Huckfest 2015,College,2015,1225
+Cancellation Station 2015,College,2015,1226
+College Southerns 2015,College,2015,1227
+College Terminus 2015,College,2015,1228
+CWRUL Memorial Tournament 2015,College,2015,1229
+Last Call 6,College,2015,1230
+Provo Open 2015,College,2015,1231
+River City Tune Up V,College,2015,1232
+Smellfish Beenaza 2015,College,2015,1233
+Spring Awakening III,College,2015,1234
+Steakfest 2015,College,2015,1235
+Easterns 2015,College,2015,1236
+2015 Heart of Texas Huckfest,College,2015,1237
+Brockport Annual Spring Fling 2015,College,2015,1238
+Disc-Throw Inferno 2015,College,2015,1239
+Garden State VI,College,2015,1240
+Huck Finn XIX,College,2015,1241
+Invite Plan B 2015,College,2015,1242
+Kokopelli 2015,College,2015,1243
+Milly Sectional Tuneups 2015,College,2015,1244
+Music City Tune Up 2015,College,2015,1245
+New England Open 2015,College,2015,1246
+Old Capital Open 2015,College,2015,1247
+Palouse Invite 2015,College,2015,1248
+The Greatest Crusade 2015,College,2015,1249
+Throwasaurus Sadie Hawkins 2015,College,2015,1250
+Uprising III,College,2015,1251
+Florida Winter Classic 2015,College,2015,1252
+Joint Summit Women's 2015,College,2015,1253
+Winta Binta Vinta Fest 2015,College,2015,1254
+2015 President's Day Qualifier,College,2015,1255
+Colluvium 2015 (Women's),College,2015,1256
+Tar Heel Tune Up 2015,College,2015,1257
+2015 Big D in Little D (Women),College,2015,1258
+Queen City Tune Up 2015 (Women's),College,2015,1259
+Presidents' Day Invitational 2015,College,2015,1260
+T-Town Throwdown 2015 (Women),College,2015,1261
+Commonwealth Cup 2015,College,2015,1262
+Houston Antifreeze 2015,College,2015,1263
+Moonlight Invite 2015,College,2015,1264
+Flickadelphia B 2015,College,2015,1265
+Space Jam 2015,College,2015,1266
+Goucher Women's Round Robin 2015,College,2015,1267
+UNH Casual Huck Under the Stars 2015,College,2015,1268
+Music City Mash-Up 2015,College,2015,1269
+B-ver Fever 2015,College,2015,1270
+HaverRound (Robin) 2015,College,2015,1271
+Women's College Centex 2015,College,2015,1272
+CBB Winter Classic 2015,College,2015,1273
+2015 NW Challenge,College,2015,1274
+I-85 Rodeo 2015,College,2015,1275
+Towsontown Throwdown 2015,College,2015,1276
+D-I College Championships,College,2016,1277
+D-III College Championships,College,2016,1278
+Atlantic Coast D-I College Men's Regionals,College,2016,1279
+Atlantic Coast D-III College Men's Regionals,College,2016,1280
+Atlantic Coast Dev College Men's Regionals,College,2016,1281
+Great Lakes D-I College Men's Regionals,College,2016,1282
+Great Lakes D-III College Men's Regionals,College,2016,1283
+Metro East D-I College Men's Regionals,College,2016,1284
+Metro East D-III College Men's Regionals,College,2016,1285
+New England D-I College Men's Regionals,College,2016,1286
+New England D-III College Men's Regionals,College,2016,1287
+New England Dev College Men's Regionals,College,2016,1288
+North Central D-I College Men's Regionals,College,2016,1289
+North Central D-III College Men's Regionals,College,2016,1290
+Northwest D-I College Men's Regionals,College,2016,1291
+Ohio Valley D-I College Men's Regionals,College,2016,1292
+Ohio Valley D-III College Men's Regionals,College,2016,1293
+South Central D-I College Men's Regionals,College,2016,1294
+South Central D-III College Men's Regionals,College,2016,1295
+Southeast D-I College Men's Regionals,College,2016,1296
+Southeast D-III College Men's Regionals,College,2016,1297
+Southwest D-I College Men's Regionals,College,2016,1298
+Atlantic Coast D-I College Women's Regionals,College,2016,1299
+Great Lakes D-I College Women's Regionals,College,2016,1300
+Metro East D-I College Women's Regionals,College,2016,1301
+Metro East D-III College Women's Regionals,College,2016,1302
+New England D-I College Women's Regionals,College,2016,1303
+New England D-III College Women's Regionals,College,2016,1304
+North Central D-I College Women's Regionals,College,2016,1305
+Northwest D-I College Women's Regionals,College,2016,1306
+Ohio Valley D-I College Women's Regionals,College,2016,1307
+Ohio Valley D-III College Women's Regionals,College,2016,1308
+South Central D-I College Women's Regionals,College,2016,1309
+Southeast D-I College Women's Regionals,College,2016,1310
+Southwest D-I College Women's Regionals,College,2016,1311
+Big Sky D-I College Men's CC,College,2016,1312
+Cascadia D-I College Men's CC,College,2016,1313
+Carolina D-I College Men's CC,College,2016,1314
+Carolina D-III College Men's CC,College,2016,1315
+Carolina Dev College Men's CC,College,2016,1316
+Colonial D-I College Men's CC,College,2016,1317
+Colonial Dev College Men's CC,College,2016,1318
+Desert D-I College Men's CC,College,2016,1319
+East Penn D-I College Men's CC,College,2016,1320
+East Penn D-III College Men's CC,College,2016,1321
+East Plains D-I College Men's CC,College,2016,1322
+East Plains D-III College Men's CC,College,2016,1323
+Eastern Southeast D-III College Men's CC,College,2016,1324
+Florida D-I College Men's CC,College,2016,1325
+Great Lakes Dev College Men's CC,College,2016,1326
+Gulf Coast D-I College Men's CC,College,2016,1327
+Hudson Valley D-1 College Men's CC,College,2016,1328
+Hudson Valley D-III College Men's CC,College,2016,1329
+Illinois D-I College Men's CC,College,2016,1330
+Illinois D-III College Men's CC,College,2016,1331
+Lake Superior D-I College Men's CC,College,2016,1332
+Lake Superior D-III College Men's CC,College,2016,1333
+Metro Boston D-I College Men's CC,College,2016,1334
+Metro Boston D-III College Men's CC,College,2016,1335
+Metro Boston Dev College Men's CC,College,2016,1336
+Metro East Dev College Men's CC,College,2016,1337
+Metro NY D-I College Men's CC,College,2016,1338
+Metro NY D-III College Men's CC,College,2016,1339
+Michigan D-I College Men's CC,College,2016,1340
+North New England D-I College Men's CC,College,2016,1341
+North New England D-III College Men's CC,College,2016,1342
+North New England Dev College Men's CC,College,2016,1343
+Northern Atlantic Coast D-III College Men's CC,College,2016,1344
+Northern South Central D-III College Men's CC,College,2016,1345
+North Texas D-I College Men's CC,College,2016,1346
+Northwest D-III College Men's CC,College,2016,1347
+Northwoods D-I College Men's CC,College,2016,1348
+Northwoods D-III College Men's CC,College,2016,1349
+Ohio D-I College Men's CC,College,2016,1350
+Ohio D-III College Men's CC,College,2016,1351
+Ohio Valley Dev College Men's CC,College,2016,1352
+Ozarks D-I College Men's CC,College,2016,1353
+NorCal D-I College Men's CC,College,2016,1354
+Rocky Mountain D-I College Men's CC,College,2016,1355
+SoCal D-I College Men's CC,College,2016,1356
+Southeast Dev College Men's CC,College,2016,1357
+Southern Appalachian D-I College Men's CC,College,2016,1358
+South New England D-I College Men's CC,College,2016,1359
+South New England D-III College Men's CC,College,2016,1360
+South New England Dev College Men's CC,College,2016,1361
+South Texas D-I College Men's CC,College,2016,1362
+Southwest D-III College Men's CC,College,2016,1363
+Southwest Dev College Men's CC,College,2016,1364
+Texas D-III College Men's CC,College,2016,1365
+Virginia D-I College Men's CC,College,2016,1366
+Virginia Dev College Men's CC,College,2016,1367
+Western NY D-I College Men's CC,College,2016,1368
+Western NY D-III College Men's CC,College,2016,1369
+West Penn D-I College Men's CC,College,2016,1370
+West Penn D-III College Men's CC,College,2016,1371
+West Plains D-I College Men's CC,College,2016,1372
+West Plains D-III College Men's CC,College,2016,1373
+Western Southeast D-III College Men's CC,College,2016,1374
+Atlantic Coast Dev College Women's CC,College,2016,1375
+Atlantic Coast D-III College Women's CC,College,2016,1376
+Big Sky D-I College Women's CC,College,2016,1377
+Carolina D-I College Women's CC,College,2016,1378
+Cascadia D-I College Women's CC,College,2016,1379
+Colonial D-I College Women's CC,College,2016,1380
+Desert D-I College Women's CC,College,2016,1381
+Eastern Great Lakes D-I College Women's CC,College,2016,1382
+Eastern Metro East D-I College Women's CC,College,2016,1383
+Eastern Metro East D-III College Women's CC,College,2016,1384
+Florida D-I College Women's CC,College,2016,1385
+Greater New England D-I College Women's CC,College,2016,1386
+Great Lakes D-III College Women's CC,College,2016,1387
+Gulf Coast D-I College Women's CC,College,2016,1388
+NorCal D-I College Women's CC,College,2016,1389
+Illinois D-I College Women's CC,College,2016,1390
+Lake Superior D-I College Women's CC,College,2016,1391
+Metro Boston D-I College Women's CC,College,2016,1392
+Metro Boston D-III College Women's CC,College,2016,1393
+New England Dev College Women's CC,College,2016,1394
+North Central D-III College Women's CC,College,2016,1395
+North New England D-III College Women's CC,College,2016,1396
+Northwest D-III College Women's CC,College,2016,1397
+Ohio D-I College Women's CC,College,2016,1398
+Ohio D-III College Women's CC,College,2016,1399
+Ozarks D-I College Women's CC,College,2016,1400
+Pennsylvania D-I College Women's CC,College,2016,1401
+Pennsylvania D-III College Women's CC,College,2016,1402
+Rocky Mountain D-I College Women's CC,College,2016,1403
+South Central D-III College Women's CC,College,2016,1404
+South New England D-III College Women's CC,College,2016,1405
+SoCal D-I College Women's CC,College,2016,1406
+Southern Appalachian D-I College Women's CC,College,2016,1407
+Southwest Dev College Women's CC,College,2016,1408
+Texas D-I College Women's CC,College,2016,1409
+Virginia D-I College Women's CC,College,2016,1410
+Western NY D-I College Women's CC,College,2016,1411
+Western NY D-III College Women's CC,College,2016,1412
+Western North Central D-I College Women's CC,College,2016,1413
+Santa Barbara Qualifier 2016,College,2016,1414
+Flat Tail College Open 2016,College,2016,1415
+Santa Barbara Invite 2016 Sponsored by SAVAGE,College,2016,1416
+Bief Summit 2016,College,2016,1417
+T-Town Throwdown XII,College,2016,1418
+Big D in Little d 2016,College,2016,1419
+New Year Fest XXXIV 2016,College,2016,1420
+DIII Warm Up 2016,College,2016,1421
+Mardi Gras 29,College,2016,1422
+Queen City Tune Up 2016,College,2016,1423
+Williamsburg Warmup 2016,College,2016,1424
+Warm up: A Florida Affair 2016,College,2016,1425
+President's Day Tournament 2016,College,2016,1426
+DIII Midwestern Invite 2016,College,2016,1427
+Easterns Qualifier 2016,College,2016,1428
+Jersey Devil (Indoor) 2016,College,2016,1429
+Market Crash 2016,College,2016,1430
+Stanford Open 2016,College,2016,1431
+Dust Bowl 2016,College,2016,1432
+H-Town Throw Down 2016,College,2016,1433
+Huckin' in the Hills 2016,College,2016,1434
+Hundred Acre Wood 2016,College,2016,1435
+Rubber City Rumble 2016,College,2016,1436
+Bring the Huckus 6,College,2016,1437
+AFDC College Terminus 2016,College,2016,1438
+Boise Big Sky Brawl 2016,College,2016,1439
+Chesapeake Classic 2016,College,2016,1440
+DiscThrow Inferno 2k16,College,2016,1441
+Kokopelli 2016,College,2016,1442
+Midwest Throwdown 2016,College,2016,1443
+PLU BBQ 2016,College,2016,1444
+Stanford Invite 2016,College,2016,1445
+Tally Classic XI 2016,College,2016,1446
+2nd Annual West Point Classic 2016,College,2016,1447
+Atlantic City 6,College,2016,1448
+Boogienights 2016,College,2016,1449
+Giraffe Games: 2016,College,2016,1450
+Rip Tide 2016,College,2016,1451
+San Jose State Ultimate Tournament 2016,College,2016,1452
+Windy City Whammy 2016,College,2016,1453
+College Easterns 2016,College,2016,1454
+Bama Secs Beach Party-Grass 2016,College,2016,1455
+Black Penguins Classic 2016,College,2016,1456
+College Southerns XV,College,2016,1457
+Crouching Tiger Hidden Panda 2016,College,2016,1458
+CWRUL Memorial Tournament 2016,College,2016,1459
+Greatest Crusade II,College,2016,1460
+Heart of Texas Huckfest 2016,College,2016,1461
+Last Call 2016,College,2016,1462
+Music City Tune-Up 2016,College,2016,1463
+River City Tune Up 6,College,2016,1464
+Smellfish Beenanza 2016,College,2016,1465
+Trouble in Vegas 2016,College,2016,1466
+22nd Annual Layout Pigout 2016,College,2016,1467
+Northwest Challenge 2016,College,2016,1468
+Gettin' E-Ville 2016,College,2016,1469
+Jersey Devil 5 2016,College,2016,1470
+Joaquin Classic 2016,College,2016,1471
+Palouse Open 2016,College,2016,1472
+Spring Awakening 4 2016,College,2016,1473
+Round Stone 2016,College,2016,1474
+Steel City B-Team Brodown 2016,College,2016,1475
+DIII Easterns 2016,College,2016,1476
+Denver Invite 2016,College,2016,1477
+Garden State 6,College,2016,1478
+Huck Finn XX 2016,College,2016,1479
+Illinois Invitational 5 2016,College,2016,1480
+Indy Invite College 2016,College,2016,1481
+Joint Summit XXXII,College,2016,1482
+Lorton Hears a Huck 2016,College,2016,1483
+New England Open 2016,College,2016,1484
+Old Capitol Open 2016,College,2016,1485
+ONU Spring Tournament 2016,College,2016,1486
+Uprising 4 2016,College,2016,1487
+Florida Winter Classic 2016,College,2016,1488
+President's Day Qualifier 2016,College,2016,1489
+Flat Tail College Women 2016,College,2016,1490
+Antifreeze 2016,College,2016,1491
+Tar Heel Tune Up 2016,College,2016,1492
+Cupid's Revenge VII,College,2016,1493
+Flickadelphia 2016,College,2016,1494
+Big D in Little d (Women) 2016,College,2016,1495
+Leap N' Layout 2016,College,2016,1496
+3rd Annual Moonlight Invite 2016,College,2016,1497
+Space Jam 2016,College,2016,1498
+Cherry Blossom Classic 2016,College,2016,1499
+Get Outta The Kitchen 2016,College,2016,1500
+Joint Summit 2016,College,2016,1501
+Commonwealth Cup 2016,College,2016,1502
+#ElNino 2016,College,2016,1503
+Delaware Classic 2016,College,2016,1504
+Showdown 2016,College,2016,1505
+The Only Ten I see Memorial Tournament 2016,College,2016,1506
+Mash-Up 2016,College,2016,1507
+College Women's Centex 2016,College,2016,1508
+First Sign of Spring Round Robin 2016,College,2016,1509
+JMU Bonanza 2016,College,2016,1510
+PLU Women's BBQ,College,2016,1511
+Carpe Discum 2016,College,2016,1512
+Capital City Shootout 2016,College,2016,1513
+I-85 Rodeo 2016,College,2016,1514
+Towsontown Throwdown 2016,College,2016,1515
+T-Town Throwdown 2016 College Women,College,2016,1516
+D-I College Championships,College,2017,1517
+D-III College Championships,College,2017,1518
+Atlantic Coast D-I College Men's Regionals,College,2017,1519
+Atlantic Coast D-III College Men's Regionals,College,2017,1520
+Atlantic Coast Dev College Men's Regionals,College,2017,1521
+Great Lakes D-I College Men's Regionals,College,2017,1522
+Great Lakes D-III College Men's Regionals,College,2017,1523
+Metro East D-I College Men's Regionals,College,2017,1524
+Metro East D-III College Men's Regionals,College,2017,1525
+New England D-I College Men's Regionals,College,2017,1526
+New England D-III College Men's Regionals,College,2017,1527
+New England Dev College Men's Regionals,College,2017,1528
+North Central D-I College Men's Regionals,College,2017,1529
+North Central D-III College Men's Regionals,College,2017,1530
+Northwest D-I College Men's Regionals,College,2017,1531
+Ohio Valley D-I College Men's Regionals,College,2017,1532
+Ohio Valley D-III College Men's Regionals,College,2017,1533
+South Central D-I College Men's Regionals,College,2017,1534
+South Central D-III College Men's Regionals,College,2017,1535
+Southeast D-I College Men's Regionals,College,2017,1536
+Southeast D-III College Men's Regionals,College,2017,1537
+Southwest D-I College Men's Regionals,College,2017,1538
+Atlantic Coast D-I College Women's Regionals,College,2017,1539
+Great Lakes D-I College Women's Regionals,College,2017,1540
+Metro East D-I College Women's Regionals,College,2017,1541
+Metro East D-III College Women's Regionals,College,2017,1542
+New England D-I College Women's Regionals,College,2017,1543
+New England D-III College Women's Regionals,College,2017,1544
+North Central D-I College Women's Regionals,College,2017,1545
+Northwest D-I College Women's Regionals,College,2017,1546
+Ohio Valley D-I College Women's Regionals,College,2017,1547
+Ohio Valley D-III College Women's Regionals,College,2017,1548
+South Central D-I College Women's Regionals,College,2017,1549
+Southeast D-I College Women's Regionals,College,2017,1550
+Southwest D-I College Women's Regionals,College,2017,1551
+Big Sky D-I College Men's CC,College,2017,1552
+Cascadia D-I College Men's CC,College,2017,1553
+Carolina D-I College Men's CC,College,2017,1554
+Carolina D-III College Men's CC,College,2017,1555
+Carolina Dev College Men's CC,College,2017,1556
+Colonial D-I College Men's CC,College,2017,1557
+Colonial Dev College Men's CC,College,2017,1558
+Desert D-I College Men's CC,College,2017,1559
+East Penn D-I College Men's CC,College,2017,1560
+East Penn D-III College Men's CC,College,2017,1561
+East Plains D-I College Men's CC,College,2017,1562
+East Plains D-III College Men's CC,College,2017,1563
+Eastern Southeast D-III College Men's CC,College,2017,1564
+Florida D-I College Men's CC,College,2017,1565
+Great Lakes Dev College Men's CC,College,2017,1566
+Gulf Coast D-I College Men's CC,College,2017,1567
+Hudson Valley D-I College Men's CC,College,2017,1568
+Hudson Valley D-III College Men's CC,College,2017,1569
+Illinois D-I College Men's CC,College,2017,1570
+Illinois D-III College Men's CC,College,2017,1571
+Lake Superior D-I College Men's CC,College,2017,1572
+Lake Superior D-III College Men's CC,College,2017,1573
+Metro Boston D-I College Men's CC,College,2017,1574
+Metro Boston D-III College Men's CC,College,2017,1575
+Metro Boston Dev College Men's CC,College,2017,1576
+Metro East Dev College Men's CC,College,2017,1577
+Metro NY D-I College Men's CC,College,2017,1578
+Metro NY D-III College Men's CC,College,2017,1579
+Michigan D-I College Men's CC,College,2017,1580
+Michigan D-III College Men's CC,College,2017,1581
+North New England D-I College Men's CC,College,2017,1582
+North New England D-III College Men's CC,College,2017,1583
+Northern Atlantic Coast D-III College Men's CC,College,2017,1584
+Northern South Central D-III College Men's CC,College,2017,1585
+North Texas D-I College Men's CC,College,2017,1586
+Northwest D-III College Men's CC,College,2017,1587
+Northwoods D-I College Men's CC,College,2017,1588
+Northwoods D-III College Men's CC,College,2017,1589
+Ohio D-I College Men's CC,College,2017,1590
+Ohio D-III College Men's CC,College,2017,1591
+Ohio Valley Dev College Men's CC,College,2017,1592
+Ozarks D-I College Men's CC,College,2017,1593
+NorCal D-I College Men's CC,College,2017,1594
+Rocky Mountain D-I College Men's CC,College,2017,1595
+SoCal D-I College Men's CC,College,2017,1596
+Southeast Dev College Men's CC,College,2017,1597
+Southern Appalachian D-I College Men's CC,College,2017,1598
+South New England D-I College Men's CC,College,2017,1599
+South New England D-III College Men's CC,College,2017,1600
+South New England Dev College Men's CC,College,2017,1601
+South Texas D-I College Men's CC,College,2017,1602
+Southwest D-III College Men's CC,College,2017,1603
+Southwest Dev College Men's CC,College,2017,1604
+Texas D-III College Men's CC,College,2017,1605
+Virginia D-I College Men's CC,College,2017,1606
+Virginia Dev College Men's CC,College,2017,1607
+Western NY D-I College Men's CC,College,2017,1608
+Western NY D-III College Men's CC,College,2017,1609
+West Penn D-I College Men's CC,College,2017,1610
+West Penn D-III College Men's CC,College,2017,1611
+West Plains D-I College Men's CC,College,2017,1612
+West Plains D-III College Men's CC,College,2017,1613
+Western Southeast D-III College Men's CC,College,2017,1614
+Atlantic Coast Dev College Women's CC,College,2017,1615
+Atlantic Coast D-III College Women's CC,College,2017,1616
+Big Sky D-I College Women's CC,College,2017,1617
+Carolina D-I College Women's CC,College,2017,1618
+Cascadia D-I College Women's CC,College,2017,1619
+Colonial D-I College Women's CC,College,2017,1620
+Desert D-I College Women's CC,College,2017,1621
+Eastern Great Lakes D-I College Women's CC,College,2017,1622
+Eastern Metro East D-I College Women's CC,College,2017,1623
+Eastern Metro East D-III College Women's CC,College,2017,1624
+Florida D-I College Women's CC,College,2017,1625
+Greater New England D-I College Women's CC,College,2017,1626
+Great Lakes D-III College Women's CC,College,2017,1627
+Gulf Coast D-I College Women's CC,College,2017,1628
+Illinois D-I College Women's CC,College,2017,1629
+Lake Superior D-I College Women's CC,College,2017,1630
+Metro Boston D-I College Women's CC,College,2017,1631
+Metro Boston D-III College Women's CC,College,2017,1632
+New England Dev College Women's CC,College,2017,1633
+NorCal D-I College Women's CC,College,2017,1634
+North Central D-III College Women's CC,College,2017,1635
+North New England D-III College Women's CC,College,2017,1636
+Northwest D-III College Women's CC,College,2017,1637
+Ohio D-I College Women's CC,College,2017,1638
+Ohio D-III College Women's CC,College,2017,1639
+Ozarks D-I College Women's CC,College,2017,1640
+Pennsylvania D-I College Women's CC,College,2017,1641
+Pennsylvania D-III College Women's CC,College,2017,1642
+Rocky Mountain D-I College Women's CC,College,2017,1643
+South Central D-III College Women's CC,College,2017,1644
+South New England D-III College Women's CC,College,2017,1645
+SoCal D-I College Women's CC,College,2017,1646
+Southern Appalachian D-I College Women's CC,College,2017,1647
+Southwest Dev College Women's CC,College,2017,1648
+Texas D-I College Women's CC,College,2017,1649
+Virginia D-I College Women's CC,College,2017,1650
+Western NY D-I College Women's CC,College,2017,1651
+Western NY D-III College Women's CC,College,2017,1652
+Western North Central D-I College Women's CC,College,2017,1653
+Carolina Kickoff 2017,College,2017,1654
+Cola Classic 2017,College,2017,1655
+Flat Tail College Open Men's Division 2017,College,2017,1656
+T-Town Throwdown XIII,College,2017,1657
+Bief Summit 2017,College,2017,1658
+Santa Barbara Invitational 2017 powered by SAVAGE,College,2017,1659
+New Year Fest XXXV,College,2017,1660
+President's Day Qualifier 2017 (Men),College,2017,1661
+Queen City Tune Up 2017,College,2017,1662
+Mid-Atlantic Warmup 2017,College,2017,1663
+Bama Secs Invite 2017,College,2017,1664
+Big D in Little D Open Tournament 2017,College,2017,1665
+2017 Stanford Open powered by SAVAGE,College,2017,1666
+Winter Ugly Dome 2017,College,2017,1667
+Crouching Tiger Hidden Panda Developmental 2017,College,2017,1668
+Warm Up: A Florida Affair 2017,College,2017,1669
+Presidents' Day Tournament 2017,College,2017,1670
+Jersey Devil Indoor 3,College,2017,1671
+Dust Bowl 2017,College,2017,1672
+Eastern's Qualifier 2017,College,2017,1673
+Mardi Gras 30 2017,College,2017,1674
+Music City Tune Up 2017,College,2017,1675
+Huckin' in the Hills 2017,College,2017,1676
+Bryant's Winter Tournament 2017,College,2017,1677
+Market Crash 2017,College,2017,1678
+Bring the Huckus 7,College,2017,1679
+AFDC Men's College Terminus 2017,College,2017,1680
+Air Force Invite 2017,College,2017,1681
+Chesapeake Classic 2017,College,2017,1682
+Boise Big Sky Brawl 2017,College,2017,1683
+Delaware Showdown Spring 2017,College,2017,1684
+DiscThrow Inferno 2k17,College,2017,1685
+Midwest Throwdown 2017,College,2017,1686
+PLU BBQ Open 2017,College,2017,1687
+Safari Games 2017,College,2017,1688
+3rd Annual West Point Classic,College,2017,1689
+2017 Stanford Invite powered by SAVAGE,College,2017,1690
+Atlantic City 7,College,2017,1691
+Centex 2017 (Open),College,2017,1692
+Last Call 8,College,2017,1693
+Palouse Open 2017,College,2017,1694
+Rip Tide 2017,College,2017,1695
+Silicon Valley Rally 2017,College,2017,1696
+Tally Classic XII,College,2017,1697
+DIII Midwestern Invite 2017,College,2017,1698
+Oak Creek Invite 2017,College,2017,1699
+Indy Invite College 2017,College,2017,1700
+Northwest Challenge 2017,College,2017,1701
+Spring Awakening 5,College,2017,1702
+Beenanza 2017,College,2017,1703
+I-85 Rodeo 2017,College,2017,1704
+The Greatest Crusade Part III,College,2017,1705
+Heart of Texas Huckfest 2017,College,2017,1706
+Jersey Devil Spring 6,College,2017,1707
+Meltdown 2017,College,2017,1708
+Steakfest 2017,College,2017,1709
+Trouble in Vegas 2017,College,2017,1710
+Old Capitol Open 2017,College,2017,1711
+Florida Winter Classic 2017,College,2017,1712
+Winta Binta Vinta Fest 2017,College,2017,1713
+Flat Tail College Women's Division 2017,College,2017,1714
+TURF WARS 2017,College,2017,1715
+2017 President's Day Qualifying Tournament (Women),College,2017,1716
+Antifreeze 2017,College,2017,1717
+AFDC Luminous 2017,College,2017,1718
+Big D in Lil d Women's Tournament 2017,College,2017,1719
+Cupid's Revenge 2017,College,2017,1720
+Towsontown Throwdown 2017,College,2017,1721
+Santa Clara Tournament 2017,College,2017,1722
+Joint Summit XXXV,College,2017,1723
+PLU BBQ 2017,College,2017,1724
+Commonwealth Cup 2017,College,2017,1725
+Cherry Blossom Classic 2017,College,2017,1726
+Long Island Classic 2017,College,2017,1727
+Spades Tournament,College,2017,1728
+Messiah Meltdown 2017,College,2017,1729
+Mash-Up 2017,College,2017,1730
+Women's College Centex 2017,College,2017,1731
+Live Free and Sky 2017,College,2017,1732
+West Chester Classic 2017,College,2017,1733
+Xdames 2017,College,2017,1734
+D-I College Championships,College,2018,1735
+D-III College Championships,College,2018,1736
+Atlantic Coast D-I College Men's Regionals,College,2018,1737
+Atlantic Coast D-III College Men's Regionals,College,2018,1738
+Atlantic Coast Dev College Men's Regionals,College,2018,1739
+Great Lakes D-I College Men's Regionals,College,2018,1740
+Great Lakes D-III College Men's Regionals,College,2018,1741
+Metro East D-I College Men's Regionals,College,2018,1742
+Metro East D-III College Men's Regionals,College,2018,1743
+New England D-I College Men's Regionals,College,2018,1744
+New England D-III College Men's Regionals,College,2018,1745
+New England Dev College Men's Regionals,College,2018,1746
+North Central D-I College Men's Regionals,College,2018,1747
+North Central D-III College Men's Regionals,College,2018,1748
+Northwest D-I College Men's Regionals,College,2018,1749
+Ohio Valley D-I College Men's Regionals,College,2018,1750
+Ohio Valley D-III College Men's Regionals,College,2018,1751
+South Central D-I College Men's Regionals,College,2018,1752
+South Central D-III College Men's Regionals,College,2018,1753
+Southeast D-I College Men's Regionals,College,2018,1754
+Southeast D-III College Men's CC,College,2018,1755
+Southwest D-I College Men's Regionals,College,2018,1756
+Atlantic Coast D-I College Women's Regionals,College,2018,1757
+Great Lakes D-I College Women's Regionals,College,2018,1758
+Metro East D-I College Women's Regionals,College,2018,1759
+Metro East D-III College Women's Regionals,College,2018,1760
+New England D-I College Women's Regionals,College,2018,1761
+New England D-III College Women's Regionals,College,2018,1762
+North Central D-I College Women's Regionals,College,2018,1763
+Northwest D-I College Women's Regionals,College,2018,1764
+Ohio Valley D-I College Women's Regionals,College,2018,1765
+Ohio Valley D-III College Women's Regionals,College,2018,1766
+South Central D-I College Women's Regionals,College,2018,1767
+Southeast D-I College Women's Regionals,College,2018,1768
+Southwest D-I College Women's Regionals,College,2018,1769
+Big Sky D-I College Men's CC,College,2018,1770
+Cascadia D-I College Men's CC,College,2018,1771
+Carolina D-I College Men's CC,College,2018,1772
+Carolina D-III College Men's CC,College,2018,1773
+Colonial D-I College Men's CC,College,2018,1774
+Colonial Dev College Men's CC,College,2018,1775
+Desert D-I College Men's CC,College,2018,1776
+East Penn D-I College Men's CC,College,2018,1777
+East Penn D-III College Men's CC,College,2018,1778
+East Plains D-I College Men's CC,College,2018,1779
+East Plains D-III College Men's CC,College,2018,1780
+Florida D-I College Men's CC,College,2018,1781
+Great Lakes Dev College Men's CC,College,2018,1782
+Gulf Coast D-I College Men's CC,College,2018,1783
+Hudson Valley D-I College Men's CC,College,2018,1784
+Hudson Valley D-III College Men's CC,College,2018,1785
+Illinois D-I College Men's CC,College,2018,1786
+Illinois D-III College Men's CC,College,2018,1787
+Lake Superior D-I College Men's CC,College,2018,1788
+Lake Superior D-III College Men's CC,College,2018,1789
+Metro Boston D-I College Men's CC,College,2018,1790
+Metro Boston D-III College Men's CC,College,2018,1791
+Metro Boston Dev College Men's CC,College,2018,1792
+Metro East Dev College Men's CC,College,2018,1793
+Metro NY D-I College Men's CC,College,2018,1794
+Michigan D-I College Men's CC,College,2018,1795
+North New England D-I College Men's CC,College,2018,1796
+North New England D-III College Men's CC,College,2018,1797
+South New England Dev College Men's CC,College,2018,1798
+Northern Atlantic Coast D-III College Men's CC,College,2018,1799
+North Texas D-I College Men's CC,College,2018,1800
+Northwest D-III College Men's CC,College,2018,1801
+Northwoods D-I College Men's CC,College,2018,1802
+Northwoods D-III College Men's CC,College,2018,1803
+Ohio D-I Men's College CC,College,2018,1804
+Ohio D-III Men's College CC,College,2018,1805
+Ohio Valley Dev College Men's CC,College,2018,1806
+Ozarks D-I College Men's CC,College,2018,1807
+Ozarks D-III College Men's CC,College,2018,1808
+NorCal D-I College Men's CC,College,2018,1809
+Rocky Mountain D-I College Men's CC,College,2018,1810
+Rocky Mountain D-III College Men's CC,College,2018,1811
+SoCal D-I College Men's CC,College,2018,1812
+Southeast Dev College Men's CC,College,2018,1813
+Southern Appalachian D-I College Men's CC,College,2018,1814
+Southern Atlantic Coast Dev College Men's CC,College,2018,1815
+South New England D-I College Men's CC,College,2018,1816
+South New England D-III College Men's CC,College,2018,1817
+South Texas D-I College Men's CC,College,2018,1818
+Southwest D-III College Men's CC,College,2018,1819
+Southwest Dev College Men's CC,College,2018,1820
+Texas D-III College Men's CC,College,2018,1821
+Virginia D-I College Men's CC,College,2018,1822
+Western NY D-I College Men's CC,College,2018,1823
+Western NY D-III College Men's CC,College,2018,1824
+West Penn D-I College Men's CC,College,2018,1825
+West Penn D-III College Men's CC,College,2018,1826
+West Plains D-I College Men's CC,College,2018,1827
+West Plains D-III College Men's CC,College,2018,1828
+Atlantic Coast Dev College Women's CC,College,2018,1829
+Atlantic Coast D-III College Women's CC,College,2018,1830
+Big Sky D-I College Women's CC,College,2018,1831
+Carolina D-I College Women's CC,College,2018,1832
+Cascadia D-I College Women's CC,College,2018,1833
+Colonial D-I College Women's CC,College,2018,1834
+Desert D-I College Women's CC,College,2018,1835
+Eastern Great Lakes D-I College Women's CC,College,2018,1836
+Eastern Metro East D-I College Women's CC,College,2018,1837
+Eastern Metro East D-III College Women's CC,College,2018,1838
+Florida D-I College Women's CC,College,2018,1839
+Greater New England D-I College Women's CC,College,2018,1840
+Great Lakes D-III College Women's CC,College,2018,1841
+Gulf Coast D-I College Women's CC,College,2018,1842
+Illinois D-I College Women's CC,College,2018,1843
+Lake Superior D-I College Women's CC,College,2018,1844
+Metro Boston D-I College Women's CC,College,2018,1845
+Metro Boston D-III College Women's CC,College,2018,1846
+New England Dev College Women's CC,College,2018,1847
+NorCal D-I College Women's CC,College,2018,1848
+North Central D-III College Women's CC,College,2018,1849
+North New England D-III College Women's CC,College,2018,1850
+Northwest D-III College Women's CC,College,2018,1851
+Ohio D-I College Women's CC,College,2018,1852
+Ohio D-III College Women's CC,College,2018,1853
+Ozarks D-I College Women's CC,College,2018,1854
+Pennsylvania D-I College Women's CC,College,2018,1855
+Pennsylvania D-III College Women's CC,College,2018,1856
+Rocky Mountain D-I College Women's CC,College,2018,1857
+South Central D-III College Women's CC,College,2018,1858
+Southeast D-III College Women's CC,College,2018,1859
+South New England D-III College Women's CC,College,2018,1860
+SoCal D-I College Women's CC,College,2018,1861
+Southern Appalachian D-I College Women's CC,College,2018,1862
+Southwest Dev College Women's CC,College,2018,1863
+Texas D-I College Women's CC,College,2018,1864
+Virginia D-I College Women's CC,College,2018,1865
+Western NY D-I College Women's CC,College,2018,1866
+Western NY D-III College Women's CC,College,2018,1867
+Western North Central D-I College Women's CC,College,2018,1868
+Carolina Kickoff 2018 (NC Ultimate),College,2018,1869
+Flat Tail Open Tournament 2018,College,2018,1870
+Santa Barbara Invitational 2018,College,2018,1871
+Clutch Classic 2018,College,2018,1872
+Joint Summit XXXIII College Open,College,2018,1873
+New Year Fest 2018,College,2018,1874
+Florida Winter Classic 2018,College,2018,1875
+Flat Tail Women's Tournament 2018,College,2018,1876
+Winta Binta Vinta Fest 2018,College,2018,1877
+Big D in Little d 2018 (Open),College,2018,1878
+Mid-Atlantic Warmup 2018,College,2018,1879
+Presidents' Day Qualifier 2018,College,2018,1880
+Queen City Tune Up 2018 College Open,College,2018,1881
+Stanford Open 2018,College,2018,1882
+Warm Up: A Florida Affair 2018,College,2018,1883
+Chucktown Throwdown XV,College,2018,1884
+Eastern's Qualifier 2018,College,2018,1885
+Ugly Dome 2018,College,2018,1886
+Presidents' Day Invitational Powered by Savage 2018,College,2018,1887
+Atlantic Coast Showcase (ACS) NCSU vs Duke,College,2018,1888
+SoCal Mixer 2018,College,2018,1889
+Oak Creek Challenge 2018,College,2018,1890
+Bring the Huckus 9,College,2018,1891
+Dust Bowl 2018,College,2018,1892
+Solar Showdown 2018,College,2018,1893
+Music City Tune-Up 2018,College,2018,1894
+2018 President's Day Qualifying Tournament,College,2018,1895
+Hucking and Shucking 2018,College,2018,1896
+Black Pearl Invitational 2018,College,2018,1897
+Big D in Lil d 2018 Women,College,2018,1898
+7th Annual Ben's Barmitzvah 2018,College,2018,1899
+Commonwealth Cup 2018,College,2018,1900
+PLU BBQ 2018,College,2018,1901
+Towsontown Throwdown 2018,College,2018,1902
+Air Force Invite 2018,College,2018,1903
+Atlantic City 7 2018,College,2018,1904
+Big Sky Brawl 2018,College,2018,1905
+Cola Classic 2018,College,2018,1906
+DiscThrow Inferno 2K18,College,2018,1907
+Huckin' in the Hills 2018,College,2018,1908
+Midwest Throwdown 2018,College,2018,1909
+18th Annual PLU BBQ Open,College,2018,1910
+4th Annual West Point Classic,College,2018,1911
+Stanford Invite 2018,College,2018,1912
+Boogienights 2018,College,2018,1913
+Men's Centex 2018,College,2018,1914
+Last Call 9,College,2018,1915
+Palouse Open 2018,College,2018,1916
+Pleasurefest 2018,College,2018,1917
+Silicon Valley Rally 2018,College,2018,1918
+Tally Classic XIII,College,2018,1919
+Great Falls Invitational 2018,College,2018,1920
+Atlantic Coast Showcase (ACS) NCSU vs Virginia,College,2018,1921
+D-III Midwestern Invite 2018,College,2018,1922
+B Team Madness 2018,College,2018,1923
+College Southerns 2018,College,2018,1924
+Oak Creek Invite 2018,College,2018,1925
+Rip Tide 2018,College,2018,1926
+Ultimate E-Ville 2018,College,2018,1927
+Atlantic Coast Showcase (ACS) NCSU vs UNC,College,2018,1928
+2018 B-Team Brodown,College,2018,1929
+Atlantic Coast Open 2018,College,2018,1930
+CWRUL Memorial 2018,College,2018,1931
+Get Skyyd 2018,College,2018,1932
+Greatest Crusade IV,College,2018,1933
+Jersey Devil 7,College,2018,1934
+JMU Beenanza 2018,College,2018,1935
+Indy Invite College Men 2018,College,2018,1936
+Magic City Invite 2018,College,2018,1937
+Meltdown 2018,College,2018,1938
+Spring Awakening 2018,College,2018,1939
+Trouble in Vegas 2018,College,2018,1940
+Amish Paradise (Open) 2018,College,2018,1941
+DIII EastUR Powered by SAVAGE,College,2018,1942
+Easterns 2018,College,2018,1943
+Garden State 8,College,2018,1944
+Huck Finn 2018,College,2018,1945
+Illinois Invite 2018,College,2018,1946
+New England Open 2018,College,2018,1947
+Uprising 2018,College,2018,1948
+Cherry B-lossom Classic 2018,College,2018,1949
+T-Town Throwdown 2018,College,2018,1950
+Bates Makeup Tournament 2018,College,2018,1951
+Mash-Up 2018,College,2018,1952
+Siloam Showdown 2018,College,2018,1953
+Spades Tournament II,College,2018,1954
+Capital City Shootout 2018,College,2018,1955
+Bonanza 2018,College,2018,1956
+XDames 2018,College,2018,1957
+Country Roads Classic 2018,College,2018,1958
+Huck Buddy College Women 2018,College,2018,1959
+I-85 Rodeo 2018,College,2018,1960
+Live Free and Sky 2018,College,2018,1961
+Starkville Showdown 2018,College,2018,1962
+Women's Centex 2018,College,2018,1963
+2018 Camino Real,College,2018,1964
+Indy Invite College Women 2018,College,2018,1965
+Vermont Open 2018,College,2018,1966
+UMBC Safari Party 2018,College,2018,1967
+Queen City Tune Up 2018 College Women,College,2018,1968
+T-Town Throwdown XIV (Open),College,2018,1969
+NW Challenge 2018,College,2018,1970
+D-I College Championships,College,2019,1971
+D-III College Championships,College,2019,1972
+Atlantic Coast D-I College Men's Regionals,College,2019,1973
+Atlantic Coast D-III College Men's Regionals,College,2019,1974
+Atlantic Coast Dev College Men's Regionals,College,2019,1975
+Great Lakes D-I College Men's Regionals,College,2019,1976
+Great Lakes D-III College Men's Regionals,College,2019,1977
+Metro East D-I College Men's Regionals,College,2019,1978
+Metro East D-III College Men's Regionals,College,2019,1979
+New England D-I College Men's Regionals,College,2019,1980
+New England D-III College Men's Regionals,College,2019,1981
+New England Dev College Men's Regionals,College,2019,1982
+North Central D-I College Men's Regionals,College,2019,1983
+North Central D-III College Men's Regionals,College,2019,1984
+Northwest D-I College Men's Regionals,College,2019,1985
+Ohio Valley D-I College Men's Regionals,College,2019,1986
+Ohio Valley D-III College Men's Regionals,College,2019,1987
+South Central D-I College Men's Regionals,College,2019,1988
+South Central D-III College Men's Regionals,College,2019,1989
+Southeast D-I College Men's Regionals,College,2019,1990
+Southeast D-III College Men's Regionals,College,2019,1991
+Southwest D-I College Men's Regionals,College,2019,1992
+Atlantic Coast D-I College Women's Regionals,College,2019,1993
+Great Lakes D-I College Women's Regionals,College,2019,1994
+Metro East D-I College Women's Regionals,College,2019,1995
+Metro East D-III College Women's Regionals,College,2019,1996
+New England D-I College Women's Regionals,College,2019,1997
+New England D-III College Women's Regionals,College,2019,1998
+North Central D-I College Women's Regionals,College,2019,1999
+Northwest D-I College Women's Regionals,College,2019,2000
+Ohio Valley D-I College Women's Regionals,College,2019,2001
+Ohio Valley D-III College Women's Regionals,College,2019,2002
+South Central D-I College Women's Regionals,College,2019,2003
+Southeast D-I College Women's Regionals,College,2019,2004
+Southwest D-I College Women's Regionals,College,2019,2005
+Big Sky D-I College Men's CC,College,2019,2006
+Cascadia D-I College Men's CC,College,2019,2007
+Carolina D-I College Men's CC,College,2019,2008
+Carolina D-III College Men's CC,College,2019,2009
+Colonial D-I College Men's CC,College,2019,2010
+Colonial Dev College Men's CC,College,2019,2011
+Desert D-I College Men's CC,College,2019,2012
+East Penn D-I College Men's CC,College,2019,2013
+East Penn D-III College Men's CC,College,2019,2014
+East Plains D-I College Men's CC,College,2019,2015
+East Plains D-III College Men's CC,College,2019,2016
+Eastern Southeast D-III College Men's CC,College,2019,2017
+Florida D-I College Men's CC,College,2019,2018
+Greater New England D-I College Men's CC,College,2019,2019
+Greater New England Dev College Men's CC,College,2019,2020
+Great Lakes Dev College Men's CC,College,2019,2021
+Gulf Coast D-I College Men's CC,College,2019,2022
+Hudson Valley D-I College Men's CC,College,2019,2023
+Hudson Valley D-III College Men's CC,College,2019,2024
+Illinois D-I College Men's CC,College,2019,2025
+Illinois D-III College Men's CC,College,2019,2026
+Lake Superior D-I College Men's CC,College,2019,2027
+Lake Superior D-III College Men's CC,College,2019,2028
+Metro Boston D-I College Men's CC,College,2019,2029
+Metro Boston D-III College Men's CC,College,2019,2030
+Metro Boston Dev College Men's CC,College,2019,2031
+Metro East Dev College Men's CC,College,2019,2032
+Metro NY D-I College Men's CC,College,2019,2033
+Metro NY D-III College Men's CC,College,2019,2034
+Michigan D-I College Men's CC,College,2019,2035
+Norcal D-I College Men's CC,College,2019,2036
+North Central Dev College Men's CC,College,2019,2037
+North New England D-III College Men's CC,College,2019,2038
+Northern Atlantic Coast D-III College Men's CC,College,2019,2039
+North Texas D-I College Men's CC,College,2019,2040
+Northwest D-III College Men's CC,College,2019,2041
+Northwoods D-I College Men's CC,College,2019,2042
+Northwoods D-III College Men's CC,College,2019,2043
+Ohio D-I College Men's CC,College,2019,2044
+Ohio D-III College Men's CC,College,2019,2045
+Ohio Valley Dev College Men's CC,College,2019,2046
+Ozarks D-I College Men's CC,College,2019,2047
+Ozarks D-III College Men's CC,College,2019,2048
+Rocky Mountain D-I College Men's CC,College,2019,2049
+Rocky Mountain D-III College Men's CC,College,2019,2050
+SoCal D-I College Men's CC,College,2019,2051
+Southeast Dev College Men's CC,College,2019,2052
+Southern Appalachian D-I College Men's CC,College,2019,2053
+Southern Atlantic Coast Dev College Men's CC,College,2019,2054
+South New England D-III College Men's CC,College,2019,2055
+South Texas D-I College Men's CC,College,2019,2056
+Southwest D-III College Men's CC,College,2019,2057
+Southwest Dev College Men's CC,College,2019,2058
+Texas D-III College Men's CC,College,2019,2059
+Virginia D-I College Men's CC,College,2019,2060
+Western NY D-I College Men's CC,College,2019,2061
+Western NY D-III College Men's CC,College,2019,2062
+West Penn D-I College Men's CC,College,2019,2063
+West Penn D-III College Men's CC,College,2019,2064
+West Plains D-I College Men's CC,College,2019,2065
+West Plains D-III College Men's CC,College,2019,2066
+Western Southeast D-III College Men's CC,College,2019,2067
+Atlantic Coast Dev College Women's CC,College,2019,2068
+Atlantic Coast D-III College Women's CC,College,2019,2069
+Big Sky D-I College Women's CC,College,2019,2070
+Carolina D-I College Women's CC,College,2019,2071
+Cascadia D-I College Women's CC,College,2019,2072
+Colonial D-I College Women's CC,College,2019,2073
+Desert D-I College Women's CC,College,2019,2074
+Eastern Great Lakes D-I College Women's CC,College,2019,2075
+Eastern Metro East D-I College Women's CC,College,2019,2076
+Eastern Metro East D-III College Women's CC,College,2019,2077
+Florida D-I College Women's CC,College,2019,2078
+Greater New England D-I College Women's CC,College,2019,2079
+Great Lakes D-III College Women's CC,College,2019,2080
+Gulf Coast D-I College Women's CC,College,2019,2081
+Illinois D-I College Women's CC,College,2019,2082
+Lake Superior D-I College Women's CC,College,2019,2083
+Metro Boston D-I College Women's CC,College,2019,2084
+Metro Boston D-III College Women's CC,College,2019,2085
+New England Dev College Women's CC,College,2019,2086
+NorCal D-I College Women's CC,College,2019,2087
+North Central D-III College Women's CC,College,2019,2088
+North New England D-III College Women's CC,College,2019,2089
+Northwest D-III College Women's CC,College,2019,2090
+Ohio D-I College Women's CC,College,2019,2091
+Ohio D-III College Women's CC,College,2019,2092
+Ozarks D-I College Women's CC,College,2019,2093
+Pennsylvania D-I College Women's CC,College,2019,2094
+Pennsylvania D-III College Women's CC,College,2019,2095
+Rocky Mountain D-I College Women's CC,College,2019,2096
+South Central D-III College Women's CC,College,2019,2097
+Southeast D-III College Women's CC,College,2019,2098
+South New England D-III College Women's CC,College,2019,2099
+SoCal D-I College Women's CC,College,2019,2100
+Southern Appalachian D-I College Women's CC,College,2019,2101
+Southwest Dev College Women's CC,College,2019,2102
+Texas D-I College Women's CC,College,2019,2103
+Virginia D-I College Women's CC,College,2019,2104
+Western NY D-I College Women's CC,College,2019,2105
+Western NY D-III College Women's CC,College,2019,2106
+Western North Central D-I College Women's CC,College,2019,2107
+T-Town Throwdown,College,2019,2108
+Carolina Kickoff 2019,College,2019,2109
+Flat Tail Open 2019- Men's,College,2019,2110
+New Year Fest 2019,College,2019,2111
+Santa Barbara Invite 2019,College,2019,2112
+Florida Winter Classic 2019,College,2019,2113
+Clutch Classic 2019,College,2019,2114
+Winta Binta Vinta Fest 2019,College,2019,2115
+Big D in Little d (Open) 2019,College,2019,2116
+Mid-Atlantic Warmup 2019,College,2019,2117
+Royal Crown Classic 2019,College,2019,2118
+Florida Warm Up 2019,College,2019,2119
+Queen City Tune Up 2019 (Men),College,2019,2120
+Stanford Open 2019,College,2019,2121
+Ugly Dome I 2019,College,2019,2122
+Virginia Showcase Series 2019 (2/9/19),College,2019,2123
+Easterns Qualifier 2019,College,2019,2124
+Music City Tune-Up 2019,College,2019,2125
+Presidents' Day Invite 2019,College,2019,2126
+Oak Creek Challenge 2019,College,2019,2127
+Ugly Dome II 2019,College,2019,2128
+Virginia Showcase Series (2/23/19),College,2019,2129
+Dust Bowl 2019,College,2019,2130
+Chucktown Throwdown XVI,College,2019,2131
+Denver Round Robin 2019,College,2019,2132
+Hucking & Shucking 2019,College,2019,2133
+President's Day Qualifiers (Women),College,2019,2134
+Antifreeze 2019,College,2019,2135
+Ultimate Galentine's Celebration 2019,College,2019,2136
+Big D in lil d (Women),College,2019,2137
+First Annual Jillz Jamboree,College,2019,2138
+Luminous 2019,College,2019,2139
+Cherry Blossom Classic 2019,College,2019,2140
+Santa Clara RAGE President's Day Tournament 2019,College,2019,2141
+Commonwealth Cup 2019,College,2019,2142
+2019 PLU Women's BBQ,College,2019,2143
+Mill City Throwdown 2019,College,2019,2144
+Big Sky Brawl 2019,College,2019,2145
+FCS D-III Tune Up 2019,College,2019,2146
+Huckin' in the Hills VI,College,2019,2147
+Mardi Gras XXXII,College,2019,2148
+Midwest Throwdown 2019,College,2019,2149
+19th Annual PLU BBQ Open,College,2019,2150
+First Annual Jaxx Jamboree,College,2019,2151
+5th Annual West Point Classic,College,2019,2152
+G-Dub Fyre Fest 2019,College,2019,2153
+Stanford Invite 2019,College,2019,2154
+Fracas on the Genesee 2019,College,2019,2155
+Atlantic Coast Showcase (3/7/19),College,2019,2156
+2019 SoCal Mixer,College,2019,2157
+Atlantic City 9,College,2019,2158
+Boogienights 2019,College,2019,2159
+DiscThrow Inferno,College,2019,2160
+No Sleep 'Till Brooklyn,College,2019,2161
+D-III Midwestern Invite 2019,College,2019,2162
+Classic City Invite 2019,College,2019,2163
+Last Call 10,College,2019,2164
+Mash-Up 2019,College,2019,2165
+Palouse Open 2019,College,2019,2166
+Air Force Invite 2019,College,2019,2167
+Centex 2019 (Men),College,2019,2168
+Shamrock Showdown 2019,College,2019,2169
+Oak Creek Invite 2019,College,2019,2170
+Tally Classic XIV,College,2019,2171
+LolaPaLweiston,College,2019,2172
+Atlantic Coast Showcase (3/21/19),College,2019,2173
+Virginia Showcase Series (3/23/19),College,2019,2174
+Indy Invite College 2019,College,2019,2175
+Towson Cup 2019,College,2019,2176
+Jersey Devil 8,College,2019,2177
+CWRUL Memorial 2019,College,2019,2178
+Meltdown 2019,College,2019,2179
+Spring Awakening 8,College,2019,2180
+Trouble in Vegas 2019,College,2019,2181
+The Mightiest Huck 2019,College,2019,2182
+Tech Tour 2019,College,2019,2183
+College Southerns XVIII,College,2019,2184
+Hucktastic Spring 2019,College,2019,2185
+2019 NW Challenge - Men's Tier 1,College,2019,2186
+Atlantic Coast Open 2019,College,2019,2187
+Easterns 2019 (Men),College,2019,2188
+Huck Finn XXIII,College,2019,2189
+I-85 Rodeo 2019,College,2019,2190
+Illinois Invite 8,College,2019,2191
+Garden State 9,College,2019,2192
+2019 NW Challenge - Tier 2 & 3,College,2019,2193
+Old Capitol Open 2019,College,2019,2194
+Black Penguins Classic 2019,College,2019,2195
+Millersville Round Robin 2019,College,2019,2196
+Strong Island Invitational 2019,College,2019,2197
+Desert Duel 2019,College,2019,2198
+D3 EASTUR 2019,College,2019,2199
+Tea Cup 2019,College,2019,2200
+Uprising 8,College,2019,2201
+Layout Pigout 2019,College,2019,2202
+2nd Annual 7th Annual Ben's Bar Mitzvah,College,2019,2203
+2019 Claremont Ultimate Classic,College,2019,2204
+Bates First Annual First Big Dance,College,2019,2205
+Steel Spirit,College,2019,2206
+Long Island Classic 2019,College,2019,2207
+Forever Winter 2019,College,2019,2208
+"Delaware ""The Main Event"" 2019",College,2019,2209
+Bonanza 2019,College,2019,2210
+Live Free and Sky 2019,College,2019,2211
+T-town Throwdown (Women),College,2019,2212
+Women's College Centex 2019,College,2019,2213
+NW Challenge - Tier 1 Women's,College,2019,2214
+Towsontown Throwdown 2019,College,2019,2215
+Country Roads Classic,College,2019,2216
+West Chester Ram Jam 2019,College,2019,2217
+Vermont Open 2019,College,2019,2218
+Colby's First Annual Frolic 2019,College,2019,2219
+Tulsa Toss Up 2019,College,2019,2220
+President's Day Qualifiers (Men),College,2019,2221
+Queen City Tune Up 2019 (Women),College,2019,2222
+New Year Fest 2020,College,2020,2223
+Mardi Gras XXXIII,College,2020,2224
+Santa Barbara Invite 2020,College,2020,2225
+Oak Creek Challenge 2020,College,2020,2226
+Carolina Kickoff 2020,College,2020,2227
+Smoky Mountain Invite 2020,College,2020,2228
+Pacific Confrontational Open 2020,College,2020,2229
+Mid-Atlantic Warmup 2020,College,2020,2230
+TTown Throwdown 2020 (Open),College,2020,2231
+Clutch Classic 2020,College,2020,2232
+Cutlass Classic 2020,College,2020,2233
+Stanford Invite 2020,College,2020,2234
+PLU BBQ 2020,College,2020,2235
+Dust Bowl 2020,College,2020,2236
+Easterns Qualifier 2020,College,2020,2237
+Florida Warm Up 2020 - Weekend 1,College,2020,2238
+Florida Warm Up 2020 - Weekend 2,College,2020,2239
+Huckin in the Hills VII,College,2020,2240
+Presidents' Day Invite 2020,College,2020,2241
+Pacific Confrontational Invite 2020,College,2020,2242
+Stanford Open 2020,College,2020,2243
+Chucktown Throwdown XVII,College,2020,2244
+Queen City Tune-Up 2020 (Open),College,2020,2245
+Bring The Huckus 10 2020,College,2020,2246
+Big Sky Brawl 2020,College,2020,2247
+2nd Annual Royal Crown Classic,College,2020,2248
+Chattanooga Classic 2020,College,2020,2249
+2020 Men's President's Day Qualifier,College,2020,2250
+Midwest Throwdown 2020,College,2020,2251
+The Culture 2020,College,2020,2252
+No Sleep Till Brooklyn 2020,College,2020,2253
+Crouching Tiger Hidden Panda 2020,College,2020,2254
+Music City Tune-Up 2020,College,2020,2255
+Villanova 2020 Developmental Invitational,College,2020,2256
+Lorton Hears a Huck,College,2020,2257
+BatCH Bash 2020,College,2020,2258
+Mash-Up 2020,College,2020,2259
+Pomona Sweethearts 2020,College,2020,2260
+Grove's One Day Warmup '20,College,2020,2261
+FCS D-III Tune Up 2020,College,2020,2262
+2nd Annual Claremont Ultimate Classic,College,2020,2263
+Air Force Invite 2020,College,2020,2264
+DiscThrow Inferno March 2020,College,2020,2265
+Florida Winter Classic 2020,College,2020,2266
+Winta Binta Vinta Fest 2020,College,2020,2267
+Commonwealth Cup 2020 Weekend 2,College,2020,2268
+UMBC Safari Party 2020,College,2020,2269
+Queen City Tune Up 2020 (Women),College,2020,2270
+Presidents‚Äô Day Qualifier (Women),College,2020,2271
+Commonwealth Cup 2020 Weekend 1,College,2020,2272
+Are we in love (or just...) 2020,College,2020,2273
+Antifreeze 2020,College,2020,2274
+Big D in lil d 2020 (Women),College,2020,2275
+TowsonTown Throwdown 2020,College,2020,2276
+Santa Clara Rage Home Tournament 2020,College,2020,2277
+Castle Classic 2020,College,2020,2278
+Country Roads Classic 2020,College,2020,2279
+TOTs 2020,College,2020,2280
+3rd Annual 7th Annual Ben's Bar-Mitzvah,College,2020,2281
+Bates Second Annual First Big Dance,College,2020,2282
+Forever Winter 2020,College,2020,2283
+2020 Women's BBQ,College,2020,2284

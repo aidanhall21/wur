@@ -1,0 +1,253 @@
+﻿team_id,team,gender,division,city,state,region,section
+1,Phoenix,Men,Club,"Ottawa, ON",Ontario,Northeast,Upstate NY
+2,El Niño,Men,Club,Oakland Park,FL,Southeast,Florida
+3,DNA,Men,Club,Surrey,BC,Northwest,Washington/BC
+4,SOUF,Men,Club,Seattle,WA,Northwest,Washington/BC
+5,Rumspringa,Men,Club,Virginville,PA,Mid-Atlantic,Founders
+6,Low Point,Men,Club,Salt Lake City,UT,Northwest,Big Sky
+7,Journeymen,Men,Club,Sunnyvale,CA,Southwest,NorCal
+8,The Berkeley Bobcats,Men,Club,Berkeley,CA,Southwest,NorCal
+9,Green Means Bro,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+10,Little Teapots,Men,Club,Santa Cruz,CA,Southwest,NorCal
+11,Flash Flood,Men,Club,Dallas,TX,South Central,Texas
+12,Big Muscle Boys,Men,Club,Storrs,CT,Northeast,Metro NY
+13,Boulder United Flatiron Hammers,Men,Club,Boulder,CO,South Central,Rocky Mountain
+14,Old Ephraim,Men,Club,Logan,UT,Northwest,Big Sky
+15,DINGWOP,Men,Club,Duluth,MN,North Central,Northwest Plains
+16,Rock Steady,Men,Club,Austin,TX,South Central,Texas
+17,Waste Management Squad,Men,Club,Seattle,WA,Northwest,Washington/BC
+18,White Sauce Hot Sauce,Men,Club,KEW GARDENS,NY,Northeast,Metro NY
+19,Medicine Men,Men,Club,Baltimore,MD,Mid-Atlantic,Capital
+20,Not A Sport,Men,Club,Somerset,NJ,Mid-Atlantic,Founders
+21,Kingdome,Men,Club,Seattle,WA,Northwest,Washington/BC
+22,UpRoar Claws,Men,Club,Tampa,FL,Southeast,Florida
+23,Goaltimate All Stars,Men,Club,San Diego,CA,Southwest,So Cal
+24,Miner Magic,Men,Club,Rolla,MO,North Central,West Plains
+25,Arithmetic Ultimate,Men,Club,Mountain View,CA,Southwest,NorCal
+26,Black Knights,Men,Club,West Point,NY,Northeast,Metro NY
+27,Festive Salmon,Men,Club,New York,NY,Northeast,Metro NY
+28,Fargoats,Men,Club,Fargo,ND,North Central,Northwest Plains
+29,Apollo 7,Men,Club,West Chester,PA,Mid-Atlantic,Founders
+30,Nasty Girls,Men,Club,urbana,IL,Great Lakes,Central Plains
+31,desert penguins,Men,Club,San Diego,CA,Southwest,So Cal
+32,Huckleberry,Men,Club,LRFayettenam,AR,South Central,Ozarks
+33,Space Force,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders
+34,HBW United,Men,Club,Arlington,VA,Southeast,East Coast
+35,Fathom II,Men,Club,Newport News,VA,Mid-Atlantic,Capital
+36,Axial Tilt,Men,Club,Bethlehem,PA,Mid-Atlantic,Founders
+37,Stuyvesant Sticky Fingers Alumni,Men,Club,New York,NY,Northeast,Metro NY
+38,Philadelphia Padawans,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+22536,Bash Bros,Men,Club,Cary,NC,Southeast,North Carolina
+22505,Hot Tamales,Men,Club,Bethlehem,PA,Mid-Atlantic,Founders
+22492,Ditto B,Men,Club,Gary,IN,Great Lakes,Central Plains
+22491,Ditto A,Men,Club,Gary,IN,Great Lakes,Central Plains
+22488,Bearproof,Men,Club,Harrisburg,PA,Mid-Atlantic,Founders
+22487,Satellite,Men,Club,Normal,IL,Great Lakes,Central Plains
+22482,Tsunami B,Men,Club,Saint Louis,MO,North Central,
+22475,Fathom,Men,Club,Ft Monroe,VA,Mid-Atlantic,Capital
+22472,Cockfight,Men,Club,Columbia,SC,Southeast,East Coast
+22462,Seattle Blacklist,Men,Club,Seattle,WA,Northwest,Washington/BC
+22453,ScooberDivers,Men,Club,Lake Wales,FL,Southeast,Florida
+22452,Rawhide,Men,Club,Tulsa,OK,South Central,Ozarks
+22448,Madhouse,Men,Club,Halifax,Nova Scotia,Northeast,East New England
+22433,Rampage,Men,Club,Huntsville,AL,Southeast,Gulf Coast
+22430,Minnesota Superior U20B,Men,Club,Twin Cities,MN,North Central,
+22428,Villains,Men,Club,Franklin,TN,Southeast,Gulf Coast
+22426,PoNY,Men,Club,New York,NY,Northeast,Metro NY
+22423,Mango Tree,Men,Club,Ann Arbor,MI,Great Lakes,East Plains
+22422,Midnight Meat Train,Men,Club,Grand Rapids,MI,Great Lakes,East Plains
+22421,Highlight Reel,Men,Club,attleboro,MA,Northeast,East New England
+22417,Haymaker,Men,Club,Chicago,IL,Great Lakes,Central Plains
+22415,BlackER Market Y,Men,Club,Lombard,IL,Great Lakes,Central Plains
+22414,BlackER Market X,Men,Club,Lombard,IL,Great Lakes,Central Plains
+22413,Black Market III,Men,Club,Lombard,IL,Great Lakes,Central Plains
+22412,Black Market II,Men,Club,Lombard,IL,Great Lakes,Central Plains
+22411,Black Market I,Men,Club,Lombard,IL,Great Lakes,Central Plains
+22403,Nain Rouge,Men,Club,Ferndale,MI,Great Lakes,East Plains
+22400,Genny Lite,Men,Club,Rochester,NY,Northeast,Upstate NY
+22393,MomINtuM,Men,Club,Indianapolis,IN,Great Lakes,Central Plains
+22392,Guerrilla,Men,Club,Oakland,CA,Southwest,NorCal
+22391,Revolver,Men,Club,San Francisco,CA,Southwest,NorCal
+22390,Glycerine,Men,Club,Dallas,TX,South Central,Texas
+22389,Brickyard,Men,Club,Indianapolis,IN,Great Lakes,Central Plains
+22388,MKE,Men,Club,Milwaukee,WI,North Central,Northwest Plains
+22387,Carolina Sky,Men,Club,Triangle,NC,,
+22385,NEO,Men,Club,Northeast,OH,Great Lakes,East Plains
+22383,Swamp Horse,Men,Club,Florida,FL,Southeast,Florida
+22375,H.I.P,Men,Club,Texas City,TX,South Central,Texas
+22367,Red Bat,Men,Club,DES MOINES,IA,North Central,West Plains
+22361,Messengers,Men,Club,Austin,TX,South Central,Texas
+22360,Doublewide,Men,Club,Austin,TX,South Central,Texas
+22355,Mad Men,Men,Club,Madison,WI,North Central,Northwest Plains
+22353,Identity Crisis,Men,Club,St Louis,MO,North Central,West Plains
+22346,Gentlemen's Club,Men,Club,Knoxville,TN,Southeast,East Coast
+22345,Harvey Cats,Men,Club,Houston,TX,South Central,Texas
+22341,Oakgrove Boys,Men,Club,ARLINGTON,VA,Mid-Atlantic,Capital
+22339,Gamble,Men,Club,Austin,TX,South Central,Texas
+22336,Gaucho,Men,Club,Austin,TX,South Central,Texas
+22335,Surrilic Audovice,Men,Club,Richardson,TX,South Central,Texas
+22333,Texas Toast,Men,Club,Austin,TX,South Central,Texas
+22319,Chicago Machine,Men,Club,Chicago,IL,Great Lakes,Central Plains
+22312,Rip City,Men,Club,Portland,OR,Northwest,Oregon
+22311,Swans,Men,Club,Saint Paul,MN,North Central,Northwest Plains
+22307,Dark Star,Men,Club,Eugene,OR,Northwest,Oregon
+22306,Red Tide,Men,Club,Portland,ME,Northeast,East New England
+22305,Tyranny,Men,Club,Tampa,FL,Southeast,Florida
+22302,Texas Heatwave,Men,Club,Houston,TX,South Central,Texas
+22301,Vicious Cycle,Men,Club,Gainesville,FL,Southeast,Florida
+22299,Flying Pig,Men,Club,Cincinnati,OH,Great Lakes,East Plains
+22297,Cojones,Men,Club,San Francisco,CA,Southwest,NorCal
+22296,Inception,Men,Club,Denver,CO,South Central,Rocky Mountain
+22295,Flying Piglet,Men,Club,Cincinnati,OH,,
+22293,BUDA U20B,Men,Club,Boston,MA,Northeast,West New England
+22290,Mallard,Men,Club,Minneapolis,MN,North Central,Northwest Plains
+22286,Somerville BAG,Men,Club,Somerville,MA,Northeast,East New England
+22277,Red Hots - u20,Men,Club,Chicago,IL,Great Lakes,Central Plains
+22272,CITYWIDE Special,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+22266,Pittsburgh Temper,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders
+22265,ISO Atmo,Men,Club,Boulder,CO,South Central,Rocky Mountain
+22260,Johnny Bravo,Men,Club,Denver,CO,South Central,Rocky Mountain
+22259,Omen,Men,Club,Cincinnati,OH,Great Lakes,East Plains
+22259,Omen,Men,Club,Orlando,FL,Southeast,Florida
+22255,Sub Zero,Men,Club,Minneapolis,MN,North Central,Northwest Plains
+22252,Patrol,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+22248,Scythe,Men,Club,Omaha,NE,North Central,West Plains
+22246,Louisiana Second Line,Men,Club,Baton Rouge,LA,Southeast,Gulf Coast
+22238,Bullet,Men,Club,Atlanta,GA,Southeast,East Coast
+22237,Kansas City Smokestack,Men,Club,Kansas City,KS,North Central,West Plains
+22235,Red Imp.ala,Men,Club,Ferndale,MI,Great Lakes,East Plains
+22234,Winc City Fog of War,Men,Club,Winchester,VA,Mid-Atlantic,Capital
+22233,DOGGPOUND,Men,Club,Los Angeles,CA,Southwest,So Cal
+22231,War Machine,Men,Club,Birmingham,AL,Southeast,Gulf Coast
+22230,Blackfish,Men,Club,Vancouver,BC,Northwest,Washington/BC
+22229,Hail Mary,Men,Club,Lynchburg,VA,Mid-Atlantic,Capital
+22228,Slag Dump,Men,Club,Pittsburgh,PA,Mid-Atlantic,Founders
+22227,A-Block,Men,Club,Athens,OH,North Central,
+22224,Chimney,Men,Club,Cleveland,OH,Great Lakes,East Plains
+22217,Regiment,Men,Club,St Johns,Newfoundland/Labrador,Northeast,East New England
+22215,Truck Stop,Men,Club,Washington,DC,Mid-Atlantic,Capital
+22212,Komori,Men,Club,Vancouver,British Columbia,Northwest,Washington/BC
+22211,GOAT,Men,Club,Toronto,Ontario,Northeast,Upstate NY
+22205,Rhino Slam!,Men,Club,Portland,OR,Northwest,Oregon
+22204,Bird Patrol,Men,Club,Bloomington,IN,Great Lakes,Central Plains
+22202,Charleston Heat Stroke,Men,Club,Charleston,SC,Southeast,East Coast
+22201,Kentucky Flying Circus,Men,Club,Louisville,KY,Great Lakes,East Plains
+22200,Clutch,Men,Club,Houston,TX,South Central,Texas
+22188,Enigma,Men,Club,Dayton,OH,Great Lakes,East Plains
+22184,Voodoo,Men,Club,Seattle,WA,Northwest,Washington/BC
+22183,Flying Dutchmen,Men,Club,Columbus,OH,Great Lakes,East Plains
+22182,Barefoot,Men,Club,Tupelo,MS,Southeast,Gulf Coast
+22180,Predator,Men,Club,Hattiesburg,MS,Southeast,Gulf Coast
+22169,Freaks,Men,Club,Huntsville,AL,Southeast,Gulf Coast
+22166,Red Circus,Men,Club,Halifax,Nova Scotia,Northeast,East New England
+22163,Choice City Hops,Men,Club,Fort Collins,CO,South Central,Rocky Mountain
+22161,Chain Lightning,Men,Club,Atlanta,GA,Southeast,East Coast
+22158,Sandbaggers,Men,Club,Washington,UT,Northwest,Big Sky
+22155,Overcast,Men,Club,Syracuse,NY,Northeast,Upstate NY
+22145,H.O.G. Ultimate,Men,Club,Macon,GA,Southeast,East Coast
+22122,Watch City,Men,Club,Medford,MA,Northeast,East New England
+22121,Club M - Magma,Men,Club,Montreal,Québec,Northeast,West New England
+22119,Syndicate,Men,Club,Colorado Springs,CO,South Central,Rocky Mountain
+22117,Babe,Men,Club,Centerville,OH,Great Lakes,East Plains
+22116,Rougaroux,Men,Club,New Orleans,LA,Southeast,Gulf Coast
+22107,Adelphos,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+22094,One Night,Men,Club,Mendon,MA,Northeast,East New England
+22089,Shade,Men,Club,New York,NY,Northeast,Metro NY
+22087,Club M - Manic,Men,Club,Montreal,quebec,Northeast,West New England
+22073,Buffalo Open,Men,Club,Buffalo,NY,Northeast,Upstate NY
+22071,Big Wrench,Men,Club,Somerville,MA,Northeast,East New England
+22069,Sky Hook,Men,Club,New York,NY,Northeast,Metro NY
+22068,Helots,Men,Club,Sparta,NJ,Mid-Atlantic,Founders
+22067,JAWN,Men,Club,Philadelphia,PA,Mid-Atlantic,Founders
+22056,Texas United,Men,Club,Dallas,TX,South Central,Texas
+22038,Red Dawn,Men,Club,San Francisco Bay Area,CA,Southwest,
+22037,Tanasi,Men,Club,Tennessee,TN,Southeast,East Coast
+22032,defunCT,Men,Club,Naugatuck,CT,Northeast,Metro NY
+22016,Fusion,Men,Club,Rhinebeck,NY,Northeast,Metro NY
+22012,baNC,Men,Club,Charlotte,NC,Southeast,North Carolina
+22011,Sprout,Men,Club,Amherst,MA,Northeast,West New England
+22007,CLE Smokestack,Men,Club,Cleveland,OH,Great Lakes,East Plains
+22005,Foxtrot,Men,Club,Austin,TX,South Central,Texas
+21986,Alamode,Men,Club,San Antonio,TX,South Central,Texas
+21979,Traffic (M),Men,Club,Troy,AL,Southeast,Gulf Coast
+21970,Hazard,Men,Club,Erie,PA,Mid-Atlantic,Founders
+21920,Ender's Outcasts,Men,Club,Somerville,MA,Northeast,East New England
+21913,Quaze,Men,Club,HOUSTON,TX,South Central,Texas
+21904,Brickhouse,Men,Club,Durham,NC,Southeast,North Carolina
+21891,Dynasty,Men,Club,Cincinnati,OH,Great Lakes,East Plains
+21890,OAT,Men,Club,Livermore,CA,Southwest,NorCal
+21869,Scootlyfe,Men,Club,Tallahassee,FL,Southeast,Florida
+21866,Oregon Eruption!,Men,Club,Portland,OR,Northwest,Oregon
+21848,Riverside,Men,Club,Austin,TX,South Central,Texas
+21844,Sherbrooke Gentlemen's Club,Men,Club,Sherbrooke,QC,Northeast,East New England
+21842,THE BODY,Men,Club,Minneapolis,MN,North Central,Northwest Plains
+21836,Shrike,Men,Club,Ottawa,ON,Northeast,Upstate NY
+21829,UpRoar,Men,Club,Tampa Bay,FL,Southeast,Florida
+21820,Dohrk Stor,Men,Club,Portland,OR,Northwest,Oregon
+21790,Burly,Men,Club,Burlington,VT,Northeast,West New England
+21776,Garden State Ultimate,Men,Club,Princeton,NJ,Mid-Atlantic,Founders
+21767,Town Hall Stars,Men,Club,College Park,MD,Mid-Atlantic,Capital
+21766,Trent's Team,Men,Club,Starkville,MS,Southeast,Gulf Coast
+21765,Colt,Men,Club,Southington,CT,Northeast,Metro NY
+21730,Nitro,Men,Club,Dallas,TX,South Central,Texas
+21721,Lantern,Men,Club,Boston,MA,Northeast,East New England
+21693,Log Jam,Men,Club,Hyde Park,NY,Northeast,Metro NY
+21665,John Doe,Men,Club,Washington,DC,Mid-Atlantic,Capital
+21631,Bomb Squad,Men,Club,Towson,MD,Mid-Atlantic,Capital
+21615,Ironmen,Men,Club,Birmingham,AL,Southeast,Gulf Coast
+21605,Space Coast Ultimate,Men,Club,Melbourne,FL,Southeast,Florida
+21533,Johnny Encore,Men,Club,Denver,CO,South Central,Rocky Mountain
+21525,Milwaukee Revival,Men,Club,Milwaukee,WI,North Central,Northwest Plains
+21514,Battery,Men,Club,San Francisco,CA,Southwest,NorCal
+21512,Daybreak,Men,Club,Denver,CO,South Central,Rocky Mountain
+21476,Supercell,Men,Club,Oklahoma City,OK,South Central,Ozarks
+21469,Space Cowboys,Men,Club,Greenville,SC,Southeast,East Coast
+21448,Magma Bears,Men,Club,ALL OF NEW YORK,NY,Northeast,Metro NY
+21440,CaSTLe,Men,Club,St. Louis,MO,North Central,West Plains
+21425,Spring Break '93,Men,Club,Hartford,CT,Northeast,Metro NY
+21424,Bees,Men,Club,Long Island,NY,Northeast,Metro NY
+21419,Streetgang,Men,Club,San Diego,CA,Southwest,So Cal
+21417,E.V.I.L.,Men,Club,Fort Worth,TX,South Central,Texas
+21410,Blueprint,Men,Club,Brooklyn,NY,Northeast,Metro NY
+21355,Richmond Floodwall,Men,Club,Richmond,VA,Mid-Atlantic,Capital
+21348,Rush Hour ATL,Men,Club,Atlanta,GA,Southeast,East Coast
+21305,Yacht Club,Men,Club,Kansas City,MO,North Central,West Plains
+21208,Green River Swordfish,Men,Club,Davis,CA,Southwest,NorCal
+21176,Timber,Men,Club,Appleton,WI,North Central,Northwest Plains
+21102,Black Lung,Men,Club,Lexington,KY,Great Lakes,East Plains
+21101,Battleship,Men,Club,Mobile,AL,Southeast,Gulf Coast
+21097,Thunder Boys,Men,Club,Portsmouth,NH,Northeast,East New England
+21073,Imperial,Men,Club,Saint Paul,MN,North Central,Northwest Plains
+21039,SoCal Condors,Men,Club,Calico,CA,Southwest,So Cal
+21017,Sundowners,Men,Club,Santa Barbara,CA,Southwest,So Cal
+20992,Yogosbo,Men,Club,Madison,WI,North Central,Northwest Plains
+20948,Dreadnought,Men,Club,Fayetteville,AR,South Central,Ozarks
+20943,Watchdogs,Men,Club,Bethesda,MD,Mid-Atlantic,Capital
+20889,DeMo,Men,Club,Des Moines,IA,North Central,West Plains
+20882,Furious George,Men,Club,Vancouver,BC,Northwest,Washington/BC
+20877,Ghost Train,Men,Club,Seattle,WA,Northwest,Washington/BC
+20875,Johnny Walker,Men,Club,Denver/Boulder,CO,South Central,Rocky Mountain
+20872,Prairie Fire,Men,Club,Kansas City,KS,North Central,West Plains
+20857,PowderHogs,Men,Club,Salt Lake City,UT,Northwest,Big Sky
+20828,Genny The Boys (GTB),Men,Club,New York,NY,Northeast,Metro NY
+20748,Papa Bear,Men,Club,Houston,TX,South Central,Texas
+20726,Ring of Fire,Men,Club,Raleigh,NC,Southeast,North Carolina
+20693,DUPlex,Men,Club,Dallas,TX,South Central,Texas
+20599,Turbine,Men,Club,Durham,NC,Southeast,North Carolina
+20532,Vault,Men,Club,Hampton,VA,Mid-Atlantic,Capital
+20458,Rising Tide U20B,Men,Club,Portland,ME,Northeast,East New England
+20322,OC Crows,Men,Club,Fullerton,CA,Southwest,So Cal
+20259,Foggy Bottom Boys,Men,Club,Washington,DC,Mid-Atlantic,
+20036,Deathsquad,Men,Club,Needham,MA,Northeast,East New England
+19969,General Strike,Men,Club,Winnipeg,Manitoba,North Central,Northwest Plains
+19828,ATLiens,Men,Club,Atlanta,GA,,
+19711,Neap Tide,Men,Club,Portland,ME,Northeast,East New England
+19672,Bulldogs,Men,Club,Flint,MI,,
+19612,Cryptic,Men,Club,Iowa City,IA,North Central,West Plains
+19611,GURU,Men,Club,Spokane,WA,,
+19569,Lost Boys,Men,Club,Columbia,SC,Southeast,East Coast
+19562,DiG,Men,Club,Boston,MA,Northeast,East New England
+19527,The Killjoys,Men,Club,Orem,UT,Northwest,Big Sky
+19236,HouSE,Men,Club,Kenosha,WI,North Central,Northwest Plains
+19226,Sockeye,Men,Club,Seattle,WA,Northwest,Washington/BC
+19214,Sawtooth,Men,Club,Boise,ID,Northwest,Big Sky

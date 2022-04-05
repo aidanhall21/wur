@@ -2,16 +2,16 @@ appnope==0.1.0
 attrs==19.3.0
 backcall==0.2.0
 beautifulsoup4==4.9.1
-bleach==3.3.0
+bleach==3.1.5
 certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.1.0
 click==7.1.2
 colorlover==0.3.0
-cryptography==3.3.2
+cryptography==2.9.2
 cufflinks==0.17.3
-cvxopt==1.2.7
+cvxopt==1.2.0
 cycler==0.10.0
 DateTime==4.3
 decorator==4.4.2
@@ -29,7 +29,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 itsdangerous==1.1.0
 jedi
-Jinja2==2.11.3
+Jinja2==2.11.2
 joblib==0.16.0
 jsonschema==3.2.0
 jupyter==1.0.0
@@ -44,8 +44,8 @@ mistune==0.8.4
 more-itertools==8.4.0
 nbconvert==5.6.1
 nbformat==5.0.7
-notebook==6.4.1
-numpy==1.21.0
+notebook==6.0.3
+numpy==1.18.5
 packaging==20.4
 pandas
 pandas-datareader
@@ -60,7 +60,7 @@ psycopg2==2.8.6
 ptyprocess==0.6.0
 pycosat==0.6.3
 pycparser==2.20
-Pygments==2.7.4
+Pygments==2.6.1
 pyOpenSSL==19.1.0
 pyotp==2.4.0
 pyparsing==2.4.7
@@ -92,7 +92,7 @@ threadpoolctl==2.1.0
 tornado==6.0.4
 tqdm==4.46.0
 traitlets==4.3.3
-urllib3==1.26.5
+urllib3==1.25.8
 wcwidth
 webencodings==0.5.1
 Werkzeug==1.0.1
